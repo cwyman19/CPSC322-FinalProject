@@ -599,4 +599,18 @@ class MyPyTable:
         
 
         return MyPyTable(my_new_header, my_new_table)
+    
+    def remove_column(self, column_index):
+        '''Removes a column of data
+        
+        Args:
+            column_index (int): index of column to be removed
+        '''
+
+        self.column_names.remove(self.column_names.index(column_index))
+
+        for row in range(len(self.data)):
+            self.data[row].remove(self.data[row][column_index])
+
+
 
