@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,CarolinaPanthers,Dallas Cowboys,0,147.0,146.0,16.0,94.0,138.0,8.0,0.905,0,HomeTeam
+2018,2,CarolinaPanthers,Atlanta Falcons,1.0,134.0,232.0,20.0,132.0,205.0,19.5,0.905,0,AwayTeam
+2018,3,CarolinaPanthers,Cincinnati Bengals,0.5,166.0,203.67,23.67,110.0,246.67,20.0,0.905,4,HomeTeam
+2018,5,CarolinaPanthers,New York Giants,0.667,154.0,210.75,26.0,95.0,280.5,22.75,0.905,5,HomeTeam
+2018,6,CarolinaPanthers,Washington Redskins,0.75,139.4,222.4,24.2,102.4,255.6,22.8,0.905,2,AwayTeam
+2018,7,CarolinaPanthers,Philadelphia Eagles,0.6,136.33,227.0,23.67,95.0,260.33,21.83,0.905,3,HomeTeam
+2018,8,CarolinaPanthers,Baltimore Ravens,0.667,138.86,227.71,25.43,95.86,255.14,21.71,0.905,6,HomeTeam
+2018,9,CarolinaPanthers,Tampa Bay Buccaneers,0.714,143.88,227.75,27.5,94.12,250.62,22.5,0.905,8,HomeTeam
+2018,10,CarolinaPanthers,Pittsburgh Steelers,0.75,138.44,218.78,26.78,99.0,258.22,25.78,0.905,6,AwayTeam
+2018,11,CarolinaPanthers,Detroit Lions,0.667,130.2,230.0,26.0,98.5,253.9,25.2,0.905,5,AwayTeam
+2018,12,CarolinaPanthers,Seattle Seahawks,0.6,138.36,232.36,26.09,96.36,260.09,25.64,0.905,4,AwayTeam
+2018,13,CarolinaPanthers,Tampa Bay Buccaneers,0.545,140.83,236.0,25.33,96.25,256.75,25.5,0.905,1,AwayTeam
+2018,14,CarolinaPanthers,Cleveland Browns,0.5,137.38,240.69,24.92,97.77,254.85,25.54,0.905,2,AwayTeam
+2018,15,CarolinaPanthers,New Orleans Saints,0.462,134.57,234.14,23.79,101.86,250.29,24.57,0.905,2,AwayTeam
+2018,16,CarolinaPanthers,Atlanta Falcons,0.429,135.0,238.2,22.87,108.0,249.13,24.53,0.905,0,AwayTeam
+2018,17,CarolinaPanthers,New Orleans Saints,0.4,133.5,239.75,23.5,112.75,240.44,23.88,0.905,1,HomeTeam
+2019,1,CarolinaPanthers,Los Angeles Rams,0,127.0,216.0,27.0,166.0,183.0,30.0,0.781,-2,AwayTeam
+2019,2,CarolinaPanthers,Tampa Bay Buccaneers,0.0,83.0,264.5,20.5,133.0,186.0,25.0,0.781,-3,AwayTeam
+2019,3,CarolinaPanthers,Arizona Cardinals,0.0,113.0,256.33,26.33,129.0,166.33,23.33,0.781,-2,HomeTeam
+2019,4,CarolinaPanthers,Houston Texans,0.333,108.25,243.0,23.75,130.75,156.75,20.0,0.781,-3,HomeTeam
+2019,5,CarolinaPanthers,Jacksonville Jaguars,0.5,143.6,226.4,25.8,134.4,197.0,21.4,0.781,0,HomeTeam
+2019,6,CarolinaPanthers,Tampa Bay Buccaneers,0.6,129.5,223.5,27.67,119.0,225.0,22.17,0.781,6,HomeTeam
+2019,8,CarolinaPanthers,San Francisco 49ers,0.667,129.57,205.86,25.57,135.14,215.14,26.29,0.781,4,AwayTeam
+2019,9,CarolinaPanthers,Tennessee Titans,0.571,132.88,206.88,26.12,133.38,227.0,25.5,0.781,6,HomeTeam
+2019,10,CarolinaPanthers,Green Bay Packers,0.625,131.44,215.11,25.0,136.67,226.78,25.33,0.781,4,AwayTeam
+2019,11,CarolinaPanthers,Atlanta Falcons,0.556,126.0,220.6,22.8,128.4,233.6,25.7,0.781,0,AwayTeam
+2019,12,CarolinaPanthers,New Orleans Saints,0.5,125.55,221.45,23.55,127.45,239.64,26.45,0.781,0,AwayTeam
+2019,13,CarolinaPanthers,Washington Redskins,0.455,120.5,220.75,23.33,137.5,229.17,26.67,0.781,-2,AwayTeam
+2019,14,CarolinaPanthers,Atlanta Falcons,0.417,118.92,222.62,23.08,139.15,234.77,27.69,0.781,-6,AwayTeam
+2019,15,CarolinaPanthers,Seattle Seahawks,0.385,120.79,225.93,23.14,140.21,237.57,27.86,0.781,-8,AwayTeam
+2019,16,CarolinaPanthers,Indianapolis Colts,0.357,118.53,224.13,22.0,145.4,228.8,28.53,0.781,-11,AwayTeam
+2019,17,CarolinaPanthers,New Orleans Saints,0.333,113.69,228.12,21.25,143.5,231.0,29.38,0.781,-14,AwayTeam
+2020,1,CarolinaPanthers,Las Vegas Raiders,0,129.0,259.0,30.0,133.0,239.0,34.0,0.806,0,AwayTeam
+2020,2,CarolinaPanthers,Tampa Bay Buccaneers,0.0,108.0,299.5,23.5,127.5,228.0,32.5,0.806,-2,AwayTeam
+2020,3,CarolinaPanthers,Los Angeles Chargers,0.0,99.0,273.33,22.67,124.0,258.33,27.0,0.806,2,HomeTeam
+2020,4,CarolinaPanthers,Arizona Cardinals,0.333,116.25,274.0,24.75,125.25,227.0,25.5,0.806,2,HomeTeam
+2020,5,CarolinaPanthers,Atlanta Falcons,0.5,117.8,281.8,24.4,133.4,223.0,23.6,0.806,3,HomeTeam
+2020,6,CarolinaPanthers,Chicago Bears,0.6,116.83,266.67,23.0,121.67,218.83,23.5,0.806,1,AwayTeam
+2020,7,CarolinaPanthers,New Orleans Saints,0.5,105.43,263.71,23.14,124.0,227.14,24.0,0.806,2,AwayTeam
+2020,8,CarolinaPanthers,Atlanta Falcons,0.429,110.62,250.38,22.38,124.88,232.5,24.12,0.806,2,AwayTeam
+2020,9,CarolinaPanthers,Kansas City Chiefs,0.375,109.89,259.33,23.33,115.0,246.78,25.11,0.806,3,AwayTeam
+2020,10,CarolinaPanthers,Tampa Bay Buccaneers,0.333,105.4,245.6,23.3,124.5,255.5,27.2,0.806,3,AwayTeam
+2020,11,CarolinaPanthers,Detroit Lions,0.3,106.36,246.73,23.0,116.82,245.45,24.73,0.806,2,HomeTeam
+2020,12,CarolinaPanthers,Minnesota Vikings,0.364,106.42,248.42,23.33,115.08,249.25,25.0,0.806,4,AwayTeam
+2020,14,CarolinaPanthers,Denver Broncos,0.333,107.85,248.15,23.62,113.62,250.77,25.54,0.806,5,AwayTeam
+2020,15,CarolinaPanthers,Green Bay Packers,0.308,108.36,248.21,23.07,119.43,239.71,25.43,0.806,4,AwayTeam
+2020,16,CarolinaPanthers,Washington Football Team,0.286,108.67,242.8,22.87,118.67,242.27,24.6,0.806,6,HomeTeam
+2020,17,CarolinaPanthers,New Orleans Saints,0.333,106.5,243.0,21.88,121.0,239.06,25.12,0.806,1,AwayTeam
+2021,1,CarolinaPanthers,New York Jets,0,111.0,270.0,19.0,45.0,207.0,14.0,0.897,0,HomeTeam
+2021,2,CarolinaPanthers,New Orleans Saints,1.0,100.0,282.0,22.5,46.5,143.5,10.5,0.897,1,HomeTeam
+2021,3,CarolinaPanthers,Houston Texans,1.0,105.67,284.67,23.0,45.0,146.0,10.0,0.897,1,HomeTeam
+2021,4,CarolinaPanthers,Dallas Cowboys,1.0,107.5,280.0,24.25,95.0,156.5,16.5,0.897,-1,AwayTeam
+2021,5,CarolinaPanthers,Philadelphia Eagles,0.75,107.8,255.6,23.0,94.2,161.6,17.4,0.897,-2,AwayTeam
+2021,6,CarolinaPanthers,Minnesota Vikings,0.6,109.5,244.33,23.83,111.5,196.83,20.17,0.897,-4,AwayTeam
+2021,7,CarolinaPanthers,New York Giants,0.5,101.86,226.14,20.86,110.29,197.14,20.86,0.897,-5,AwayTeam
+2021,8,CarolinaPanthers,Atlanta Falcons,0.429,114.5,214.0,20.62,106.75,188.88,19.88,0.897,-4,HomeTeam
+2021,9,CarolinaPanthers,New England Patriots,0.5,110.44,208.22,19.0,111.67,181.44,20.33,0.897,-5,AwayTeam
+2021,10,CarolinaPanthers,Arizona Cardinals,0.444,116.0,204.9,20.5,107.0,173.7,19.3,0.897,-5,HomeTeam
+2021,11,CarolinaPanthers,Washington Football Team,0.5,115.55,203.18,20.55,114.55,174.18,20.0,0.897,-4,AwayTeam
+2021,12,CarolinaPanthers,Miami Dolphins,0.455,111.25,197.42,19.67,114.25,176.67,21.08,0.897,-6,AwayTeam
+2021,14,CarolinaPanthers,Atlanta Falcons,0.417,109.69,200.92,19.77,115.31,177.69,21.69,0.897,-8,AwayTeam
+2021,15,CarolinaPanthers,Buffalo Bills,0.385,112.64,195.43,19.36,115.57,178.79,22.36,0.897,-8,AwayTeam
+2021,16,CarolinaPanthers,Tampa Bay Buccaneers,0.357,109.6,196.13,18.47,118.47,182.33,23.0,0.897,-9,AwayTeam
+2021,17,CarolinaPanthers,New Orleans Saints,0.333,108.25,189.5,17.94,115.62,183.88,22.69,0.897,-11,AwayTeam
+2021,18,CarolinaPanthers,Tampa Bay Buccaneers,0.312,108.35,190.53,17.88,113.82,192.12,23.76,0.897,-13,AwayTeam
+2022,1,CarolinaPanthers,Cleveland Browns,0,54.0,207.0,24.0,217.0,138.0,26.0,0.943,-1,AwayTeam
+2022,2,CarolinaPanthers,New York Giants,0.0,100.0,168.0,20.0,160.0,150.0,22.5,0.943,-3,AwayTeam
+2022,3,CarolinaPanthers,New Orleans Saints,0.0,115.0,161.33,20.67,134.67,214.0,19.67,0.943,0,HomeTeam
+2022,4,CarolinaPanthers,Arizona Cardinals,0.333,96.25,166.0,19.5,134.0,212.0,21.25,0.943,-2,AwayTeam
+2022,5,CarolinaPanthers,San Francisco 49ers,0.25,89.8,181.6,18.6,137.8,218.4,24.4,0.943,-2,AwayTeam
+2022,6,CarolinaPanthers,Los Angeles Rams,0.2,90.33,169.67,17.17,133.33,223.5,24.33,0.943,-2,AwayTeam
+2022,7,CarolinaPanthers,Tampa Bay Buccaneers,0.167,102.14,169.71,17.71,120.86,231.0,21.29,0.943,-2,HomeTeam
+2022,8,CarolinaPanthers,Atlanta Falcons,0.286,110.5,187.12,19.75,126.62,232.0,23.25,0.943,-1,AwayTeam
+2022,9,CarolinaPanthers,Cincinnati Bengals,0.25,105.33,184.56,19.89,139.33,231.0,25.33,0.943,-4,AwayTeam
+2022,10,CarolinaPanthers,Atlanta Falcons,0.222,118.0,176.2,20.4,139.2,223.2,24.3,0.943,-3,HomeTeam
+2022,11,CarolinaPanthers,Baltimore Ravens,0.3,110.55,175.55,18.82,137.0,220.45,23.27,0.943,-5,AwayTeam
+2022,12,CarolinaPanthers,Denver Broncos,0.273,116.75,174.58,19.17,135.67,212.5,22.17,0.943,-4,HomeTeam
+2022,14,CarolinaPanthers,Seattle Seahawks,0.333,124.92,169.23,20.0,128.77,214.69,22.31,0.943,-2,HomeTeam
+2022,15,CarolinaPanthers,Pittsburgh Steelers,0.385,117.5,170.57,19.71,130.71,211.43,22.43,0.943,-2,AwayTeam
+2022,16,CarolinaPanthers,Detroit Lions,0.357,131.0,175.87,20.87,125.0,219.73,22.47,0.943,-1,HomeTeam
+2022,17,CarolinaPanthers,Tampa Bay Buccaneers,0.4,127.44,185.25,21.06,121.38,231.69,22.94,0.943,-3,AwayTeam
+2022,18,CarolinaPanthers,New Orleans Saints,0.375,130.0,176.24,20.41,122.65,227.53,22.0,0.943,-4,HomeTeam
+2023,1,CarolinaPanthers,Atlanta Falcons,0,154.0,127.0,10.0,130.0,91.0,24.0,0.833,-3,AwayTeam
+2023,2,CarolinaPanthers,New Orleans Saints,0.0,127.0,133.0,13.5,132.0,149.0,22.0,0.833,-3,AwayTeam
+2023,3,CarolinaPanthers,Seattle Seahawks,0.0,99.33,200.0,18.0,136.67,192.33,27.0,0.833,-2,AwayTeam
+2023,4,CarolinaPanthers,Minnesota Vikings,0.0,95.25,187.25,16.75,136.25,176.75,25.5,0.833,-1,AwayTeam
+2023,5,CarolinaPanthers,Detroit Lions,0.0,96.0,198.4,18.2,140.8,185.0,28.8,0.833,-4,AwayTeam
+2023,6,CarolinaPanthers,Miami Dolphins,0.0,98.0,196.67,18.67,144.33,197.83,31.0,0.833,-3,AwayTeam
+2023,8,CarolinaPanthers,Houston Texans,0.0,90.29,194.29,18.14,139.43,186.57,28.43,0.833,-2,HomeTeam
+2023,9,CarolinaPanthers,Indianapolis Colts,0.143,96.25,187.12,17.5,131.75,178.25,28.25,0.833,-4,AwayTeam
+2023,10,CarolinaPanthers,Chicago Bears,0.125,90.33,185.22,17.0,131.89,176.44,26.89,0.833,-4,AwayTeam
+2023,11,CarolinaPanthers,Dallas Cowboys,0.111,92.3,174.4,16.3,129.4,179.2,27.5,0.833,-6,AwayTeam
+2023,12,CarolinaPanthers,Tennessee Titans,0.1,92.64,173.27,15.73,124.91,179.64,26.55,0.833,-7,AwayTeam
+2023,13,CarolinaPanthers,Tampa Bay Buccaneers,0.091,96.0,171.25,15.92,125.17,180.83,26.08,0.833,-7,AwayTeam
+2023,14,CarolinaPanthers,New Orleans Saints,0.083,104.31,165.69,15.15,123.0,175.38,26.23,0.833,-8,AwayTeam
+2023,15,CarolinaPanthers,Atlanta Falcons,0.077,106.07,164.86,14.71,117.93,173.71,24.86,0.833,-6,HomeTeam
+2023,16,CarolinaPanthers,Green Bay Packers,0.143,105.4,173.73,15.73,120.87,175.93,25.4,0.833,-6,AwayTeam
+2023,17,CarolinaPanthers,Jacksonville Jaguars,0.133,102.38,167.06,14.75,123.0,175.06,25.44,0.833,-7,AwayTeam
+2023,18,CarolinaPanthers,Tampa Bay Buccaneers,0.125,104.06,161.24,13.88,122.41,171.53,24.47,0.833,-9,AwayTeam
+2024,1,CarolinaPanthers,New Orleans Saints,0,58.0,135.0,10.0,180.0,199.0,47.0,0.941,-2,AwayTeam
+2024,2,CarolinaPanthers,Los Angeles Chargers,0.0,74.0,102.0,6.5,199.5,164.5,36.5,0.941,-1,AwayTeam
+2024,3,CarolinaPanthers,Las Vegas Raiders,0.0,93.0,170.0,16.33,151.33,201.67,31.67,0.941,0,HomeTeam
+2024,4,CarolinaPanthers,Cincinnati Bengals,0.333,108.5,182.5,18.25,148.75,209.25,32.25,0.941,0,AwayTeam
+2024,5,CarolinaPanthers,Chicago Bears,0.25,110.8,180.4,16.6,144.6,226.6,33.0,0.941,-3,AwayTeam
+2024,6,CarolinaPanthers,Atlanta Falcons,0.2,111.33,187.17,17.17,153.5,226.33,33.83,0.941,-4,AwayTeam
+2024,7,CarolinaPanthers,Washington Commanders,0.167,109.0,172.57,15.71,162.14,223.57,34.71,0.941,-6,AwayTeam
+2024,8,CarolinaPanthers,Denver Broncos,0.143,104.0,177.88,15.5,154.62,232.88,33.88,0.941,-6,AwayTeam
+2024,9,CarolinaPanthers,New Orleans Saints,0.125,101.33,176.56,16.33,159.33,232.56,32.56,0.941,-7,HomeTeam
+2024,10,CarolinaPanthers,New York Giants,0.222,110.0,170.7,16.7,160.1,226.8,31.0,0.941,-5,HomeTeam
+2024,12,CarolinaPanthers,Kansas City Chiefs,0.3,107.73,177.82,17.64,160.55,226.73,30.91,0.941,-5,AwayTeam

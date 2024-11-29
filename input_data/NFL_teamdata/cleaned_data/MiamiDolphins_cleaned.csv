@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,MiamiDolphins,Tennessee Titans,0,120.0,222.0,27.0,116.0,220.0,20.0,0.9,1,HomeTeam
+2018,2,MiamiDolphins,New York Jets,1.0,127.5,172.0,23.5,79.0,270.0,16.0,0.9,2,HomeTeam
+2018,3,MiamiDolphins,Oakland Raiders,1.0,98.67,225.33,25.0,89.0,288.33,17.33,0.9,4,HomeTeam
+2018,4,MiamiDolphins,New England Patriots,1.0,88.0,198.0,20.5,110.5,284.75,22.5,0.9,4,AwayTeam
+2018,5,MiamiDolphins,Cincinnati Bengals,0.75,96.0,192.2,19.8,109.0,273.6,23.4,0.9,2,AwayTeam
+2018,6,MiamiDolphins,Chicago Bears,0.6,106.83,223.5,21.67,118.17,278.5,24.17,0.9,2,HomeTeam
+2018,7,MiamiDolphins,Detroit Lions,0.667,106.86,222.29,21.57,136.71,268.57,25.29,0.9,2,AwayTeam
+2018,8,MiamiDolphins,Houston Texans,0.571,108.0,226.25,21.75,143.12,264.88,27.38,0.9,1,AwayTeam
+2018,9,MiamiDolphins,New York Jets,0.5,103.11,212.67,20.78,136.11,257.89,25.0,0.9,5,HomeTeam
+2018,10,MiamiDolphins,Green Bay Packers,0.556,105.9,207.7,19.9,142.0,250.3,25.6,0.9,4,AwayTeam
+2018,12,MiamiDolphins,Indianapolis Colts,0.5,106.55,207.09,20.27,139.82,258.18,25.73,0.9,6,AwayTeam
+2018,13,MiamiDolphins,Buffalo Bills,0.455,102.67,199.42,20.33,144.67,254.75,25.0,0.9,8,HomeTeam
+2018,14,MiamiDolphins,New England Patriots,0.5,109.31,201.23,21.38,139.46,261.62,25.62,0.9,8,HomeTeam
+2018,15,MiamiDolphins,Minnesota Vikings,0.538,112.64,189.5,21.07,145.21,257.07,26.71,0.9,9,AwayTeam
+2018,16,MiamiDolphins,Jacksonville Jaguars,0.5,109.27,184.93,20.13,143.93,247.8,26.07,0.9,8,AwayTeam
+2018,17,MiamiDolphins,Buffalo Bills,0.467,108.62,181.25,19.94,145.31,245.75,27.06,0.9,5,AwayTeam
+2019,1,MiamiDolphins,Baltimore Ravens,0,21.0,179.0,10.0,265.0,378.0,59.0,0.767,-3,AwayTeam
+2019,2,MiamiDolphins,New England Patriots,0.0,31.5,160.5,5.0,194.5,316.5,51.0,0.767,-6,AwayTeam
+2019,3,MiamiDolphins,Dallas Cowboys,0.0,45.0,177.33,5.33,208.0,291.33,44.33,0.767,-6,AwayTeam
+2019,4,MiamiDolphins,Los Angeles Chargers,0.0,51.75,173.25,6.5,175.75,296.25,40.75,0.767,-7,AwayTeam
+2019,6,MiamiDolphins,Washington Redskins,0.0,58.2,176.0,8.4,169.6,270.2,36.0,0.767,-9,AwayTeam
+2019,7,MiamiDolphins,Buffalo Bills,0.0,66.67,192.0,10.5,160.83,256.5,35.17,0.767,-11,AwayTeam
+2019,8,MiamiDolphins,Pittsburgh Steelers,0.0,65.71,188.86,11.0,160.43,253.57,34.0,0.767,-14,AwayTeam
+2019,9,MiamiDolphins,New York Jets,0.0,63.75,198.5,12.88,150.75,251.62,32.0,0.767,-13,HomeTeam
+2019,10,MiamiDolphins,Indianapolis Colts,0.125,64.44,194.11,13.22,146.11,244.89,29.78,0.767,-12,HomeTeam
+2019,11,MiamiDolphins,Buffalo Bills,0.222,60.3,202.7,13.9,148.3,246.0,30.5,0.767,-13,AwayTeam
+2019,12,MiamiDolphins,Cleveland Browns,0.2,63.18,201.73,14.82,148.18,252.73,31.45,0.767,-14,AwayTeam
+2019,13,MiamiDolphins,Philadelphia Eagles,0.182,62.75,214.17,16.67,143.5,256.17,31.42,0.767,-14,HomeTeam
+2019,14,MiamiDolphins,New York Jets,0.25,67.31,216.15,17.0,141.08,256.62,30.69,0.767,-14,AwayTeam
+2019,15,MiamiDolphins,New York Giants,0.231,71.21,219.43,17.21,140.86,257.86,31.07,0.767,-12,AwayTeam
+2019,16,MiamiDolphins,Cincinnati Bengals,0.214,72.87,231.87,18.6,135.4,265.4,31.33,0.767,-12,HomeTeam
+2019,17,MiamiDolphins,New England Patriots,0.267,72.25,237.75,19.12,135.38,262.38,30.88,0.767,-10,HomeTeam
+2020,1,MiamiDolphins,New England Patriots,0,87.0,182.0,11.0,217.0,140.0,21.0,0.923,-2,AwayTeam
+2020,2,MiamiDolphins,Buffalo Bills,0.0,93.0,246.5,19.5,164.5,275.5,26.0,0.923,-1,AwayTeam
+2020,3,MiamiDolphins,Jacksonville Jaguars,0.0,108.0,216.33,23.33,133.67,265.67,21.67,0.923,1,HomeTeam
+2020,4,MiamiDolphins,Seattle Seahawks,0.333,106.75,240.25,23.25,124.75,285.0,24.0,0.923,0,AwayTeam
+2020,5,MiamiDolphins,San Francisco 49ers,0.25,104.2,260.6,27.2,126.0,253.6,22.6,0.923,3,HomeTeam
+2020,6,MiamiDolphins,New York Jets,0.4,105.17,249.17,26.67,124.17,236.0,18.83,0.923,2,HomeTeam
+2020,8,MiamiDolphins,Los Angeles Rams,0.5,98.0,226.43,26.86,125.14,250.86,18.57,0.923,4,HomeTeam
+2020,9,MiamiDolphins,Arizona Cardinals,0.571,97.12,225.75,27.75,131.75,252.5,20.12,0.923,5,HomeTeam
+2020,10,MiamiDolphins,Los Angeles Chargers,0.625,98.67,219.44,27.89,128.11,243.78,20.22,0.923,5,HomeTeam
+2020,11,MiamiDolphins,Denver Broncos,0.667,94.4,214.2,26.4,134.2,246.4,20.2,0.923,6,AwayTeam
+2020,12,MiamiDolphins,New York Jets,0.6,95.27,216.64,25.82,129.91,239.73,18.64,0.923,6,HomeTeam
+2020,13,MiamiDolphins,Cincinnati Bengals,0.636,96.5,223.25,25.25,122.42,232.75,17.67,0.923,7,HomeTeam
+2020,14,MiamiDolphins,Kansas City Chiefs,0.667,95.23,228.15,25.38,120.23,242.08,18.85,0.923,10,AwayTeam
+2020,15,MiamiDolphins,New England Patriots,0.615,106.29,221.36,25.14,120.0,238.07,18.36,0.923,10,HomeTeam
+2020,16,MiamiDolphins,Las Vegas Raiders,0.643,107.87,223.47,25.2,118.93,243.13,18.8,0.923,11,HomeTeam
+2020,17,MiamiDolphins,Buffalo Bills,0.667,105.5,233.5,25.25,116.38,251.5,21.12,0.923,9,AwayTeam
+2021,1,MiamiDolphins,New England Patriots,0,74.0,185.0,17.0,125.0,268.0,16.0,0.742,1,HomeTeam
+2021,2,MiamiDolphins,Buffalo Bills,1.0,72.5,165.0,8.5,134.0,219.5,25.5,0.742,0,AwayTeam
+2021,3,MiamiDolphins,Las Vegas Raiders,0.5,92.67,175.67,15.0,136.0,265.33,27.33,0.742,1,AwayTeam
+2021,4,MiamiDolphins,Indianapolis Colts,0.333,78.25,173.75,15.5,136.75,251.5,27.25,0.742,0,AwayTeam
+2021,5,MiamiDolphins,Tampa Bay Buccaneers,0.25,70.4,191.4,15.8,133.6,288.6,30.8,0.742,-2,AwayTeam
+2021,6,MiamiDolphins,Jacksonville Jaguars,0.2,71.5,218.5,16.5,125.33,292.5,29.5,0.742,-2,AwayTeam
+2021,7,MiamiDolphins,Atlanta Falcons,0.167,80.14,227.43,18.14,117.71,297.14,29.57,0.742,-2,AwayTeam
+2021,8,MiamiDolphins,Buffalo Bills,0.143,78.62,223.25,17.25,115.75,291.12,29.12,0.742,-4,AwayTeam
+2021,9,MiamiDolphins,Houston Texans,0.125,75.11,222.33,17.22,111.0,280.89,26.89,0.742,-5,HomeTeam
+2021,10,MiamiDolphins,Baltimore Ravens,0.222,73.6,229.1,17.7,109.3,273.8,25.2,0.742,-3,HomeTeam
+2021,11,MiamiDolphins,New York Jets,0.3,77.36,233.09,18.27,108.64,274.18,24.45,0.742,-3,HomeTeam
+2021,12,MiamiDolphins,Carolina Panthers,0.364,80.17,230.67,19.5,104.92,262.5,23.25,0.742,-1,HomeTeam
+2021,13,MiamiDolphins,New York Giants,0.417,79.23,230.54,19.54,103.85,254.54,22.15,0.742,0,HomeTeam
+2021,15,MiamiDolphins,New York Jets,0.462,86.64,228.07,20.36,103.71,245.36,22.29,0.742,-2,HomeTeam
+2021,16,MiamiDolphins,New Orleans Saints,0.5,86.6,224.4,20.33,102.33,234.4,21.0,0.742,-1,HomeTeam
+2021,17,MiamiDolphins,Tennessee Titans,0.533,85.81,221.75,19.25,108.31,226.62,21.81,0.742,-3,AwayTeam
+2021,18,MiamiDolphins,New England Patriots,0.5,92.24,214.76,20.06,109.82,227.71,21.94,0.742,0,HomeTeam
+2022,1,MiamiDolphins,New England Patriots,0,65.0,242.0,20.0,78.0,193.0,7.0,0.813,3,HomeTeam
+2022,2,MiamiDolphins,Baltimore Ravens,1.0,75.5,351.5,31.0,116.5,255.5,22.5,0.813,1,HomeTeam
+2022,3,MiamiDolphins,Buffalo Bills,1.0,64.0,291.33,27.67,116.0,297.67,21.33,0.813,2,HomeTeam
+2022,4,MiamiDolphins,Cincinnati Bengals,1.0,69.25,291.75,24.5,103.75,299.25,22.75,0.813,0,AwayTeam
+2022,5,MiamiDolphins,New York Jets,0.75,82.8,265.0,23.0,110.0,276.8,26.2,0.813,-2,AwayTeam
+2022,6,MiamiDolphins,Minnesota Vikings,0.6,81.17,285.0,21.83,104.67,256.67,25.83,0.813,-5,AwayTeam
+2022,7,MiamiDolphins,Pittsburgh Steelers,0.5,85.43,281.57,21.0,103.29,255.14,23.57,0.813,-2,HomeTeam
+2022,8,MiamiDolphins,Detroit Lions,0.571,88.12,292.5,22.25,100.62,262.12,24.0,0.813,-3,HomeTeam
+2022,9,MiamiDolphins,Chicago Bears,0.625,86.89,293.56,23.67,117.44,245.89,24.89,0.813,-3,HomeTeam
+2022,10,MiamiDolphins,Cleveland Browns,0.667,97.7,293.8,25.2,116.9,239.8,24.1,0.813,-2,HomeTeam
+2022,12,MiamiDolphins,Houston Texans,0.7,94.82,291.91,25.64,109.55,233.82,23.27,0.813,0,HomeTeam
+2022,13,MiamiDolphins,San Francisco 49ers,0.727,89.67,290.5,24.92,110.5,233.5,24.08,0.813,-3,AwayTeam
+2022,14,MiamiDolphins,Los Angeles Chargers,0.667,89.85,277.92,24.31,108.31,242.46,24.0,0.813,-3,AwayTeam
+2022,15,MiamiDolphins,Buffalo Bills,0.615,96.86,273.57,24.64,111.29,246.29,24.57,0.813,-2,AwayTeam
+2022,16,MiamiDolphins,Green Bay Packers,0.571,95.87,274.93,24.33,109.13,244.67,24.67,0.813,-5,AwayTeam
+2022,17,MiamiDolphins,New England Patriots,0.533,95.25,273.19,24.12,107.06,240.19,24.56,0.813,-7,AwayTeam
+2022,18,MiamiDolphins,New York Jets,0.5,99.18,265.35,23.35,103.0,234.82,23.47,0.813,-7,HomeTeam
+2023,1,MiamiDolphins,Los Angeles Chargers,0,70.0,466.0,36.0,233.0,200.0,34.0,0.857,-2,HomeTeam
+2023,2,MiamiDolphins,New England Patriots,1.0,107.5,355.0,30.0,160.5,200.0,25.5,0.857,-1,HomeTeam
+2023,3,MiamiDolphins,Denver Broncos,1.0,188.33,362.0,43.33,130.0,231.33,23.67,0.857,2,HomeTeam
+2023,4,MiamiDolphins,Buffalo Bills,1.0,176.75,334.25,37.5,123.5,251.0,29.75,0.857,0,AwayTeam
+2023,5,MiamiDolphins,New York Giants,0.75,185.8,327.8,36.2,115.8,237.4,27.0,0.857,-3,HomeTeam
+2023,6,MiamiDolphins,Carolina Panthers,0.8,181.83,316.83,37.17,114.5,229.17,26.0,0.857,-4,HomeTeam
+2023,7,MiamiDolphins,Philadelphia Eagles,0.833,162.29,300.0,34.29,112.29,233.0,26.71,0.857,-3,AwayTeam
+2023,8,MiamiDolphins,New England Patriots,0.714,151.75,301.5,33.88,107.88,221.5,25.5,0.857,-4,HomeTeam
+2023,9,MiamiDolphins,Kansas City Chiefs,0.75,147.89,287.44,31.67,106.22,216.22,25.0,0.857,-4,AwayTeam
+2023,11,MiamiDolphins,Las Vegas Raiders,0.667,143.0,291.0,30.5,99.2,220.6,23.8,0.857,-4,HomeTeam
+2023,12,MiamiDolphins,New York Jets,0.7,145.18,285.27,30.82,92.82,212.36,22.82,0.857,-5,HomeTeam
+2023,13,MiamiDolphins,Washington Commanders,0.727,143.33,285.08,32.0,96.58,203.58,22.17,0.857,-4,HomeTeam
+2023,14,MiamiDolphins,Tennessee Titans,0.75,144.46,279.15,31.62,95.54,212.54,22.62,0.857,-2,AwayTeam
+2023,15,MiamiDolphins,New York Jets,0.692,139.64,274.43,31.5,90.36,203.07,21.0,0.857,2,HomeTeam
+2023,16,MiamiDolphins,Dallas Cowboys,0.714,136.4,275.07,30.87,90.8,205.67,20.93,0.857,3,HomeTeam
+2023,17,MiamiDolphins,Baltimore Ravens,0.733,137.5,271.69,30.12,95.12,213.5,23.12,0.857,1,AwayTeam
+2023,18,MiamiDolphins,Buffalo Bills,0.688,135.76,265.53,29.18,97.06,221.24,23.0,0.857,2,AwayTeam
+2024,1,MiamiDolphins,Jacksonville Jaguars,0,81.0,319.0,20.0,128.0,139.0,17.0,0.84,1,HomeTeam
+2024,2,MiamiDolphins,Buffalo Bills,1.0,110.0,265.5,15.0,118.0,139.0,24.0,0.84,-2,AwayTeam
+2024,3,MiamiDolphins,Seattle Seahawks,0.5,95.0,223.67,11.0,112.0,182.67,24.0,0.84,0,AwayTeam
+2024,4,MiamiDolphins,Tennessee Titans,0.333,97.75,187.25,11.25,119.5,162.5,25.75,0.84,0,AwayTeam
+2024,5,MiamiDolphins,New England Patriots,0.25,116.8,185.6,12.0,125.8,159.6,22.6,0.84,-2,HomeTeam
+2024,7,MiamiDolphins,Indianapolis Colts,0.4,128.67,179.5,11.67,130.67,154.5,21.5,0.84,-3,AwayTeam
+2024,8,MiamiDolphins,Arizona Cardinals,0.333,131.71,186.29,13.86,123.71,176.29,22.43,0.84,-3,AwayTeam
+2024,9,MiamiDolphins,Buffalo Bills,0.286,133.88,191.0,15.5,120.0,183.12,23.38,0.84,-3,AwayTeam
+2024,10,MiamiDolphins,Los Angeles Rams,0.25,126.44,188.78,16.33,114.44,191.33,22.44,0.84,-3,HomeTeam
+2024,11,MiamiDolphins,Las Vegas Raiders,0.333,122.0,197.0,18.1,109.0,199.0,22.1,0.84,-2,HomeTeam
+2024,12,MiamiDolphins,New England Patriots,0.4,116.82,207.09,19.55,106.91,197.55,21.45,0.84,-1,HomeTeam

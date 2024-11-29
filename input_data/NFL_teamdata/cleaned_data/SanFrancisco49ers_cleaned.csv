@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,SanFrancisco49ers,Minnesota Vikings,0,90.0,237.0,16.0,116.0,227.0,24.0,0.971,-3,AwayTeam
+2018,2,SanFrancisco49ers,Detroit Lions,0.0,140.0,196.5,23.0,107.0,278.0,25.5,0.971,-2,HomeTeam
+2018,3,SanFrancisco49ers,Kansas City Chiefs,0.5,152.67,207.0,24.33,97.0,287.67,29.67,0.971,-2,AwayTeam
+2018,4,SanFrancisco49ers,Los Angeles Chargers,0.333,133.5,227.25,25.0,104.25,276.25,29.5,0.971,-3,AwayTeam
+2018,5,SanFrancisco49ers,Arizona Cardinals,0.25,136.2,241.8,23.6,94.6,253.8,29.2,0.971,-8,AwayTeam
+2018,6,SanFrancisco49ers,Green Bay Packers,0.2,142.5,239.33,24.67,98.17,279.0,29.83,0.971,-11,AwayTeam
+2018,7,SanFrancisco49ers,Los Angeles Rams,0.167,137.43,222.43,22.57,105.0,266.71,31.14,0.971,-15,AwayTeam
+2018,8,SanFrancisco49ers,Arizona Cardinals,0.143,133.62,214.62,21.62,102.88,262.5,29.5,0.971,-13,AwayTeam
+2018,9,SanFrancisco49ers,Oakland Raiders,0.125,134.67,219.89,23.0,102.78,248.89,26.56,0.971,-13,HomeTeam
+2018,10,SanFrancisco49ers,New York Giants,0.222,133.6,222.9,23.0,102.2,242.0,26.6,0.971,-15,AwayTeam
+2018,12,SanFrancisco49ers,Tampa Bay Buccaneers,0.2,134.91,220.27,21.73,102.73,247.64,26.64,0.971,-17,AwayTeam
+2018,13,SanFrancisco49ers,Seattle Seahawks,0.182,129.17,234.08,21.25,108.17,240.58,28.0,0.971,-20,AwayTeam
+2018,14,SanFrancisco49ers,Denver Broncos,0.167,125.69,239.54,21.15,107.77,235.23,26.92,0.971,-21,HomeTeam
+2018,15,SanFrancisco49ers,Seattle Seahawks,0.231,123.43,240.79,21.5,112.07,233.93,26.64,0.971,-22,HomeTeam
+2018,16,SanFrancisco49ers,Chicago Bears,0.286,118.33,240.2,20.67,110.6,234.0,25.8,0.971,-21,AwayTeam
+2018,17,SanFrancisco49ers,Los Angeles Rams,0.267,118.88,241.69,21.38,113.38,233.25,27.19,0.971,-25,AwayTeam
+2019,1,SanFrancisco49ers,Tampa Bay Buccaneers,0,98.0,158.0,31.0,121.0,174.0,17.0,0.769,2,HomeTeam
+2019,2,SanFrancisco49ers,Cincinnati Bengals,1.0,178.5,235.0,36.0,73.0,232.5,17.0,0.769,2,HomeTeam
+2019,3,SanFrancisco49ers,Pittsburgh Steelers,1.0,175.0,246.0,32.0,75.0,208.33,18.0,0.769,-1,HomeTeam
+2019,5,SanFrancisco49ers,Cleveland Browns,1.0,200.0,227.25,31.75,81.75,175.75,14.25,0.769,3,HomeTeam
+2019,6,SanFrancisco49ers,Los Angeles Rams,1.0,179.8,228.2,29.4,87.2,150.2,12.8,0.769,2,HomeTeam
+2019,7,SanFrancisco49ers,Washington Redskins,1.0,172.67,214.5,26.0,90.0,133.5,10.67,0.769,2,HomeTeam
+2019,8,SanFrancisco49ers,Carolina Panthers,1.0,181.14,206.14,29.57,95.71,128.71,11.0,0.769,4,HomeTeam
+2019,9,SanFrancisco49ers,Arizona Cardinals,1.0,171.12,219.12,29.38,102.88,138.12,12.75,0.769,4,HomeTeam
+2019,10,SanFrancisco49ers,Seattle Seahawks,1.0,161.78,218.67,28.78,107.78,143.78,14.33,0.769,5,AwayTeam
+2019,11,SanFrancisco49ers,Arizona Cardinals,0.889,149.0,237.6,29.5,110.5,142.5,15.5,0.769,5,HomeTeam
+2019,12,SanFrancisco49ers,Green Bay Packers,0.9,145.64,236.64,30.18,111.09,136.91,14.82,0.769,6,HomeTeam
+2019,13,SanFrancisco49ers,Baltimore Ravens,0.909,148.0,230.0,29.08,116.67,134.25,15.25,0.769,6,AwayTeam
+2019,14,SanFrancisco49ers,New Orleans Saints,0.833,149.08,239.54,30.54,116.62,150.77,17.62,0.769,6,HomeTeam
+2019,15,SanFrancisco49ers,Atlanta Falcons,0.846,147.0,236.21,29.93,114.64,154.36,18.43,0.769,5,AwayTeam
+2019,16,SanFrancisco49ers,Los Angeles Rams,0.786,145.13,234.8,30.2,111.8,165.6,19.27,0.769,4,HomeTeam
+2019,17,SanFrancisco49ers,Seattle Seahawks,0.8,144.06,237.0,29.94,112.62,169.19,19.38,0.769,4,HomeTeam
+2020,1,SanFrancisco49ers,Arizona Cardinals,0,123.0,243.0,20.0,180.0,224.0,24.0,0.846,1,AwayTeam
+2020,2,SanFrancisco49ers,New York Jets,0.0,152.5,210.0,25.5,142.0,198.5,18.5,0.846,0,HomeTeam
+2020,3,SanFrancisco49ers,New York Giants,0.5,132.67,249.0,29.0,116.67,187.33,15.33,0.846,3,HomeTeam
+2020,4,SanFrancisco49ers,Philadelphia Eagles,0.667,128.5,262.0,26.75,110.75,184.0,17.75,0.846,1,AwayTeam
+2020,5,SanFrancisco49ers,Miami Dolphins,0.5,129.0,235.2,24.8,107.4,215.6,22.8,0.846,-2,AwayTeam
+2020,6,SanFrancisco49ers,Los Angeles Rams,0.4,127.83,240.67,24.67,108.33,212.67,21.67,0.846,-1,HomeTeam
+2020,7,SanFrancisco49ers,New England Patriots,0.5,137.71,244.86,25.86,106.29,203.29,19.43,0.846,1,HomeTeam
+2020,8,SanFrancisco49ers,Seattle Seahawks,0.571,127.0,251.62,26.0,105.62,209.0,21.62,0.846,-1,AwayTeam
+2020,9,SanFrancisco49ers,Green Bay Packers,0.5,119.0,255.0,25.0,106.22,218.44,23.0,0.846,-3,AwayTeam
+2020,10,SanFrancisco49ers,New Orleans Saints,0.444,112.0,252.7,23.8,107.0,208.9,23.4,0.846,-5,AwayTeam
+2020,12,SanFrancisco49ers,Los Angeles Rams,0.4,112.0,250.91,23.73,108.73,206.45,23.09,0.846,-4,HomeTeam
+2020,13,SanFrancisco49ers,Buffalo Bills,0.455,109.83,256.33,23.75,106.42,219.92,24.0,0.846,-5,AwayTeam
+2020,14,SanFrancisco49ers,Washington Football Team,0.417,109.69,254.77,23.08,105.77,210.31,23.92,0.846,-7,AwayTeam
+2020,15,SanFrancisco49ers,Dallas Cowboys,0.385,112.57,258.57,23.79,104.43,209.86,25.14,0.846,-11,AwayTeam
+2020,16,SanFrancisco49ers,Arizona Cardinals,0.357,120.2,252.73,23.53,105.47,211.2,24.27,0.846,-10,HomeTeam
+2020,17,SanFrancisco49ers,Seattle Seahawks,0.4,118.06,252.06,23.5,106.44,207.94,24.38,0.846,-11,AwayTeam
+2021,1,SanFrancisco49ers,Detroit Lions,0,131.0,311.0,41.0,116.0,314.0,33.0,0.844,-1,HomeTeam
+2021,2,SanFrancisco49ers,Philadelphia Eagles,1.0,124.0,250.0,29.0,133.5,245.5,22.0,0.844,-1,HomeTeam
+2021,3,SanFrancisco49ers,Green Bay Packers,1.0,105.0,243.67,28.67,122.33,248.0,24.67,0.844,-3,AwayTeam
+2021,4,SanFrancisco49ers,Seattle Seahawks,0.667,114.5,261.25,26.75,118.0,218.25,25.5,0.844,-5,AwayTeam
+2021,5,SanFrancisco49ers,Arizona Cardinals,0.5,122.0,246.2,23.4,113.2,216.6,23.8,0.844,-5,AwayTeam
+2021,7,SanFrancisco49ers,Indianapolis Colts,0.4,120.17,233.33,22.5,119.0,205.0,24.83,0.844,-7,AwayTeam
+2021,8,SanFrancisco49ers,Chicago Bears,0.333,123.71,246.0,24.0,127.14,196.86,24.43,0.844,-6,HomeTeam
+2021,9,SanFrancisco49ers,Arizona Cardinals,0.429,113.12,252.5,23.12,131.62,206.5,25.25,0.844,-9,AwayTeam
+2021,10,SanFrancisco49ers,Los Angeles Rams,0.375,117.89,244.33,24.0,122.78,208.67,23.56,0.844,-7,HomeTeam
+2021,11,SanFrancisco49ers,Jacksonville Jaguars,0.444,123.2,236.1,24.6,115.9,202.4,22.2,0.844,-5,HomeTeam
+2021,12,SanFrancisco49ers,Minnesota Vikings,0.5,130.91,234.18,25.45,111.45,207.27,22.55,0.844,-4,HomeTeam
+2021,13,SanFrancisco49ers,Seattle Seahawks,0.545,125.92,239.17,25.25,114.33,205.08,23.17,0.844,-4,AwayTeam
+2021,14,SanFrancisco49ers,Cincinnati Bengals,0.5,123.92,240.38,25.31,112.15,213.23,23.15,0.844,-2,HomeTeam
+2021,15,SanFrancisco49ers,Atlanta Falcons,0.538,126.64,240.0,25.71,108.57,213.21,22.43,0.844,-2,HomeTeam
+2021,16,SanFrancisco49ers,Tennessee Titans,0.571,123.73,244.4,25.13,107.33,211.53,22.27,0.844,-4,AwayTeam
+2021,17,SanFrancisco49ers,Houston Texans,0.533,126.94,244.19,25.0,106.0,206.81,21.31,0.844,-4,HomeTeam
+2021,18,SanFrancisco49ers,Los Angeles Rams,0.562,127.41,248.29,25.12,103.53,206.47,21.47,0.844,-4,HomeTeam
+2022,1,SanFrancisco49ers,Chicago Bears,0,176.0,155.0,10.0,99.0,105.0,19.0,0.844,-1,AwayTeam
+2022,2,SanFrancisco49ers,Seattle Seahawks,0.0,182.5,169.5,18.5,67.5,142.5,13.0,0.844,2,HomeTeam
+2022,3,SanFrancisco49ers,Denver Broncos,0.5,151.0,172.67,15.67,78.67,148.33,12.33,0.844,-1,AwayTeam
+2022,4,SanFrancisco49ers,Los Angeles Rams,0.333,135.25,189.25,17.75,73.25,161.25,11.5,0.844,1,HomeTeam
+2022,5,SanFrancisco49ers,Carolina Panthers,0.5,138.8,200.2,21.6,71.4,177.8,12.2,0.844,1,HomeTeam
+2022,6,SanFrancisco49ers,Atlanta Falcons,0.6,124.0,216.17,20.33,87.5,168.33,14.83,0.844,-2,AwayTeam
+2022,7,SanFrancisco49ers,Kansas City Chiefs,0.5,120.71,234.29,20.71,91.0,203.86,19.0,0.844,-3,AwayTeam
+2022,8,SanFrancisco49ers,Los Angeles Rams,0.429,119.5,237.12,22.0,86.62,199.25,18.38,0.844,-3,HomeTeam
+2022,10,SanFrancisco49ers,Los Angeles Chargers,0.5,123.67,236.33,22.0,82.67,197.89,18.11,0.844,-3,HomeTeam
+2022,11,SanFrancisco49ers,Arizona Cardinals,0.556,127.2,235.5,23.6,81.1,202.8,17.3,0.844,-1,HomeTeam
+2022,12,SanFrancisco49ers,New Orleans Saints,0.6,124.36,234.18,22.64,79.45,202.27,15.73,0.844,1,HomeTeam
+2022,13,SanFrancisco49ers,Miami Dolphins,0.636,124.08,233.83,23.5,75.58,208.33,15.83,0.844,4,HomeTeam
+2022,14,SanFrancisco49ers,Tampa Bay Buccaneers,0.667,130.62,230.85,24.38,75.08,211.77,15.15,0.844,6,HomeTeam
+2022,15,SanFrancisco49ers,Seattle Seahawks,0.692,133.43,229.43,24.14,74.71,211.43,15.0,0.844,7,HomeTeam
+2022,16,SanFrancisco49ers,Washington Commanders,0.714,134.73,228.67,25.0,75.0,215.33,15.33,0.844,8,HomeTeam
+2022,17,SanFrancisco49ers,Las Vegas Raiders,0.733,136.94,232.12,25.75,78.75,224.69,16.5,0.844,9,HomeTeam
+2022,18,SanFrancisco49ers,Arizona Cardinals,0.75,138.82,226.82,26.47,77.71,222.88,16.29,0.844,13,HomeTeam
+2023,1,SanFrancisco49ers,Pittsburgh Steelers,0,188.0,203.0,30.0,41.0,198.0,7.0,0.84,1,HomeTeam
+2023,2,SanFrancisco49ers,Los Angeles Rams,1.0,173.5,204.5,30.0,65.0,247.5,15.0,0.84,3,HomeTeam
+2023,3,SanFrancisco49ers,New York Giants,1.0,162.67,236.33,30.0,53.0,205.33,14.0,0.84,4,HomeTeam
+2023,4,SanFrancisco49ers,Arizona Cardinals,1.0,153.0,245.0,31.25,66.0,218.25,14.5,0.84,4,HomeTeam
+2023,5,SanFrancisco49ers,Dallas Cowboys,1.0,156.4,246.2,33.4,64.2,202.6,13.6,0.84,7,HomeTeam
+2023,6,SanFrancisco49ers,Cleveland Browns,1.0,148.33,223.0,30.67,80.17,197.83,14.5,0.84,8,AwayTeam
+2023,7,SanFrancisco49ers,Minnesota Vikings,0.833,136.43,228.29,28.71,79.29,223.57,15.57,0.84,6,AwayTeam
+2023,8,SanFrancisco49ers,Cincinnati Bengals,0.714,133.5,243.12,27.25,86.12,228.88,17.5,0.84,4,AwayTeam
+2023,10,SanFrancisco49ers,Jacksonville Jaguars,0.625,134.67,248.67,28.0,83.11,221.44,15.89,0.84,8,HomeTeam
+2023,11,SanFrancisco49ers,Tampa Bay Buccaneers,0.667,132.7,254.3,27.9,81.4,221.4,15.7,0.84,10,HomeTeam
+2023,12,SanFrancisco49ers,Seattle Seahawks,0.7,136.0,250.09,28.18,82.0,213.27,15.45,0.84,11,HomeTeam
+2023,13,SanFrancisco49ers,Philadelphia Eagles,0.727,136.83,255.08,29.33,79.0,219.42,15.75,0.84,11,HomeTeam
+2023,14,SanFrancisco49ers,Seattle Seahawks,0.75,139.62,262.69,29.23,78.31,222.08,15.77,0.84,11,HomeTeam
+2023,15,SanFrancisco49ers,Arizona Cardinals,0.769,139.93,262.64,30.36,89.43,220.64,16.71,0.84,13,HomeTeam
+2023,16,SanFrancisco49ers,Baltimore Ravens,0.786,138.67,265.67,29.6,90.27,222.0,17.8,0.84,8,AwayTeam
+2023,17,SanFrancisco49ers,Washington Commanders,0.733,141.5,263.06,29.44,88.5,218.31,17.31,0.84,10,HomeTeam
+2023,18,SanFrancisco49ers,Los Angeles Rams,0.75,140.53,257.88,28.88,89.71,214.24,17.53,0.84,10,AwayTeam
+2024,1,SanFrancisco49ers,New York Jets,0,180.0,221.0,32.0,68.0,198.0,19.0,0.871,2,HomeTeam
+2024,2,SanFrancisco49ers,Minnesota Vikings,1.0,141.0,257.5,24.5,107.0,227.5,21.0,0.871,2,AwayTeam
+2024,3,SanFrancisco49ers,Los Angeles Rams,0.5,139.67,267.67,24.33,104.0,217.67,23.0,0.871,1,AwayTeam
+2024,4,SanFrancisco49ers,New England Patriots,0.333,141.75,271.5,25.75,96.25,199.0,20.5,0.871,2,HomeTeam
+2024,5,SanFrancisco49ers,Arizona Cardinals,0.5,144.0,263.4,25.2,110.8,197.0,21.2,0.871,0,AwayTeam
+2024,6,SanFrancisco49ers,Seattle Seahawks,0.4,158.0,262.0,27.0,101.0,215.17,21.67,0.871,3,HomeTeam
+2024,7,SanFrancisco49ers,Kansas City Chiefs,0.5,149.86,254.43,25.71,112.86,205.14,22.57,0.871,2,AwayTeam
+2024,8,SanFrancisco49ers,Dallas Cowboys,0.429,159.0,253.38,26.25,105.75,209.0,22.75,0.871,4,HomeTeam
+2024,10,SanFrancisco49ers,Tampa Bay Buccaneers,0.5,149.67,262.78,25.89,106.22,197.44,22.44,0.871,3,HomeTeam
+2024,11,SanFrancisco49ers,Seattle Seahawks,0.556,147.8,251.1,25.0,105.0,197.2,22.2,0.871,3,AwayTeam
+2024,12,SanFrancisco49ers,Green Bay Packers,0.5,138.36,246.18,23.64,110.82,193.45,23.64,0.871,0,AwayTeam

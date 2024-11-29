@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,DallasCowboys,Carolina Panthers,0,94.0,138.0,8.0,147.0,146.0,16.0,0.806,0,AwayTeam
+2018,2,DallasCowboys,New York Giants,0.0,116.0,149.0,14.0,91.0,183.0,14.5,0.806,1,HomeTeam
+2018,3,DallasCowboys,Seattle Seahawks,0.5,132.67,145.0,13.67,98.33,182.67,17.67,0.806,-2,AwayTeam
+2018,4,DallasCowboys,Detroit Lions,0.333,145.25,166.5,16.75,97.75,208.5,19.25,0.806,-2,HomeTeam
+2018,5,DallasCowboys,Houston Texans,0.5,135.8,172.0,16.6,95.8,241.6,19.2,0.806,-2,AwayTeam
+2018,6,DallasCowboys,Jacksonville Jaguars,0.4,147.5,172.0,20.5,90.67,224.5,17.17,0.806,0,HomeTeam
+2018,7,DallasCowboys,Washington Redskins,0.5,136.86,183.14,20.0,96.29,217.43,17.57,0.806,-2,AwayTeam
+2018,9,DallasCowboys,Tennessee Titans,0.429,128.75,188.38,19.25,99.88,217.12,18.88,0.806,-2,AwayTeam
+2018,10,DallasCowboys,Philadelphia Eagles,0.375,133.44,194.0,20.11,96.67,231.89,19.0,0.806,-1,HomeTeam
+2018,11,DallasCowboys,Atlanta Falcons,0.444,133.3,193.7,20.3,95.0,236.1,19.0,0.806,0,HomeTeam
+2018,12,DallasCowboys,Washington Redskins,0.5,134.45,199.55,21.27,93.64,237.45,19.36,0.806,3,HomeTeam
+2018,13,DallasCowboys,New Orleans Saints,0.545,131.5,200.33,20.58,91.25,226.92,18.58,0.806,2,HomeTeam
+2018,14,DallasCowboys,Philadelphia Eagles,0.583,132.31,218.31,21.23,86.85,226.54,18.92,0.806,0,HomeTeam
+2018,15,DallasCowboys,Indianapolis Colts,0.615,130.86,215.57,19.71,93.36,224.07,19.21,0.806,0,AwayTeam
+2018,16,DallasCowboys,Tampa Bay Buccaneers,0.571,127.47,211.33,20.2,91.33,230.47,19.27,0.806,2,HomeTeam
+2018,17,DallasCowboys,New York Giants,0.6,122.69,221.12,21.19,94.56,234.69,20.25,0.806,3,HomeTeam
+2019,1,DallasCowboys,New York Giants,0,89.0,405.0,35.0,151.0,319.0,17.0,0.75,2,HomeTeam
+2019,2,DallasCowboys,Washington Redskins,1.0,151.0,333.0,33.0,99.0,263.5,19.0,0.75,1,HomeTeam
+2019,3,DallasCowboys,Miami Dolphins,1.0,179.0,302.33,32.33,90.0,246.0,14.67,0.75,1,HomeTeam
+2019,4,DallasCowboys,New Orleans Saints,1.0,145.5,279.75,26.75,96.75,221.75,14.0,0.75,-1,AwayTeam
+2019,5,DallasCowboys,Green Bay Packers,0.75,140.8,312.0,26.2,101.4,220.4,18.0,0.75,-4,AwayTeam
+2019,6,DallasCowboys,New York Jets,0.6,138.83,305.0,25.5,93.83,238.0,19.0,0.75,-3,AwayTeam
+2019,7,DallasCowboys,Philadelphia Eagles,0.5,146.0,291.86,27.14,96.86,228.0,17.71,0.75,0,HomeTeam
+2019,9,DallasCowboys,New York Giants,0.571,149.25,287.5,28.38,97.25,220.88,17.75,0.75,1,HomeTeam
+2019,10,DallasCowboys,Minnesota Vikings,0.625,138.22,299.22,27.89,103.44,219.78,18.89,0.75,0,AwayTeam
+2019,11,DallasCowboys,Detroit Lions,0.556,131.9,312.7,28.6,105.2,216.9,19.7,0.75,-1,HomeTeam
+2019,12,DallasCowboys,New England Patriots,0.6,129.82,303.55,26.82,104.82,213.64,19.09,0.75,-2,AwayTeam
+2019,13,DallasCowboys,Buffalo Bills,0.545,127.58,305.17,25.83,106.42,215.17,19.67,0.75,-4,AwayTeam
+2019,14,DallasCowboys,Chicago Bears,0.5,124.08,306.77,25.69,109.85,216.38,20.54,0.75,-2,AwayTeam
+2019,15,DallasCowboys,Los Angeles Rams,0.462,134.0,300.0,27.0,103.57,220.0,20.57,0.75,-1,HomeTeam
+2019,16,DallasCowboys,Philadelphia Eagles,0.5,128.67,297.13,25.8,104.53,226.2,20.33,0.75,-2,AwayTeam
+2019,17,DallasCowboys,Washington Redskins,0.467,134.56,296.94,27.12,103.5,223.5,20.06,0.75,-1,HomeTeam
+2020,1,DallasCowboys,Los Angeles Rams,0,136.0,244.0,17.0,153.0,269.0,20.0,0.829,1,AwayTeam
+2020,2,DallasCowboys,Atlanta Falcons,0.0,130.5,344.5,28.5,133.0,268.0,29.5,0.829,-2,HomeTeam
+2020,3,DallasCowboys,Seattle Seahawks,0.5,107.33,383.33,29.33,127.67,277.0,32.33,0.829,-4,AwayTeam
+2020,4,DallasCowboys,Cleveland Browns,0.333,101.75,407.75,31.5,172.5,258.0,36.5,0.829,-7,AwayTeam
+2020,5,DallasCowboys,New York Giants,0.25,106.6,381.4,32.6,155.8,248.6,36.0,0.829,-8,HomeTeam
+2020,6,DallasCowboys,Arizona Cardinals,0.4,105.0,359.0,28.83,173.33,236.67,36.33,0.829,-12,AwayTeam
+2020,7,DallasCowboys,Washington Football Team,0.333,101.86,316.14,25.14,178.29,229.86,34.71,0.829,-13,AwayTeam
+2020,8,DallasCowboys,Philadelphia Eagles,0.286,105.75,293.12,23.12,170.88,214.0,33.25,0.829,-11,AwayTeam
+2020,9,DallasCowboys,Pittsburgh Steelers,0.25,110.0,285.0,22.67,157.0,224.56,32.22,0.829,-13,AwayTeam
+2020,11,DallasCowboys,Minnesota Vikings,0.222,117.0,276.1,23.5,153.8,232.6,31.8,0.829,-12,HomeTeam
+2020,12,DallasCowboys,Washington Football Team,0.3,111.82,268.0,22.82,156.36,225.64,32.64,0.829,-13,AwayTeam
+2020,13,DallasCowboys,Baltimore Ravens,0.273,111.75,268.75,22.33,167.83,215.75,32.75,0.829,-13,AwayTeam
+2020,14,DallasCowboys,Cincinnati Bengals,0.25,110.92,261.23,22.92,162.69,215.15,30.77,0.829,-10,HomeTeam
+2020,15,DallasCowboys,San Francisco 49ers,0.308,109.21,257.14,24.21,161.79,221.79,30.93,0.829,-6,HomeTeam
+2020,16,DallasCowboys,Philadelphia Eagles,0.357,112.0,264.13,25.07,161.07,228.73,30.0,0.829,-4,HomeTeam
+2020,17,DallasCowboys,New York Giants,0.4,111.75,260.06,24.69,158.81,227.62,29.56,0.829,-3,AwayTeam
+2021,1,DallasCowboys,Tampa Bay Buccaneers,0,60.0,391.0,29.0,52.0,379.0,31.0,0.829,3,AwayTeam
+2021,2,DallasCowboys,Los Angeles Chargers,0.0,129.0,306.0,24.5,73.5,346.0,24.0,0.829,4,HomeTeam
+2021,3,DallasCowboys,Philadelphia Eagles,0.5,139.33,277.33,30.0,70.33,331.67,23.0,0.829,5,HomeTeam
+2021,4,DallasCowboys,Carolina Panthers,0.667,165.75,255.0,31.5,81.0,315.25,24.25,0.829,7,HomeTeam
+2021,5,DallasCowboys,New York Giants,0.75,172.8,266.8,34.0,79.4,311.0,23.4,0.829,7,HomeTeam
+2021,6,DallasCowboys,New England Patriots,0.8,164.33,296.5,34.17,86.17,295.0,24.33,0.829,7,HomeTeam
+2021,8,DallasCowboys,Minnesota Vikings,0.833,152.0,302.86,32.14,88.29,278.14,23.14,0.829,5,HomeTeam
+2021,9,DallasCowboys,Denver Broncos,0.857,142.75,291.5,30.12,101.0,270.5,24.0,0.829,3,AwayTeam
+2021,10,DallasCowboys,Atlanta Falcons,0.75,139.56,294.33,31.56,101.22,252.78,21.67,0.829,5,HomeTeam
+2021,11,DallasCowboys,Kansas City Chiefs,0.778,133.8,284.3,29.3,103.7,251.9,21.4,0.829,4,AwayTeam
+2021,12,DallasCowboys,Las Vegas Raiders,0.7,127.45,292.36,29.64,107.27,262.27,22.73,0.829,4,AwayTeam
+2021,13,DallasCowboys,New Orleans Saints,0.636,129.0,287.25,29.42,111.08,261.42,22.25,0.829,7,HomeTeam
+2021,14,DallasCowboys,Washington Football Team,0.667,128.46,280.62,29.23,110.23,250.85,22.08,0.829,9,HomeTeam
+2021,15,DallasCowboys,New York Giants,0.692,128.21,275.07,28.64,111.21,245.64,20.93,0.829,12,HomeTeam
+2021,16,DallasCowboys,Washington Football Team,0.714,126.87,282.67,30.47,109.47,240.73,20.47,0.829,14,HomeTeam
+2021,17,DallasCowboys,Arizona Cardinals,0.733,121.75,281.0,29.94,110.56,242.69,20.75,0.829,13,AwayTeam
+2021,18,DallasCowboys,Philadelphia Eagles,0.688,124.65,282.35,31.18,112.82,238.18,21.06,0.829,14,HomeTeam
+2022,1,DallasCowboys,Tampa Bay Buccaneers,0,71.0,173.0,3.0,152.0,195.0,19.0,0.906,0,AwayTeam
+2022,2,DallasCowboys,Cincinnati Bengals,0.0,89.0,201.5,11.5,120.5,180.0,18.0,0.906,-1,HomeTeam
+2022,3,DallasCowboys,New York Giants,0.5,118.0,206.0,15.33,136.0,176.33,17.33,0.906,0,HomeTeam
+2022,4,DallasCowboys,Washington Commanders,0.667,104.0,208.75,17.75,137.5,171.0,15.5,0.906,2,HomeTeam
+2022,5,DallasCowboys,Los Angeles Rams,0.75,115.8,182.2,18.6,117.6,193.8,14.4,0.906,5,HomeTeam
+2022,6,DallasCowboys,Philadelphia Eagles,0.8,118.83,182.0,18.33,120.67,183.5,16.33,0.906,2,AwayTeam
+2022,7,DallasCowboys,Detroit Lions,0.667,121.71,183.29,19.14,120.14,185.14,14.86,0.906,6,HomeTeam
+2022,8,DallasCowboys,Chicago Bears,0.714,131.5,190.62,22.88,135.12,178.38,16.62,0.906,6,HomeTeam
+2022,10,DallasCowboys,Green Bay Packers,0.75,134.56,198.56,23.44,143.11,181.67,18.22,0.906,6,AwayTeam
+2022,11,DallasCowboys,Minnesota Vikings,0.667,136.2,209.4,25.1,136.1,174.5,16.7,0.906,7,HomeTeam
+2022,12,DallasCowboys,New York Giants,0.7,139.18,214.09,25.36,131.91,177.73,17.0,0.906,5,HomeTeam
+2022,13,DallasCowboys,Indianapolis Colts,0.727,145.92,210.0,27.75,129.75,179.83,17.17,0.906,9,HomeTeam
+2022,14,DallasCowboys,Houston Texans,0.75,144.46,215.15,27.69,128.54,182.38,17.62,0.906,8,HomeTeam
+2022,15,DallasCowboys,Jacksonville Jaguars,0.769,145.14,217.14,28.14,133.07,191.57,19.21,0.906,9,AwayTeam
+2022,16,DallasCowboys,Philadelphia Eagles,0.714,143.13,222.93,28.93,130.0,202.47,20.2,0.906,12,HomeTeam
+2022,17,DallasCowboys,Tennessee Titans,0.733,139.62,226.12,28.81,127.94,203.56,19.75,0.906,11,HomeTeam
+2022,18,DallasCowboys,Washington Commanders,0.75,135.18,219.76,27.47,129.29,200.88,20.12,0.906,10,AwayTeam
+2023,1,DallasCowboys,New York Giants,0,122.0,143.0,40.0,108.0,63.0,0.0,0.947,3,HomeTeam
+2023,2,DallasCowboys,New York Jets,1.0,128.0,195.5,35.0,86.0,107.0,5.0,0.947,7,HomeTeam
+2023,3,DallasCowboys,Arizona Cardinals,1.0,147.0,207.33,28.67,131.33,130.67,12.67,0.947,6,AwayTeam
+2023,4,DallasCowboys,New England Patriots,0.667,141.25,218.75,31.0,111.75,148.0,10.25,0.947,9,HomeTeam
+2023,5,DallasCowboys,San Francisco 49ers,0.75,124.4,203.0,26.8,123.4,168.6,16.6,0.947,6,AwayTeam
+2023,6,DallasCowboys,Los Angeles Chargers,0.6,119.67,210.17,25.67,111.67,177.0,16.67,0.947,6,HomeTeam
+2023,8,DallasCowboys,Los Angeles Rams,0.667,117.14,220.86,28.14,108.86,178.57,17.14,0.947,6,HomeTeam
+2023,9,DallasCowboys,Philadelphia Eagles,0.714,111.62,234.88,27.5,108.88,179.12,18.5,0.947,5,AwayTeam
+2023,10,DallasCowboys,New York Giants,0.625,117.89,261.22,29.89,109.11,166.0,18.33,0.947,4,HomeTeam
+2023,11,DallasCowboys,Carolina Panthers,0.667,116.8,255.5,30.2,109.2,157.1,17.5,0.947,6,HomeTeam
+2023,12,DallasCowboys,Washington Commanders,0.7,115.27,262.36,31.55,109.09,167.18,16.82,0.947,7,HomeTeam
+2023,13,DallasCowboys,Seattle Seahawks,0.727,117.0,263.42,32.33,106.0,181.08,18.33,0.947,8,HomeTeam
+2023,14,DallasCowboys,Philadelphia Eagles,0.75,118.62,262.85,32.38,106.0,183.92,17.92,0.947,10,HomeTeam
+2023,15,DallasCowboys,Buffalo Bills,0.769,116.5,251.64,30.79,117.43,176.86,18.86,0.947,9,AwayTeam
+2023,16,DallasCowboys,Miami Dolphins,0.714,115.2,251.0,30.07,115.67,184.0,19.07,0.947,8,AwayTeam
+2023,17,DallasCowboys,Detroit Lions,0.667,111.81,255.5,29.44,116.25,190.94,19.06,0.947,8,HomeTeam
+2023,18,DallasCowboys,Washington Commanders,0.688,112.94,258.65,29.94,112.35,187.35,18.53,0.947,10,HomeTeam
+2024,1,DallasCowboys,Cleveland Browns,0,102.0,163.0,33.0,93.0,137.0,17.0,0.833,2,HomeTeam
+2024,2,DallasCowboys,New Orleans Saints,1.0,85.0,224.0,26.0,141.5,189.5,30.5,0.833,1,AwayTeam
+2024,3,DallasCowboys,Baltimore Ravens,0.5,73.67,269.67,25.67,185.67,187.0,29.67,0.833,0,AwayTeam
+2024,4,DallasCowboys,New York Giants,0.333,75.25,255.5,24.25,145.75,209.5,26.0,0.833,1,HomeTeam
+2024,5,DallasCowboys,Pittsburgh Steelers,0.5,82.0,271.6,23.4,135.0,194.4,24.2,0.833,-1,HomeTeam
+2024,6,DallasCowboys,Detroit Lions,0.6,77.17,259.33,21.0,143.17,213.33,28.0,0.833,-6,AwayTeam
+2024,8,DallasCowboys,San Francisco 49ers,0.5,74.14,256.0,21.43,154.57,218.0,28.29,0.833,-8,AwayTeam
+2024,9,DallasCowboys,Atlanta Falcons,0.429,82.0,254.12,21.38,147.75,217.0,28.12,0.833,-7,AwayTeam
+2024,10,DallasCowboys,Philadelphia Eagles,0.375,83.67,231.33,19.67,152.11,210.78,28.78,0.833,-10,AwayTeam
+2024,11,DallasCowboys,Houston Texans,0.333,81.7,240.6,18.7,151.0,214.7,29.3,0.833,-11,AwayTeam
+2024,12,DallasCowboys,Washington Commanders,0.3,82.55,240.64,20.09,150.45,219.45,29.0,0.833,-9,HomeTeam

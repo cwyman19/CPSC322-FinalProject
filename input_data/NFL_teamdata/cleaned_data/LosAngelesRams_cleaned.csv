@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,LosAngelesRams,Oakland Raiders,0,140.0,225.0,33.0,95.0,300.0,13.0,0.829,3,HomeTeam
+2018,2,LosAngelesRams,Arizona Cardinals,1.0,115.0,283.5,33.5,74.5,191.5,6.5,0.829,3,HomeTeam
+2018,3,LosAngelesRams,Los Angeles Chargers,1.0,133.67,305.67,34.0,96.67,199.33,12.0,0.829,3,HomeTeam
+2018,4,LosAngelesRams,Minnesota Vikings,1.0,125.25,343.25,35.0,86.0,247.5,16.75,0.829,4,HomeTeam
+2018,5,LosAngelesRams,Seattle Seahawks,1.0,131.2,337.2,34.6,106.8,234.6,19.6,0.829,2,HomeTeam
+2018,6,LosAngelesRams,Denver Broncos,1.0,154.33,310.0,32.67,99.0,245.0,19.67,0.829,2,HomeTeam
+2018,7,LosAngelesRams,San Francisco 49ers,1.0,153.14,293.29,33.57,100.14,227.29,18.29,0.829,6,HomeTeam
+2018,8,LosAngelesRams,Green Bay Packers,1.0,150.88,291.75,33.0,100.88,230.5,19.38,0.829,7,HomeTeam
+2018,9,LosAngelesRams,New Orleans Saints,1.0,144.33,302.78,33.22,105.33,243.33,22.22,0.829,7,AwayTeam
+2018,10,LosAngelesRams,Seattle Seahawks,0.889,144.8,303.2,33.5,122.1,233.1,23.1,0.829,8,HomeTeam
+2018,11,LosAngelesRams,Kansas City Chiefs,0.9,138.55,310.09,35.36,119.91,252.64,25.64,0.829,11,HomeTeam
+2018,13,LosAngelesRams,Detroit Lions,0.909,139.42,300.5,34.92,118.42,248.92,24.83,0.829,11,HomeTeam
+2018,14,LosAngelesRams,Chicago Bears,0.917,132.69,289.85,32.69,124.23,237.46,24.08,0.829,10,AwayTeam
+2018,15,LosAngelesRams,Philadelphia Eagles,0.846,129.07,292.36,32.0,123.29,239.79,24.5,0.829,8,AwayTeam
+2018,16,LosAngelesRams,Arizona Cardinals,0.786,138.4,285.67,31.93,122.0,234.4,23.47,0.829,7,HomeTeam
+2018,17,LosAngelesRams,San Francisco 49ers,0.8,139.44,281.69,32.94,122.31,236.25,24.0,0.829,11,HomeTeam
+2019,1,LosAngelesRams,Carolina Panthers,0,166.0,183.0,30.0,127.0,216.0,27.0,0.727,2,HomeTeam
+2019,2,LosAngelesRams,New Orleans Saints,1.0,140.5,224.0,28.5,92.0,201.5,18.0,0.727,2,HomeTeam
+2019,3,LosAngelesRams,Cleveland Browns,1.0,123.67,234.0,25.67,93.0,192.67,16.33,0.727,0,HomeTeam
+2019,4,LosAngelesRams,Tampa Bay Buccaneers,1.0,99.75,298.0,29.25,91.75,238.5,26.0,0.727,-3,AwayTeam
+2019,5,LosAngelesRams,Seattle Seahawks,0.75,96.2,317.4,29.2,106.8,243.2,26.8,0.727,-4,AwayTeam
+2019,6,LosAngelesRams,San Francisco 49ers,0.6,98.33,272.5,25.5,105.5,241.33,25.67,0.727,-3,AwayTeam
+2019,7,LosAngelesRams,Atlanta Falcons,0.5,97.14,275.14,27.14,95.86,233.43,23.43,0.727,0,HomeTeam
+2019,8,LosAngelesRams,Cincinnati Bengals,0.571,97.25,287.25,26.75,96.88,241.38,21.75,0.727,0,HomeTeam
+2019,10,LosAngelesRams,Pittsburgh Steelers,0.625,96.22,279.56,25.11,90.78,240.22,21.22,0.727,-2,AwayTeam
+2019,11,LosAngelesRams,Chicago Bears,0.556,97.6,268.9,24.3,89.1,235.5,19.8,0.727,-3,HomeTeam
+2019,12,LosAngelesRams,Baltimore Ravens,0.6,90.73,262.55,22.64,106.91,231.82,22.09,0.727,-5,AwayTeam
+2019,13,LosAngelesRams,Arizona Cardinals,0.545,94.17,275.42,23.58,104.17,222.83,20.83,0.727,-4,HomeTeam
+2019,14,LosAngelesRams,Seattle Seahawks,0.583,99.38,276.77,23.92,104.31,221.23,20.15,0.727,-5,HomeTeam
+2019,15,LosAngelesRams,Dallas Cowboys,0.615,93.86,276.07,23.71,115.64,220.57,21.86,0.727,-6,AwayTeam
+2019,16,LosAngelesRams,San Francisco 49ers,0.571,92.4,279.2,24.2,115.87,220.2,22.67,0.727,-5,AwayTeam
+2019,17,LosAngelesRams,Arizona Cardinals,0.533,93.69,281.19,24.62,113.06,226.56,22.75,0.727,0,HomeTeam
+2020,1,LosAngelesRams,Dallas Cowboys,0,153.0,269.0,20.0,136.0,244.0,17.0,0.8,-1,HomeTeam
+2020,2,LosAngelesRams,Philadelphia Eagles,1.0,172.0,263.5,28.5,128.5,243.0,18.0,0.8,1,HomeTeam
+2020,3,LosAngelesRams,Buffalo Bills,1.0,170.33,279.33,29.67,119.33,253.33,23.67,0.8,1,AwayTeam
+2020,4,LosAngelesRams,New York Giants,0.667,142.25,255.0,26.5,123.5,229.75,20.0,0.8,1,HomeTeam
+2020,5,LosAngelesRams,Washington Football Team,0.75,139.6,264.0,27.2,106.4,197.8,18.0,0.8,0,HomeTeam
+2020,6,LosAngelesRams,San Francisco 49ers,0.8,135.17,253.0,25.33,109.0,209.5,19.0,0.8,-1,AwayTeam
+2020,7,LosAngelesRams,Chicago Bears,0.667,138.71,247.0,25.14,100.43,212.43,17.71,0.8,0,HomeTeam
+2020,8,LosAngelesRams,Miami Dolphins,0.714,137.75,258.62,24.12,94.75,197.12,19.0,0.8,-2,AwayTeam
+2020,10,LosAngelesRams,Seattle Seahawks,0.625,134.22,261.33,24.0,96.78,199.67,18.67,0.8,0,HomeTeam
+2020,11,LosAngelesRams,Tampa Bay Buccaneers,0.667,124.5,272.8,24.3,91.3,200.6,19.2,0.8,0,HomeTeam
+2020,12,LosAngelesRams,San Francisco 49ers,0.7,124.64,264.55,23.91,93.18,203.55,19.55,0.8,-1,AwayTeam
+2020,13,LosAngelesRams,Arizona Cardinals,0.636,124.17,271.17,25.08,93.08,198.25,20.25,0.8,0,HomeTeam
+2020,14,LosAngelesRams,New England Patriots,0.667,128.92,260.46,25.0,94.15,191.69,18.92,0.8,0,HomeTeam
+2020,15,LosAngelesRams,New York Jets,0.692,127.86,255.36,24.64,94.07,192.0,19.21,0.8,-1,AwayTeam
+2020,16,LosAngelesRams,Seattle Seahawks,0.643,127.2,252.73,23.6,94.13,192.33,19.27,0.8,-2,AwayTeam
+2020,17,LosAngelesRams,Arizona Cardinals,0.6,126.12,250.88,23.25,91.25,190.69,18.5,0.8,-3,HomeTeam
+2021,1,LosAngelesRams,Chicago Bears,0,74.0,312.0,34.0,134.0,188.0,14.0,0.941,2,HomeTeam
+2021,2,LosAngelesRams,Indianapolis Colts,1.0,87.5,291.0,30.5,121.5,216.5,19.0,0.941,2,HomeTeam
+2021,3,LosAngelesRams,Tampa Bay Buccaneers,1.0,83.67,304.33,31.67,92.67,281.33,20.67,0.941,2,HomeTeam
+2021,4,LosAngelesRams,Arizona Cardinals,1.0,93.0,298.25,28.75,123.5,273.25,24.75,0.941,0,AwayTeam
+2021,5,LosAngelesRams,Seattle Seahawks,0.75,98.0,310.2,28.2,117.2,271.0,23.2,0.941,1,HomeTeam
+2021,6,LosAngelesRams,New York Giants,0.8,103.5,297.5,29.83,107.67,259.33,21.17,0.941,3,HomeTeam
+2021,7,LosAngelesRams,Detroit Lions,0.833,95.43,301.71,29.57,111.86,262.0,20.86,0.941,5,HomeTeam
+2021,8,LosAngelesRams,Houston Texans,0.857,104.12,301.75,30.62,103.38,264.12,21.0,0.941,6,HomeTeam
+2021,9,LosAngelesRams,Tennessee Titans,0.875,103.0,296.33,29.0,99.56,248.67,21.78,0.941,5,AwayTeam
+2021,10,LosAngelesRams,San Francisco 49ers,0.778,97.9,289.3,27.1,105.2,241.7,22.7,0.941,3,AwayTeam
+2021,12,LosAngelesRams,Green Bay Packers,0.7,95.18,288.91,27.18,104.0,247.64,23.91,0.941,1,AwayTeam
+2021,13,LosAngelesRams,Jacksonville Jaguars,0.636,97.92,289.0,28.0,100.42,238.33,22.5,0.941,3,HomeTeam
+2021,14,LosAngelesRams,Arizona Cardinals,0.667,97.23,287.31,28.15,100.62,246.46,22.54,0.941,5,HomeTeam
+2021,15,LosAngelesRams,Seattle Seahawks,0.692,99.07,281.71,27.57,99.14,238.43,21.64,0.941,5,HomeTeam
+2021,16,LosAngelesRams,Minnesota Vikings,0.714,103.07,276.07,27.73,96.93,242.2,21.73,0.941,3,HomeTeam
+2021,17,LosAngelesRams,Baltimore Ravens,0.733,101.19,277.56,27.25,101.19,237.19,21.56,0.941,2,HomeTeam
+2021,18,LosAngelesRams,San Francisco 49ers,0.75,99.0,273.06,27.06,103.18,241.71,21.88,0.941,2,AwayTeam
+2022,1,LosAngelesRams,Buffalo Bills,0,52.0,191.0,10.0,121.0,292.0,31.0,0.933,1,AwayTeam
+2022,2,LosAngelesRams,Atlanta Falcons,0.0,58.5,231.5,20.5,105.5,231.5,29.0,0.933,1,HomeTeam
+2022,3,LosAngelesRams,Arizona Cardinals,0.5,72.33,234.0,20.33,93.67,252.67,23.33,0.933,0,HomeTeam
+2022,4,LosAngelesRams,San Francisco 49ers,0.667,68.5,225.5,17.5,92.25,249.25,23.5,0.933,-2,AwayTeam
+2022,5,LosAngelesRams,Dallas Cowboys,0.5,62.4,237.4,16.0,106.4,214.6,23.2,0.933,-5,AwayTeam
+2022,6,LosAngelesRams,Carolina Panthers,0.4,70.5,239.33,17.33,104.17,197.17,21.0,0.933,-5,HomeTeam
+2022,8,LosAngelesRams,San Francisco 49ers,0.5,68.43,229.0,16.86,105.14,205.71,22.43,0.933,-5,AwayTeam
+2022,9,LosAngelesRams,Tampa Bay Buccaneers,0.429,68.38,217.62,16.38,98.38,214.0,21.62,0.933,-5,AwayTeam
+2022,10,LosAngelesRams,Arizona Cardinals,0.375,68.11,214.56,16.44,96.11,214.67,22.22,0.933,-7,AwayTeam
+2022,11,LosAngelesRams,New Orleans Saints,0.333,76.1,211.9,16.8,95.3,216.7,22.7,0.933,-7,AwayTeam
+2022,12,LosAngelesRams,Kansas City Chiefs,0.3,79.73,200.09,16.18,97.27,226.09,23.0,0.933,-7,AwayTeam
+2022,13,LosAngelesRams,Seattle Seahawks,0.273,87.33,195.75,16.75,96.67,236.25,23.33,0.933,-7,AwayTeam
+2022,14,LosAngelesRams,Las Vegas Raiders,0.25,86.08,196.92,16.77,101.92,228.62,22.77,0.933,-6,HomeTeam
+2022,15,LosAngelesRams,Green Bay Packers,0.308,85.07,188.86,16.43,104.5,227.07,22.86,0.933,-5,AwayTeam
+2022,16,LosAngelesRams,Denver Broncos,0.286,89.93,191.6,18.73,104.47,226.53,22.27,0.933,-1,HomeTeam
+2022,17,LosAngelesRams,Los Angeles Chargers,0.333,94.69,186.56,18.19,109.94,227.31,22.81,0.933,-2,AwayTeam
+2022,18,LosAngelesRams,Seattle Seahawks,0.312,97.71,182.82,18.06,115.06,226.0,22.59,0.933,-1,AwayTeam
+2023,1,LosAngelesRams,Seattle Seahawks,0,92.0,334.0,30.0,85.0,95.0,13.0,0.744,0,HomeTeam
+2023,2,LosAngelesRams,San Francisco 49ers,1.0,90.5,315.5,26.5,122.0,150.5,21.5,0.744,-2,AwayTeam
+2023,3,LosAngelesRams,Cincinnati Bengals,0.5,84.0,284.0,23.0,103.67,181.0,20.67,0.744,-3,AwayTeam
+2023,4,LosAngelesRams,Indianapolis Colts,0.333,104.0,288.75,24.5,111.0,184.75,21.25,0.744,-3,HomeTeam
+2023,5,LosAngelesRams,Philadelphia Eagles,0.5,94.0,270.0,22.4,120.6,206.8,21.6,0.744,-2,AwayTeam
+2023,6,LosAngelesRams,Arizona Cardinals,0.4,108.17,258.83,23.0,122.17,208.17,19.5,0.744,-1,HomeTeam
+2023,7,LosAngelesRams,Pittsburgh Steelers,0.5,112.0,253.14,22.14,117.0,209.0,20.14,0.744,-2,AwayTeam
+2023,8,LosAngelesRams,Dallas Cowboys,0.429,109.5,245.0,21.88,115.12,218.5,23.0,0.744,-2,AwayTeam
+2023,9,LosAngelesRams,Green Bay Packers,0.375,104.89,231.0,19.78,122.78,217.22,22.67,0.744,-2,AwayTeam
+2023,11,LosAngelesRams,Seattle Seahawks,0.333,102.6,226.4,19.5,117.3,217.8,22.0,0.744,-2,HomeTeam
+2023,12,LosAngelesRams,Arizona Cardinals,0.4,114.0,226.64,21.09,113.27,217.91,21.27,0.744,-3,HomeTeam
+2023,13,LosAngelesRams,Cleveland Browns,0.455,114.5,231.0,22.33,111.08,219.75,21.08,0.744,-2,HomeTeam
+2023,14,LosAngelesRams,Baltimore Ravens,0.5,115.54,234.92,23.0,113.23,226.69,22.31,0.744,-1,AwayTeam
+2023,15,LosAngelesRams,Washington Commanders,0.462,121.29,235.93,23.36,110.79,226.07,22.14,0.744,-2,HomeTeam
+2023,16,LosAngelesRams,New Orleans Saints,0.5,122.07,241.87,23.8,105.73,231.27,22.13,0.744,-1,HomeTeam
+2023,17,LosAngelesRams,New York Giants,0.533,121.0,244.62,23.94,105.69,234.56,22.31,0.744,-3,HomeTeam
+2023,18,LosAngelesRams,San Francisco 49ers,0.562,120.29,239.0,23.76,106.82,231.06,22.18,0.744,-3,HomeTeam
+2024,1,LosAngelesRams,Detroit Lions,0,83.0,304.0,20.0,163.0,200.0,26.0,0.762,0,AwayTeam
+2024,2,LosAngelesRams,Arizona Cardinals,0.0,68.0,248.0,15.0,197.0,229.0,33.5,0.762,0,AwayTeam
+2024,3,LosAngelesRams,San Francisco 49ers,0.0,78.0,231.33,19.0,177.0,248.67,30.33,0.762,1,HomeTeam
+2024,4,LosAngelesRams,Chicago Bears,0.333,88.25,224.25,18.75,165.5,219.75,28.75,0.762,-1,AwayTeam
+2024,5,LosAngelesRams,Green Bay Packers,0.25,97.4,226.6,18.8,157.6,216.2,27.8,0.762,-2,AwayTeam
+2024,7,LosAngelesRams,Las Vegas Raiders,0.2,100.33,212.83,19.0,151.67,212.67,25.67,0.762,1,HomeTeam
+2024,8,LosAngelesRams,Minnesota Vikings,0.333,101.29,222.29,20.57,139.14,212.57,24.86,0.762,0,HomeTeam
+2024,9,LosAngelesRams,Seattle Seahawks,0.429,97.12,231.75,21.25,135.12,225.62,24.25,0.762,2,HomeTeam
+2024,10,LosAngelesRams,Miami Dolphins,0.5,94.11,234.56,20.56,127.56,219.56,24.11,0.762,2,AwayTeam
+2024,11,LosAngelesRams,New England Patriots,0.444,95.4,240.6,21.3,127.3,223.3,23.9,0.762,4,HomeTeam
+2024,12,LosAngelesRams,Philadelphia Eagles,0.5,95.09,236.73,21.18,144.27,218.18,25.09,0.762,3,AwayTeam

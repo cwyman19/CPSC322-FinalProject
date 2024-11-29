@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,GreenBayPackers,Chicago Bears,0,69.0,301.0,24.0,139.0,155.0,23.0,0.811,-1,HomeTeam
+2018,2,GreenBayPackers,Minnesota Vikings,1.0,83.5,277.0,26.5,103.5,283.5,26.0,0.811,0,
+2018,3,GreenBayPackers,Washington Redskins,1.0,89.0,264.67,23.33,124.33,262.33,27.67,0.811,0,AwayTeam
+2018,4,GreenBayPackers,Buffalo Bills,0.5,102.0,269.0,23.0,107.75,218.5,20.75,0.811,1,HomeTeam
+2018,5,GreenBayPackers,Detroit Lions,0.667,101.2,299.8,23.0,105.0,208.8,22.8,0.811,-2,AwayTeam
+2018,6,GreenBayPackers,San Francisco 49ers,0.5,103.67,317.33,24.67,116.5,211.83,24.0,0.811,1,HomeTeam
+2018,8,GreenBayPackers,Los Angeles Rams,0.6,104.0,308.14,25.0,119.14,221.71,24.71,0.811,0,AwayTeam
+2018,9,GreenBayPackers,New England Patriots,0.5,105.62,300.88,24.0,119.62,232.75,25.5,0.811,-1,AwayTeam
+2018,10,GreenBayPackers,Miami Dolphins,0.429,115.56,287.67,24.78,120.89,225.0,24.0,0.811,0,HomeTeam
+2018,11,GreenBayPackers,Seattle Seahawks,0.5,108.8,290.0,24.7,126.1,223.0,24.3,0.811,1,AwayTeam
+2018,12,GreenBayPackers,Minnesota Vikings,0.444,106.36,279.27,24.0,122.91,232.27,24.27,0.811,0,AwayTeam
+2018,13,GreenBayPackers,Arizona Cardinals,0.4,105.67,274.92,23.42,127.83,224.0,23.92,0.811,0,AwayTeam
+2018,14,GreenBayPackers,Atlanta Falcons,0.364,108.15,266.23,24.23,126.23,225.0,23.62,0.811,2,HomeTeam
+2018,15,GreenBayPackers,Chicago Bears,0.417,106.71,264.0,23.71,124.36,225.5,23.64,0.811,2,AwayTeam
+2018,16,GreenBayPackers,New York Jets,0.385,108.07,273.93,25.07,119.2,232.0,24.6,0.811,1,HomeTeam
+2018,17,GreenBayPackers,Detroit Lions,0.429,104.19,264.88,23.5,119.88,234.5,25.0,0.811,0,AwayTeam
+2019,1,GreenBayPackers,Chicago Bears,0,47.0,166.0,10.0,46.0,208.0,3.0,0.917,1,HomeTeam
+2019,2,GreenBayPackers,Minnesota Vikings,1.0,95.5,178.5,15.5,122.0,215.5,9.5,0.917,3,HomeTeam
+2019,3,GreenBayPackers,Denver Broncos,1.0,89.33,197.33,19.33,131.0,197.33,11.67,0.917,6,HomeTeam
+2019,4,GreenBayPackers,Philadelphia Eagles,1.0,86.25,251.5,21.25,142.25,188.0,17.25,0.917,4,AwayTeam
+2019,5,GreenBayPackers,Dallas Cowboys,0.75,93.0,244.2,23.8,138.2,238.6,18.6,0.917,7,HomeTeam
+2019,6,GreenBayPackers,Detroit Lions,0.8,105.83,249.67,23.67,124.5,239.33,19.17,0.917,4,HomeTeam
+2019,7,GreenBayPackers,Oakland Raiders,0.833,99.29,274.14,26.29,128.86,252.14,19.86,0.917,6,HomeTeam
+2019,8,GreenBayPackers,Kansas City Chiefs,0.857,101.62,271.88,26.88,123.75,251.75,20.38,0.917,7,HomeTeam
+2019,9,GreenBayPackers,Los Angeles Chargers,0.875,95.33,257.11,25.11,127.67,255.22,21.0,0.917,7,AwayTeam
+2019,10,GreenBayPackers,Carolina Panthers,0.778,102.1,253.9,25.0,126.9,257.8,20.5,0.917,9,HomeTeam
+2019,12,GreenBayPackers,San Francisco 49ers,0.8,103.45,238.18,23.45,125.55,255.0,22.0,0.917,8,AwayTeam
+2019,13,GreenBayPackers,New York Giants,0.727,101.42,238.58,24.08,123.0,253.75,21.25,0.917,11,HomeTeam
+2019,14,GreenBayPackers,Washington Redskins,0.75,107.0,233.08,23.77,122.85,245.08,20.77,0.917,11,HomeTeam
+2019,15,GreenBayPackers,Chicago Bears,0.769,106.5,230.14,23.57,120.93,250.36,20.21,0.917,14,HomeTeam
+2019,16,GreenBayPackers,Minnesota Vikings,0.786,111.67,228.07,23.53,116.67,239.13,19.53,0.917,12,HomeTeam
+2019,17,GreenBayPackers,Detroit Lions,0.8,112.19,233.31,23.5,120.06,232.56,19.56,0.917,12,HomeTeam
+2020,1,GreenBayPackers,Minnesota Vikings,0,158.0,364.0,43.0,134.0,248.0,34.0,1.0,1,HomeTeam
+2020,2,GreenBayPackers,Detroit Lions,1.0,208.5,296.5,42.5,111.5,233.0,27.5,1.0,2,HomeTeam
+2020,3,GreenBayPackers,New Orleans Saints,1.0,171.67,288.0,40.67,115.0,247.0,28.33,1.0,3,HomeTeam
+2020,4,GreenBayPackers,Atlanta Falcons,1.0,150.75,294.75,38.0,105.75,247.5,25.25,1.0,3,HomeTeam
+2020,6,GreenBayPackers,Tampa Bay Buccaneers,1.0,139.4,257.2,32.4,116.2,231.2,27.8,1.0,1,AwayTeam
+2020,7,GreenBayPackers,Houston Texans,0.8,132.17,261.5,32.83,110.0,240.33,26.5,1.0,2,HomeTeam
+2020,8,GreenBayPackers,Minnesota Vikings,0.833,128.86,265.71,31.29,119.0,227.57,26.71,1.0,1,AwayTeam
+2020,9,GreenBayPackers,San Francisco 49ers,0.714,126.62,269.25,31.62,111.0,234.38,25.5,1.0,3,HomeTeam
+2020,10,GreenBayPackers,Jacksonville Jaguars,0.75,121.44,274.33,30.78,110.78,225.11,24.89,1.0,2,HomeTeam
+2020,11,GreenBayPackers,Indianapolis Colts,0.778,115.9,277.0,30.8,113.7,230.6,25.8,1.0,0,AwayTeam
+2020,12,GreenBayPackers,Chicago Bears,0.7,121.91,271.0,31.73,114.36,230.45,25.73,1.0,3,HomeTeam
+2020,13,GreenBayPackers,Philadelphia Eagles,0.727,124.17,272.42,31.58,114.58,224.67,24.92,1.0,4,HomeTeam
+2020,14,GreenBayPackers,Detroit Lions,0.75,123.85,273.77,31.54,109.69,226.0,24.85,1.0,4,HomeTeam
+2020,15,GreenBayPackers,Carolina Panthers,0.769,128.93,261.07,31.0,110.07,227.64,24.21,1.0,5,HomeTeam
+2020,16,GreenBayPackers,Tennessee Titans,0.786,135.93,257.93,31.6,113.13,219.4,23.53,1.0,6,HomeTeam
+2020,17,GreenBayPackers,Chicago Bears,0.8,132.38,256.62,31.81,112.81,221.19,23.06,1.0,7,HomeTeam
+2021,1,GreenBayPackers,New Orleans Saints,0,43.0,186.0,3.0,171.0,151.0,38.0,0.735,-3,AwayTeam
+2021,2,GreenBayPackers,Detroit Lions,0.0,69.5,206.5,19.0,139.5,193.5,27.5,0.735,-1,HomeTeam
+2021,3,GreenBayPackers,San Francisco 49ers,0.5,79.67,222.0,22.67,115.33,206.0,27.67,0.735,1,HomeTeam
+2021,4,GreenBayPackers,Pittsburgh Steelers,0.667,92.5,225.5,23.75,102.0,209.5,25.0,0.735,2,HomeTeam
+2021,5,GreenBayPackers,Cincinnati Bengals,0.75,100.6,247.0,24.0,102.2,220.4,24.4,0.735,3,HomeTeam
+2021,6,GreenBayPackers,Chicago Bears,0.8,109.5,234.0,24.0,108.5,206.5,22.67,0.735,4,HomeTeam
+2021,7,GreenBayPackers,Washington Football Team,0.833,102.0,235.86,24.0,120.86,210.57,20.86,0.735,5,HomeTeam
+2021,8,GreenBayPackers,Arizona Cardinals,0.857,108.12,229.38,24.0,115.0,216.75,20.88,0.735,8,HomeTeam
+2021,9,GreenBayPackers,Kansas City Chiefs,0.875,109.67,223.78,22.11,110.78,210.44,20.0,0.735,6,AwayTeam
+2021,10,GreenBayPackers,Seattle Seahawks,0.778,109.3,230.1,21.6,107.2,202.7,18.0,0.735,7,HomeTeam
+2021,11,GreenBayPackers,Minnesota Vikings,0.8,108.0,243.0,22.45,105.64,213.18,19.45,0.735,7,AwayTeam
+2021,12,GreenBayPackers,Los Angeles Rams,0.727,106.67,248.33,23.58,102.5,219.17,20.17,0.735,9,HomeTeam
+2021,14,GreenBayPackers,Chicago Bears,0.75,107.62,253.85,25.23,105.15,218.46,20.92,0.735,12,HomeTeam
+2021,15,GreenBayPackers,Baltimore Ravens,0.769,106.79,253.57,25.64,107.86,217.93,21.57,0.735,12,HomeTeam
+2021,16,GreenBayPackers,Cleveland Browns,0.786,106.93,250.13,25.53,115.27,216.0,21.6,0.735,16,HomeTeam
+2021,17,GreenBayPackers,Minnesota Vikings,0.8,111.12,253.69,26.25,109.75,213.69,20.88,0.735,16,HomeTeam
+2021,18,GreenBayPackers,Detroit Lions,0.812,111.76,253.82,26.47,109.12,219.06,21.82,0.735,13,AwayTeam
+2022,1,GreenBayPackers,Minnesota Vikings,0,111.0,227.0,7.0,126.0,269.0,23.0,0.862,-2,AwayTeam
+2022,2,GreenBayPackers,Chicago Bears,0.0,157.0,219.0,17.0,153.0,158.5,16.5,0.862,-2,HomeTeam
+2022,3,GreenBayPackers,Tampa Bay Buccaneers,0.5,127.0,228.67,16.0,113.33,189.33,15.0,0.862,-2,HomeTeam
+2022,4,GreenBayPackers,New England Patriots,0.667,145.0,232.5,18.75,126.75,168.0,17.25,0.862,-3,HomeTeam
+2022,5,GreenBayPackers,New York Giants,0.75,134.8,227.4,19.4,126.4,177.0,19.2,0.862,-3,AwayTeam
+2022,6,GreenBayPackers,New York Jets,0.6,122.33,225.83,17.83,135.17,164.0,20.5,0.862,-4,AwayTeam
+2022,7,GreenBayPackers,Washington Commanders,0.5,110.29,221.29,18.29,139.57,168.86,20.86,0.862,-4,AwayTeam
+2022,8,GreenBayPackers,Buffalo Bills,0.429,122.5,217.38,18.12,141.25,174.75,21.62,0.862,-3,AwayTeam
+2022,9,GreenBayPackers,Detroit Lions,0.375,120.67,224.67,17.11,138.56,170.56,20.89,0.862,-5,AwayTeam
+2022,10,GreenBayPackers,Dallas Cowboys,0.333,129.3,223.0,18.5,140.6,179.7,21.6,0.862,-5,HomeTeam
+2022,11,GreenBayPackers,Tennessee Titans,0.4,122.64,222.27,18.36,135.82,192.45,22.09,0.862,-4,AwayTeam
+2022,12,GreenBayPackers,Philadelphia Eagles,0.364,121.25,223.42,19.58,154.75,187.83,23.58,0.862,-5,AwayTeam
+2022,13,GreenBayPackers,Chicago Bears,0.333,125.38,220.23,20.23,154.77,192.92,23.23,0.862,-2,HomeTeam
+2022,15,GreenBayPackers,Los Angeles Rams,0.385,126.29,219.29,20.5,148.86,185.14,22.43,0.862,-3,HomeTeam
+2022,16,GreenBayPackers,Miami Dolphins,0.429,123.13,219.47,20.87,144.4,192.4,22.27,0.862,0,HomeTeam
+2022,17,GreenBayPackers,Minnesota Vikings,0.467,125.62,215.25,22.12,141.75,195.62,21.94,0.862,4,HomeTeam
+2022,18,GreenBayPackers,Detroit Lions,0.5,124.29,213.65,21.76,139.53,197.0,21.82,0.862,2,AwayTeam
+2023,1,GreenBayPackers,Chicago Bears,0,92.0,237.0,38.0,122.0,189.0,20.0,0.818,2,HomeTeam
+2023,2,GreenBayPackers,Atlanta Falcons,1.0,88.0,188.5,31.0,166.5,212.0,22.5,0.818,3,AwayTeam
+2023,3,GreenBayPackers,New Orleans Saints,0.5,90.33,207.33,26.67,136.67,199.67,20.67,0.818,2,HomeTeam
+2023,4,GreenBayPackers,Detroit Lions,0.667,74.5,206.25,25.0,155.25,197.25,24.0,0.818,1,AwayTeam
+2023,5,GreenBayPackers,Las Vegas Raiders,0.5,81.6,200.0,22.6,143.4,194.4,22.6,0.818,-1,AwayTeam
+2023,7,GreenBayPackers,Denver Broncos,0.4,90.83,199.0,21.67,143.67,194.33,22.0,0.818,-2,AwayTeam
+2023,8,GreenBayPackers,Minnesota Vikings,0.333,88.43,198.57,20.0,132.0,207.14,22.29,0.818,-2,AwayTeam
+2023,9,GreenBayPackers,Los Angeles Rams,0.286,100.38,199.62,20.0,124.0,196.12,19.88,0.818,-2,HomeTeam
+2023,10,GreenBayPackers,Pittsburgh Steelers,0.375,102.11,208.89,19.89,133.0,187.56,20.22,0.818,-4,AwayTeam
+2023,11,GreenBayPackers,Los Angeles Chargers,0.333,102.1,217.5,20.2,134.7,193.2,20.2,0.818,-3,HomeTeam
+2023,12,GreenBayPackers,Detroit Lions,0.4,102.73,222.09,21.0,135.18,205.09,20.36,0.818,0,HomeTeam
+2023,13,GreenBayPackers,Kansas City Chiefs,0.455,104.92,224.67,21.5,136.25,203.75,20.25,0.818,1,HomeTeam
+2023,14,GreenBayPackers,New York Giants,0.5,106.31,223.0,21.54,141.85,200.23,20.54,0.818,0,AwayTeam
+2023,15,GreenBayPackers,Tampa Bay Buccaneers,0.462,103.0,225.71,21.43,138.79,211.14,21.5,0.818,0,AwayTeam
+2023,16,GreenBayPackers,Carolina Panthers,0.429,106.93,224.47,22.2,135.93,216.93,22.07,0.818,0,HomeTeam
+2023,17,GreenBayPackers,Minnesota Vikings,0.467,111.31,228.75,22.88,131.62,212.38,21.31,0.818,1,HomeTeam
+2023,18,GreenBayPackers,Chicago Bears,0.5,112.06,233.41,22.53,128.29,206.76,20.59,0.818,0,HomeTeam
+2024,1,GreenBayPackers,Philadelphia Eagles,0,163.0,251.0,29.0,144.0,266.0,34.0,0.76,2,AwayTeam
+2024,2,GreenBayPackers,Indianapolis Colts,0.0,212.0,186.5,22.5,142.0,232.0,22.0,0.76,4,HomeTeam
+2024,3,GreenBayPackers,Tennessee Titans,0.5,204.0,187.67,25.0,105.67,222.67,19.33,0.76,7,HomeTeam
+2024,4,GreenBayPackers,Minnesota Vikings,0.667,174.5,235.5,26.0,109.25,230.5,22.25,0.76,6,AwayTeam
+2024,5,GreenBayPackers,Los Angeles Rams,0.5,164.8,228.8,25.6,114.2,231.6,21.6,0.76,7,HomeTeam
+2024,6,GreenBayPackers,Arizona Cardinals,0.6,167.17,233.67,27.0,110.0,228.67,20.17,0.76,9,HomeTeam
+2024,7,GreenBayPackers,Houston Texans,0.667,155.0,228.14,26.57,114.57,203.86,20.43,0.76,6,HomeTeam
+2024,8,GreenBayPackers,Jacksonville Jaguars,0.714,156.88,231.12,27.0,111.62,215.75,21.25,0.76,7,HomeTeam
+2024,9,GreenBayPackers,Detroit Lions,0.75,154.78,235.78,25.56,113.0,207.0,21.56,0.76,6,AwayTeam
+2024,11,GreenBayPackers,Chicago Bears,0.667,149.9,238.2,25.0,119.6,207.5,21.3,0.76,5,HomeTeam
+2024,12,GreenBayPackers,San Francisco 49ers,0.7,151.64,230.73,26.18,112.73,206.55,20.27,0.76,8,HomeTeam

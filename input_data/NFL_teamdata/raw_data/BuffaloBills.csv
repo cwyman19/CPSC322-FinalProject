@@ -1,4 +1,4 @@
-Week,Day,Date,time,boxscore,Win/Loss,OT,Rec,away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+Week,Day,Date,time,boxscore,Win/Loss,OT,Rec,away,Opp,Tm,OppScore,1stD,TotYd,PassY,RushY,TOL,1stD,TotYd,DPassY,DRushY,TOG,Offense,Defense,Sp. Tms
 1,Sun,September 9,1:00PM ET,boxscore,L,,0-1,@,Baltimore Ravens,3,47,10,153,70,83,2,26,369,252,117,1,-28.71,-7.23,-2.33
 2,Sun,September 16,1:00PM ET,boxscore,L,,0-2,,Los Angeles Chargers,20,31,17,293,209,84,2,21,349,240,109,,-1.04,-14.41,-0.51
 3,Sun,September 23,1:00PM ET,boxscore,W,,1-2,@,Minnesota Vikings,27,6,16,292,164,128,,21,292,278,14,3,3.26,10.71,3.62

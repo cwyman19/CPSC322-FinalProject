@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,KansasCityChiefs,Los Angeles Chargers,0,106.0,256.0,38.0,123.0,418.0,28.0,0.889,2,HomeTeam
+2018,2,KansasCityChiefs,Pittsburgh Steelers,1.0,116.5,289.0,40.0,78.0,430.0,32.5,0.889,1,HomeTeam
+2018,3,KansasCityChiefs,San Francisco 49ers,1.0,103.33,295.0,39.33,111.33,362.67,30.67,0.889,1,HomeTeam
+2018,4,KansasCityChiefs,Denver Broncos,1.0,113.0,297.25,36.25,123.25,328.5,28.75,0.889,2,HomeTeam
+2018,5,KansasCityChiefs,Jacksonville Jaguars,1.0,115.6,297.4,35.0,118.8,343.0,25.8,0.889,5,HomeTeam
+2018,6,KansasCityChiefs,New England Patriots,1.0,112.0,306.5,35.83,127.83,340.33,28.67,0.889,4,AwayTeam
+2018,7,KansasCityChiefs,Cincinnati Bengals,0.833,124.29,313.14,37.14,118.86,316.57,26.0,0.889,4,HomeTeam
+2018,8,KansasCityChiefs,Denver Broncos,0.857,114.88,310.38,36.25,127.62,304.75,25.62,0.889,5,HomeTeam
+2018,9,KansasCityChiefs,Cleveland Browns,0.875,117.56,315.89,36.33,124.78,302.67,25.11,0.889,5,HomeTeam
+2018,10,KansasCityChiefs,Arizona Cardinals,0.889,117.6,305.5,35.3,121.7,289.0,24.0,0.889,7,HomeTeam
+2018,11,KansasCityChiefs,Los Angeles Rams,0.9,115.82,318.45,36.73,117.55,297.18,26.73,0.889,4,AwayTeam
+2018,13,KansasCityChiefs,Oakland Raiders,0.818,120.67,316.5,37.0,122.0,295.0,27.25,0.889,6,HomeTeam
+2018,14,KansasCityChiefs,Baltimore Ravens,0.833,118.62,318.92,36.23,127.54,282.08,27.0,0.889,6,HomeTeam
+2018,15,KansasCityChiefs,Los Angeles Chargers,0.846,114.43,312.86,35.64,126.93,282.5,27.14,0.889,8,AwayTeam
+2018,16,KansasCityChiefs,Seattle Seahawks,0.786,117.07,309.67,35.33,132.47,280.6,27.87,0.889,6,AwayTeam
+2018,17,KansasCityChiefs,Oakland Raiders,0.733,115.94,309.69,35.31,132.12,273.38,26.31,0.889,9,HomeTeam
+2019,1,KansasCityChiefs,Jacksonville Jaguars,0,113.0,378.0,40.0,81.0,347.0,26.0,0.895,2,HomeTeam
+2019,2,KansasCityChiefs,Oakland Raiders,1.0,72.0,407.0,34.0,105.0,262.5,18.0,0.895,3,HomeTeam
+2019,3,KansasCityChiefs,Baltimore Ravens,1.0,94.67,392.33,33.67,137.67,258.0,21.33,0.895,3,HomeTeam
+2019,4,KansasCityChiefs,Detroit Lions,1.0,101.75,373.0,33.75,149.75,258.75,23.5,0.895,2,HomeTeam
+2019,5,KansasCityChiefs,Indianapolis Colts,1.0,88.6,356.0,29.6,155.8,237.2,22.6,0.895,2,AwayTeam
+2019,6,KansasCityChiefs,Houston Texans,0.8,82.67,339.33,28.67,161.83,244.33,24.0,0.895,3,AwayTeam
+2019,7,KansasCityChiefs,Denver Broncos,0.667,82.29,318.14,28.86,148.86,228.57,21.43,0.895,4,HomeTeam
+2019,8,KansasCityChiefs,Green Bay Packers,0.714,83.0,309.5,28.25,145.0,232.0,22.62,0.895,3,AwayTeam
+2019,9,KansasCityChiefs,Minnesota Vikings,0.625,90.11,300.67,28.0,139.56,229.78,22.67,0.895,2,HomeTeam
+2019,10,KansasCityChiefs,Tennessee Titans,0.667,90.8,313.9,28.4,148.1,221.4,23.9,0.895,2,AwayTeam
+2019,11,KansasCityChiefs,Los Angeles Chargers,0.6,94.36,301.73,28.0,143.09,232.64,23.27,0.895,5,HomeTeam
+2019,13,KansasCityChiefs,Oakland Raiders,0.636,94.5,290.17,29.0,141.33,230.75,22.08,0.895,8,HomeTeam
+2019,14,KansasCityChiefs,New England Patriots,0.667,93.0,288.69,28.54,137.69,227.15,21.62,0.895,7,HomeTeam
+2019,15,KansasCityChiefs,Denver Broncos,0.692,92.93,291.43,28.14,131.57,225.14,20.29,0.895,7,HomeTeam
+2019,16,KansasCityChiefs,Chicago Bears,0.714,93.8,288.27,28.0,129.53,219.0,19.13,0.895,7,HomeTeam
+2019,17,KansasCityChiefs,Los Angeles Chargers,0.733,98.06,281.12,28.19,128.19,221.44,19.25,0.895,8,HomeTeam
+2020,1,KansasCityChiefs,Houston Texans,0,166.0,203.0,34.0,118.0,242.0,20.0,0.826,1,HomeTeam
+2020,2,KansasCityChiefs,Los Angeles Chargers,1.0,145.5,246.0,28.5,150.5,269.0,20.0,0.826,2,HomeTeam
+2020,3,KansasCityChiefs,Baltimore Ravens,1.0,141.0,292.33,30.33,153.0,202.67,20.0,0.826,2,HomeTeam
+2020,4,KansasCityChiefs,New England Patriots,1.0,129.25,276.5,29.25,161.0,195.0,17.5,0.826,5,HomeTeam
+2020,5,KansasCityChiefs,Las Vegas Raiders,1.0,119.4,287.8,29.8,157.6,225.2,22.0,0.826,5,AwayTeam
+2020,6,KansasCityChiefs,Buffalo Bills,0.8,140.33,276.67,29.17,145.33,208.0,21.17,0.826,5,HomeTeam
+2020,7,KansasCityChiefs,Denver Broncos,0.833,134.71,263.57,31.14,149.86,211.71,20.43,0.826,8,HomeTeam
+2020,8,KansasCityChiefs,New York Jets,0.857,124.12,286.38,31.62,142.75,201.25,19.0,0.826,9,HomeTeam
+2020,9,KansasCityChiefs,Carolina Panthers,0.875,114.33,294.67,31.78,138.44,215.67,20.33,0.826,8,HomeTeam
+2020,11,KansasCityChiefs,Las Vegas Raiders,0.889,113.7,300.4,32.1,133.5,221.6,21.4,0.826,8,HomeTeam
+2020,12,KansasCityChiefs,Tampa Bay Buccaneers,0.9,111.27,314.55,31.64,128.18,232.55,21.64,0.826,9,HomeTeam
+2020,13,KansasCityChiefs,Denver Broncos,0.909,113.17,314.42,30.83,132.42,225.75,21.17,0.826,11,HomeTeam
+2020,14,KansasCityChiefs,Miami Dolphins,0.917,111.69,317.46,31.0,128.38,230.46,21.62,0.826,8,HomeTeam
+2020,15,KansasCityChiefs,New Orleans Saints,0.923,116.5,311.36,31.07,123.5,230.07,22.14,0.826,8,HomeTeam
+2020,16,KansasCityChiefs,Atlanta Falcons,0.929,116.53,309.13,30.13,121.27,233.2,21.6,0.826,7,HomeTeam
+2020,17,KansasCityChiefs,Los Angeles Chargers,0.933,112.44,303.38,29.56,122.12,236.19,22.62,0.826,6,AwayTeam
+2021,1,KansasCityChiefs,Cleveland Browns,0,73.0,324.0,33.0,153.0,304.0,29.0,0.875,2,HomeTeam
+2021,2,KansasCityChiefs,Baltimore Ravens,1.0,67.5,333.5,34.0,202.0,267.0,32.5,0.875,2,AwayTeam
+2021,3,KansasCityChiefs,Los Angeles Chargers,0.5,107.0,306.0,30.67,160.33,269.67,31.67,0.875,-2,AwayTeam
+2021,4,KansasCityChiefs,Philadelphia Eagles,0.333,130.25,297.25,33.5,146.0,291.75,31.25,0.875,-3,HomeTeam
+2021,5,KansasCityChiefs,Buffalo Bills,0.5,128.2,292.2,30.8,141.0,296.4,32.6,0.875,-7,AwayTeam
+2021,6,KansasCityChiefs,Washington Football Team,0.4,125.0,308.5,30.83,133.17,277.33,29.33,0.875,-8,HomeTeam
+2021,7,KansasCityChiefs,Tennessee Titans,0.5,118.14,301.14,26.86,128.86,275.71,29.0,0.875,-10,AwayTeam
+2021,8,KansasCityChiefs,New York Giants,0.429,116.75,296.12,26.0,121.75,269.75,27.5,0.875,-11,HomeTeam
+2021,9,KansasCityChiefs,Green Bay Packers,0.5,112.33,281.0,24.56,121.78,259.67,25.22,0.875,-9,HomeTeam
+2021,10,KansasCityChiefs,Las Vegas Raiders,0.556,110.5,295.1,26.2,114.6,258.6,24.1,0.875,-8,HomeTeam
+2021,11,KansasCityChiefs,Dallas Cowboys,0.6,111.91,290.45,25.55,111.64,252.73,22.73,0.875,-7,HomeTeam
+2021,13,KansasCityChiefs,Denver Broncos,0.636,110.0,281.08,25.25,115.17,252.5,21.58,0.875,-5,HomeTeam
+2021,14,KansasCityChiefs,Las Vegas Raiders,0.667,111.69,277.92,27.0,109.69,252.0,20.62,0.875,0,HomeTeam
+2021,15,KansasCityChiefs,Los Angeles Chargers,0.692,109.86,287.36,27.5,115.57,250.86,21.14,0.875,0,HomeTeam
+2021,16,KansasCityChiefs,Pittsburgh Steelers,0.714,111.0,285.13,28.07,116.53,245.67,20.4,0.875,3,HomeTeam
+2021,17,KansasCityChiefs,Cincinnati Bengals,0.733,113.75,283.5,28.25,113.0,256.25,21.25,0.875,3,AwayTeam
+2021,18,KansasCityChiefs,Denver Broncos,0.688,115.0,281.82,28.24,117.59,251.35,21.41,0.875,4,HomeTeam
+2022,1,KansasCityChiefs,Arizona Cardinals,0,128.0,360.0,44.0,103.0,179.0,21.0,0.75,-1,HomeTeam
+2022,2,KansasCityChiefs,Los Angeles Chargers,1.0,110.5,293.0,35.5,89.0,252.5,22.5,0.75,0,HomeTeam
+2022,3,KansasCityChiefs,Indianapolis Colts,1.0,93.0,281.0,29.33,86.67,227.33,21.67,0.75,-1,AwayTeam
+2022,4,KansasCityChiefs,Tampa Bay Buccaneers,0.667,117.0,267.75,32.25,65.75,263.75,24.0,0.75,0,HomeTeam
+2022,5,KansasCityChiefs,Las Vegas Raiders,0.75,114.2,267.2,31.8,83.6,255.6,25.0,0.75,0,HomeTeam
+2022,6,KansasCityChiefs,Buffalo Bills,0.8,106.5,275.83,29.83,90.5,266.0,24.83,0.75,-1,AwayTeam
+2022,7,KansasCityChiefs,San Francisco 49ers,0.667,107.29,296.0,31.86,92.0,277.0,24.57,0.75,0,HomeTeam
+2022,9,KansasCityChiefs,Tennessee Titans,0.714,103.5,311.75,30.38,102.0,249.5,23.62,0.75,-1,HomeTeam
+2022,10,KansasCityChiefs,Jacksonville Jaguars,0.75,109.22,313.89,30.0,99.0,248.44,22.89,0.75,-4,HomeTeam
+2022,11,KansasCityChiefs,Los Angeles Chargers,0.778,114.6,314.7,30.0,100.6,248.6,23.3,0.75,-3,HomeTeam
+2022,12,KansasCityChiefs,Los Angeles Rams,0.8,114.82,315.18,29.64,102.0,233.45,22.09,0.75,-3,HomeTeam
+2022,13,KansasCityChiefs,Cincinnati Bengals,0.818,116.75,306.5,29.17,106.17,237.25,22.5,0.75,-4,AwayTeam
+2022,14,KansasCityChiefs,Denver Broncos,0.75,114.62,309.23,29.54,106.15,235.46,22.92,0.75,-5,HomeTeam
+2022,15,KansasCityChiefs,Houston Texans,0.769,119.93,309.5,29.57,105.29,227.57,23.0,0.75,-6,HomeTeam
+2022,16,KansasCityChiefs,Seattle Seahawks,0.786,117.07,303.53,29.2,107.13,225.73,22.13,0.75,-5,HomeTeam
+2022,17,KansasCityChiefs,Denver Broncos,0.8,112.62,305.06,29.06,107.75,223.5,22.25,0.75,-5,HomeTeam
+2022,18,KansasCityChiefs,Las Vegas Raiders,0.812,115.88,297.76,29.18,107.24,220.94,21.71,0.75,-3,HomeTeam
+2023,1,KansasCityChiefs,Detroit Lions,0,90.0,226.0,20.0,118.0,250.0,21.0,0.943,0,AwayTeam
+2023,2,KansasCityChiefs,Jacksonville Jaguars,0.0,95.5,262.0,18.5,96.0,223.5,15.0,0.943,-2,HomeTeam
+2023,3,KansasCityChiefs,Chicago Bears,0.5,114.67,275.67,26.0,102.67,178.0,13.33,0.943,-2,HomeTeam
+2023,4,KansasCityChiefs,New York Jets,0.667,137.0,256.0,25.25,104.0,190.5,15.0,0.943,-3,HomeTeam
+2023,5,KansasCityChiefs,Minnesota Vikings,0.75,123.0,258.0,25.6,97.2,204.2,16.0,0.943,-2,HomeTeam
+2023,6,KansasCityChiefs,Denver Broncos,0.8,118.5,263.83,24.5,100.17,183.83,14.67,0.943,0,HomeTeam
+2023,7,KansasCityChiefs,Los Angeles Chargers,0.833,111.29,285.43,25.43,105.71,188.86,15.0,0.943,0,HomeTeam
+2023,8,KansasCityChiefs,Denver Broncos,0.857,105.12,276.25,23.38,111.62,176.12,16.12,0.943,-4,AwayTeam
+2023,9,KansasCityChiefs,Miami Dolphins,0.75,103.78,264.89,23.11,112.22,176.0,15.89,0.943,-4,HomeTeam
+2023,11,KansasCityChiefs,Philadelphia Eagles,0.778,110.2,255.2,22.5,112.4,170.8,16.4,0.943,-5,AwayTeam
+2023,12,KansasCityChiefs,Las Vegas Raiders,0.7,106.45,258.45,23.27,113.36,176.64,16.45,0.943,-5,HomeTeam
+2023,13,KansasCityChiefs,Green Bay Packers,0.727,109.92,252.67,22.92,114.67,183.0,17.33,0.943,-6,AwayTeam
+2023,14,KansasCityChiefs,Buffalo Bills,0.667,107.77,253.54,22.46,114.92,185.0,17.54,0.943,-7,AwayTeam
+2023,15,KansasCityChiefs,New England Patriots,0.615,103.14,255.64,22.79,110.43,182.79,17.5,0.943,-8,HomeTeam
+2023,16,KansasCityChiefs,Las Vegas Raiders,0.643,101.93,253.47,22.2,113.53,173.8,17.67,0.943,-10,AwayTeam
+2023,17,KansasCityChiefs,Cincinnati Bengals,0.6,103.81,252.69,22.38,112.94,172.88,17.62,0.943,-11,HomeTeam
+2023,18,KansasCityChiefs,Los Angeles Chargers,0.625,104.94,246.35,21.82,113.24,176.53,17.29,0.943,-11,HomeTeam
+2024,1,KansasCityChiefs,Baltimore Ravens,0,72.0,281.0,27.0,185.0,267.0,20.0,0.913,0,HomeTeam
+2024,2,KansasCityChiefs,Cincinnati Bengals,1.0,110.5,209.0,26.5,129.5,256.5,22.5,0.913,-2,HomeTeam
+2024,3,KansasCityChiefs,Atlanta Falcons,1.0,116.33,211.67,25.0,113.67,247.33,20.67,0.913,-2,HomeTeam
+2024,4,KansasCityChiefs,Los Angeles Chargers,1.0,112.5,215.75,23.0,99.0,227.75,18.0,0.913,-4,HomeTeam
+2024,5,KansasCityChiefs,New Orleans Saints,1.0,117.8,236.8,23.6,88.4,217.0,17.0,0.913,-4,HomeTeam
+2024,7,KansasCityChiefs,San Francisco 49ers,1.0,128.83,221.5,24.33,90.5,215.67,17.17,0.913,-3,HomeTeam
+2024,8,KansasCityChiefs,Las Vegas Raiders,1.0,122.14,225.86,24.71,82.29,212.71,17.57,0.913,-3,HomeTeam
+2024,9,KansasCityChiefs,Tampa Bay Buccaneers,1.0,122.38,230.12,25.38,83.88,209.75,18.38,0.913,-4,HomeTeam
+2024,10,KansasCityChiefs,Denver Broncos,1.0,115.11,231.56,24.33,83.22,206.67,17.89,0.913,-4,HomeTeam
+2024,11,KansasCityChiefs,Buffalo Bills,1.0,111.4,226.5,24.0,85.3,212.2,19.1,0.913,-5,AwayTeam
+2024,12,KansasCityChiefs,Carolina Panthers,0.9,116.27,226.45,24.55,85.27,215.55,19.82,0.913,-5,HomeTeam

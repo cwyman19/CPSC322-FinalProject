@@ -1,0 +1,112 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,NewEnglandPatriots,Houston Texans,0,122.0,267.0,27.0,167.0,158.0,20.0,0.844,-1,HomeTeam
+2018,2,NewEnglandPatriots,Jacksonville Jaguars,1.0,102.0,243.5,23.5,135.5,267.0,25.5,0.844,0,AwayTeam
+2018,3,NewEnglandPatriots,Detroit Lions,0.5,97.67,202.33,19.0,143.33,263.0,25.67,0.844,0,AwayTeam
+2018,4,NewEnglandPatriots,Miami Dolphins,0.333,117.0,220.25,23.75,121.5,226.25,21.0,0.844,0,HomeTeam
+2018,5,NewEnglandPatriots,Indianapolis Colts,0.5,113.0,244.4,26.6,114.0,252.0,21.6,0.844,1,HomeTeam
+2018,6,NewEnglandPatriots,Kansas City Chiefs,0.6,123.0,258.17,29.33,110.67,268.67,24.67,0.844,2,HomeTeam
+2018,7,NewEnglandPatriots,Chicago Bears,0.667,120.86,260.29,30.57,114.0,275.86,25.57,0.844,1,HomeTeam
+2018,8,NewEnglandPatriots,Buffalo Bills,0.714,115.25,266.62,29.88,105.5,277.25,23.12,0.844,3,HomeTeam
+2018,9,NewEnglandPatriots,Green Bay Packers,0.75,116.11,271.44,30.0,106.78,274.22,22.44,0.844,4,HomeTeam
+2018,10,NewEnglandPatriots,Tennessee Titans,0.778,108.5,268.7,28.0,111.1,270.3,23.6,0.844,4,AwayTeam
+2018,12,NewEnglandPatriots,New York Jets,0.7,118.18,270.0,27.91,107.73,269.73,22.64,0.844,5,HomeTeam
+2018,13,NewEnglandPatriots,Minnesota Vikings,0.727,121.67,273.42,27.58,106.67,262.5,21.58,0.844,6,HomeTeam
+2018,14,NewEnglandPatriots,Miami Dolphins,0.75,118.23,278.85,28.0,113.0,259.46,22.54,0.844,6,AwayTeam
+2018,15,NewEnglandPatriots,Pittsburgh Steelers,0.692,116.64,278.36,26.71,116.21,256.5,22.14,0.844,7,AwayTeam
+2018,16,NewEnglandPatriots,Buffalo Bills,0.643,127.07,267.6,26.53,113.27,253.87,21.47,0.844,7,HomeTeam
+2018,17,NewEnglandPatriots,New York Jets,0.667,127.31,266.12,27.25,112.69,246.44,20.31,0.844,10,HomeTeam
+2019,1,NewEnglandPatriots,Pittsburgh Steelers,0,99.0,366.0,33.0,32.0,276.0,3.0,0.794,1,HomeTeam
+2019,2,NewEnglandPatriots,Miami Dolphins,1.0,111.5,310.5,38.0,37.0,209.0,1.5,0.794,4,HomeTeam
+2019,3,NewEnglandPatriots,New York Jets,1.0,97.0,311.33,35.33,36.67,162.33,5.67,0.794,3,HomeTeam
+2019,4,NewEnglandPatriots,Buffalo Bills,1.0,91.25,271.0,30.5,61.25,181.75,6.75,0.794,6,HomeTeam
+2019,5,NewEnglandPatriots,Washington Redskins,1.0,99.0,279.2,31.0,78.0,161.0,6.8,0.794,7,HomeTeam
+2019,6,NewEnglandPatriots,New York Giants,1.0,101.5,284.83,31.67,73.67,161.0,8.0,0.794,9,HomeTeam
+2019,7,NewEnglandPatriots,New York Jets,1.0,97.57,279.71,31.86,74.71,148.43,6.86,0.794,14,HomeTeam
+2019,8,NewEnglandPatriots,Cleveland Browns,1.0,95.25,274.62,31.25,85.25,148.75,7.62,0.794,17,HomeTeam
+2019,9,NewEnglandPatriots,Baltimore Ravens,1.0,92.89,273.89,30.0,99.11,150.22,10.89,0.794,17,AwayTeam
+2019,11,NewEnglandPatriots,Philadelphia Eagles,0.889,91.0,268.9,28.7,97.3,152.6,10.8,0.794,18,HomeTeam
+2019,12,NewEnglandPatriots,Dallas Cowboys,0.9,91.91,260.91,27.27,98.36,158.0,10.64,0.794,19,HomeTeam
+2019,13,NewEnglandPatriots,Houston Texans,0.909,96.33,264.42,26.83,94.5,163.5,12.08,0.794,18,AwayTeam
+2019,14,NewEnglandPatriots,Kansas City Chiefs,0.833,96.15,258.23,26.0,93.0,171.77,12.92,0.794,19,AwayTeam
+2019,15,NewEnglandPatriots,Cincinnati Bengals,0.769,101.79,248.07,26.57,98.07,170.29,12.93,0.794,24,HomeTeam
+2019,16,NewEnglandPatriots,Buffalo Bills,0.786,104.53,249.6,26.4,97.67,170.67,13.2,0.794,23,HomeTeam
+2019,17,NewEnglandPatriots,Miami Dolphins,0.8,106.44,247.56,26.25,95.5,180.38,14.06,0.794,21,AwayTeam
+2020,1,NewEnglandPatriots,Miami Dolphins,0,217.0,140.0,21.0,87.0,182.0,11.0,0.929,2,HomeTeam
+2020,2,NewEnglandPatriots,Seattle Seahawks,1.0,142.0,268.5,25.5,120.5,228.5,23.0,0.929,2,AwayTeam
+2020,3,NewEnglandPatriots,Las Vegas Raiders,0.5,178.0,231.0,29.0,122.33,235.33,22.0,0.929,4,HomeTeam
+2020,4,NewEnglandPatriots,Kansas City Chiefs,0.667,179.75,216.25,24.25,115.25,233.75,23.0,0.929,1,AwayTeam
+2020,6,NewEnglandPatriots,Denver Broncos,0.5,167.2,207.2,21.8,119.2,219.8,22.0,0.929,0,AwayTeam
+2020,7,NewEnglandPatriots,San Francisco 49ers,0.4,155.0,197.17,19.17,132.17,228.17,23.83,0.929,-2,AwayTeam
+2020,8,NewEnglandPatriots,Buffalo Bills,0.333,159.71,192.0,19.43,140.43,216.86,23.86,0.929,-2,AwayTeam
+2020,9,NewEnglandPatriots,New York Jets,0.286,159.62,202.25,20.75,131.0,221.88,24.25,0.929,-1,HomeTeam
+2020,10,NewEnglandPatriots,Baltimore Ravens,0.375,161.11,194.78,21.0,129.22,224.11,23.44,0.929,0,HomeTeam
+2020,11,NewEnglandPatriots,Houston Texans,0.444,153.6,210.2,20.9,121.8,236.1,23.8,0.929,0,AwayTeam
+2020,12,NewEnglandPatriots,Arizona Cardinals,0.4,149.64,197.36,20.82,123.27,229.18,23.18,0.929,-1,HomeTeam
+2020,13,NewEnglandPatriots,Los Angeles Chargers,0.455,150.92,191.42,22.83,118.83,225.75,21.25,0.929,1,HomeTeam
+2020,14,NewEnglandPatriots,Los Angeles Rams,0.5,147.54,185.38,21.31,124.0,218.54,21.46,0.929,1,AwayTeam
+2020,15,NewEnglandPatriots,Miami Dolphins,0.462,145.36,185.43,20.64,133.0,212.43,21.5,0.929,1,AwayTeam
+2020,16,NewEnglandPatriots,Buffalo Bills,0.429,145.33,176.8,19.87,132.8,221.2,22.6,0.929,1,AwayTeam
+2020,17,NewEnglandPatriots,New York Jets,0.4,146.62,180.62,20.38,131.44,222.31,22.06,0.929,3,HomeTeam
+2021,1,NewEnglandPatriots,Miami Dolphins,0,125.0,268.0,16.0,74.0,185.0,17.0,0.923,-1,AwayTeam
+2021,2,NewEnglandPatriots,New York Jets,0.0,113.0,213.5,20.5,113.0,184.5,11.5,0.923,3,HomeTeam
+2021,3,NewEnglandPatriots,New Orleans Saints,0.5,91.67,226.0,18.0,122.67,159.67,17.0,0.923,0,AwayTeam
+2021,4,NewEnglandPatriots,Tampa Bay Buccaneers,0.333,68.5,243.25,17.75,122.0,185.0,17.5,0.923,-2,AwayTeam
+2021,5,NewEnglandPatriots,Houston Texans,0.25,80.0,239.8,19.2,111.0,206.6,18.4,0.923,-3,HomeTeam
+2021,6,NewEnglandPatriots,Dallas Cowboys,0.4,86.67,235.67,20.83,112.83,246.33,21.17,0.923,-3,AwayTeam
+2021,7,NewEnglandPatriots,New York Jets,0.333,95.43,259.57,25.57,105.57,245.0,20.0,0.923,0,HomeTeam
+2021,8,NewEnglandPatriots,Los Angeles Chargers,0.429,101.25,253.38,25.75,112.75,240.12,20.5,0.923,1,HomeTeam
+2021,9,NewEnglandPatriots,Carolina Panthers,0.5,106.78,238.78,25.56,108.89,231.44,18.89,0.923,2,HomeTeam
+2021,10,NewEnglandPatriots,Cleveland Browns,0.556,114.5,241.7,27.5,107.9,220.1,17.7,0.923,3,HomeTeam
+2021,11,NewEnglandPatriots,Atlanta Falcons,0.6,116.27,235.55,27.27,101.73,211.45,16.09,0.923,6,HomeTeam
+2021,12,NewEnglandPatriots,Tennessee Titans,0.636,115.33,240.0,28.0,115.75,200.92,15.83,0.923,10,HomeTeam
+2021,13,NewEnglandPatriots,Buffalo Bills,0.667,123.54,223.0,26.92,114.46,195.54,15.38,0.923,10,HomeTeam
+2021,15,NewEnglandPatriots,Indianapolis Colts,0.692,120.5,227.36,26.21,122.43,185.07,16.21,0.923,9,AwayTeam
+2021,16,NewEnglandPatriots,Buffalo Bills,0.643,122.4,221.47,25.87,121.87,193.67,17.33,0.923,7,AwayTeam
+2021,17,NewEnglandPatriots,Jacksonville Jaguars,0.6,126.06,225.75,27.38,119.25,192.38,16.88,0.923,10,HomeTeam
+2021,18,NewEnglandPatriots,Miami Dolphins,0.625,126.53,226.88,27.18,123.71,187.12,17.82,0.923,7,AwayTeam
+2022,1,NewEnglandPatriots,Miami Dolphins,0,78.0,193.0,7.0,65.0,242.0,20.0,0.865,-3,AwayTeam
+2022,2,NewEnglandPatriots,Pittsburgh Steelers,0.0,101.0,222.5,12.0,78.0,197.0,17.0,0.865,-2,HomeTeam
+2022,3,NewEnglandPatriots,Baltimore Ravens,0.5,115.67,249.0,16.67,114.67,200.0,23.67,0.865,-4,AwayTeam
+2022,4,NewEnglandPatriots,Green Bay Packers,0.333,128.5,212.75,18.5,135.75,211.0,24.5,0.865,-3,AwayTeam
+2022,5,NewEnglandPatriots,Detroit Lions,0.25,138.0,207.8,20.6,128.8,211.0,19.6,0.865,-2,HomeTeam
+2022,6,NewEnglandPatriots,Cleveland Browns,0.4,131.33,223.33,23.5,119.0,218.83,18.83,0.865,1,HomeTeam
+2022,7,NewEnglandPatriots,Chicago Bears,0.5,122.57,218.57,22.14,136.71,208.57,20.86,0.865,-2,AwayTeam
+2022,8,NewEnglandPatriots,New York Jets,0.429,123.12,211.38,22.12,126.0,224.5,20.38,0.865,0,HomeTeam
+2022,9,NewEnglandPatriots,Indianapolis Colts,0.5,117.22,202.67,22.56,120.67,204.33,18.44,0.865,0,HomeTeam
+2022,11,NewEnglandPatriots,New York Jets,0.556,115.4,202.2,21.3,114.5,188.3,16.9,0.865,0,HomeTeam
+2022,12,NewEnglandPatriots,Minnesota Vikings,0.6,109.0,216.91,21.73,109.27,198.55,18.36,0.865,1,AwayTeam
+2022,13,NewEnglandPatriots,Buffalo Bills,0.545,104.92,214.0,20.75,111.17,200.58,18.83,0.865,2,AwayTeam
+2022,14,NewEnglandPatriots,Arizona Cardinals,0.5,104.77,214.85,21.23,111.31,201.31,18.38,0.865,3,HomeTeam
+2022,15,NewEnglandPatriots,Las Vegas Raiders,0.538,112.0,207.5,21.43,110.29,202.0,19.21,0.865,3,AwayTeam
+2022,16,NewEnglandPatriots,Cincinnati Bengals,0.5,108.6,208.6,21.2,107.8,213.13,19.4,0.865,5,AwayTeam
+2022,17,NewEnglandPatriots,Miami Dolphins,0.467,106.56,206.38,21.31,106.44,215.25,19.5,0.865,7,HomeTeam
+2022,18,NewEnglandPatriots,Buffalo Bills,0.5,106.59,208.0,21.41,105.47,216.53,20.41,0.865,7,AwayTeam
+2023,1,NewEnglandPatriots,Philadelphia Eagles,0,76.0,306.0,20.0,97.0,154.0,25.0,0.64,-1,AwayTeam
+2023,2,NewEnglandPatriots,Miami Dolphins,0.0,82.0,253.0,18.5,121.0,199.0,24.5,0.64,-2,AwayTeam
+2023,3,NewEnglandPatriots,New York Jets,0.0,107.0,235.67,17.33,93.33,177.0,19.67,0.64,-2,HomeTeam
+2023,4,NewEnglandPatriots,Dallas Cowboys,0.333,93.5,226.75,13.75,101.0,196.0,24.25,0.64,-5,AwayTeam
+2023,5,NewEnglandPatriots,New Orleans Saints,0.25,83.8,203.6,11.0,108.0,190.4,26.2,0.64,-8,AwayTeam
+2023,6,NewEnglandPatriots,Las Vegas Raiders,0.2,83.67,199.0,12.0,104.0,202.67,25.33,0.64,-8,AwayTeam
+2023,7,NewEnglandPatriots,Buffalo Bills,0.167,85.43,208.86,14.43,100.71,210.57,25.29,0.64,-7,HomeTeam
+2023,8,NewEnglandPatriots,Miami Dolphins,0.286,84.38,200.38,14.75,97.88,223.25,26.0,0.64,-6,AwayTeam
+2023,9,NewEnglandPatriots,Washington Commanders,0.25,86.89,202.56,15.0,100.78,232.67,25.33,0.64,-5,AwayTeam
+2023,10,NewEnglandPatriots,Indianapolis Colts,0.222,94.9,199.6,14.1,97.7,228.8,23.8,0.64,-6,AwayTeam
+2023,12,NewEnglandPatriots,New York Giants,0.2,99.64,193.82,13.45,94.09,222.73,22.55,0.64,-8,AwayTeam
+2023,13,NewEnglandPatriots,Los Angeles Chargers,0.182,103.67,186.75,12.33,88.67,221.83,21.17,0.64,-9,AwayTeam
+2023,14,NewEnglandPatriots,Pittsburgh Steelers,0.167,101.92,189.46,13.0,88.15,218.77,20.92,0.64,-9,HomeTeam
+2023,15,NewEnglandPatriots,Kansas City Chiefs,0.231,98.36,186.93,13.29,84.93,223.36,21.36,0.64,-8,AwayTeam
+2023,16,NewEnglandPatriots,Denver Broncos,0.214,95.73,189.8,14.13,84.8,221.33,21.47,0.64,-7,HomeTeam
+2023,17,NewEnglandPatriots,Buffalo Bills,0.267,96.19,189.88,14.56,87.44,217.12,21.81,0.64,-10,AwayTeam
+2023,18,NewEnglandPatriots,New York Jets,0.25,95.71,180.53,13.88,93.18,208.41,21.53,0.64,-11,AwayTeam
+2024,1,NewEnglandPatriots,Cincinnati Bengals,0,170.0,120.0,16.0,70.0,154.0,10.0,0.826,2,HomeTeam
+2024,2,NewEnglandPatriots,Seattle Seahawks,1.0,177.5,122.5,18.0,58.0,233.0,16.5,0.826,2,AwayTeam
+2024,3,NewEnglandPatriots,New York Jets,0.5,144.33,102.0,13.0,83.0,244.33,19.0,0.826,1,AwayTeam
+2024,4,NewEnglandPatriots,San Francisco 49ers,0.333,126.5,112.25,13.0,99.25,254.0,21.75,0.826,0,AwayTeam
+2024,5,NewEnglandPatriots,Miami Dolphins,0.25,131.4,119.4,12.4,118.0,239.0,20.4,0.826,2,AwayTeam
+2024,6,NewEnglandPatriots,Houston Texans,0.2,123.17,134.33,13.83,130.33,228.5,23.83,0.826,-1,AwayTeam
+2024,7,NewEnglandPatriots,Jacksonville Jaguars,0.167,111.0,151.86,14.14,136.14,223.43,25.0,0.826,-1,AwayTeam
+2024,8,NewEnglandPatriots,New York Jets,0.143,111.12,149.88,15.5,133.12,223.5,24.62,0.826,-1,HomeTeam
+2024,9,NewEnglandPatriots,Tennessee Titans,0.25,111.0,153.78,15.67,136.89,224.56,24.11,0.826,-3,AwayTeam
+2024,10,NewEnglandPatriots,Chicago Bears,0.222,114.3,156.8,16.0,130.5,209.0,22.0,0.826,-4,HomeTeam
+2024,11,NewEnglandPatriots,Los Angeles Rams,0.3,115.27,165.91,16.55,128.36,216.82,22.55,0.826,-6,AwayTeam
+2024,12,NewEnglandPatriots,Miami Dolphins,0.273,112.83,167.33,16.42,123.08,224.42,23.5,0.826,-7,AwayTeam

@@ -1,0 +1,112 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,HoustonTexans,New England Patriots,0,167.0,158.0,20.0,122.0,267.0,27.0,0.881,1,AwayTeam
+2018,2,HoustonTexans,Tennessee Titans,0.0,157.5,223.5,18.5,111.0,225.0,23.5,0.881,0,AwayTeam
+2018,3,HoustonTexans,New York Giants,0.0,124.67,271.67,19.67,112.0,238.33,24.67,0.881,-2,AwayTeam
+2018,4,HoustonTexans,Indianapolis Colts,0.0,123.25,290.5,24.0,94.25,288.0,27.0,0.881,-1,HomeTeam
+2018,5,HoustonTexans,Dallas Cowboys,0.25,116.2,307.2,23.0,95.0,269.2,24.8,0.881,-1,HomeTeam
+2018,6,HoustonTexans,Buffalo Bills,0.4,109.17,279.67,22.5,95.83,245.83,22.83,0.881,-1,HomeTeam
+2018,7,HoustonTexans,Jacksonville Jaguars,0.5,113.71,258.43,22.14,92.14,237.71,20.57,0.881,2,HomeTeam
+2018,8,HoustonTexans,Miami Dolphins,0.571,123.0,256.0,24.62,95.12,239.75,20.88,0.881,3,HomeTeam
+2018,9,HoustonTexans,Denver Broncos,0.625,120.22,248.89,24.0,92.89,243.44,20.44,0.881,4,HomeTeam
+2018,11,HoustonTexans,Washington Redskins,0.667,122.1,242.1,23.9,96.0,234.5,20.5,0.881,3,HomeTeam
+2018,12,HoustonTexans,Tennessee Titans,0.7,136.55,236.55,24.82,96.82,236.82,20.18,0.881,4,HomeTeam
+2018,13,HoustonTexans,Cleveland Browns,0.727,140.75,233.25,25.17,91.33,250.17,19.58,0.881,8,HomeTeam
+2018,14,HoustonTexans,Indianapolis Colts,0.75,136.77,232.69,24.85,88.15,260.62,19.92,0.881,9,AwayTeam
+2018,15,HoustonTexans,New York Jets,0.692,130.36,233.14,25.14,88.29,258.29,20.07,0.881,10,HomeTeam
+2018,16,HoustonTexans,Philadelphia Eagles,0.714,125.8,238.2,25.47,86.2,271.87,20.87,0.881,12,AwayTeam
+2018,17,HoustonTexans,Jacksonville Jaguars,0.667,126.31,236.31,25.12,82.69,260.44,19.75,0.881,13,HomeTeam
+2019,1,HoustonTexans,New Orleans Saints,0,180.0,234.0,28.0,148.0,362.0,30.0,0.8,0,AwayTeam
+2019,2,HoustonTexans,Jacksonville Jaguars,0.0,153.0,185.5,20.5,125.5,270.0,21.0,0.8,1,HomeTeam
+2019,3,HoustonTexans,Los Angeles Chargers,0.5,115.0,236.0,22.67,108.0,277.67,20.67,0.8,1,HomeTeam
+2019,4,HoustonTexans,Carolina Panthers,0.667,120.25,209.0,19.5,104.5,259.0,19.5,0.8,2,AwayTeam
+2019,5,HoustonTexans,Atlanta Falcons,0.5,129.4,252.4,26.2,95.0,270.4,22.0,0.8,2,HomeTeam
+2019,6,HoustonTexans,Kansas City Chiefs,0.6,139.83,257.0,27.0,88.0,268.0,22.33,0.8,1,HomeTeam
+2019,7,HoustonTexans,Indianapolis Colts,0.667,134.14,261.86,26.43,84.29,275.57,23.43,0.8,0,AwayTeam
+2019,8,HoustonTexans,Oakland Raiders,0.571,133.62,261.38,26.5,85.38,276.75,23.5,0.8,0,HomeTeam
+2019,9,HoustonTexans,Jacksonville Jaguars,0.625,142.78,253.89,26.44,84.11,277.33,21.22,0.8,3,HomeTeam
+2019,11,HoustonTexans,Baltimore Ravens,0.667,140.7,239.5,24.5,101.3,273.1,23.2,0.8,1,AwayTeam
+2019,12,HoustonTexans,Indianapolis Colts,0.6,136.91,244.73,24.09,108.0,259.27,22.64,0.8,0,HomeTeam
+2019,13,HoustonTexans,New England Patriots,0.636,129.83,243.0,24.42,111.08,262.92,22.58,0.8,1,HomeTeam
+2019,14,HoustonTexans,Denver Broncos,0.667,130.15,245.85,24.38,109.46,265.85,23.77,0.8,-1,AwayTeam
+2019,15,HoustonTexans,Tennessee Titans,0.615,130.86,245.0,24.36,113.29,266.07,23.57,0.8,-2,HomeTeam
+2019,16,HoustonTexans,Tampa Bay Buccaneers,0.643,126.67,239.4,24.27,112.8,270.27,23.33,0.8,1,HomeTeam
+2019,17,HoustonTexans,Tennessee Titans,0.667,125.56,236.44,23.62,121.06,267.25,24.06,0.8,0,AwayTeam
+2020,1,HoustonTexans,Kansas City Chiefs,0,118.0,242.0,20.0,166.0,203.0,34.0,0.871,-1,AwayTeam
+2020,2,HoustonTexans,Baltimore Ravens,0.0,84.5,247.5,18.0,198.0,190.0,33.5,0.871,-3,AwayTeam
+2020,3,HoustonTexans,Pittsburgh Steelers,0.0,66.0,242.0,19.0,188.33,199.33,31.67,0.871,-4,AwayTeam
+2020,4,HoustonTexans,Minnesota Vikings,0.0,73.5,254.0,20.0,181.75,211.5,31.5,0.871,-5,AwayTeam
+2020,5,HoustonTexans,Jacksonville Jaguars,0.0,84.6,274.6,22.0,160.4,227.0,28.0,0.871,-5,HomeTeam
+2020,6,HoustonTexans,Tennessee Titans,0.2,85.83,282.17,24.33,177.5,246.5,30.33,0.871,-3,AwayTeam
+2020,7,HoustonTexans,Green Bay Packers,0.167,84.86,282.71,23.71,165.86,251.71,31.0,0.871,-4,AwayTeam
+2020,9,HoustonTexans,Jacksonville Jaguars,0.143,87.62,280.75,24.12,159.5,256.25,30.25,0.871,-4,HomeTeam
+2020,10,HoustonTexans,Cleveland Browns,0.25,87.89,266.56,22.22,167.44,241.67,28.0,0.871,-4,AwayTeam
+2020,11,HoustonTexans,New England Patriots,0.222,84.6,274.3,22.7,159.3,252.4,27.2,0.871,-4,HomeTeam
+2020,12,HoustonTexans,Detroit Lions,0.3,83.91,277.27,24.36,154.73,254.82,27.0,0.871,-2,HomeTeam
+2020,13,HoustonTexans,Indianapolis Colts,0.364,84.42,279.83,24.0,150.92,255.42,26.92,0.871,-4,AwayTeam
+2020,14,HoustonTexans,Chicago Bears,0.333,86.23,270.23,22.69,152.31,254.31,27.62,0.871,-6,AwayTeam
+2020,15,HoustonTexans,Indianapolis Colts,0.308,86.0,275.36,22.5,150.5,252.07,27.57,0.871,-8,AwayTeam
+2020,16,HoustonTexans,Cincinnati Bengals,0.286,91.33,278.47,23.07,151.73,260.0,28.2,0.871,-9,AwayTeam
+2020,17,HoustonTexans,Tennessee Titans,0.267,91.62,283.62,24.0,160.25,256.5,29.0,0.871,-9,AwayTeam
+2021,1,HoustonTexans,Jacksonville Jaguars,0,160.0,289.0,37.0,76.0,319.0,21.0,0.778,3,HomeTeam
+2021,2,HoustonTexans,Cleveland Browns,1.0,121.0,254.5,29.0,116.0,259.0,26.0,0.778,3,AwayTeam
+2021,3,HoustonTexans,Carolina Panthers,0.5,94.67,220.0,22.33,116.33,269.33,25.33,0.778,3,AwayTeam
+2021,4,HoustonTexans,Buffalo Bills,0.333,83.0,180.25,16.75,137.0,264.75,29.0,0.778,-1,AwayTeam
+2021,5,HoustonTexans,New England Patriots,0.25,79.8,202.8,17.8,134.8,257.0,28.2,0.778,0,AwayTeam
+2021,6,HoustonTexans,Indianapolis Colts,0.2,87.17,207.17,15.33,141.33,249.83,28.67,0.778,-3,AwayTeam
+2021,7,HoustonTexans,Arizona Cardinals,0.167,80.71,194.43,13.86,145.71,246.29,29.0,0.778,-3,AwayTeam
+2021,8,HoustonTexans,Los Angeles Rams,0.143,76.12,205.0,14.88,148.12,253.25,30.12,0.778,-4,AwayTeam
+2021,9,HoustonTexans,Miami Dolphins,0.125,75.78,204.33,14.22,136.89,249.0,28.67,0.778,-3,AwayTeam
+2021,11,HoustonTexans,Tennessee Titans,0.111,76.5,194.6,15.0,133.5,255.8,27.1,0.778,2,HomeTeam
+2021,12,HoustonTexans,New York Jets,0.2,78.27,186.55,14.91,135.64,242.45,26.55,0.778,2,AwayTeam
+2021,13,HoustonTexans,Indianapolis Colts,0.182,78.75,175.75,13.67,144.17,234.83,26.92,0.778,1,AwayTeam
+2021,14,HoustonTexans,Seattle Seahawks,0.167,77.54,186.62,13.62,147.92,236.77,27.38,0.778,1,AwayTeam
+2021,15,HoustonTexans,Jacksonville Jaguars,0.154,77.36,188.0,14.79,145.0,233.36,26.57,0.778,0,HomeTeam
+2021,16,HoustonTexans,Los Angeles Chargers,0.214,84.8,192.0,16.53,141.27,239.67,26.73,0.778,3,HomeTeam
+2021,17,HoustonTexans,San Francisco 49ers,0.267,84.88,188.5,15.94,143.38,239.75,26.5,0.778,3,AwayTeam
+2021,18,HoustonTexans,Tennessee Titans,0.25,83.65,194.41,16.47,142.24,242.18,26.59,0.778,3,AwayTeam
+2022,1,HoustonTexans,Indianapolis Colts,0,77.0,222.0,20.0,177.0,340.0,20.0,0.935,1,
+2022,2,HoustonTexans,Denver Broncos,0,78.5,188.0,14.5,163.0,270.5,18.0,0.935,2,AwayTeam
+2022,3,HoustonTexans,Chicago Bears,0.0,83.0,204.33,16.33,202.33,207.67,19.67,0.935,2,AwayTeam
+2022,4,HoustonTexans,Los Angeles Chargers,0.0,95.0,207.0,18.25,172.0,240.25,23.25,0.935,1,AwayTeam
+2022,5,HoustonTexans,Jacksonville Jaguars,0.0,99.2,192.0,17.2,164.8,249.4,19.8,0.935,3,HomeTeam
+2022,7,HoustonTexans,Las Vegas Raiders,0.25,100.67,209.33,17.67,164.67,247.17,22.83,0.935,2,AwayTeam
+2022,8,HoustonTexans,Tennessee Titans,0.2,92.43,196.29,16.57,186.0,217.57,22.0,0.935,3,AwayTeam
+2022,9,HoustonTexans,Philadelphia Eagles,0.167,101.88,188.62,16.62,180.62,217.5,22.88,0.935,2,AwayTeam
+2022,10,HoustonTexans,New York Giants,0.143,101.78,199.44,16.56,181.78,212.89,23.0,0.935,0,AwayTeam
+2022,11,HoustonTexans,Washington Commanders,0.125,93.7,192.2,15.9,178.9,210.7,23.0,0.935,-2,AwayTeam
+2022,12,HoustonTexans,Miami Dolphins,0.111,88.45,190.55,15.82,168.64,216.36,23.64,0.935,-4,AwayTeam
+2022,13,HoustonTexans,Cleveland Browns,0.1,87.92,191.42,15.67,169.08,209.17,23.92,0.935,-6,AwayTeam
+2022,14,HoustonTexans,Dallas Cowboys,0.091,89.92,193.08,16.23,165.85,214.38,24.15,0.935,-5,AwayTeam
+2022,15,HoustonTexans,Kansas City Chiefs,0.083,90.21,188.21,16.79,167.5,221.43,24.57,0.935,-4,AwayTeam
+2022,16,HoustonTexans,Tennessee Titans,0.077,88.87,190.0,16.93,168.6,212.53,23.87,0.935,-2,HomeTeam
+2022,17,HoustonTexans,Jacksonville Jaguars,0.143,88.56,190.19,16.06,168.62,209.75,24.31,0.935,-1,AwayTeam
+2022,18,HoustonTexans,Indianapolis Colts,0.133,86.82,196.71,17.0,170.24,209.29,24.71,0.935,-1,HomeTeam
+2023,1,HoustonTexans,Baltimore Ravens,0,72.0,196.0,9.0,110.0,155.0,25.0,0.895,1,AwayTeam
+2023,2,HoustonTexans,Indianapolis Colts,0.0,62.0,266.5,14.5,118.0,191.0,28.0,0.895,0,AwayTeam
+2023,3,HoustonTexans,Jacksonville Jaguars,0.0,70.0,271.0,22.0,117.33,223.33,24.33,0.895,2,HomeTeam
+2023,4,HoustonTexans,Pittsburgh Steelers,0.333,87.25,281.25,24.0,116.5,195.25,19.75,0.895,3,HomeTeam
+2023,5,HoustonTexans,Atlanta Falcons,0.5,82.6,274.8,23.0,112.4,226.4,20.0,0.895,5,AwayTeam
+2023,6,HoustonTexans,New Orleans Saints,0.4,88.83,258.5,22.5,108.5,245.5,18.83,0.895,6,HomeTeam
+2023,8,HoustonTexans,Carolina Panthers,0.5,91.86,238.57,21.14,99.29,236.14,18.29,0.895,5,AwayTeam
+2023,9,HoustonTexans,Tampa Bay Buccaneers,0.429,87.0,264.12,23.38,97.0,238.0,20.62,0.895,5,HomeTeam
+2023,10,HoustonTexans,Cincinnati Bengals,0.5,98.22,274.33,24.11,93.56,246.44,21.33,0.895,4,HomeTeam
+2023,11,HoustonTexans,Arizona Cardinals,0.556,99.5,277.7,23.8,96.5,241.4,20.8,0.895,3,HomeTeam
+2023,12,HoustonTexans,Jacksonville Jaguars,0.6,98.73,276.18,23.55,95.09,252.55,21.09,0.895,4,AwayTeam
+2023,13,HoustonTexans,Denver Broncos,0.545,97.92,275.17,23.42,97.0,245.17,20.75,0.895,7,HomeTeam
+2023,14,HoustonTexans,New York Jets,0.583,96.62,258.15,22.08,95.62,246.92,21.46,0.895,8,AwayTeam
+2023,15,HoustonTexans,Tennessee Titans,0.538,100.29,253.43,21.86,93.5,239.14,21.07,0.895,8,HomeTeam
+2023,16,HoustonTexans,Cleveland Browns,0.571,98.4,248.4,21.87,90.87,247.47,22.07,0.895,8,AwayTeam
+2023,17,HoustonTexans,Tennessee Titans,0.533,99.19,245.44,22.12,88.5,240.38,20.88,0.895,9,HomeTeam
+2023,18,HoustonTexans,Indianapolis Colts,0.562,96.88,245.47,22.18,96.65,234.06,20.76,0.895,10,HomeTeam
+2024,1,HoustonTexans,Indianapolis Colts,0,213.0,204.0,29.0,104.0,199.0,27.0,0.824,1,HomeTeam
+2024,2,HoustonTexans,Chicago Bears,1.0,144.0,219.5,24.0,87.5,166.5,20.0,0.824,2,HomeTeam
+2024,3,HoustonTexans,Minnesota Vikings,1.0,108.67,232.33,18.33,97.67,163.0,24.67,0.824,0,AwayTeam
+2024,4,HoustonTexans,Jacksonville Jaguars,0.667,106.75,257.75,19.75,112.75,161.0,23.5,0.824,-1,HomeTeam
+2024,5,HoustonTexans,Buffalo Bills,0.75,104.2,272.4,20.4,120.2,154.0,22.8,0.824,-3,HomeTeam
+2024,6,HoustonTexans,New England Patriots,0.8,118.83,256.33,23.83,113.83,163.17,22.5,0.824,0,HomeTeam
+2024,7,HoustonTexans,Green Bay Packers,0.833,122.14,227.57,23.57,109.29,167.71,22.71,0.824,3,AwayTeam
+2024,8,HoustonTexans,Indianapolis Colts,0.714,118.88,232.5,23.5,116.0,164.25,22.38,0.824,4,HomeTeam
+2024,9,HoustonTexans,New York Jets,0.75,126.44,221.67,22.33,114.22,167.44,22.22,0.824,4,AwayTeam
+2024,10,HoustonTexans,Detroit Lions,0.667,119.4,218.7,22.4,113.3,174.7,22.6,0.824,7,AwayTeam
+2024,11,HoustonTexans,Dallas Cowboys,0.6,121.36,221.55,23.45,108.82,188.27,21.45,0.824,8,HomeTeam
+2024,12,HoustonTexans,Tennessee Titans,0.636,114.58,221.42,23.75,110.75,192.33,22.33,0.824,9,AwayTeam

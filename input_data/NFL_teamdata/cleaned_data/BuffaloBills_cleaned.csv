@@ -1,0 +1,110 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,BuffaloBills,Baltimore Ravens,0,83.0,70.0,3.0,117.0,252.0,47.0,0.786,-1,AwayTeam
+2018,2,BuffaloBills,Los Angeles Chargers,0.0,83.5,139.5,11.5,113.0,246.0,39.0,0.786,-3,AwayTeam
+2018,3,BuffaloBills,Minnesota Vikings,0.0,98.33,147.67,16.67,80.0,256.67,28.0,0.786,0,HomeTeam
+2018,4,BuffaloBills,Green Bay Packers,0.333,88.25,132.5,12.5,95.25,263.0,26.5,0.786,-1,AwayTeam
+2018,5,BuffaloBills,Tennessee Titans,0.25,99.4,121.8,12.6,96.2,234.6,23.6,0.786,1,HomeTeam
+2018,6,BuffaloBills,Houston Texans,0.4,99.5,123.0,12.67,92.5,219.17,23.0,0.786,1,AwayTeam
+2018,7,BuffaloBills,Indianapolis Colts,0.333,104.57,129.43,11.57,110.71,210.14,25.0,0.786,-4,AwayTeam
+2018,8,BuffaloBills,New England Patriots,0.286,97.25,149.12,10.88,106.38,222.75,25.0,0.786,-6,AwayTeam
+2018,9,BuffaloBills,Chicago Bears,0.25,97.33,151.0,10.67,101.67,212.0,26.78,0.786,-9,AwayTeam
+2018,10,BuffaloBills,New York Jets,0.222,108.8,159.8,13.7,99.8,202.4,25.1,0.786,-7,HomeTeam
+2018,12,BuffaloBills,Jacksonville Jaguars,0.3,114.09,159.82,14.64,111.27,193.73,24.73,0.786,-5,HomeTeam
+2018,13,BuffaloBills,Miami Dolphins,0.364,121.08,164.58,14.83,107.0,187.17,24.42,0.786,-7,AwayTeam
+2018,14,BuffaloBills,New York Jets,0.333,125.31,166.69,15.46,104.77,185.85,24.62,0.786,-8,AwayTeam
+2018,15,BuffaloBills,Detroit Lions,0.308,124.71,168.71,15.36,104.79,187.43,23.79,0.786,-8,HomeTeam
+2018,16,BuffaloBills,New England Patriots,0.357,121.2,171.93,15.13,116.0,182.73,23.8,0.786,-8,AwayTeam
+2018,17,BuffaloBills,Miami Dolphins,0.333,124.0,174.62,16.81,114.94,179.19,23.38,0.786,-5,HomeTeam
+2019,1,BuffaloBills,New York Jets,0,128.0,242.0,17.0,68.0,155.0,16.0,0.786,-3,HomeTeam
+2019,2,BuffaloBills,New York Giants,1.0,139.5,239.5,22.5,98.5,198.0,15.0,0.786,-1,HomeTeam
+2019,3,BuffaloBills,Cincinnati Bengals,1.0,151.33,240.0,22.0,87.67,212.0,15.67,0.786,1,HomeTeam
+2019,4,BuffaloBills,New England Patriots,1.0,147.25,240.0,19.0,84.25,196.5,15.75,0.786,-2,AwayTeam
+2019,5,BuffaloBills,Tennessee Titans,0.75,139.6,232.8,18.0,87.8,187.2,14.0,0.786,-3,HomeTeam
+2019,7,BuffaloBills,Miami Dolphins,0.8,135.83,225.33,20.17,91.33,201.33,15.17,0.786,-1,HomeTeam
+2019,8,BuffaloBills,Philadelphia Eagles,0.833,130.43,215.29,19.14,109.43,194.43,17.43,0.786,-1,AwayTeam
+2019,9,BuffaloBills,Washington Redskins,0.714,129.38,206.62,19.75,111.62,184.62,16.38,0.786,-1,HomeTeam
+2019,10,BuffaloBills,Cleveland Browns,0.75,124.33,212.56,19.33,115.56,188.67,16.67,0.786,-1,AwayTeam
+2019,11,BuffaloBills,Miami Dolphins,0.667,128.7,216.9,21.1,106.3,197.8,17.0,0.786,0,HomeTeam
+2019,12,BuffaloBills,Denver Broncos,0.7,139.18,213.55,21.0,104.36,184.27,15.73,0.786,0,HomeTeam
+2019,13,BuffaloBills,Dallas Cowboys,0.727,137.92,215.08,21.42,104.25,195.83,15.67,0.786,2,HomeTeam
+2019,14,BuffaloBills,Baltimore Ravens,0.75,135.31,206.62,21.08,105.31,191.46,16.31,0.786,2,AwayTeam
+2019,15,BuffaloBills,Pittsburgh Steelers,0.692,134.93,201.21,20.79,101.43,190.5,15.86,0.786,5,HomeTeam
+2019,16,BuffaloBills,New England Patriots,0.714,132.07,199.53,20.53,104.2,195.87,16.4,0.786,6,AwayTeam
+2019,17,BuffaloBills,New York Jets,0.667,128.38,201.81,19.62,103.06,195.19,16.19,0.786,4,AwayTeam
+2020,1,BuffaloBills,New York Jets,0,98.0,306.0,27.0,52.0,202.0,17.0,0.824,0,HomeTeam
+2020,2,BuffaloBills,Miami Dolphins,1.0,105.0,358.5,29.0,75.5,256.5,22.5,0.824,-1,HomeTeam
+2020,3,BuffaloBills,Los Angeles Rams,1.0,103.67,330.33,31.0,106.0,274.67,25.67,0.824,-1,HomeTeam
+2020,4,BuffaloBills,Las Vegas Raiders,1.0,93.5,316.25,30.75,101.0,280.25,25.0,0.824,1,HomeTeam
+2020,5,BuffaloBills,Tennessee Titans,1.0,93.8,308.0,27.8,108.6,263.2,28.4,0.824,-2,AwayTeam
+2020,6,BuffaloBills,Kansas City Chiefs,0.8,92.17,277.0,26.0,131.33,256.17,28.0,0.824,-2,AwayTeam
+2020,7,BuffaloBills,New York Jets,0.667,97.0,279.71,24.86,126.86,232.57,25.43,0.824,-1,HomeTeam
+2020,8,BuffaloBills,New England Patriots,0.714,108.62,263.38,24.75,134.5,223.62,24.88,0.824,-1,HomeTeam
+2020,9,BuffaloBills,Seattle Seahawks,0.75,100.33,277.0,26.89,125.89,239.0,25.89,0.824,3,HomeTeam
+2020,10,BuffaloBills,Arizona Cardinals,0.778,97.6,278.9,27.2,135.0,238.7,26.5,0.824,3,AwayTeam
+2020,12,BuffaloBills,Los Angeles Chargers,0.7,104.36,268.09,27.18,129.64,243.45,25.64,0.824,1,HomeTeam
+2020,13,BuffaloBills,San Francisco 49ers,0.727,102.42,276.42,27.75,126.0,249.5,25.5,0.824,2,HomeTeam
+2020,14,BuffaloBills,Pittsburgh Steelers,0.75,102.54,272.85,27.62,119.92,243.92,24.69,0.824,2,HomeTeam
+2020,15,BuffaloBills,Denver Broncos,0.769,108.21,278.5,29.07,121.36,234.71,24.29,0.824,2,HomeTeam
+2020,16,BuffaloBills,New England Patriots,0.786,109.67,282.87,29.67,122.93,222.8,23.27,0.824,2,HomeTeam
+2020,17,BuffaloBills,Miami Dolphins,0.8,107.69,288.75,31.31,119.62,232.88,23.44,0.824,4,HomeTeam
+2021,1,BuffaloBills,Pittsburgh Steelers,0,117.0,254.0,16.0,75.0,177.0,23.0,0.875,-1,AwayTeam
+2021,2,BuffaloBills,Miami Dolphins,0.0,130.0,212.5,25.5,73.0,161.0,11.5,0.875,0,HomeTeam
+2021,3,BuffaloBills,Washington Football Team,0.5,127.33,261.33,31.33,74.67,178.0,14.67,0.875,3,HomeTeam
+2021,4,BuffaloBills,Houston Texans,0.667,145.25,258.75,33.5,68.0,148.75,11.0,0.875,7,HomeTeam
+2021,5,BuffaloBills,Kansas City Chiefs,0.75,140.4,270.0,34.4,78.4,173.4,12.8,0.875,11,HomeTeam
+2021,6,BuffaloBills,Tennessee Titans,0.8,130.67,280.83,33.83,89.67,180.5,16.33,0.875,11,AwayTeam
+2021,8,BuffaloBills,Miami Dolphins,0.667,126.57,276.29,32.71,86.57,182.43,15.57,0.875,13,HomeTeam
+2021,9,BuffaloBills,Jacksonville Jaguars,0.714,119.75,270.38,29.38,85.62,177.0,14.75,0.875,11,AwayTeam
+2021,10,BuffaloBills,New York Jets,0.625,121.89,279.22,31.11,83.89,190.22,15.0,0.875,14,HomeTeam
+2021,11,BuffaloBills,Indianapolis Colts,0.667,118.8,273.3,29.5,101.9,181.8,17.6,0.875,10,AwayTeam
+2021,12,BuffaloBills,New Orleans Saints,0.6,118.27,271.0,29.64,96.64,178.55,16.55,0.875,9,HomeTeam
+2021,13,BuffaloBills,New England Patriots,0.636,116.67,259.33,28.0,107.08,165.25,16.33,0.875,9,AwayTeam
+2021,14,BuffaloBills,Tampa Bay Buccaneers,0.583,121.0,261.92,27.92,109.38,179.54,17.62,0.875,8,AwayTeam
+2021,15,BuffaloBills,Carolina Panthers,0.538,120.86,257.0,28.14,112.36,175.57,17.36,0.875,8,HomeTeam
+2021,16,BuffaloBills,New England Patriots,0.571,120.4,260.8,28.47,114.8,173.13,17.6,0.875,10,HomeTeam
+2021,17,BuffaloBills,Atlanta Falcons,0.6,127.44,251.88,28.5,113.62,172.88,17.44,0.875,8,HomeTeam
+2021,18,BuffaloBills,New York Jets,0.625,129.94,252.0,28.41,109.76,163.0,17.0,0.875,8,HomeTeam
+2022,1,BuffaloBills,Los Angeles Rams,0,121.0,292.0,31.0,52.0,191.0,10.0,0.871,-1,HomeTeam
+2022,2,BuffaloBills,Tennessee Titans,1.0,111.0,302.5,36.0,66.0,149.0,8.5,0.871,3,HomeTeam
+2022,3,BuffaloBills,Miami Dolphins,1.0,112.33,329.0,30.33,57.67,156.33,12.67,0.871,2,AwayTeam
+2022,4,BuffaloBills,Baltimore Ravens,0.667,115.5,297.0,28.5,83.75,150.75,14.5,0.871,2,HomeTeam
+2022,5,BuffaloBills,Pittsburgh Steelers,0.75,116.4,324.0,30.4,77.8,182.6,12.2,0.871,2,HomeTeam
+2022,6,BuffaloBills,Kansas City Chiefs,0.8,117.83,323.0,29.33,76.17,205.33,13.5,0.871,3,HomeTeam
+2022,8,BuffaloBills,Green Bay Packers,0.833,122.86,307.71,29.0,95.0,203.14,14.0,0.871,2,HomeTeam
+2022,9,BuffaloBills,New York Jets,0.857,124.25,292.12,27.5,104.88,194.75,14.75,0.871,1,AwayTeam
+2022,10,BuffaloBills,Minnesota Vikings,0.75,129.89,294.22,27.78,109.56,210.22,16.78,0.871,-1,AwayTeam
+2022,11,BuffaloBills,Cleveland Browns,0.667,134.0,283.4,28.1,106.6,220.8,17.4,0.871,0,HomeTeam
+2022,12,BuffaloBills,Detroit Lions,0.7,136.73,279.18,28.09,105.64,221.64,18.09,0.871,1,HomeTeam
+2022,13,BuffaloBills,New England Patriots,0.727,136.33,274.5,27.75,101.83,218.33,17.42,0.871,0,HomeTeam
+2022,14,BuffaloBills,New York Jets,0.75,133.69,263.38,27.15,99.85,219.46,17.0,0.871,2,HomeTeam
+2022,15,BuffaloBills,Miami Dolphins,0.769,134.86,265.71,27.5,106.14,219.29,17.86,0.871,1,HomeTeam
+2022,16,BuffaloBills,Chicago Bears,0.786,142.8,259.47,28.0,104.4,213.27,17.53,0.871,0,HomeTeam
+2022,18,BuffaloBills,New England Patriots,0.8,139.5,258.06,28.44,104.56,214.56,17.88,0.871,0,HomeTeam
+2023,1,BuffaloBills,New York Jets,0,97.0,217.0,16.0,172.0,117.0,22.0,0.828,-3,AwayTeam
+2023,2,BuffaloBills,Las Vegas Raiders,0.0,140.0,242.0,27.0,113.5,151.0,16.0,0.828,0,HomeTeam
+2023,3,BuffaloBills,Washington Commanders,0.5,149.33,234.0,30.33,110.67,142.33,11.67,0.828,4,HomeTeam
+2023,4,BuffaloBills,Miami Dolphins,0.667,138.0,253.0,34.75,118.5,169.5,13.75,0.828,6,HomeTeam
+2023,5,BuffaloBills,Jacksonville Jaguars,0.75,116.2,274.2,31.8,134.0,191.2,16.0,0.828,6,AwayTeam
+2023,6,BuffaloBills,New York Giants,0.6,118.17,256.67,28.83,133.67,190.17,14.83,0.828,4,HomeTeam
+2023,7,BuffaloBills,New England Patriots,0.667,112.86,256.86,28.29,128.29,201.29,16.86,0.828,3,AwayTeam
+2023,8,BuffaloBills,Tampa Bay Buccaneers,0.571,113.12,263.75,27.75,122.0,204.12,17.0,0.828,2,HomeTeam
+2023,9,BuffaloBills,Cincinnati Bengals,0.625,108.11,262.11,26.67,114.44,219.56,17.78,0.828,0,AwayTeam
+2023,10,BuffaloBills,Denver Broncos,0.556,116.5,253.6,26.2,115.2,215.4,18.4,0.828,-3,AwayTeam
+2023,11,BuffaloBills,New York Jets,0.5,117.73,254.45,26.73,110.45,204.18,17.27,0.828,0,HomeTeam
+2023,12,BuffaloBills,Philadelphia Eagles,0.545,122.33,260.92,27.33,116.67,203.25,18.92,0.828,1,AwayTeam
+2023,14,BuffaloBills,Kansas City Chiefs,0.5,122.0,256.92,26.77,114.0,207.92,18.77,0.828,2,HomeTeam
+2023,15,BuffaloBills,Dallas Cowboys,0.538,132.29,244.64,27.07,112.21,200.64,18.14,0.828,3,HomeTeam
+2023,16,BuffaloBills,Los Angeles Chargers,0.571,130.47,243.67,26.87,111.27,198.93,18.4,0.828,0,HomeTeam
+2023,17,BuffaloBills,New England Patriots,0.6,130.25,238.06,26.88,110.75,198.44,18.56,0.828,3,HomeTeam
+2023,18,BuffaloBills,Miami Dolphins,0.625,130.12,244.35,26.53,110.59,196.59,18.29,0.828,2,HomeTeam
+2024,1,BuffaloBills,Arizona Cardinals,0,130.0,222.0,34.0,124.0,146.0,28.0,0.864,0,HomeTeam
+2024,2,BuffaloBills,Miami Dolphins,1.0,119.0,180.5,32.5,131.5,179.0,19.0,0.864,3,HomeTeam
+2024,3,BuffaloBills,Jacksonville Jaguars,1.0,120.0,209.0,37.33,118.33,168.33,16.0,0.864,5,HomeTeam
+2024,4,BuffaloBills,Baltimore Ravens,1.0,110.25,195.5,30.5,156.5,165.25,20.75,0.864,5,AwayTeam
+2024,5,BuffaloBills,Houston Texans,0.75,118.2,181.6,28.4,144.0,198.4,21.2,0.864,7,AwayTeam
+2024,6,BuffaloBills,New York Jets,0.6,123.33,186.33,27.5,140.17,210.67,21.0,0.864,8,HomeTeam
+2024,7,BuffaloBills,Tennessee Titans,0.667,116.29,204.71,28.43,132.86,209.14,19.43,0.864,10,HomeTeam
+2024,8,BuffaloBills,Seattle Seahawks,0.714,122.25,214.25,28.75,120.25,208.12,18.25,0.864,11,HomeTeam
+2024,9,BuffaloBills,Miami Dolphins,0.75,119.11,216.11,28.89,123.44,209.89,19.22,0.864,11,HomeTeam
+2024,10,BuffaloBills,Indianapolis Colts,0.778,120.7,222.5,29.0,123.2,212.9,19.3,0.864,13,HomeTeam
+2024,11,BuffaloBills,Kansas City Chiefs,0.8,119.18,226.09,29.09,119.09,210.0,19.45,0.864,14,HomeTeam

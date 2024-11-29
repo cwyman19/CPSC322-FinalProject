@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,LosAngelesChargers,Kansas City Chiefs,0,123.0,418.0,28.0,106.0,256.0,38.0,0.828,-2,AwayTeam
+2018,2,LosAngelesChargers,Buffalo Bills,0.0,116.0,329.0,29.5,95.0,232.5,29.0,0.828,0,HomeTeam
+2018,3,LosAngelesChargers,Los Angeles Rams,0.5,124.33,291.0,27.33,120.33,271.67,31.0,0.828,0,AwayTeam
+2018,4,LosAngelesChargers,San Francisco 49ers,0.333,124.75,278.75,27.75,109.25,275.75,30.0,0.828,1,HomeTeam
+2018,5,LosAngelesChargers,Oakland Raiders,0.5,115.6,289.6,27.4,95.6,270.2,26.0,0.828,3,HomeTeam
+2018,6,LosAngelesChargers,Cleveland Browns,0.6,137.33,275.17,29.17,96.83,260.83,24.0,0.828,4,HomeTeam
+2018,7,LosAngelesChargers,Tennessee Titans,0.667,124.43,278.29,27.86,106.43,255.86,23.29,0.828,5,HomeTeam
+2018,9,LosAngelesChargers,Seattle Seahawks,0.714,128.88,270.38,27.5,112.38,249.12,22.5,0.828,6,HomeTeam
+2018,10,LosAngelesChargers,Oakland Raiders,0.75,127.11,265.0,26.67,112.56,244.0,20.67,0.828,6,HomeTeam
+2018,11,LosAngelesChargers,Denver Broncos,0.778,123.9,276.9,26.2,112.1,241.3,20.9,0.828,4,AwayTeam
+2018,12,LosAngelesChargers,Arizona Cardinals,0.7,128.82,273.18,27.91,107.55,227.27,19.91,0.828,4,HomeTeam
+2018,13,LosAngelesChargers,Pittsburgh Steelers,0.727,125.17,274.25,28.33,104.0,230.92,20.75,0.828,5,HomeTeam
+2018,14,LosAngelesChargers,Cincinnati Bengals,0.75,122.08,268.77,28.15,107.08,224.77,20.77,0.828,5,HomeTeam
+2018,15,LosAngelesChargers,Kansas City Chiefs,0.769,121.86,270.14,28.21,103.71,225.43,21.29,0.828,3,HomeTeam
+2018,16,LosAngelesChargers,Baltimore Ravens,0.786,117.13,261.93,27.0,107.4,223.87,21.33,0.828,1,AwayTeam
+2018,17,LosAngelesChargers,Denver Broncos,0.733,117.06,255.56,26.75,105.81,227.88,20.56,0.828,1,HomeTeam
+2019,1,LosAngelesChargers,Indianapolis Colts,0,125.0,310.0,30.0,203.0,173.0,24.0,0.765,-2,HomeTeam
+2019,2,LosAngelesChargers,Detroit Lions,1.0,131.0,298.5,20.0,148.5,209.0,18.5,0.765,-2,AwayTeam
+2019,3,LosAngelesChargers,Houston Texans,0.5,111.67,296.67,20.0,112.0,251.67,21.33,0.765,-2,AwayTeam
+2019,4,LosAngelesChargers,Miami Dolphins,0.333,103.5,300.25,22.5,102.0,229.0,18.5,0.765,-1,HomeTeam
+2019,5,LosAngelesChargers,Denver Broncos,0.5,89.8,282.4,20.6,119.8,215.0,18.8,0.765,-2,AwayTeam
+2019,6,LosAngelesChargers,Pittsburgh Steelers,0.4,80.17,288.0,20.0,120.5,201.17,19.67,0.765,-4,AwayTeam
+2019,7,LosAngelesChargers,Tennessee Titans,0.333,74.29,293.43,20.0,117.14,216.14,20.14,0.765,-4,AwayTeam
+2019,8,LosAngelesChargers,Chicago Bears,0.286,69.5,281.12,19.62,122.75,217.38,19.62,0.765,-3,HomeTeam
+2019,9,LosAngelesChargers,Green Bay Packers,0.375,79.44,281.33,20.33,114.11,208.67,18.67,0.765,-3,HomeTeam
+2019,10,LosAngelesChargers,Oakland Raiders,0.444,86.1,270.1,20.7,110.5,207.8,19.4,0.765,-6,AwayTeam
+2019,11,LosAngelesChargers,Kansas City Chiefs,0.4,86.73,276.91,20.36,112.27,205.27,19.82,0.765,-9,AwayTeam
+2019,13,LosAngelesChargers,Denver Broncos,0.364,89.08,274.17,20.33,109.92,199.33,20.08,0.765,-10,AwayTeam
+2019,14,LosAngelesChargers,Jacksonville Jaguars,0.333,97.23,278.46,22.23,108.23,196.62,19.31,0.765,-10,HomeTeam
+2019,15,LosAngelesChargers,Minnesota Vikings,0.385,94.71,278.79,21.36,110.29,197.36,20.71,0.765,-16,AwayTeam
+2019,16,LosAngelesChargers,Oakland Raiders,0.357,89.67,277.87,21.07,109.53,202.0,20.93,0.765,-16,AwayTeam
+2019,17,LosAngelesChargers,Kansas City Chiefs,0.333,90.81,276.62,21.06,112.81,200.25,21.56,0.765,-17,AwayTeam
+2020,1,LosAngelesChargers,Cincinnati Bengals,0,155.0,207.0,16.0,122.0,173.0,13.0,0.727,2,HomeTeam
+2020,2,LosAngelesChargers,Kansas City Chiefs,1.0,169.0,251.5,18.0,123.5,231.0,18.0,0.727,1,AwayTeam
+2020,3,LosAngelesChargers,Carolina Panthers,0.5,151.67,274.0,17.33,109.33,227.67,19.0,0.727,-3,AwayTeam
+2020,4,LosAngelesChargers,Tampa Bay Buccaneers,0.333,125.25,275.0,20.75,110.75,263.0,23.75,0.727,-4,AwayTeam
+2020,5,LosAngelesChargers,New Orleans Saints,0.25,122.4,267.8,22.0,107.6,273.0,25.0,0.727,-3,AwayTeam
+2020,7,LosAngelesChargers,Jacksonville Jaguars,0.2,124.5,281.33,24.83,113.0,253.17,25.67,0.727,-2,HomeTeam
+2020,8,LosAngelesChargers,Denver Broncos,0.333,136.71,280.43,25.57,112.29,251.71,26.43,0.727,-3,AwayTeam
+2020,9,LosAngelesChargers,Las Vegas Raiders,0.286,135.62,284.38,25.62,118.25,240.25,27.0,0.727,-3,AwayTeam
+2020,10,LosAngelesChargers,Miami Dolphins,0.25,131.56,272.11,25.11,117.44,232.33,27.22,0.727,-3,AwayTeam
+2020,11,LosAngelesChargers,New York Jets,0.222,121.3,279.6,26.0,115.3,228.7,27.3,0.727,-3,HomeTeam
+2020,12,LosAngelesChargers,Buffalo Bills,0.3,117.18,280.64,25.18,120.45,222.45,27.27,0.727,-1,AwayTeam
+2020,13,LosAngelesChargers,New England Patriots,0.273,113.25,272.92,23.08,124.17,214.42,28.75,0.727,-3,AwayTeam
+2020,14,LosAngelesChargers,Atlanta Falcons,0.25,112.62,270.38,22.85,120.0,217.08,27.85,0.727,-1,HomeTeam
+2020,15,LosAngelesChargers,Las Vegas Raiders,0.308,111.43,272.93,23.36,123.79,221.29,27.79,0.727,0,HomeTeam
+2020,16,LosAngelesChargers,Denver Broncos,0.357,109.93,269.87,23.07,124.4,224.07,27.0,0.727,2,HomeTeam
+2020,17,LosAngelesChargers,Kansas City Chiefs,0.4,111.5,270.56,24.0,119.81,223.62,26.62,0.727,3,HomeTeam
+2021,1,LosAngelesChargers,Washington Football Team,0,90.0,334.0,20.0,126.0,133.0,16.0,0.889,-1,HomeTeam
+2021,2,LosAngelesChargers,Dallas Cowboys,1.0,92.5,323.5,18.5,162.0,177.0,18.0,0.889,-2,AwayTeam
+2021,3,LosAngelesChargers,Kansas City Chiefs,0.5,87.33,307.33,22.33,170.0,201.67,20.0,0.889,2,HomeTeam
+2021,4,LosAngelesChargers,Las Vegas Raiders,0.667,107.5,283.5,23.75,139.5,192.5,18.5,0.889,3,HomeTeam
+2021,5,LosAngelesChargers,Cleveland Browns,0.75,108.4,303.0,28.4,157.6,214.2,23.2,0.889,2,HomeTeam
+2021,6,LosAngelesChargers,Baltimore Ravens,0.8,94.67,282.83,24.67,162.5,201.83,25.0,0.889,3,AwayTeam
+2021,8,LosAngelesChargers,New England Patriots,0.667,104.43,271.86,24.57,159.57,203.0,25.29,0.889,2,AwayTeam
+2021,9,LosAngelesChargers,Philadelphia Eagles,0.571,102.5,282.38,24.88,161.62,197.0,25.12,0.889,2,HomeTeam
+2021,10,LosAngelesChargers,Minnesota Vikings,0.625,100.22,270.0,24.33,155.11,206.0,25.33,0.889,2,AwayTeam
+2021,11,LosAngelesChargers,Pittsburgh Steelers,0.556,106.1,280.4,26.0,145.1,209.9,26.5,0.889,1,HomeTeam
+2021,12,LosAngelesChargers,Denver Broncos,0.6,103.0,280.82,24.82,145.27,204.91,26.64,0.889,0,AwayTeam
+2021,13,LosAngelesChargers,Cincinnati Bengals,0.545,101.0,281.08,26.17,141.17,209.5,26.25,0.889,1,HomeTeam
+2021,14,LosAngelesChargers,New York Giants,0.583,104.92,280.31,27.0,140.69,207.31,25.85,0.889,3,HomeTeam
+2021,15,LosAngelesChargers,Kansas City Chiefs,0.615,111.14,277.14,27.07,136.79,221.79,26.43,0.889,3,AwayTeam
+2021,16,LosAngelesChargers,Houston Texans,0.571,109.67,280.53,27.2,140.27,223.53,27.4,0.889,0,AwayTeam
+2021,17,LosAngelesChargers,Denver Broncos,0.533,109.31,277.81,27.62,136.69,224.31,26.5,0.889,1,HomeTeam
+2021,18,LosAngelesChargers,Las Vegas Raiders,0.562,107.88,282.35,27.88,138.88,221.24,27.0,0.889,-1,AwayTeam
+2022,1,LosAngelesChargers,Las Vegas Raiders,0,76.0,279.0,24.0,64.0,256.0,19.0,0.939,3,HomeTeam
+2022,2,LosAngelesChargers,Kansas City Chiefs,1.0,75.5,302.5,24.0,78.5,241.0,23.0,0.939,2,AwayTeam
+2022,3,LosAngelesChargers,Jacksonville Jaguars,0.5,59.0,297.0,19.33,102.67,248.0,28.0,0.939,0,AwayTeam
+2022,4,LosAngelesChargers,Houston Texans,0.333,64.5,307.25,23.0,109.75,239.75,27.0,0.939,1,HomeTeam
+2022,5,LosAngelesChargers,Cleveland Browns,0.5,99.2,291.2,24.4,130.4,237.8,27.2,0.939,2,HomeTeam
+2022,6,LosAngelesChargers,Denver Broncos,0.6,94.83,280.0,23.5,125.0,224.83,25.33,0.939,2,HomeTeam
+2022,7,LosAngelesChargers,Seattle Seahawks,0.667,88.86,279.43,23.43,137.57,220.0,27.0,0.939,2,AwayTeam
+2022,9,LosAngelesChargers,Atlanta Falcons,0.571,89.12,275.12,23.0,145.5,206.75,25.75,0.939,2,HomeTeam
+2022,10,LosAngelesChargers,San Francisco 49ers,0.625,84.89,265.33,22.22,146.78,209.33,25.33,0.939,2,AwayTeam
+2022,11,LosAngelesChargers,Kansas City Chiefs,0.556,87.9,263.8,22.7,148.4,220.6,25.8,0.939,1,AwayTeam
+2022,12,LosAngelesChargers,Arizona Cardinals,0.5,85.82,262.18,22.91,151.36,217.36,25.64,0.939,3,HomeTeam
+2022,13,LosAngelesChargers,Las Vegas Raiders,0.545,84.67,266.5,22.67,151.58,220.08,25.75,0.939,4,AwayTeam
+2022,14,LosAngelesChargers,Miami Dolphins,0.5,84.46,272.92,22.69,147.0,212.92,25.08,0.939,4,HomeTeam
+2022,15,LosAngelesChargers,Tennessee Titans,0.538,83.71,274.21,22.29,145.57,208.93,24.29,0.939,3,HomeTeam
+2022,16,LosAngelesChargers,Indianapolis Colts,0.571,84.87,270.13,22.13,140.47,201.93,22.87,0.939,4,HomeTeam
+2022,17,LosAngelesChargers,Los Angeles Rams,0.6,91.56,268.19,22.69,142.06,196.25,22.06,0.939,5,HomeTeam
+2022,18,LosAngelesChargers,Denver Broncos,0.625,89.65,269.65,23.0,145.76,200.35,22.59,0.939,5,AwayTeam
+2023,1,LosAngelesChargers,Miami Dolphins,0,233.0,200.0,34.0,70.0,466.0,36.0,0.939,2,AwayTeam
+2023,2,LosAngelesChargers,Tennessee Titans,0.0,147.0,240.5,29.0,105.5,333.0,31.5,0.939,2,AwayTeam
+2023,3,LosAngelesChargers,Minnesota Vikings,0.0,108.0,308.67,28.67,113.67,337.0,29.0,0.939,3,HomeTeam
+2023,4,LosAngelesChargers,Las Vegas Raiders,0.333,119.75,269.0,27.5,104.25,299.75,26.0,0.939,5,HomeTeam
+2023,6,LosAngelesChargers,Dallas Cowboys,0.5,106.4,259.0,25.4,102.6,289.0,24.8,0.939,5,AwayTeam
+2023,7,LosAngelesChargers,Kansas City Chiefs,0.4,111.83,252.33,24.0,96.83,310.0,25.83,0.939,5,AwayTeam
+2023,8,LosAngelesChargers,Chicago Bears,0.333,103.57,258.86,24.86,93.43,297.43,24.0,0.939,6,HomeTeam
+2023,9,LosAngelesChargers,New York Jets,0.429,101.12,239.88,25.12,89.75,286.0,21.75,0.939,9,HomeTeam
+2023,10,LosAngelesChargers,Detroit Lions,0.5,100.78,249.11,26.56,102.0,291.22,23.89,0.939,8,AwayTeam
+2023,11,LosAngelesChargers,Green Bay Packers,0.444,105.7,248.6,25.9,102.0,291.6,23.8,0.939,7,AwayTeam
+2023,12,LosAngelesChargers,Baltimore Ravens,0.4,103.91,243.55,24.45,110.64,280.0,23.45,0.939,3,AwayTeam
+2023,13,LosAngelesChargers,New England Patriots,0.364,97.67,240.92,22.92,113.75,265.75,21.5,0.939,4,HomeTeam
+2023,14,LosAngelesChargers,Denver Broncos,0.417,96.0,238.31,21.69,113.15,261.92,21.69,0.939,3,AwayTeam
+2023,15,LosAngelesChargers,Las Vegas Raiders,0.385,95.71,238.0,21.64,113.93,261.36,24.64,0.939,-2,AwayTeam
+2023,16,LosAngelesChargers,Buffalo Bills,0.357,95.87,233.8,21.67,113.33,259.27,24.6,0.939,1,AwayTeam
+2023,17,LosAngelesChargers,Denver Broncos,0.333,95.25,232.62,20.88,112.56,256.31,24.06,0.939,0,AwayTeam
+2023,18,LosAngelesChargers,Kansas City Chiefs,0.312,96.59,232.76,20.35,113.18,249.76,23.41,0.939,0,AwayTeam
+2024,1,LosAngelesChargers,Las Vegas Raiders,0,176.0,140.0,22.0,71.0,225.0,10.0,0.923,3,HomeTeam
+2024,2,LosAngelesChargers,Carolina Panthers,1.0,197.5,135.0,24.0,80.5,147.0,6.5,0.923,2,HomeTeam
+2024,3,LosAngelesChargers,Pittsburgh Steelers,1.0,152.0,125.0,19.33,91.67,175.33,11.0,0.923,3,AwayTeam
+2024,4,LosAngelesChargers,Kansas City Chiefs,0.667,127.75,136.0,17.0,94.0,188.5,12.5,0.923,5,AwayTeam
+2024,6,LosAngelesChargers,Denver Broncos,0.5,127.8,153.2,18.2,97.2,192.0,13.2,0.923,7,HomeTeam
+2024,7,LosAngelesChargers,Arizona Cardinals,0.6,116.33,183.67,17.67,111.17,184.17,13.83,0.923,6,AwayTeam
+2024,8,LosAngelesChargers,New Orleans Saints,0.5,117.14,194.0,18.86,112.0,193.43,13.0,0.923,6,HomeTeam
+2024,9,LosAngelesChargers,Cleveland Browns,0.571,114.5,200.5,19.88,107.88,195.88,12.62,0.923,9,HomeTeam
+2024,10,LosAngelesChargers,Tennessee Titans,0.625,117.89,196.44,20.67,110.56,191.56,13.11,0.923,9,HomeTeam
+2024,11,LosAngelesChargers,Cincinnati Bengals,0.667,121.6,204.8,22.0,110.5,206.6,14.5,0.923,8,HomeTeam
+2024,12,LosAngelesChargers,Baltimore Ravens,0.7,118.09,204.55,22.09,119.73,203.91,15.91,0.923,8,AwayTeam

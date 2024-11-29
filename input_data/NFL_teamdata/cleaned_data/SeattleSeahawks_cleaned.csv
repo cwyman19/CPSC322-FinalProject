@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,SeattleSeahawks,Denver Broncos,0,64.0,242.0,24.0,146.0,324.0,27.0,0.815,0,AwayTeam
+2018,2,SeattleSeahawks,Chicago Bears,0.0,69.0,222.0,20.5,116.0,254.5,25.5,0.815,0,AwayTeam
+2018,3,SeattleSeahawks,Dallas Cowboys,0.0,83.67,208.67,21.67,132.67,215.33,21.33,0.815,3,HomeTeam
+2018,4,SeattleSeahawks,Arizona Cardinals,0.333,105.5,196.5,21.25,122.5,204.25,20.25,0.815,4,HomeTeam
+2018,5,SeattleSeahawks,Los Angeles Rams,0.5,122.4,193.8,23.2,129.0,226.0,22.8,0.815,6,AwayTeam
+2018,6,SeattleSeahawks,Oakland Raiders,0.4,127.83,197.17,23.83,120.67,206.0,19.5,0.815,7,HomeTeam
+2018,8,SeattleSeahawks,Detroit Lions,0.5,134.71,202.86,24.43,108.29,219.0,18.71,0.815,10,HomeTeam
+2018,9,SeattleSeahawks,Los Angeles Chargers,0.571,137.12,202.75,23.5,114.75,218.5,19.5,0.815,9,AwayTeam
+2018,10,SeattleSeahawks,Los Angeles Rams,0.5,152.22,195.89,24.33,118.56,228.33,21.33,0.815,8,AwayTeam
+2018,11,SeattleSeahawks,Green Bay Packers,0.444,154.3,196.8,24.6,111.5,236.6,21.6,0.815,7,HomeTeam
+2018,12,SeattleSeahawks,Carolina Panthers,0.5,147.09,208.18,25.09,121.36,238.36,22.09,0.815,8,HomeTeam
+2018,13,SeattleSeahawks,San Francisco 49ers,0.545,148.83,204.42,26.58,116.75,250.67,21.58,0.815,11,HomeTeam
+2018,14,SeattleSeahawks,Minnesota Vikings,0.583,153.85,193.31,26.15,113.69,246.69,20.46,0.815,11,HomeTeam
+2018,15,SeattleSeahawks,San Francisco 49ers,0.615,154.86,195.0,25.93,112.29,247.43,20.86,0.815,12,AwayTeam
+2018,16,SeattleSeahawks,Kansas City Chiefs,0.571,158.53,198.93,26.73,115.07,248.6,21.53,0.815,14,HomeTeam
+2018,17,SeattleSeahawks,Arizona Cardinals,0.6,160.0,193.31,26.75,113.19,240.12,21.69,0.815,15,HomeTeam
+2019,1,SeattleSeahawks,Cincinnati Bengals,0,72.0,160.0,21.0,34.0,395.0,20.0,0.821,2,HomeTeam
+2019,2,SeattleSeahawks,Pittsburgh Steelers,1.0,111.5,217.0,24.5,57.5,287.5,23.0,0.821,1,HomeTeam
+2019,3,SeattleSeahawks,New Orleans Saints,1.0,110.33,280.0,25.33,67.67,250.67,26.33,0.821,1,AwayTeam
+2019,4,SeattleSeahawks,Arizona Cardinals,0.667,111.5,266.25,25.75,79.5,239.5,22.25,0.821,2,HomeTeam
+2019,5,SeattleSeahawks,Los Angeles Rams,0.75,122.6,265.4,26.6,80.0,270.6,23.6,0.821,3,HomeTeam
+2019,6,SeattleSeahawks,Cleveland Browns,0.8,130.5,268.5,27.5,92.83,267.0,24.33,0.821,6,HomeTeam
+2019,7,SeattleSeahawks,Baltimore Ravens,0.833,127.0,264.57,25.86,108.0,249.0,25.14,0.821,4,AwayTeam
+2019,8,SeattleSeahawks,Atlanta Falcons,0.714,130.0,252.88,26.0,103.12,273.0,24.5,0.821,7,HomeTeam
+2019,9,SeattleSeahawks,Tampa Bay Buccaneers,0.75,131.67,263.33,27.56,102.67,278.11,25.56,0.821,7,HomeTeam
+2019,10,SeattleSeahawks,San Francisco 49ers,0.778,133.2,255.9,27.5,101.1,271.8,25.4,0.821,6,HomeTeam
+2019,12,SeattleSeahawks,Philadelphia Eagles,0.8,136.91,248.45,26.55,101.55,268.73,23.91,0.821,9,HomeTeam
+2019,13,SeattleSeahawks,Minnesota Vikings,0.818,143.67,246.58,27.42,99.58,269.33,24.42,0.821,10,HomeTeam
+2019,14,SeattleSeahawks,Los Angeles Rams,0.833,140.77,243.15,26.23,104.38,271.15,24.69,0.821,11,AwayTeam
+2019,15,SeattleSeahawks,Carolina Panthers,0.769,141.71,245.36,26.5,107.29,271.0,24.64,0.821,13,HomeTeam
+2019,16,SeattleSeahawks,Arizona Cardinals,0.786,138.33,237.87,25.6,117.0,263.53,24.8,0.821,12,AwayTeam
+2019,17,SeattleSeahawks,San Francisco 49ers,0.733,137.5,236.94,25.31,117.69,263.94,24.88,0.821,12,AwayTeam
+2020,1,SeattleSeahawks,Atlanta Falcons,0,84.0,299.0,38.0,72.0,434.0,25.0,1.0,2,HomeTeam
+2020,2,SeattleSeahawks,New England Patriots,1.0,119.0,287.0,36.5,69.5,415.5,27.5,1.0,2,HomeTeam
+2020,3,SeattleSeahawks,Dallas Cowboys,1.0,118.33,289.67,37.0,66.67,430.67,28.67,1.0,4,HomeTeam
+2020,4,SeattleSeahawks,Miami Dolphins,1.0,113.25,303.0,35.5,75.75,401.0,27.25,1.0,5,HomeTeam
+2020,5,SeattleSeahawks,Minnesota Vikings,1.0,115.4,280.4,33.8,100.8,370.4,27.0,1.0,6,HomeTeam
+2020,7,SeattleSeahawks,Arizona Cardinals,1.0,129.5,295.67,33.83,110.5,368.67,28.67,1.0,5,AwayTeam
+2020,8,SeattleSeahawks,San Francisco 49ers,0.833,125.43,289.0,34.29,102.14,358.71,28.43,1.0,7,HomeTeam
+2020,9,SeattleSeahawks,Buffalo Bills,0.857,116.88,298.12,34.25,93.62,362.12,30.38,1.0,3,AwayTeam
+2020,10,SeattleSeahawks,Los Angeles Rams,0.75,116.44,289.44,32.22,95.0,353.33,29.56,1.0,1,AwayTeam
+2020,11,SeattleSeahawks,Arizona Cardinals,0.667,121.3,278.7,31.8,91.2,343.7,28.7,1.0,1,HomeTeam
+2020,12,SeattleSeahawks,Philadelphia Eagles,0.7,117.18,273.82,31.0,89.27,328.82,27.64,1.0,2,HomeTeam
+2020,13,SeattleSeahawks,New York Giants,0.727,116.67,269.0,29.42,97.67,309.75,26.75,1.0,1,AwayTeam
+2020,14,SeattleSeahawks,New York Jets,0.667,121.08,266.46,30.23,95.46,294.85,24.92,1.0,1,HomeTeam
+2020,15,SeattleSeahawks,Washington Football Team,0.692,125.36,256.07,29.5,94.64,293.0,24.21,1.0,2,HomeTeam
+2020,16,SeattleSeahawks,Los Angeles Rams,0.714,123.33,252.13,28.87,96.2,287.87,23.2,1.0,3,HomeTeam
+2020,17,SeattleSeahawks,San Francisco 49ers,0.733,123.19,246.31,28.69,95.56,285.0,23.19,1.0,4,HomeTeam
+2021,1,SeattleSeahawks,Indianapolis Colts,0,140.0,241.0,28.0,113.0,223.0,16.0,0.739,0,HomeTeam
+2021,2,SeattleSeahawks,Tennessee Titans,1.0,108.5,280.5,29.0,162.5,271.5,24.5,0.739,1,AwayTeam
+2021,3,SeattleSeahawks,Minnesota Vikings,0.5,107.67,281.33,25.0,155.0,285.33,26.33,0.739,1,AwayTeam
+2021,4,SeattleSeahawks,San Francisco 49ers,0.333,107.0,243.25,25.75,152.0,292.5,25.0,0.739,3,HomeTeam
+2021,5,SeattleSeahawks,Los Angeles Rams,0.5,104.0,247.0,24.0,145.2,305.6,25.2,0.739,2,AwayTeam
+2021,6,SeattleSeahawks,Pittsburgh Steelers,0.4,110.67,233.33,23.33,140.83,292.33,24.83,0.739,2,AwayTeam
+2021,7,SeattleSeahawks,New Orleans Saints,0.333,107.71,218.43,21.43,134.14,280.57,23.14,0.739,3,AwayTeam
+2021,8,SeattleSeahawks,Jacksonville Jaguars,0.286,102.88,211.12,22.62,127.62,273.88,21.12,0.739,4,HomeTeam
+2021,10,SeattleSeahawks,Green Bay Packers,0.375,99.78,202.44,20.11,125.22,275.33,20.67,0.739,3,AwayTeam
+2021,11,SeattleSeahawks,Arizona Cardinals,0.333,98.4,200.2,19.4,122.2,279.6,20.9,0.739,3,AwayTeam
+2021,12,SeattleSeahawks,Washington Football Team,0.3,92.55,203.18,19.0,124.91,274.09,20.55,0.739,3,AwayTeam
+2021,13,SeattleSeahawks,San Francisco 49ers,0.273,97.0,201.33,19.92,120.42,275.75,20.75,0.739,3,HomeTeam
+2021,14,SeattleSeahawks,Houston Texans,0.333,104.38,205.85,20.92,116.0,278.92,20.15,0.739,3,HomeTeam
+2021,15,SeattleSeahawks,Los Angeles Rams,0.385,102.64,200.71,20.14,116.5,273.93,20.14,0.739,3,AwayTeam
+2021,16,SeattleSeahawks,Chicago Bears,0.357,107.13,198.07,20.4,114.6,270.93,20.47,0.739,3,AwayTeam
+2021,17,SeattleSeahawks,Detroit Lions,0.333,117.0,200.19,22.31,113.38,270.38,21.0,0.739,6,HomeTeam
+2021,18,SeattleSeahawks,Arizona Cardinals,0.375,122.0,201.88,23.24,113.65,265.47,21.53,0.739,5,HomeTeam
+2022,1,SeattleSeahawks,Denver Broncos,0,76.0,177.0,17.0,103.0,330.0,16.0,0.919,1,HomeTeam
+2022,2,SeattleSeahawks,San Francisco 49ers,1.0,56.0,178.5,12.0,146.0,257.0,21.5,0.919,-2,AwayTeam
+2022,3,SeattleSeahawks,Atlanta Falcons,0.5,74.67,221.67,15.67,157.0,240.33,23.33,0.919,-1,AwayTeam
+2022,4,SeattleSeahawks,Detroit Lions,0.333,114.75,246.25,23.75,154.0,274.0,28.75,0.919,0,HomeTeam
+2022,5,SeattleSeahawks,New Orleans Saints,0.5,122.0,246.0,25.4,170.2,259.8,30.8,0.919,1,AwayTeam
+2022,6,SeattleSeahawks,Arizona Cardinals,0.4,124.33,231.67,24.33,165.83,245.0,27.17,0.919,2,HomeTeam
+2022,7,SeattleSeahawks,Los Angeles Chargers,0.5,137.0,225.86,26.14,149.71,249.43,26.57,0.919,2,HomeTeam
+2022,8,SeattleSeahawks,New York Giants,0.571,130.75,221.38,26.25,140.75,236.62,24.88,0.919,3,HomeTeam
+2022,9,SeattleSeahawks,Arizona Cardinals,0.625,133.78,226.0,26.78,138.67,225.89,24.44,0.919,3,HomeTeam
+2022,10,SeattleSeahawks,Tampa Bay Buccaneers,0.667,124.3,227.8,25.7,140.9,229.1,24.1,0.919,4,AwayTeam
+2022,12,SeattleSeahawks,Las Vegas Raiders,0.6,118.91,235.0,26.45,153.82,234.91,25.55,0.919,4,AwayTeam
+2022,13,SeattleSeahawks,Los Angeles Rams,0.545,116.5,244.42,26.5,155.25,227.67,25.33,0.919,4,HomeTeam
+2022,14,SeattleSeahawks,Carolina Panthers,0.583,111.08,244.15,26.31,160.46,218.23,25.69,0.919,2,AwayTeam
+2022,15,SeattleSeahawks,San Francisco 49ers,0.538,108.14,241.5,25.36,161.14,217.71,25.36,0.919,1,AwayTeam
+2022,16,SeattleSeahawks,Kansas City Chiefs,0.5,109.8,238.73,24.33,155.53,217.87,25.27,0.919,0,AwayTeam
+2022,17,SeattleSeahawks,New York Jets,0.467,115.31,233.06,24.25,150.5,217.0,24.06,0.919,3,HomeTeam
+2022,18,SeattleSeahawks,Los Angeles Rams,0.5,120.12,231.41,23.94,150.24,211.47,23.59,0.919,2,HomeTeam
+2023,1,SeattleSeahawks,Los Angeles Rams,0,85.0,95.0,13.0,92.0,334.0,30.0,0.833,0,AwayTeam
+2023,2,SeattleSeahawks,Detroit Lions,0.0,83.5,203.0,25.0,97.0,325.0,30.5,0.833,3,HomeTeam
+2023,3,SeattleSeahawks,Carolina Panthers,0.5,104.33,228.33,29.0,79.33,328.0,29.33,0.833,2,HomeTeam
+2023,4,SeattleSeahawks,New York Giants,0.667,108.5,211.25,27.75,87.5,280.0,22.75,0.833,5,HomeTeam
+2023,6,SeattleSeahawks,Cincinnati Bengals,0.75,104.2,228.4,24.8,79.2,257.6,21.6,0.833,4,AwayTeam
+2023,7,SeattleSeahawks,Arizona Cardinals,0.6,106.0,224.17,24.0,87.17,235.0,19.67,0.833,1,HomeTeam
+2023,8,SeattleSeahawks,Cleveland Browns,0.667,107.14,227.57,24.0,96.86,234.29,19.71,0.833,2,HomeTeam
+2023,9,SeattleSeahawks,Baltimore Ravens,0.714,97.25,214.5,21.38,122.0,232.12,21.88,0.833,2,AwayTeam
+2023,10,SeattleSeahawks,Washington Commanders,0.625,99.78,231.67,22.22,116.0,238.33,22.33,0.833,3,HomeTeam
+2023,11,SeattleSeahawks,Los Angeles Rams,0.667,96.6,230.8,21.6,112.6,233.0,21.8,0.833,3,AwayTeam
+2023,12,SeattleSeahawks,San Francisco 49ers,0.6,95.82,221.82,20.82,117.73,230.73,22.64,0.833,2,AwayTeam
+2023,13,SeattleSeahawks,Dallas Cowboys,0.545,93.83,231.17,22.0,119.25,234.42,24.17,0.833,1,AwayTeam
+2023,14,SeattleSeahawks,San Francisco 49ers,0.5,92.0,232.92,21.54,123.38,243.62,24.46,0.833,1,AwayTeam
+2023,15,SeattleSeahawks,Philadelphia Eagles,0.462,92.57,230.36,21.43,127.29,236.43,23.93,0.833,3,HomeTeam
+2023,16,SeattleSeahawks,Tennessee Titans,0.5,90.27,229.33,21.33,129.6,229.0,23.47,0.833,3,HomeTeam
+2023,17,SeattleSeahawks,Pittsburgh Steelers,0.533,90.12,232.56,21.44,134.12,231.31,23.88,0.833,2,AwayTeam
+2023,18,SeattleSeahawks,Arizona Cardinals,0.5,92.94,230.0,21.41,138.35,233.0,23.65,0.833,2,HomeTeam
+2024,1,SeattleSeahawks,Denver Broncos,0,146.0,158.0,26.0,99.0,132.0,20.0,0.833,1,HomeTeam
+2024,2,SeattleSeahawks,New England Patriots,1.0,96.0,235.0,24.5,142.0,128.5,20.0,0.833,1,HomeTeam
+2024,3,SeattleSeahawks,Miami Dolphins,1.0,97.33,246.67,24.33,116.33,132.33,14.33,0.833,-1,HomeTeam
+2024,4,SeattleSeahawks,Detroit Lions,1.0,106.25,280.75,25.5,116.25,167.5,21.25,0.833,-3,AwayTeam
+2024,5,SeattleSeahawks,New York Giants,0.75,105.4,270.8,24.4,128.0,183.0,22.8,0.833,-3,AwayTeam
+2024,6,SeattleSeahawks,San Francisco 49ers,0.6,96.5,276.67,24.33,144.67,195.0,25.0,0.833,-6,AwayTeam
+2024,7,SeattleSeahawks,Atlanta Falcons,0.5,97.43,270.86,25.71,146.14,197.71,23.43,0.833,-3,HomeTeam
+2024,8,SeattleSeahawks,Buffalo Bills,0.571,89.25,262.12,23.75,148.38,208.12,24.38,0.833,-4,AwayTeam
+2024,9,SeattleSeahawks,Los Angeles Rams,0.5,91.22,268.22,23.33,139.44,218.11,24.56,0.833,-6,AwayTeam
+2024,11,SeattleSeahawks,San Francisco 49ers,0.444,91.5,260.9,23.0,138.6,210.9,23.8,0.833,-6,HomeTeam
+2024,12,SeattleSeahawks,Arizona Cardinals,0.5,89.09,257.18,22.36,130.45,214.36,22.18,0.833,-6,HomeTeam

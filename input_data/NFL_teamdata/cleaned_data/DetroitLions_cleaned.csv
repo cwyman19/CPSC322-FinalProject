@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,DetroitLions,New York Jets,0,39.0,300.0,17.0,169.0,180.0,48.0,0.875,-3,AwayTeam
+2018,2,DetroitLions,San Francisco 49ers,0.0,68.5,314.5,22.0,179.5,168.0,39.0,0.875,-4,AwayTeam
+2018,3,DetroitLions,New England Patriots,0.0,98.67,294.67,23.33,149.33,152.0,29.33,0.875,-4,HomeTeam
+2018,4,DetroitLions,Dallas Cowboys,0.333,98.0,292.5,23.5,157.75,171.75,28.5,0.875,-4,AwayTeam
+2018,5,DetroitLions,Green Bay Packers,0.25,97.2,268.0,25.0,145.8,222.0,27.4,0.875,-1,HomeTeam
+2018,7,DetroitLions,Miami Dolphins,0.4,122.33,258.17,26.17,139.33,220.83,26.33,0.875,-1,HomeTeam
+2018,8,DetroitLions,Seattle Seahawks,0.5,109.71,263.71,24.43,144.57,223.14,26.57,0.875,-4,AwayTeam
+2018,9,DetroitLions,Minnesota Vikings,0.429,104.25,248.62,22.5,142.5,214.62,26.25,0.875,-3,AwayTeam
+2018,10,DetroitLions,Chicago Bears,0.375,101.11,246.44,22.44,132.67,229.44,27.11,0.875,-6,AwayTeam
+2018,11,DetroitLions,Carolina Panthers,0.333,100.4,243.3,22.2,125.0,239.6,26.3,0.875,-5,HomeTeam
+2018,12,DetroitLions,Chicago Bears,0.4,101.36,241.36,21.64,117.09,238.36,26.0,0.875,-6,AwayTeam
+2018,13,DetroitLions,Los Angeles Rams,0.364,101.42,238.58,21.17,119.75,234.75,26.33,0.875,-6,AwayTeam
+2018,14,DetroitLions,Arizona Cardinals,0.333,103.0,227.62,20.85,115.23,233.46,24.54,0.875,-6,HomeTeam
+2018,15,DetroitLions,Buffalo Bills,0.385,103.14,226.21,20.29,115.36,230.71,23.79,0.875,-6,AwayTeam
+2018,16,DetroitLions,Minnesota Vikings,0.357,102.0,220.27,19.53,114.33,231.33,24.0,0.875,-6,AwayTeam
+2018,17,DetroitLions,Green Bay Packers,0.333,103.75,223.5,20.25,110.06,224.94,22.5,0.875,-5,HomeTeam
+2019,1,DetroitLions,Arizona Cardinals,0,116.0,361.0,27.0,112.0,275.0,27.0,0.839,-1,
+2019,2,DetroitLions,Los Angeles Chargers,0,105.0,303.0,20.0,124.5,281.0,18.5,0.839,-1,HomeTeam
+2019,3,DetroitLions,Philadelphia Eagles,1.0,98.67,269.0,22.33,125.33,269.33,20.33,0.839,1,HomeTeam
+2019,4,DetroitLions,Kansas City Chiefs,1.0,120.5,267.0,24.25,124.75,280.75,23.75,0.839,2,AwayTeam
+2019,6,DetroitLions,Green Bay Packers,0.667,107.6,262.2,23.8,133.8,280.0,23.6,0.839,5,AwayTeam
+2019,7,DetroitLions,Minnesota Vikings,0.5,103.17,277.17,24.83,139.17,289.67,26.67,0.839,4,AwayTeam
+2019,8,DetroitLions,New York Giants,0.4,96.86,282.71,25.71,130.71,289.71,26.57,0.839,3,HomeTeam
+2019,9,DetroitLions,Oakland Raiders,0.5,96.0,295.25,25.5,135.75,288.38,27.12,0.839,1,AwayTeam
+2019,10,DetroitLions,Chicago Bears,0.429,96.22,291.22,24.11,129.67,272.44,26.33,0.839,0,AwayTeam
+2019,11,DetroitLions,Dallas Cowboys,0.375,98.7,281.2,24.4,124.2,288.6,27.2,0.839,1,AwayTeam
+2019,12,DetroitLions,Washington Redskins,0.333,105.64,272.82,23.64,120.73,275.45,26.45,0.839,-1,AwayTeam
+2019,13,DetroitLions,Chicago Bears,0.3,105.58,271.67,23.33,118.0,280.08,26.25,0.839,-1,AwayTeam
+2019,14,DetroitLions,Minnesota Vikings,0.273,102.85,263.15,22.08,118.15,276.54,25.77,0.839,-3,AwayTeam
+2019,15,DetroitLions,Tampa Bay Buccaneers,0.25,98.71,262.21,21.71,113.21,288.64,26.64,0.839,-5,AwayTeam
+2019,16,DetroitLions,Denver Broncos,0.231,98.53,251.07,21.4,115.67,282.6,26.67,0.839,-5,AwayTeam
+2019,17,DetroitLions,Green Bay Packers,0.214,103.06,243.75,21.31,115.94,284.44,26.44,0.839,-5,AwayTeam
+2020,1,DetroitLions,Chicago Bears,0,138.0,288.0,23.0,149.0,214.0,27.0,0.75,-1,AwayTeam
+2020,2,DetroitLions,Green Bay Packers,0.0,113.5,253.0,22.0,204.0,221.5,34.5,0.75,-2,AwayTeam
+2020,3,DetroitLions,Arizona Cardinals,0.0,105.67,246.0,23.33,172.33,237.0,30.67,0.75,1,HomeTeam
+2020,4,DetroitLions,New Orleans Saints,0.333,101.75,232.25,24.75,170.25,234.75,31.75,0.75,1,AwayTeam
+2020,6,DetroitLions,Jacksonville Jaguars,0.25,117.4,230.4,26.6,145.0,234.0,28.6,0.75,2,HomeTeam
+2020,7,DetroitLions,Atlanta Falcons,0.4,108.5,245.67,26.0,131.83,248.67,27.5,0.75,3,HomeTeam
+2020,8,DetroitLions,Indianapolis Colts,0.5,97.14,253.0,25.29,130.0,248.43,29.43,0.75,1,AwayTeam
+2020,9,DetroitLions,Minnesota Vikings,0.429,101.12,257.88,24.62,148.12,243.88,30.0,0.75,-2,AwayTeam
+2020,10,DetroitLions,Washington Football Team,0.375,101.56,258.89,25.22,141.56,258.44,29.67,0.75,-1,HomeTeam
+2020,11,DetroitLions,Carolina Panthers,0.444,95.4,247.5,22.7,139.0,258.4,28.7,0.75,0,AwayTeam
+2020,12,DetroitLions,Houston Texans,0.4,96.64,250.36,22.91,133.36,262.82,29.82,0.75,-2,AwayTeam
+2020,13,DetroitLions,Chicago Bears,0.364,93.58,262.83,23.83,133.92,261.67,29.83,0.75,-2,HomeTeam
+2020,14,DetroitLions,Green Bay Packers,0.417,90.31,261.23,23.85,132.85,263.85,29.92,0.75,-2,AwayTeam
+2020,15,DetroitLions,Tennessee Titans,0.385,92.64,264.5,23.93,137.29,264.14,31.07,0.75,-5,AwayTeam
+2020,16,DetroitLions,Tampa Bay Buccaneers,0.357,91.33,254.4,22.8,135.53,278.33,32.13,0.75,-7,AwayTeam
+2020,17,DetroitLions,Minnesota Vikings,0.333,93.69,256.5,23.56,134.88,284.88,32.44,0.75,-9,AwayTeam
+2021,1,DetroitLions,San Francisco 49ers,0,116.0,314.0,33.0,131.0,311.0,41.0,0.867,1,AwayTeam
+2021,2,DetroitLions,Green Bay Packers,0.0,112.0,275.0,25.0,113.5,269.0,38.0,0.867,-1,AwayTeam
+2021,3,DetroitLions,Baltimore Ravens,0.0,105.67,247.33,22.33,114.33,269.67,31.67,0.867,0,AwayTeam
+2021,4,DetroitLions,Chicago Bears,0.0,101.75,250.75,20.25,132.75,248.5,29.75,0.867,-1,AwayTeam
+2021,5,DetroitLions,Minnesota Vikings,0.0,103.0,236.6,19.6,130.2,251.6,27.6,0.867,-1,AwayTeam
+2021,6,DetroitLions,Cincinnati Bengals,0.0,91.83,229.17,18.17,132.17,252.33,28.67,0.867,-1,AwayTeam
+2021,7,DetroitLions,Los Angeles Rams,0.0,98.29,236.14,18.29,120.0,263.0,28.57,0.867,-3,AwayTeam
+2021,8,DetroitLions,Philadelphia Eagles,0.0,93.12,228.0,16.75,134.5,244.38,30.5,0.867,-4,AwayTeam
+2021,10,DetroitLions,Pittsburgh Steelers,0.0,108.22,211.22,16.67,135.67,244.11,28.89,0.867,-1,
+2021,11,DetroitLions,Cleveland Browns,0.0,114.2,197.8,16.0,140.5,236.2,27.3,0.867,-1,AwayTeam
+2021,12,DetroitLions,Chicago Bears,0.0,110.73,194.64,15.82,133.91,242.91,26.27,0.867,-1,AwayTeam
+2021,13,DetroitLions,Minnesota Vikings,0.0,109.83,201.08,16.92,131.08,249.83,26.33,0.867,-2,HomeTeam
+2021,14,DetroitLions,Denver Broncos,0.091,110.46,200.85,16.38,135.15,244.0,27.23,0.867,-4,AwayTeam
+2021,15,DetroitLions,Arizona Cardinals,0.083,111.57,201.64,17.36,133.0,247.5,26.14,0.867,-4,HomeTeam
+2021,16,DetroitLions,Atlanta Falcons,0.154,112.8,202.07,17.27,127.27,244.8,25.73,0.867,-4,AwayTeam
+2021,17,DetroitLions,Seattle Seahawks,0.143,111.69,205.81,18.0,135.88,244.0,27.31,0.867,-7,AwayTeam
+2021,18,DetroitLions,Green Bay Packers,0.133,110.94,211.65,19.12,135.06,244.71,27.47,0.867,-4,HomeTeam
+2022,1,DetroitLions,Philadelphia Eagles,0,181.0,205.0,35.0,216.0,239.0,38.0,0.8,-1,AwayTeam
+2022,2,DetroitLions,Washington Commanders,0.0,186.0,219.5,35.5,152.0,273.5,32.5,0.8,0,HomeTeam
+2022,3,DetroitLions,Minnesota Vikings,0.5,170.33,238.67,31.67,142.33,265.67,31.0,0.8,0,AwayTeam
+2022,4,DetroitLions,Seattle Seahawks,0.333,164.0,272.75,35.0,165.5,279.25,35.25,0.8,-1,AwayTeam
+2022,5,DetroitLions,New England Patriots,0.25,151.4,260.4,28.0,167.6,261.0,34.0,0.8,-2,AwayTeam
+2022,7,DetroitLions,Dallas Cowboys,0.2,145.67,249.5,24.33,162.83,249.33,32.33,0.8,-6,AwayTeam
+2022,8,DetroitLions,Miami Dolphins,0.167,136.57,258.29,24.71,154.86,266.43,32.14,0.8,-5,AwayTeam
+2022,9,DetroitLions,Green Bay Packers,0.143,134.12,243.12,23.5,148.75,268.5,29.25,0.8,-3,HomeTeam
+2022,10,DetroitLions,Chicago Bears,0.25,129.78,241.44,24.33,160.89,255.33,29.33,0.8,-2,HomeTeam
+2022,11,DetroitLions,New York Giants,0.333,132.8,233.8,25.0,153.7,262.2,28.2,0.8,1,HomeTeam
+2022,12,DetroitLions,Buffalo Bills,0.4,129.45,233.45,25.0,154.64,259.91,28.18,0.8,0,AwayTeam
+2022,13,DetroitLions,Jacksonville Jaguars,0.364,127.0,242.08,26.25,149.67,252.5,27.0,0.8,1,HomeTeam
+2022,14,DetroitLions,Minnesota Vikings,0.417,127.54,248.85,26.85,139.85,263.38,26.69,0.8,3,HomeTeam
+2022,15,DetroitLions,New York Jets,0.462,126.07,249.07,26.36,133.43,265.07,26.0,0.8,4,HomeTeam
+2022,16,DetroitLions,Carolina Panthers,0.5,120.67,254.87,26.13,145.87,264.07,26.73,0.8,3,AwayTeam
+2022,17,DetroitLions,Chicago Bears,0.467,129.69,253.88,27.06,149.25,249.44,25.69,0.8,5,HomeTeam
+2022,18,DetroitLions,Green Bay Packers,0.5,128.18,251.82,26.65,146.53,245.82,25.12,0.8,7,HomeTeam
+2023,1,DetroitLions,Kansas City Chiefs,0,118.0,250.0,21.0,90.0,226.0,20.0,0.905,0,HomeTeam
+2023,2,DetroitLions,Seattle Seahawks,1.0,110.0,283.0,26.0,86.0,268.5,28.5,0.905,-3,AwayTeam
+2023,3,DetroitLions,Atlanta Falcons,0.5,111.67,269.67,24.0,72.0,225.33,21.0,0.905,-3,HomeTeam
+2023,4,DetroitLions,Green Bay Packers,0.667,136.5,249.75,26.5,60.75,219.75,20.75,0.905,-2,HomeTeam
+2023,5,DetroitLions,Carolina Panthers,0.75,141.0,243.4,29.6,68.4,224.4,21.4,0.905,1,HomeTeam
+2023,6,DetroitLions,Tampa Bay Buccaneers,0.8,124.17,259.5,28.0,64.67,221.17,18.83,0.905,2,HomeTeam
+2023,7,DetroitLions,Baltimore Ravens,0.833,118.43,258.57,24.86,76.29,240.57,21.57,0.905,2,AwayTeam
+2023,8,DetroitLions,Las Vegas Raiders,0.714,131.38,259.25,25.0,76.75,220.12,20.62,0.905,0,HomeTeam
+2023,10,DetroitLions,Los Angeles Chargers,0.75,139.0,267.44,26.78,79.11,231.56,22.56,0.905,1,HomeTeam
+2023,11,DetroitLions,Chicago Bears,0.778,136.6,263.0,27.2,89.5,223.5,22.9,0.905,-2,HomeTeam
+2023,12,DetroitLions,Green Bay Packers,0.8,136.91,268.55,26.73,91.27,227.55,23.45,0.905,-5,AwayTeam
+2023,13,DetroitLions,New Orleans Saints,0.727,137.33,263.25,27.25,93.08,229.33,23.83,0.905,-3,HomeTeam
+2023,14,DetroitLions,Chicago Bears,0.75,137.54,252.77,26.15,96.85,226.62,24.15,0.905,-6,AwayTeam
+2023,15,DetroitLions,Denver Broncos,0.692,140.93,253.5,27.29,95.86,225.0,23.64,0.905,-5,HomeTeam
+2023,16,DetroitLions,Minnesota Vikings,0.714,141.07,253.0,27.47,90.6,234.87,23.67,0.905,-2,HomeTeam
+2023,17,DetroitLions,Dallas Cowboys,0.733,140.06,255.62,26.94,88.75,240.38,23.44,0.905,-2,AwayTeam
+2023,18,DetroitLions,Minnesota Vikings,0.688,135.94,258.88,27.12,88.76,247.35,23.24,0.905,0,HomeTeam
+2024,1,DetroitLions,Los Angeles Rams,0,163.0,200.0,26.0,83.0,304.0,20.0,1.0,0,HomeTeam
+2024,2,DetroitLions,Tampa Bay Buccaneers,1.0,151.0,262.0,21.0,76.5,225.0,20.0,1.0,-1,AwayTeam
+2024,3,DetroitLions,Arizona Cardinals,0.5,163.0,236.67,20.67,76.67,216.67,17.67,1.0,-1,HomeTeam
+2024,4,DetroitLions,Seattle Seahawks,0.667,151.25,245.75,26.0,90.75,258.25,20.5,1.0,1,HomeTeam
+2024,6,DetroitLions,Dallas Cowboys,0.75,157.8,258.2,30.2,83.2,246.2,18.2,1.0,6,HomeTeam
+2024,7,DetroitLions,Minnesota Vikings,0.8,155.5,256.33,30.33,92.5,245.83,20.0,1.0,6,HomeTeam
+2024,8,DetroitLions,Tennessee Titans,0.833,156.71,228.43,33.43,101.86,247.57,19.14,1.0,10,HomeTeam
+2024,9,DetroitLions,Green Bay Packers,0.857,152.62,217.0,32.25,106.38,250.75,18.5,1.0,11,HomeTeam
+2024,10,DetroitLions,Houston Texans,0.875,147.33,219.56,31.56,100.78,244.22,19.0,1.0,8,HomeTeam
+2024,11,DetroitLions,Jacksonville Jaguars,0.889,152.2,242.5,33.6,94.8,232.7,17.7,1.0,9,HomeTeam
+2024,12,DetroitLions,Indianapolis Colts,0.9,150.82,243.45,32.73,94.91,227.18,16.64,1.0,9,HomeTeam

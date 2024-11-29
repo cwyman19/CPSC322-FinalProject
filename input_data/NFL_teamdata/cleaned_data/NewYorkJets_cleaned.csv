@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,NewYorkJets,Detroit Lions,0,169.0,180.0,48.0,39.0,300.0,17.0,0.917,3,HomeTeam
+2018,2,NewYorkJets,Miami Dolphins,1.0,105.5,250.0,30.0,87.0,211.0,18.5,0.917,2,AwayTeam
+2018,3,NewYorkJets,Cleveland Browns,0.5,106.0,220.33,25.67,102.33,204.0,19.33,0.917,-1,AwayTeam
+2018,4,NewYorkJets,Jacksonville Jaguars,0.333,88.0,201.25,22.25,108.25,247.25,22.25,0.917,2,AwayTeam
+2018,5,NewYorkJets,Denver Broncos,0.25,135.0,198.8,24.6,105.0,266.6,21.0,0.917,1,HomeTeam
+2018,6,NewYorkJets,Indianapolis Colts,0.4,130.33,210.17,27.5,108.67,272.33,23.17,0.917,3,HomeTeam
+2018,7,NewYorkJets,Minnesota Vikings,0.5,121.86,207.57,26.0,105.71,266.0,25.14,0.917,-1,AwayTeam
+2018,8,NewYorkJets,Chicago Bears,0.429,113.75,200.38,24.0,114.88,259.75,25.0,0.917,-1,AwayTeam
+2018,9,NewYorkJets,Miami Dolphins,0.375,110.0,200.56,22.0,109.22,242.44,23.67,0.917,-5,AwayTeam
+2018,10,NewYorkJets,Buffalo Bills,0.333,107.3,192.1,20.8,119.5,242.1,25.4,0.917,-7,AwayTeam
+2018,12,NewYorkJets,New England Patriots,0.3,104.27,198.64,20.09,128.18,245.82,25.55,0.917,-8,AwayTeam
+2018,13,NewYorkJets,Tennessee Titans,0.273,108.58,192.42,20.25,128.33,248.08,25.58,0.917,-8,AwayTeam
+2018,14,NewYorkJets,Buffalo Bills,0.25,106.23,190.69,20.77,132.0,243.77,25.38,0.917,-7,HomeTeam
+2018,15,NewYorkJets,Houston Texans,0.308,105.07,193.36,20.86,125.93,243.43,25.64,0.917,-8,AwayTeam
+2018,16,NewYorkJets,Green Bay Packers,0.286,101.2,202.0,22.0,126.0,254.73,26.87,0.917,-7,AwayTeam
+2018,17,NewYorkJets,New England Patriots,0.267,101.38,197.81,20.81,126.31,254.06,27.56,0.917,-10,AwayTeam
+2019,1,NewYorkJets,Buffalo Bills,0,68.0,155.0,16.0,128.0,242.0,17.0,0.679,3,AwayTeam
+2019,2,NewYorkJets,Cleveland Browns,0.0,80.5,162.0,9.5,99.0,273.5,20.0,0.679,3,AwayTeam
+2019,3,NewYorkJets,New England Patriots,0.0,65.67,131.0,11.0,88.67,286.67,23.33,0.679,4,AwayTeam
+2019,5,NewYorkJets,Philadelphia Eagles,0.0,66.0,113.5,9.75,87.5,260.25,25.25,0.679,2,AwayTeam
+2019,6,NewYorkJets,Dallas Cowboys,0.0,64.0,156.0,12.6,95.8,262.2,24.6,0.679,1,HomeTeam
+2019,7,NewYorkJets,New England Patriots,0.2,66.83,142.17,10.5,92.17,260.0,26.0,0.679,-4,AwayTeam
+2019,8,NewYorkJets,Jacksonville Jaguars,0.167,63.86,145.71,11.14,94.86,262.57,26.43,0.679,-6,AwayTeam
+2019,9,NewYorkJets,Miami Dolphins,0.143,66.25,157.25,12.0,89.25,263.0,26.38,0.679,-7,AwayTeam
+2019,10,NewYorkJets,New York Giants,0.125,67.33,164.0,14.44,81.89,262.44,26.44,0.679,-5,HomeTeam
+2019,11,NewYorkJets,Washington Redskins,0.222,72.1,176.1,16.4,79.1,253.3,25.5,0.679,-6,HomeTeam
+2019,12,NewYorkJets,Oakland Raiders,0.3,73.55,188.55,18.0,78.09,243.0,23.45,0.679,-5,HomeTeam
+2019,13,NewYorkJets,Cincinnati Bengals,0.364,72.58,190.25,17.0,75.25,242.17,23.33,0.679,-5,AwayTeam
+2019,14,NewYorkJets,Miami Dolphins,0.333,75.62,195.77,17.38,78.85,242.0,23.15,0.679,-5,HomeTeam
+2019,15,NewYorkJets,Baltimore Ravens,0.385,77.57,196.57,17.64,88.79,239.86,24.5,0.679,-7,AwayTeam
+2019,16,NewYorkJets,Pittsburgh Steelers,0.357,78.07,195.07,17.53,87.87,236.2,23.53,0.679,-6,HomeTeam
+2019,17,NewYorkJets,Buffalo Bills,0.4,78.56,194.44,17.25,86.94,236.19,22.44,0.679,-4,HomeTeam
+2020,1,NewYorkJets,Buffalo Bills,0,52.0,202.0,17.0,98.0,306.0,27.0,0.75,0,AwayTeam
+2020,2,NewYorkJets,San Francisco 49ers,0.0,78.0,187.5,15.0,140.0,241.5,29.0,0.75,1,AwayTeam
+2020,3,NewYorkJets,Indianapolis Colts,0.0,88.33,175.33,12.33,133.0,239.0,31.33,0.75,-2,AwayTeam
+2020,4,NewYorkJets,Denver Broncos,0.0,98.5,179.5,16.25,129.0,239.75,32.75,0.75,1,AwayTeam
+2020,5,NewYorkJets,Arizona Cardinals,0.0,103.4,176.0,15.0,128.6,265.6,32.2,0.75,2,AwayTeam
+2020,6,NewYorkJets,Miami Dolphins,0.0,105.33,171.33,12.5,125.5,253.33,30.83,0.75,3,AwayTeam
+2020,7,NewYorkJets,Buffalo Bills,0.0,104.57,159.86,12.14,125.57,259.43,29.0,0.75,2,AwayTeam
+2020,8,NewYorkJets,Kansas City Chiefs,0.0,103.12,155.88,11.75,116.12,282.75,29.75,0.75,1,AwayTeam
+2020,9,NewYorkJets,New England Patriots,0.0,98.89,167.11,13.44,120.89,281.78,29.78,0.75,0,AwayTeam
+2020,11,NewYorkJets,Los Angeles Chargers,0.0,98.6,170.0,14.9,111.7,288.3,30.2,0.75,0,AwayTeam
+2020,12,NewYorkJets,Miami Dolphins,0.0,97.55,170.27,13.82,111.0,284.0,29.27,0.75,0,AwayTeam
+2020,13,NewYorkJets,Las Vegas Raiders,0.0,106.58,170.25,15.0,107.75,291.0,29.42,0.75,-1,AwayTeam
+2020,14,NewYorkJets,Seattle Seahawks,0.0,103.69,166.08,14.08,112.85,286.77,30.23,0.75,-1,AwayTeam
+2020,15,NewYorkJets,Los Angeles Rams,0.0,102.93,168.21,14.71,112.93,279.79,29.5,0.75,0,HomeTeam
+2020,16,NewYorkJets,Cleveland Browns,0.071,104.8,170.47,15.27,108.4,278.07,28.6,0.75,2,HomeTeam
+2020,17,NewYorkJets,New England Patriots,0.133,105.19,174.75,15.19,112.0,275.56,28.56,0.75,0,AwayTeam
+2021,1,NewYorkJets,Carolina Panthers,0,45.0,207.0,14.0,111.0,270.0,19.0,0.778,0,AwayTeam
+2021,2,NewYorkJets,New England Patriots,0.0,98.5,195.5,10.0,106.0,214.5,22.0,0.778,-4,AwayTeam
+2021,3,NewYorkJets,Denver Broncos,0.0,80.0,170.0,6.67,110.67,217.33,23.33,0.778,-5,AwayTeam
+2021,4,NewYorkJets,Tennessee Titans,0.0,76.5,199.75,11.75,127.25,226.25,23.5,0.778,-6,HomeTeam
+2021,5,NewYorkJets,Atlanta Falcons,0.25,74.0,193.0,13.4,123.4,249.4,24.2,0.778,-5,AwayTeam
+2021,7,NewYorkJets,New England Patriots,0.2,72.0,200.33,13.33,127.5,275.0,29.17,0.778,-8,AwayTeam
+2021,8,NewYorkJets,Cincinnati Bengals,0.167,75.57,230.86,16.29,115.14,275.29,29.43,0.778,-10,HomeTeam
+2021,9,NewYorkJets,Indianapolis Colts,0.286,77.12,251.75,18.0,133.25,274.88,31.38,0.778,-12,AwayTeam
+2021,10,NewYorkJets,Buffalo Bills,0.25,76.33,256.67,17.89,133.89,283.22,32.89,0.778,-15,AwayTeam
+2021,11,NewYorkJets,Miami Dolphins,0.222,78.9,258.8,17.8,132.0,282.2,32.0,0.778,-15,AwayTeam
+2021,12,NewYorkJets,Houston Texans,0.2,86.0,245.18,18.09,128.73,266.18,30.36,0.778,-15,HomeTeam
+2021,13,NewYorkJets,Philadelphia Eagles,0.273,84.67,242.33,18.08,133.42,263.42,30.58,0.778,-16,AwayTeam
+2021,14,NewYorkJets,New Orleans Saints,0.25,84.15,237.38,17.38,138.77,254.0,30.54,0.778,-16,AwayTeam
+2021,15,NewYorkJets,Miami Dolphins,0.231,85.43,229.43,17.86,141.93,249.86,30.57,0.778,-14,AwayTeam
+2021,16,NewYorkJets,Jacksonville Jaguars,0.214,97.93,220.8,18.4,141.27,250.0,29.93,0.778,-13,HomeTeam
+2021,17,NewYorkJets,Tampa Bay Buccaneers,0.267,101.19,221.0,18.75,136.31,259.69,29.81,0.778,-13,AwayTeam
+2021,18,NewYorkJets,Buffalo Bills,0.25,98.06,208.29,18.24,138.29,259.35,29.65,0.778,-13,AwayTeam
+2022,1,NewYorkJets,Baltimore Ravens,0,83.0,297.0,9.0,63.0,211.0,24.0,0.811,-1,AwayTeam
+2022,2,NewYorkJets,Cleveland Browns,0.0,88.0,303.0,20.0,123.5,216.0,27.0,0.811,-1,HomeTeam
+2022,3,NewYorkJets,Cincinnati Bengals,0.5,84.0,286.0,17.33,105.33,231.0,27.0,0.811,-4,AwayTeam
+2022,4,NewYorkJets,Pittsburgh Steelers,0.333,87.5,277.0,19.0,108.75,217.75,25.25,0.811,-2,HomeTeam
+2022,5,NewYorkJets,Miami Dolphins,0.5,97.0,259.0,23.2,114.4,205.8,23.6,0.811,0,HomeTeam
+2022,6,NewYorkJets,Green Bay Packers,0.6,110.67,232.33,23.83,105.33,207.83,21.33,0.811,1,HomeTeam
+2022,7,NewYorkJets,Denver Broncos,0.667,117.0,214.14,22.71,105.29,209.43,19.57,0.811,2,HomeTeam
+2022,8,NewYorkJets,New England Patriots,0.714,108.75,229.38,22.0,108.0,203.38,19.88,0.811,0,AwayTeam
+2022,9,NewYorkJets,Buffalo Bills,0.625,116.0,219.0,21.78,110.89,201.11,19.56,0.811,1,HomeTeam
+2022,11,NewYorkJets,New England Patriots,0.667,110.3,201.5,19.9,109.7,200.8,18.6,0.811,1,AwayTeam
+2022,12,NewYorkJets,Chicago Bears,0.6,114.64,211.18,20.91,111.27,197.55,17.82,0.811,2,HomeTeam
+2022,13,NewYorkJets,Minnesota Vikings,0.636,115.08,224.08,21.0,112.67,194.33,18.58,0.811,0,AwayTeam
+2022,14,NewYorkJets,Buffalo Bills,0.583,112.08,224.77,20.31,111.85,189.38,18.69,0.811,-2,AwayTeam
+2022,15,NewYorkJets,Detroit Lions,0.538,107.64,229.21,20.07,111.5,193.86,18.79,0.811,-3,AwayTeam
+2022,16,NewYorkJets,Jacksonville Jaguars,0.5,104.87,224.67,18.93,113.87,195.47,18.8,0.811,-4,AwayTeam
+2022,17,NewYorkJets,Seattle Seahawks,0.467,103.0,223.38,18.12,119.12,192.5,19.06,0.811,-7,AwayTeam
+2022,18,NewYorkJets,Miami Dolphins,0.438,99.18,219.0,17.41,121.65,189.41,18.59,0.811,-7,AwayTeam
+2023,1,NewYorkJets,Buffalo Bills,0,172.0,117.0,22.0,97.0,217.0,16.0,0.923,3,HomeTeam
+2023,2,NewYorkJets,Dallas Cowboys,1.0,118.0,134.0,16.0,115.5,232.5,23.0,0.923,-1,AwayTeam
+2023,3,NewYorkJets,New England Patriots,0.5,91.33,133.67,14.0,129.33,222.0,20.33,0.923,-1,AwayTeam
+2023,4,NewYorkJets,Kansas City Chiefs,0.333,95.5,157.25,15.5,148.0,215.75,21.0,0.923,0,AwayTeam
+2023,5,NewYorkJets,Denver Broncos,0.25,123.2,160.4,18.6,146.2,206.4,21.0,0.923,1,HomeTeam
+2023,6,NewYorkJets,Philadelphia Eagles,0.4,117.5,159.5,18.83,135.17,216.67,19.83,0.923,5,HomeTeam
+2023,8,NewYorkJets,New York Giants,0.5,109.0,164.29,18.0,144.86,184.43,18.43,0.923,3,HomeTeam
+2023,9,NewYorkJets,Los Angeles Chargers,0.571,103.38,169.5,16.5,137.25,174.75,19.5,0.923,0,AwayTeam
+2023,10,NewYorkJets,Las Vegas Raiders,0.5,103.89,179.22,16.0,138.44,169.33,19.11,0.923,1,AwayTeam
+2023,11,NewYorkJets,Buffalo Bills,0.444,99.8,170.5,15.0,137.6,178.7,20.4,0.923,-2,AwayTeam
+2023,12,NewYorkJets,Miami Dolphins,0.4,93.36,166.82,14.82,140.27,183.18,21.64,0.923,-1,AwayTeam
+2023,13,NewYorkJets,Atlanta Falcons,0.364,90.75,169.33,14.25,136.08,176.58,20.92,0.923,-4,AwayTeam
+2023,14,NewYorkJets,Houston Texans,0.333,89.85,176.92,15.46,131.85,167.15,19.77,0.923,-5,HomeTeam
+2023,15,NewYorkJets,Miami Dolphins,0.385,85.07,170.0,14.36,127.93,170.43,20.5,0.923,-9,AwayTeam
+2023,16,NewYorkJets,Washington Commanders,0.357,90.33,173.13,15.4,126.2,168.6,21.0,0.923,-8,HomeTeam
+2023,17,NewYorkJets,Cleveland Browns,0.4,91.38,178.12,15.69,126.25,176.88,22.0,0.923,-7,AwayTeam
+2023,18,NewYorkJets,New England Patriots,0.375,96.88,171.71,15.76,124.0,168.29,20.88,0.923,-6,HomeTeam
+2024,1,NewYorkJets,San Francisco 49ers,0,68.0,198.0,19.0,180.0,221.0,32.0,0.684,-2,AwayTeam
+2024,2,NewYorkJets,Tennessee Titans,0.0,84.5,181.0,21.5,155.0,195.5,24.5,0.684,0,HomeTeam
+2024,3,NewYorkJets,New England Patriots,0.5,100.67,209.67,22.33,129.33,150.67,17.33,0.684,1,HomeTeam
+2024,4,NewYorkJets,Denver Broncos,0.667,91.5,203.25,19.0,128.5,128.0,15.5,0.684,1,AwayTeam
+2024,5,NewYorkJets,Minnesota Vikings,0.5,80.4,206.2,18.6,119.2,136.6,17.0,0.684,0,AwayTeam
+2024,6,NewYorkJets,Buffalo Bills,0.4,87.17,217.17,18.83,124.17,148.83,18.0,0.684,-1,AwayTeam
+2024,7,NewYorkJets,Pittsburgh Steelers,0.333,82.43,224.57,18.29,127.71,164.71,20.71,0.684,-3,AwayTeam
+2024,8,NewYorkJets,New England Patriots,0.286,86.12,224.5,18.75,125.75,161.12,21.25,0.684,-3,AwayTeam
+2024,9,NewYorkJets,Houston Texans,0.25,87.67,221.0,19.0,132.56,158.22,20.33,0.684,-3,HomeTeam
+2024,10,NewYorkJets,Arizona Cardinals,0.333,86.8,211.7,17.7,134.0,168.3,21.4,0.684,-4,AwayTeam
+2024,11,NewYorkJets,Indianapolis Colts,0.3,87.18,207.18,18.55,130.09,174.91,22.0,0.684,-3,AwayTeam

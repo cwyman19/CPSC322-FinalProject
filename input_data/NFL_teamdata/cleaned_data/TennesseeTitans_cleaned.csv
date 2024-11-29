@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,TennesseeTitans,Miami Dolphins,0,116.0,220.0,20.0,120.0,222.0,27.0,0.867,-1,AwayTeam
+2018,2,TennesseeTitans,Houston Texans,0.0,108.0,201.5,20.0,134.0,255.5,22.0,0.867,0,HomeTeam
+2018,3,TennesseeTitans,Jacksonville Jaguars,0.5,122.0,162.0,16.33,118.33,218.67,16.67,0.867,1,HomeTeam
+2018,4,TennesseeTitans,Philadelphia Eagles,0.667,109.0,203.25,18.75,118.0,242.75,18.25,0.867,1,HomeTeam
+2018,5,TennesseeTitans,Buffalo Bills,0.75,107.2,186.8,17.4,123.2,210.0,17.2,0.867,-1,AwayTeam
+2018,6,TennesseeTitans,Baltimore Ravens,0.6,98.5,164.17,14.5,123.17,214.67,17.83,0.867,0,AwayTeam
+2018,7,TennesseeTitans,Los Angeles Chargers,0.5,107.86,173.0,15.14,112.29,226.43,18.14,0.867,-1,AwayTeam
+2018,9,TennesseeTitans,Dallas Cowboys,0.429,110.0,178.25,16.75,107.25,226.25,17.62,0.867,-1,HomeTeam
+2018,10,TennesseeTitans,New England Patriots,0.5,114.44,184.56,18.67,99.78,228.22,16.78,0.867,-1,HomeTeam
+2018,11,TennesseeTitans,Indianapolis Colts,0.556,112.1,183.7,17.8,100.0,234.9,18.9,0.867,-3,AwayTeam
+2018,12,TennesseeTitans,Houston Texans,0.5,111.45,190.64,17.73,116.45,230.0,20.27,0.867,-4,AwayTeam
+2018,13,TennesseeTitans,New York Jets,0.455,113.0,197.5,18.42,119.75,221.17,20.42,0.867,-4,HomeTeam
+2018,14,TennesseeTitans,Jacksonville Jaguars,0.5,124.62,194.77,19.31,115.15,219.15,19.54,0.867,-4,HomeTeam
+2018,15,TennesseeTitans,New York Giants,0.538,131.07,187.0,19.14,110.29,218.71,18.14,0.867,-2,HomeTeam
+2018,16,TennesseeTitans,Washington Redskins,0.571,128.93,187.33,19.53,113.67,212.87,18.0,0.867,0,HomeTeam
+2018,17,TennesseeTitans,Indianapolis Colts,0.6,126.69,185.94,19.38,116.44,216.94,18.94,0.867,-1,AwayTeam
+2019,1,TennesseeTitans,Cleveland Browns,0,123.0,216.0,43.0,102.0,244.0,13.0,0.444,3,HomeTeam
+2019,2,TennesseeTitans,Indianapolis Colts,1.0,123.5,167.5,30.0,134.5,182.5,16.0,0.444,5,AwayTeam
+2019,3,TennesseeTitans,Jacksonville Jaguars,0.5,112.67,194.67,22.33,119.0,189.67,17.33,0.444,4,AwayTeam
+2019,4,TennesseeTitans,Atlanta Falcons,0.333,119.0,202.75,22.75,103.75,233.25,15.5,0.444,5,HomeTeam
+2019,5,TennesseeTitans,Buffalo Bills,0.5,115.6,192.2,19.6,104.8,227.4,15.2,0.444,6,AwayTeam
+2019,6,TennesseeTitans,Denver Broncos,0.4,102.83,187.67,16.33,104.5,217.33,15.33,0.444,4,AwayTeam
+2019,7,TennesseeTitans,Los Angeles Chargers,0.333,102.0,204.57,17.29,95.14,232.86,16.0,0.444,4,HomeTeam
+2019,8,TennesseeTitans,Tampa Bay Buccaneers,0.429,98.25,200.75,18.5,96.5,239.12,16.88,0.444,7,HomeTeam
+2019,9,TennesseeTitans,Carolina Panthers,0.5,100.78,212.89,18.67,103.11,236.33,18.33,0.444,5,AwayTeam
+2019,10,TennesseeTitans,Kansas City Chiefs,0.444,113.2,206.2,20.3,102.5,256.0,19.7,0.444,5,HomeTeam
+2019,12,TennesseeTitans,Jacksonville Jaguars,0.5,122.82,210.36,22.27,103.82,255.64,19.73,0.444,4,HomeTeam
+2019,13,TennesseeTitans,Indianapolis Colts,0.545,125.42,204.33,23.0,102.0,260.08,19.5,0.444,5,HomeTeam
+2019,14,TennesseeTitans,Oakland Raiders,0.583,128.15,218.69,24.46,101.62,259.92,19.62,0.444,5,HomeTeam
+2019,15,TennesseeTitans,Houston Texans,0.615,130.64,222.29,24.21,104.36,258.07,19.93,0.444,6,AwayTeam
+2019,16,TennesseeTitans,New Orleans Saints,0.571,131.87,224.0,24.47,104.2,259.2,21.13,0.444,5,AwayTeam
+2019,17,TennesseeTitans,Houston Texans,0.533,138.94,223.88,25.12,104.5,255.0,20.69,0.444,6,HomeTeam
+2020,1,TennesseeTitans,Denver Broncos,0,130.0,247.0,16.0,107.0,216.0,14.0,0.714,1,HomeTeam
+2020,2,TennesseeTitans,Jacksonville Jaguars,1.0,126.5,239.0,24.5,136.0,265.5,22.0,0.714,3,HomeTeam
+2020,3,TennesseeTitans,Minnesota Vikings,1.0,129.0,262.67,26.67,166.0,256.33,24.67,0.714,5,HomeTeam
+2020,5,TennesseeTitans,Buffalo Bills,1.0,131.5,245.75,30.5,148.25,261.0,22.5,0.714,8,HomeTeam
+2020,6,TennesseeTitans,Houston Texans,1.0,157.8,265.4,32.8,137.0,272.8,25.2,0.714,6,HomeTeam
+2020,7,TennesseeTitans,Pittsburgh Steelers,1.0,145.17,256.17,31.33,129.83,272.0,25.5,0.714,9,AwayTeam
+2020,8,TennesseeTitans,Cincinnati Bengals,0.833,155.57,251.43,29.71,128.14,268.71,26.29,0.714,8,AwayTeam
+2020,9,TennesseeTitans,Chicago Bears,0.714,147.62,237.0,29.0,119.12,275.0,25.12,0.714,10,HomeTeam
+2020,10,TennesseeTitans,Indianapolis Colts,0.75,148.67,225.89,27.67,120.67,277.44,26.11,0.714,10,AwayTeam
+2020,11,TennesseeTitans,Baltimore Ravens,0.667,151.1,228.3,27.9,121.5,267.4,25.9,0.714,10,HomeTeam
+2020,12,TennesseeTitans,Indianapolis Colts,0.7,158.18,227.55,29.45,115.55,268.55,25.91,0.714,11,HomeTeam
+2020,13,TennesseeTitans,Cleveland Browns,0.727,150.17,239.33,29.92,115.75,274.5,27.17,0.714,9,AwayTeam
+2020,14,TennesseeTitans,Jacksonville Jaguars,0.667,157.77,236.69,30.0,113.85,273.62,25.85,0.714,9,HomeTeam
+2020,15,TennesseeTitans,Detroit Lions,0.692,160.43,238.93,31.14,114.5,276.0,25.79,0.714,12,HomeTeam
+2020,16,TennesseeTitans,Green Bay Packers,0.714,160.13,229.93,30.0,122.47,271.87,26.73,0.714,11,AwayTeam
+2020,17,TennesseeTitans,Houston Texans,0.667,168.12,228.31,30.69,120.81,277.44,27.44,0.714,11,HomeTeam
+2021,1,TennesseeTitans,Arizona Cardinals,0,86.0,162.0,13.0,136.0,280.0,38.0,0.813,-2,AwayTeam
+2021,2,TennesseeTitans,Seattle Seahawks,0.0,149.0,241.0,23.0,106.5,300.0,34.0,0.813,-3,HomeTeam
+2021,3,TennesseeTitans,Indianapolis Colts,0.5,159.33,223.33,23.67,100.0,259.33,28.0,0.813,-6,HomeTeam
+2021,4,TennesseeTitans,New York Jets,0.667,163.75,230.75,23.75,91.5,266.75,27.75,0.813,-5,AwayTeam
+2021,5,TennesseeTitans,Jacksonville Jaguars,0.5,167.8,221.4,26.4,112.8,264.6,26.0,0.813,-3,HomeTeam
+2021,6,TennesseeTitans,Buffalo Bills,0.6,164.17,220.5,27.67,107.67,276.33,26.83,0.813,-3,HomeTeam
+2021,7,TennesseeTitans,Kansas City Chiefs,0.667,155.43,227.0,27.57,103.29,273.57,23.43,0.813,-1,HomeTeam
+2021,8,TennesseeTitans,Indianapolis Colts,0.714,147.62,229.5,28.38,100.75,267.38,24.38,0.813,0,HomeTeam
+2021,9,TennesseeTitans,Los Angeles Rams,0.75,138.89,217.89,28.33,100.0,265.78,23.44,0.813,1,HomeTeam
+2021,10,TennesseeTitans,New Orleans Saints,0.778,131.6,215.9,27.8,98.6,267.9,23.2,0.813,2,HomeTeam
+2021,11,TennesseeTitans,Houston Texans,0.8,129.0,225.09,26.45,97.18,253.27,23.09,0.813,-3,AwayTeam
+2021,12,TennesseeTitans,New England Patriots,0.727,140.75,213.42,25.33,97.83,256.25,24.17,0.813,-7,AwayTeam
+2021,14,TennesseeTitans,Jacksonville Jaguars,0.667,137.77,209.38,24.92,90.92,250.69,22.31,0.813,-3,HomeTeam
+2021,15,TennesseeTitans,Pittsburgh Steelers,0.692,142.29,202.79,24.07,86.93,242.29,22.07,0.813,-7,AwayTeam
+2021,16,TennesseeTitans,San Francisco 49ers,0.643,138.8,201.8,23.8,86.67,246.53,21.73,0.813,-5,HomeTeam
+2021,17,TennesseeTitans,Miami Dolphins,0.667,142.5,196.06,24.44,85.88,242.5,20.56,0.813,-3,HomeTeam
+2021,18,TennesseeTitans,Houston Texans,0.688,141.41,201.06,24.65,84.59,245.24,20.82,0.813,-3,HomeTeam
+2022,1,TennesseeTitans,New York Giants,0,93.0,266.0,20.0,238.0,156.0,21.0,0.833,1,AwayTeam
+2022,2,TennesseeTitans,Buffalo Bills,0.0,86.5,186.5,13.5,169.5,234.5,31.0,0.833,-3,AwayTeam
+2022,3,TennesseeTitans,Las Vegas Raiders,0.0,94.0,208.33,17.0,145.0,256.33,28.0,0.833,-3,HomeTeam
+2022,4,TennesseeTitans,Indianapolis Colts,0.333,102.25,185.25,18.75,118.25,274.0,25.25,0.833,0,HomeTeam
+2022,5,TennesseeTitans,Washington Commanders,0.5,102.8,175.4,19.2,103.2,287.6,23.6,0.833,1,HomeTeam
+2022,7,TennesseeTitans,Indianapolis Colts,0.6,108.67,165.5,19.17,96.83,277.5,21.33,0.833,3,HomeTeam
+2022,8,TennesseeTitans,Houston Texans,0.667,138.0,147.57,18.86,89.14,254.71,19.71,0.833,2,HomeTeam
+2022,9,TennesseeTitans,Kansas City Chiefs,0.714,142.25,136.25,18.62,87.62,275.62,19.75,0.833,3,AwayTeam
+2022,10,TennesseeTitans,Denver Broncos,0.625,133.44,148.22,18.44,85.11,272.56,18.67,0.833,3,HomeTeam
+2022,11,TennesseeTitans,Green Bay Packers,0.667,128.9,165.4,19.3,82.2,266.8,18.5,0.833,2,HomeTeam
+2022,12,TennesseeTitans,Cincinnati Bengals,0.7,122.91,175.91,19.0,84.55,266.73,18.64,0.833,2,AwayTeam
+2022,13,TennesseeTitans,Philadelphia Eagles,0.636,119.92,171.42,18.25,83.08,276.67,20.0,0.833,2,AwayTeam
+2022,14,TennesseeTitans,Jacksonville Jaguars,0.583,121.23,175.69,18.54,81.31,283.69,21.23,0.833,-2,AwayTeam
+2022,15,TennesseeTitans,Los Angeles Chargers,0.538,121.64,174.36,18.21,80.79,284.21,20.93,0.833,-1,AwayTeam
+2022,16,TennesseeTitans,Houston Texans,0.5,125.8,168.6,17.93,80.07,279.6,20.8,0.833,-3,AwayTeam
+2022,17,TennesseeTitans,Dallas Cowboys,0.467,124.0,171.81,17.62,80.5,279.25,21.19,0.833,-2,AwayTeam
+2022,18,TennesseeTitans,Jacksonville Jaguars,0.438,125.35,171.41,17.53,76.88,274.76,21.12,0.833,-3,AwayTeam
+2023,1,TennesseeTitans,New Orleans Saints,0,104.0,181.0,15.0,69.0,282.0,16.0,0.967,-1,AwayTeam
+2023,2,TennesseeTitans,Los Angeles Chargers,0.0,122.5,190.5,21.0,65.0,281.5,20.0,0.967,-1,HomeTeam
+2023,3,TennesseeTitans,Cleveland Browns,0.5,90.33,149.67,15.0,69.33,275.33,22.33,0.967,0,AwayTeam
+2023,4,TennesseeTitans,Cincinnati Bengals,0.333,111.0,169.0,18.0,70.0,241.25,17.5,0.967,0,HomeTeam
+2023,5,TennesseeTitans,Indianapolis Colts,0.5,106.6,187.0,17.6,94.6,240.2,18.6,0.967,-1,AwayTeam
+2023,6,TennesseeTitans,Baltimore Ravens,0.4,110.33,173.17,17.33,102.0,237.0,19.5,0.967,-2,AwayTeam
+2023,8,TennesseeTitans,Atlanta Falcons,0.333,115.86,180.71,18.86,107.43,232.0,20.0,0.967,-2,HomeTeam
+2023,9,TennesseeTitans,Pittsburgh Steelers,0.429,114.5,187.5,18.5,114.75,223.0,20.0,0.967,-3,AwayTeam
+2023,10,TennesseeTitans,Tampa Bay Buccaneers,0.375,106.44,185.22,17.11,110.56,227.44,20.0,0.967,-3,AwayTeam
+2023,11,TennesseeTitans,Jacksonville Jaguars,0.333,105.0,181.0,16.8,112.3,230.8,21.4,0.967,-5,AwayTeam
+2023,12,TennesseeTitans,Carolina Panthers,0.3,102.73,181.27,16.82,110.82,224.55,20.36,0.967,-4,HomeTeam
+2023,13,TennesseeTitans,Indianapolis Colts,0.364,108.92,183.17,17.75,106.17,230.83,21.25,0.967,-4,AwayTeam
+2023,14,TennesseeTitans,Miami Dolphins,0.333,106.92,193.69,18.54,110.15,229.08,21.69,0.967,-6,HomeTeam
+2023,15,TennesseeTitans,Houston Texans,0.385,104.0,189.71,18.36,112.86,226.43,21.5,0.967,-6,AwayTeam
+2023,16,TennesseeTitans,Seattle Seahawks,0.357,107.87,185.4,18.27,109.2,225.67,21.4,0.967,-6,AwayTeam
+2023,17,TennesseeTitans,Houston Texans,0.333,104.44,182.19,17.31,109.31,224.12,21.69,0.967,-7,AwayTeam
+2023,18,TennesseeTitans,Jacksonville Jaguars,0.312,108.59,180.41,17.94,107.71,227.41,21.59,0.967,-6,HomeTeam
+2024,1,TennesseeTitans,Chicago Bears,0,140.0,104.0,17.0,84.0,64.0,24.0,0.944,-2,AwayTeam
+2024,2,TennesseeTitans,New York Jets,0.0,135.0,137.0,17.0,92.5,114.0,24.0,0.944,-4,AwayTeam
+2024,3,TennesseeTitans,Green Bay Packers,0.0,101.0,159.33,16.0,124.33,139.33,26.0,0.944,-7,AwayTeam
+2024,4,TennesseeTitans,Miami Dolphins,0.0,111.25,145.0,19.75,119.75,124.0,22.5,0.944,-7,HomeTeam
+2024,6,TennesseeTitans,Indianapolis Colts,0.25,118.2,135.0,19.2,111.8,137.0,22.0,0.944,-7,AwayTeam
+2024,7,TennesseeTitans,Buffalo Bills,0.2,113.33,145.83,17.67,105.5,166.67,24.0,0.944,-9,AwayTeam
+2024,8,TennesseeTitans,Detroit Lions,0.167,119.71,161.86,17.14,113.86,151.57,28.0,0.944,-13,AwayTeam
+2024,9,TennesseeTitans,New England Patriots,0.143,125.62,170.75,17.5,113.38,155.75,26.62,0.944,-11,HomeTeam
+2024,10,TennesseeTitans,Los Angeles Chargers,0.25,126.33,169.22,17.44,116.89,156.67,26.67,0.944,-11,AwayTeam
+2024,11,TennesseeTitans,Minnesota Vikings,0.222,117.0,178.4,17.0,113.4,164.6,26.3,0.944,-11,AwayTeam
+2024,12,TennesseeTitans,Houston Texans,0.2,118.36,183.73,18.36,106.73,169.64,26.36,0.944,-12,HomeTeam

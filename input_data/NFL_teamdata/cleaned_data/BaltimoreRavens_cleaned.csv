@@ -1,0 +1,112 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,BaltimoreRavens,Buffalo Bills,0,117.0,252.0,47.0,83.0,70.0,3.0,0.897,1,HomeTeam
+2018,2,BaltimoreRavens,Cincinnati Bengals,1.0,91.5,305.5,35.0,95.5,167.5,18.5,0.897,-2,AwayTeam
+2018,3,BaltimoreRavens,Denver Broncos,0.5,86.67,292.0,32.33,103.67,169.33,17.0,0.897,-1,HomeTeam
+2018,4,BaltimoreRavens,Pittsburgh Steelers,0.667,89.0,307.75,30.75,82.5,193.25,16.25,0.897,0,HomeTeam
+2018,5,BaltimoreRavens,Cleveland Browns,0.75,94.4,305.0,26.4,88.4,215.4,15.4,0.897,-1,AwayTeam
+2018,6,BaltimoreRavens,Tennessee Titans,0.6,99.17,293.83,25.5,82.83,188.0,12.83,0.897,-2,HomeTeam
+2018,7,BaltimoreRavens,New Orleans Saints,0.667,96.0,291.0,25.14,90.14,190.43,14.43,0.897,-1,AwayTeam
+2018,8,BaltimoreRavens,Carolina Panthers,0.571,96.62,282.62,24.62,98.12,195.62,17.12,0.897,-4,AwayTeam
+2018,9,BaltimoreRavens,Pittsburgh Steelers,0.5,92.67,273.89,23.67,99.78,205.22,17.78,0.897,-4,AwayTeam
+2018,11,BaltimoreRavens,Cincinnati Bengals,0.444,110.1,260.1,23.7,94.6,205.4,18.1,0.897,-5,HomeTeam
+2018,12,BaltimoreRavens,Oakland Raiders,0.5,122.09,252.27,24.64,92.09,203.27,18.0,0.897,-6,HomeTeam
+2018,13,BaltimoreRavens,Atlanta Falcons,0.545,129.17,244.5,24.75,87.25,194.42,17.83,0.897,-6,HomeTeam
+2018,14,BaltimoreRavens,Kansas City Chiefs,0.583,134.15,235.46,24.69,87.77,206.23,18.54,0.897,-6,AwayTeam
+2018,15,BaltimoreRavens,Tampa Bay Buccaneers,0.538,141.86,227.79,24.36,87.57,202.64,18.07,0.897,-7,HomeTeam
+2018,16,BaltimoreRavens,Los Angeles Chargers,0.571,143.0,226.07,24.2,85.13,198.93,17.53,0.897,-5,HomeTeam
+2018,17,BaltimoreRavens,Cleveland Browns,0.6,152.56,222.38,24.31,82.94,210.0,17.94,0.897,-3,HomeTeam
+2019,1,BaltimoreRavens,Miami Dolphins,0,265.0,378.0,59.0,21.0,179.0,10.0,0.966,3,HomeTeam
+2019,2,BaltimoreRavens,Arizona Cardinals,1.0,223.5,318.0,41.0,20.5,254.0,13.5,0.966,3,HomeTeam
+2019,3,BaltimoreRavens,Kansas City Chiefs,1.0,216.67,295.0,36.67,60.33,290.33,20.0,0.966,3,AwayTeam
+2019,4,BaltimoreRavens,Cleveland Browns,0.667,205.75,276.75,33.75,93.5,302.0,25.0,0.966,1,AwayTeam
+2019,5,BaltimoreRavens,Pittsburgh Steelers,0.5,192.2,249.2,32.2,90.2,280.0,24.6,0.966,0,HomeTeam
+2019,6,BaltimoreRavens,Cincinnati Bengals,0.6,205.0,245.67,30.67,80.67,269.5,23.33,0.966,0,HomeTeam
+2019,7,BaltimoreRavens,Seattle Seahawks,0.667,204.14,230.71,30.57,84.29,265.43,22.29,0.966,2,HomeTeam
+2019,9,BaltimoreRavens,New England Patriots,0.714,204.88,222.12,31.38,83.0,265.75,22.0,0.966,2,HomeTeam
+2019,10,BaltimoreRavens,Cincinnati Bengals,0.75,197.22,224.44,33.33,91.22,252.89,21.0,0.966,4,HomeTeam
+2019,11,BaltimoreRavens,Houston Texans,0.778,203.1,225.5,34.1,94.3,238.6,19.6,0.966,6,HomeTeam
+2019,12,BaltimoreRavens,Los Angeles Rams,0.8,210.55,222.73,35.09,87.73,235.0,18.36,0.966,8,HomeTeam
+2019,13,BaltimoreRavens,San Francisco 49ers,0.818,207.83,212.92,33.83,94.92,228.5,18.25,0.966,8,HomeTeam
+2019,14,BaltimoreRavens,Buffalo Bills,0.833,200.92,207.23,33.08,95.62,219.0,18.15,0.966,8,HomeTeam
+2019,15,BaltimoreRavens,New York Jets,0.846,202.14,207.57,33.71,96.14,218.14,18.36,0.966,10,HomeTeam
+2019,16,BaltimoreRavens,Cleveland Browns,0.857,204.87,209.6,33.53,93.53,215.87,18.13,0.966,10,HomeTeam
+2019,17,BaltimoreRavens,Pittsburgh Steelers,0.867,206.0,201.56,33.19,93.38,207.19,17.62,0.966,10,HomeTeam
+2020,1,BaltimoreRavens,Cleveland Browns,0,111.0,270.0,38.0,138.0,168.0,6.0,0.897,2,HomeTeam
+2020,2,BaltimoreRavens,Houston Texans,1.0,170.5,223.5,35.5,94.5,210.5,11.0,0.897,4,HomeTeam
+2020,3,BaltimoreRavens,Kansas City Chiefs,1.0,166.33,172.33,30.33,107.0,268.67,18.67,0.897,4,AwayTeam
+2020,4,BaltimoreRavens,Washington Football Team,0.667,160.75,180.75,30.5,97.5,270.0,18.25,0.897,3,HomeTeam
+2020,5,BaltimoreRavens,Cincinnati Bengals,0.75,160.8,178.8,29.8,92.0,243.0,15.2,0.897,5,HomeTeam
+2020,6,BaltimoreRavens,Philadelphia Eagles,0.8,164.33,177.83,29.83,109.0,230.83,17.33,0.897,6,HomeTeam
+2020,8,BaltimoreRavens,Pittsburgh Steelers,0.833,178.71,179.86,29.0,100.29,222.57,18.86,0.897,3,AwayTeam
+2020,9,BaltimoreRavens,Indianapolis Colts,0.714,170.12,176.88,28.38,101.75,223.12,17.75,0.897,4,HomeTeam
+2020,10,BaltimoreRavens,New England Patriots,0.75,164.0,184.11,27.11,109.67,213.33,18.33,0.897,3,AwayTeam
+2020,11,BaltimoreRavens,Tennessee Titans,0.667,160.5,183.4,26.8,116.0,217.0,19.5,0.897,3,AwayTeam
+2020,12,BaltimoreRavens,Pittsburgh Steelers,0.6,157.64,174.91,25.64,111.64,221.45,19.45,0.897,3,AwayTeam
+2020,13,BaltimoreRavens,Dallas Cowboys,0.545,169.0,169.25,26.33,111.58,226.08,19.25,0.897,3,HomeTeam
+2020,14,BaltimoreRavens,Cleveland Browns,0.583,173.77,168.08,27.92,113.62,236.0,21.0,0.897,4,HomeTeam
+2020,15,BaltimoreRavens,Jacksonville Jaguars,0.615,172.71,173.93,28.79,109.93,233.79,20.5,0.897,4,HomeTeam
+2020,16,BaltimoreRavens,New York Giants,0.643,177.8,174.53,28.67,106.2,232.53,20.0,0.897,3,HomeTeam
+2020,17,BaltimoreRavens,Cincinnati Bengals,0.667,191.94,171.19,29.25,108.75,221.0,18.94,0.897,4,HomeTeam
+2021,1,BaltimoreRavens,Las Vegas Raiders,0,189.0,217.0,27.0,82.0,409.0,33.0,0.946,-1,AwayTeam
+2021,2,BaltimoreRavens,Kansas City Chiefs,0.0,220.0,223.5,31.5,72.0,376.0,34.0,0.946,-1,HomeTeam
+2021,3,BaltimoreRavens,Detroit Lions,0.5,185.33,239.33,27.33,79.0,314.67,28.33,0.946,-2,HomeTeam
+2021,4,BaltimoreRavens,Denver Broncos,0.667,164.5,255.5,26.25,85.75,273.0,23.0,0.946,-1,HomeTeam
+2021,5,BaltimoreRavens,Indianapolis Colts,0.75,148.8,291.8,27.2,93.2,296.4,23.4,0.946,-1,HomeTeam
+2021,6,BaltimoreRavens,Los Angeles Chargers,0.8,155.17,266.5,28.33,82.0,277.33,20.5,0.946,-2,HomeTeam
+2021,7,BaltimoreRavens,Cincinnati Bengals,0.833,149.43,268.14,26.71,86.14,296.14,23.43,0.946,-1,AwayTeam
+2021,9,BaltimoreRavens,Minnesota Vikings,0.714,161.62,266.25,27.62,91.75,282.5,24.38,0.946,-3,HomeTeam
+2021,10,BaltimoreRavens,Miami Dolphins,0.75,154.11,260.0,25.67,88.22,283.33,24.11,0.946,-5,AwayTeam
+2021,11,BaltimoreRavens,Chicago Bears,0.667,151.0,251.6,24.7,88.6,281.1,23.0,0.946,-5,HomeTeam
+2021,12,BaltimoreRavens,Cleveland Browns,0.7,150.73,242.82,23.91,84.18,275.73,21.82,0.946,-7,HomeTeam
+2021,13,BaltimoreRavens,Pittsburgh Steelers,0.727,147.08,240.83,23.5,84.25,272.42,21.67,0.946,-8,AwayTeam
+2021,14,BaltimoreRavens,Cleveland Browns,0.667,144.85,243.15,23.38,85.46,266.08,21.85,0.946,-9,AwayTeam
+2021,15,BaltimoreRavens,Green Bay Packers,0.615,144.71,240.86,23.86,86.21,264.93,22.5,0.946,-9,AwayTeam
+2021,16,BaltimoreRavens,Cincinnati Bengals,0.571,137.67,244.47,23.67,85.6,280.47,23.73,0.946,-10,AwayTeam
+2021,17,BaltimoreRavens,Los Angeles Rams,0.533,139.38,239.31,23.38,84.81,281.69,23.5,0.946,-9,AwayTeam
+2021,18,BaltimoreRavens,Pittsburgh Steelers,0.5,145.82,233.0,22.76,84.47,278.94,23.06,0.946,-11,AwayTeam
+2022,1,BaltimoreRavens,New York Jets,0,63.0,211.0,24.0,83.0,297.0,9.0,0.86,1,HomeTeam
+2022,2,BaltimoreRavens,Miami Dolphins,1.0,109.0,264.5,31.0,84.5,379.0,25.5,0.86,3,AwayTeam
+2022,3,BaltimoreRavens,New England Patriots,0.5,135.33,245.0,33.0,104.67,353.33,25.67,0.86,5,HomeTeam
+2022,4,BaltimoreRavens,Buffalo Bills,0.667,142.0,217.25,29.75,109.75,315.25,25.0,0.86,5,AwayTeam
+2022,5,BaltimoreRavens,Cincinnati Bengals,0.5,144.6,207.8,27.6,108.0,290.2,23.4,0.86,5,HomeTeam
+2022,6,BaltimoreRavens,New York Giants,0.6,155.67,205.67,26.33,103.83,267.67,23.5,0.86,4,AwayTeam
+2022,7,BaltimoreRavens,Cleveland Browns,0.5,156.29,189.71,25.86,105.14,261.29,23.0,0.86,5,HomeTeam
+2022,8,BaltimoreRavens,Tampa Bay Buccaneers,0.571,165.62,193.75,26.0,97.5,266.75,22.88,0.86,6,HomeTeam
+2022,9,BaltimoreRavens,New Orleans Saints,0.625,168.11,186.78,26.11,92.0,258.78,21.78,0.86,7,HomeTeam
+2022,11,BaltimoreRavens,Carolina Panthers,0.667,162.8,187.4,24.8,86.4,249.8,19.9,0.86,9,HomeTeam
+2022,12,BaltimoreRavens,Jacksonville Jaguars,0.7,162.73,193.36,25.0,82.0,253.82,20.64,0.86,8,AwayTeam
+2022,13,BaltimoreRavens,Denver Broncos,0.636,157.75,192.42,23.75,82.5,248.0,19.67,0.86,6,HomeTeam
+2022,14,BaltimoreRavens,Pittsburgh Steelers,0.667,162.15,184.85,23.15,81.15,249.23,19.23,0.86,9,HomeTeam
+2022,15,BaltimoreRavens,Cleveland Browns,0.692,164.71,180.64,21.71,85.57,241.43,18.79,0.86,7,AwayTeam
+2022,16,BaltimoreRavens,Atlanta Falcons,0.643,166.0,176.27,21.4,87.53,239.47,18.13,0.86,8,HomeTeam
+2022,17,BaltimoreRavens,Pittsburgh Steelers,0.667,163.12,172.75,20.88,94.44,234.06,18.0,0.86,7,AwayTeam
+2022,18,BaltimoreRavens,Cincinnati Bengals,0.625,160.0,178.82,20.59,92.12,232.18,18.53,0.86,4,AwayTeam
+2023,1,BaltimoreRavens,Houston Texans,0,110.0,155.0,25.0,72.0,196.0,9.0,0.865,-1,HomeTeam
+2023,2,BaltimoreRavens,Cincinnati Bengals,1.0,144.0,196.0,26.0,69.0,206.0,16.5,0.865,0,HomeTeam
+2023,3,BaltimoreRavens,Indianapolis Colts,1.0,158.0,190.0,23.67,92.33,200.0,18.33,0.865,-2,AwayTeam
+2023,4,BaltimoreRavens,Cleveland Browns,0.667,151.25,183.75,24.75,92.5,168.25,14.5,0.865,0,HomeTeam
+2023,5,BaltimoreRavens,Pittsburgh Steelers,0.75,146.0,189.0,21.8,91.4,175.0,15.0,0.865,-2,AwayTeam
+2023,6,BaltimoreRavens,Tennessee Titans,0.6,144.83,194.33,22.17,97.67,163.17,15.17,0.865,-1,HomeTeam
+2023,7,BaltimoreRavens,Detroit Lions,0.667,145.0,217.57,24.43,95.71,176.0,13.86,0.865,-1,HomeTeam
+2023,8,BaltimoreRavens,Arizona Cardinals,0.714,143.12,207.62,25.25,99.88,176.62,15.12,0.865,1,HomeTeam
+2023,9,BaltimoreRavens,Seattle Seahawks,0.75,160.33,208.67,26.56,91.89,170.67,13.78,0.865,1,HomeTeam
+2023,10,BaltimoreRavens,Cleveland Browns,0.778,154.9,207.8,27.0,100.5,173.1,15.7,0.865,1,AwayTeam
+2023,11,BaltimoreRavens,Cincinnati Bengals,0.7,155.09,211.45,27.64,103.73,169.73,16.09,0.865,1,HomeTeam
+2023,12,BaltimoreRavens,Los Angeles Chargers,0.727,158.58,207.5,27.0,102.25,171.67,15.58,0.865,5,HomeTeam
+2023,14,BaltimoreRavens,Los Angeles Rams,0.75,157.08,215.38,27.77,104.23,180.15,16.77,0.865,4,HomeTeam
+2023,15,BaltimoreRavens,Jacksonville Jaguars,0.769,163.79,210.36,27.43,102.14,185.71,16.07,0.865,5,HomeTeam
+2023,16,BaltimoreRavens,San Francisco 49ers,0.786,159.67,212.4,27.8,103.4,193.87,16.27,0.865,10,HomeTeam
+2023,17,BaltimoreRavens,Miami Dolphins,0.8,159.69,219.81,29.56,106.56,195.56,16.44,0.865,12,HomeTeam
+2023,18,BaltimoreRavens,Pittsburgh Steelers,0.812,156.53,213.82,28.41,109.41,191.94,16.47,0.865,12,AwayTeam
+2024,1,BaltimoreRavens,Kansas City Chiefs,0,185.0,267.0,20.0,72.0,281.0,27.0,0.739,0,AwayTeam
+2024,2,BaltimoreRavens,Las Vegas Raiders,0.0,168.0,249.5,21.5,49.5,257.0,26.5,0.739,0,AwayTeam
+2024,3,BaltimoreRavens,Dallas Cowboys,0.0,203.33,227.0,23.67,50.0,291.67,26.0,0.739,1,HomeTeam
+2024,4,BaltimoreRavens,Buffalo Bills,0.333,220.25,209.25,26.5,57.75,257.5,22.0,0.739,1,HomeTeam
+2024,5,BaltimoreRavens,Cincinnati Bengals,0.5,211.2,236.4,29.4,60.4,280.2,25.2,0.739,1,HomeTeam
+2024,6,BaltimoreRavens,Washington Commanders,0.6,205.33,248.33,29.5,59.0,275.67,24.83,0.739,0,HomeTeam
+2024,7,BaltimoreRavens,Tampa Bay Buccaneers,0.667,210.86,250.57,31.14,68.43,287.14,25.71,0.739,1,HomeTeam
+2024,8,BaltimoreRavens,Cleveland Browns,0.714,200.0,252.12,30.25,69.88,291.38,26.12,0.739,2,AwayTeam
+2024,9,BaltimoreRavens,Denver Broncos,0.625,191.89,254.0,31.44,75.67,280.89,24.33,0.739,3,HomeTeam
+2024,10,BaltimoreRavens,Cincinnati Bengals,0.667,182.6,257.6,31.8,73.0,294.9,25.3,0.739,4,HomeTeam
+2024,11,BaltimoreRavens,Pittsburgh Steelers,0.7,177.27,252.82,30.36,77.45,284.55,24.64,0.739,2,AwayTeam
+2024,12,BaltimoreRavens,Los Angeles Chargers,0.636,180.17,246.5,30.33,77.92,277.67,24.5,0.739,2,HomeTeam

@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,ArizonaCardinals,Washington Redskins,0,68.0,145.0,6.0,182.0,247.0,24.0,0.706,-1,AwayTeam
+2018,2,ArizonaCardinals,Los Angeles Rams,0.0,61.0,114.0,3.0,136.0,294.5,29.0,0.706,-1,AwayTeam
+2018,3,ArizonaCardinals,Chicago Bears,0.0,58.33,132.0,6.67,131.33,261.0,24.67,0.706,-3,AwayTeam
+2018,4,ArizonaCardinals,Seattle Seahawks,0.0,66.75,141.75,9.25,141.25,235.75,23.5,0.706,-4,AwayTeam
+2018,5,ArizonaCardinals,San Francisco 49ers,0.0,64.6,146.2,13.0,142.4,248.6,22.4,0.706,1,HomeTeam
+2018,6,ArizonaCardinals,Minnesota Vikings,0.2,63.83,156.5,13.67,151.17,243.17,23.17,0.706,1,AwayTeam
+2018,7,ArizonaCardinals,Denver Broncos,0.167,64.57,156.14,13.14,148.29,233.86,26.29,0.706,-3,AwayTeam
+2018,8,ArizonaCardinals,San Francisco 49ers,0.143,67.5,165.75,13.75,143.12,224.62,24.88,0.706,-5,HomeTeam
+2018,10,ArizonaCardinals,Kansas City Chiefs,0.25,70.44,165.78,13.78,140.33,223.22,25.0,0.706,-7,AwayTeam
+2018,11,ArizonaCardinals,Oakland Raiders,0.222,78.8,162.0,14.5,141.5,218.2,24.8,0.706,-9,AwayTeam
+2018,12,ArizonaCardinals,Los Angeles Chargers,0.2,77.27,155.18,14.09,144.82,219.82,26.64,0.706,-9,AwayTeam
+2018,13,ArizonaCardinals,Green Bay Packers,0.182,86.0,153.33,14.58,140.92,220.42,25.83,0.706,-9,HomeTeam
+2018,14,ArizonaCardinals,Detroit Lions,0.25,84.08,158.31,13.69,139.46,210.85,25.15,0.706,-9,AwayTeam
+2018,15,ArizonaCardinals,Atlanta Falcons,0.231,82.36,160.79,13.71,144.86,211.5,26.21,0.706,-12,AwayTeam
+2018,16,ArizonaCardinals,Los Angeles Rams,0.214,83.8,160.67,13.4,153.13,210.2,26.53,0.706,-11,AwayTeam
+2018,17,ArizonaCardinals,Seattle Seahawks,0.2,83.88,157.69,14.06,154.94,203.88,26.56,0.706,-12,AwayTeam
+2019,1,ArizonaCardinals,Detroit Lions,0,112.0,275.0,27.0,116.0,361.0,27.0,0.886,1,
+2019,2,ArizonaCardinals,Baltimore Ravens,0,66.0,302.0,22.0,149.0,309.5,25.0,0.886,1,AwayTeam
+2019,3,ArizonaCardinals,Carolina Panthers,0.0,84.33,243.67,21.33,157.0,286.33,29.33,0.886,0,AwayTeam
+2019,4,ArizonaCardinals,Seattle Seahawks,0.0,92.0,234.25,18.5,146.5,271.0,28.75,0.886,-1,AwayTeam
+2019,5,ArizonaCardinals,Cincinnati Bengals,0.0,126.8,237.0,20.0,138.8,269.2,27.6,0.886,-1,HomeTeam
+2019,6,ArizonaCardinals,Atlanta Falcons,0.25,122.67,254.17,22.33,132.83,281.17,28.5,0.886,-1,HomeTeam
+2019,7,ArizonaCardinals,New York Giants,0.4,127.43,230.57,23.0,129.14,263.29,27.43,0.886,2,HomeTeam
+2019,8,ArizonaCardinals,New Orleans Saints,0.5,116.5,226.38,21.25,130.12,277.0,27.88,0.886,3,AwayTeam
+2019,9,ArizonaCardinals,San Francisco 49ers,0.429,120.56,223.89,21.67,126.89,280.67,27.89,0.886,3,AwayTeam
+2019,10,ArizonaCardinals,Tampa Bay Buccaneers,0.375,116.0,235.7,22.2,126.0,286.5,28.1,0.886,4,AwayTeam
+2019,11,ArizonaCardinals,San Francisco 49ers,0.333,117.73,226.18,22.55,117.64,297.55,28.82,0.886,4,AwayTeam
+2019,13,ArizonaCardinals,Los Angeles Rams,0.3,114.08,217.67,21.25,118.83,307.5,29.25,0.886,3,AwayTeam
+2019,14,ArizonaCardinals,Pittsburgh Steelers,0.273,110.77,213.62,20.92,120.46,294.23,28.77,0.886,2,AwayTeam
+2019,15,ArizonaCardinals,Cleveland Browns,0.25,119.0,214.0,22.14,122.71,290.43,28.43,0.886,3,HomeTeam
+2019,16,ArizonaCardinals,Seattle Seahawks,0.308,127.93,210.33,22.47,120.6,279.93,27.4,0.886,4,HomeTeam
+2019,17,ArizonaCardinals,Los Angeles Rams,0.357,124.38,217.31,22.56,120.12,281.88,27.62,0.886,-1,AwayTeam
+2020,1,ArizonaCardinals,San Francisco 49ers,0,180.0,224.0,24.0,123.0,243.0,20.0,0.763,-1,HomeTeam
+2020,2,ArizonaCardinals,Washington Football Team,1.0,170.0,251.0,27.0,120.0,221.0,17.5,0.763,0,HomeTeam
+2020,3,ArizonaCardinals,Detroit Lions,1.0,149.67,256.67,25.67,110.0,224.67,20.33,0.763,-3,AwayTeam
+2020,4,ArizonaCardinals,Carolina Panthers,0.667,144.5,225.75,24.5,124.5,237.5,23.0,0.763,-3,AwayTeam
+2020,5,ArizonaCardinals,New York Jets,0.5,141.0,254.4,25.6,124.2,222.4,20.4,0.763,-4,HomeTeam
+2020,6,ArizonaCardinals,Dallas Cowboys,0.6,161.0,241.5,27.67,119.67,226.5,18.67,0.763,0,HomeTeam
+2020,7,ArizonaCardinals,Seattle Seahawks,0.667,160.71,258.43,29.0,131.14,247.29,20.86,0.763,1,HomeTeam
+2020,9,ArizonaCardinals,Miami Dolphins,0.714,162.88,259.12,29.25,126.12,244.0,22.5,0.763,0,AwayTeam
+2020,10,ArizonaCardinals,Buffalo Bills,0.625,168.89,256.56,29.56,120.22,249.78,23.33,0.763,0,HomeTeam
+2020,11,ArizonaCardinals,Seattle Seahawks,0.667,157.7,256.6,28.7,124.7,243.0,23.8,0.763,0,AwayTeam
+2020,12,ArizonaCardinals,New England Patriots,0.6,155.91,247.82,27.64,123.36,227.18,23.45,0.763,1,AwayTeam
+2020,13,ArizonaCardinals,Los Angeles Rams,0.545,150.58,238.83,27.67,123.0,236.92,24.67,0.763,0,AwayTeam
+2020,14,ArizonaCardinals,New York Giants,0.5,151.23,238.23,27.54,119.54,224.92,23.31,0.763,3,HomeTeam
+2020,15,ArizonaCardinals,Philadelphia Eagles,0.538,147.79,251.43,27.93,119.36,230.64,23.5,0.763,0,HomeTeam
+2020,16,ArizonaCardinals,San Francisco 49ers,0.571,145.93,250.0,26.87,126.53,226.67,23.27,0.763,-1,AwayTeam
+2020,17,ArizonaCardinals,Los Angeles Rams,0.533,139.81,244.75,25.62,125.5,226.44,22.94,0.763,0,AwayTeam
+2021,1,ArizonaCardinals,Tennessee Titans,0,136.0,280.0,38.0,86.0,162.0,13.0,0.811,2,HomeTeam
+2021,2,ArizonaCardinals,Minnesota Vikings,1.0,119.5,325.5,36.0,131.5,202.0,23.0,0.811,0,HomeTeam
+2021,3,ArizonaCardinals,Jacksonville Jaguars,1.0,110.0,322.33,34.33,140.67,202.0,21.67,0.811,3,HomeTeam
+2021,4,ArizonaCardinals,Los Angeles Rams,1.0,136.5,304.0,35.0,135.75,221.5,21.25,0.811,5,HomeTeam
+2021,5,ArizonaCardinals,San Francisco 49ers,1.0,128.0,285.2,31.4,139.0,214.4,19.0,0.811,5,HomeTeam
+2021,6,ArizonaCardinals,Cleveland Browns,1.0,130.67,272.33,32.33,128.0,214.83,18.17,0.811,8,HomeTeam
+2021,7,ArizonaCardinals,Houston Texans,1.0,136.57,265.57,32.14,115.71,201.0,16.29,0.811,8,HomeTeam
+2021,8,ArizonaCardinals,Green Bay Packers,1.0,128.75,264.88,30.75,120.12,198.88,17.25,0.811,5,AwayTeam
+2021,9,ArizonaCardinals,San Francisco 49ers,0.875,132.56,265.89,30.78,111.11,209.89,17.22,0.811,8,HomeTeam
+2021,10,ArizonaCardinals,Carolina Panthers,0.889,125.8,249.7,28.7,116.6,206.4,18.9,0.811,8,AwayTeam
+2021,11,ArizonaCardinals,Seattle Seahawks,0.8,123.0,255.91,28.18,113.82,204.0,18.36,0.811,8,HomeTeam
+2021,13,ArizonaCardinals,Chicago Bears,0.818,124.17,244.58,28.58,113.67,205.08,18.67,0.811,12,HomeTeam
+2021,14,ArizonaCardinals,Los Angeles Rams,0.833,122.54,252.23,28.15,111.77,209.85,19.54,0.811,10,AwayTeam
+2021,15,ArizonaCardinals,Detroit Lions,0.769,121.29,255.14,27.0,112.79,210.0,20.29,0.811,10,AwayTeam
+2021,16,ArizonaCardinals,Indianapolis Colts,0.714,122.07,254.47,26.27,113.67,210.67,20.4,0.811,10,AwayTeam
+2021,17,ArizonaCardinals,Dallas Cowboys,0.667,122.38,255.56,26.19,109.38,213.5,20.5,0.811,11,HomeTeam
+2021,18,ArizonaCardinals,Seattle Seahawks,0.688,122.12,251.53,26.41,114.82,214.41,21.53,0.811,12,AwayTeam
+2022,1,ArizonaCardinals,Kansas City Chiefs,0,103.0,179.0,21.0,128.0,360.0,44.0,0.875,1,AwayTeam
+2022,2,ArizonaCardinals,Las Vegas Raiders,0.0,123.0,224.5,25.0,104.0,302.0,33.5,0.875,1,HomeTeam
+2022,3,ArizonaCardinals,Los Angeles Rams,0.5,105.33,248.0,20.67,102.67,281.0,29.0,0.875,2,AwayTeam
+2022,4,ArizonaCardinals,Carolina Panthers,0.333,112.0,237.5,22.0,87.0,255.75,25.75,0.875,4,HomeTeam
+2022,5,ArizonaCardinals,Philadelphia Eagles,0.5,114.4,237.8,21.0,97.4,248.2,24.6,0.875,3,AwayTeam
+2022,6,ArizonaCardinals,Seattle Seahawks,0.4,119.33,226.67,19.0,103.83,233.5,23.67,0.875,2,AwayTeam
+2022,7,ArizonaCardinals,New Orleans Saints,0.333,121.86,221.29,22.29,101.14,258.57,25.14,0.875,5,HomeTeam
+2022,8,ArizonaCardinals,Minnesota Vikings,0.429,116.38,230.75,22.75,110.12,252.25,26.25,0.875,3,AwayTeam
+2022,9,ArizonaCardinals,Seattle Seahawks,0.375,117.0,220.67,22.56,115.44,253.44,26.78,0.875,3,AwayTeam
+2022,10,ArizonaCardinals,Los Angeles Rams,0.333,113.1,220.6,23.0,110.5,247.1,25.8,0.875,5,HomeTeam
+2022,11,ArizonaCardinals,San Francisco 49ers,0.4,108.91,223.0,21.82,114.91,245.36,26.91,0.875,3,AwayTeam
+2022,12,ArizonaCardinals,Los Angeles Chargers,0.364,114.92,219.83,22.0,110.75,245.42,26.75,0.875,1,AwayTeam
+2022,14,ArizonaCardinals,New England Patriots,0.333,114.77,219.08,21.31,110.15,243.85,26.77,0.875,0,AwayTeam
+2022,15,ArizonaCardinals,Denver Broncos,0.308,111.79,215.36,20.86,114.29,237.57,26.57,0.875,-1,AwayTeam
+2022,16,ArizonaCardinals,Tampa Bay Buccaneers,0.286,112.4,214.6,20.53,114.33,240.47,26.07,0.875,-2,AwayTeam
+2022,17,ArizonaCardinals,Atlanta Falcons,0.267,113.25,214.5,20.44,115.44,235.81,25.69,0.875,-1,AwayTeam
+2022,18,ArizonaCardinals,San Francisco 49ers,0.25,110.18,213.29,20.0,118.59,230.29,26.41,0.875,-5,AwayTeam
+2023,1,ArizonaCardinals,Washington Commanders,0,96.0,114.0,16.0,92.0,156.0,20.0,0.848,1,AwayTeam
+2023,2,ArizonaCardinals,New York Giants,0.0,123.5,171.0,22.0,109.5,234.0,25.5,0.848,2,AwayTeam
+2023,3,ArizonaCardinals,Dallas Cowboys,0.0,156.33,173.33,24.0,134.67,233.0,22.33,0.848,3,HomeTeam
+2023,4,ArizonaCardinals,San Francisco 49ers,0.333,143.5,194.25,22.0,132.0,242.5,25.5,0.848,3,AwayTeam
+2023,5,ArizonaCardinals,Cincinnati Bengals,0.25,143.2,185.8,21.6,124.2,251.4,27.2,0.848,1,AwayTeam
+2023,6,ArizonaCardinals,Los Angeles Rams,0.2,141.0,190.67,19.5,133.33,243.33,27.0,0.848,0,AwayTeam
+2023,7,ArizonaCardinals,Seattle Seahawks,0.167,139.0,180.86,18.14,130.71,237.57,26.0,0.848,3,AwayTeam
+2023,8,ArizonaCardinals,Baltimore Ravens,0.143,137.75,180.88,18.88,130.62,225.12,26.62,0.848,1,AwayTeam
+2023,9,ArizonaCardinals,Cleveland Browns,0.125,127.0,162.67,16.78,128.67,223.78,26.67,0.848,-2,AwayTeam
+2023,10,ArizonaCardinals,Atlanta Falcons,0.111,126.5,169.4,17.6,134.2,208.4,26.3,0.848,-3,HomeTeam
+2023,11,ArizonaCardinals,Houston Texans,0.2,126.18,171.82,17.45,132.09,217.45,25.82,0.848,-2,AwayTeam
+2023,12,ArizonaCardinals,Los Angeles Rams,0.182,121.75,175.75,17.17,140.08,218.42,26.75,0.848,-1,AwayTeam
+2023,13,ArizonaCardinals,Pittsburgh Steelers,0.167,123.92,172.38,17.69,139.31,216.0,25.46,0.848,0,HomeTeam
+2023,15,ArizonaCardinals,San Francisco 49ers,0.231,131.79,174.5,18.5,139.64,219.29,26.86,0.848,-2,AwayTeam
+2023,16,ArizonaCardinals,Chicago Bears,0.214,129.2,177.07,18.33,147.0,216.0,26.87,0.848,-1,AwayTeam
+2023,17,ArizonaCardinals,Philadelphia Eagles,0.2,134.94,180.25,19.38,143.5,214.0,27.12,0.848,-1,HomeTeam
+2023,18,ArizonaCardinals,Seattle Seahawks,0.25,139.12,184.94,19.41,143.18,212.53,26.76,0.848,-1,AwayTeam
+2024,1,ArizonaCardinals,Buffalo Bills,0,124.0,146.0,28.0,130.0,222.0,34.0,0.905,0,AwayTeam
+2024,2,ArizonaCardinals,Los Angeles Rams,0.0,177.5,202.0,34.5,91.5,207.0,22.0,0.905,0,HomeTeam
+2024,3,ArizonaCardinals,Detroit Lions,0.5,144.0,201.33,27.33,123.33,200.0,21.33,0.905,0,AwayTeam
+2024,4,ArizonaCardinals,Washington Commanders,0.333,153.25,179.75,24.0,146.5,208.25,26.5,0.905,0,AwayTeam
+2024,5,ArizonaCardinals,San Francisco 49ers,0.25,156.4,181.6,24.0,147.8,212.8,25.8,0.905,2,HomeTeam
+2024,6,ArizonaCardinals,Green Bay Packers,0.4,145.17,187.0,22.17,153.0,220.33,27.17,0.905,0,AwayTeam
+2024,7,ArizonaCardinals,Los Angeles Chargers,0.333,150.29,181.0,21.43,139.57,236.86,25.43,0.905,1,HomeTeam
+2024,8,ArizonaCardinals,Miami Dolphins,0.429,141.75,196.75,22.25,140.88,235.62,25.62,0.905,1,HomeTeam
+2024,9,ArizonaCardinals,Chicago Bears,0.5,149.67,190.11,23.0,132.89,228.56,23.78,0.905,-1,HomeTeam
+2024,10,ArizonaCardinals,New York Jets,0.556,149.4,197.0,23.8,127.5,218.5,22.0,0.905,0,HomeTeam
+2024,12,ArizonaCardinals,Seattle Seahawks,0.6,140.27,201.73,22.18,121.82,218.64,21.45,0.905,0,AwayTeam

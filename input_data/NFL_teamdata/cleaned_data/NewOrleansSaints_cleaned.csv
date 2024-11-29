@@ -1,0 +1,110 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,NewOrleansSaints,Tampa Bay Buccaneers,0,43.0,432.0,40.0,112.0,417.0,48.0,0.933,-2,AwayTeam
+2018,2,NewOrleansSaints,Cleveland Browns,0.0,52.5,322.5,30.5,102.5,325.5,33.0,0.933,-3,HomeTeam
+2018,3,NewOrleansSaints,Atlanta Falcons,0.5,82.67,345.33,34.67,84.33,336.67,34.33,0.933,-3,HomeTeam
+2018,4,NewOrleansSaints,New York Giants,0.667,104.5,313.75,34.25,79.5,311.0,30.25,0.933,-1,HomeTeam
+2018,5,NewOrleansSaints,Washington Redskins,0.75,103.2,320.8,36.0,71.4,297.6,28.0,0.933,0,HomeTeam
+2018,7,NewOrleansSaints,Baltimore Ravens,0.8,108.33,301.5,34.0,72.33,293.67,27.17,0.933,-1,HomeTeam
+2018,8,NewOrleansSaints,Minnesota Vikings,0.833,108.0,281.86,33.43,74.14,300.0,26.14,0.933,0,HomeTeam
+2018,9,NewOrleansSaints,Los Angeles Rams,0.857,112.12,289.88,34.88,76.38,311.38,27.25,0.933,0,HomeTeam
+2018,10,NewOrleansSaints,Cincinnati Bengals,0.875,126.78,287.11,36.67,80.11,296.11,25.78,0.933,2,HomeTeam
+2018,11,NewOrleansSaints,Philadelphia Eagles,0.889,131.4,295.7,37.8,77.9,280.3,23.9,0.933,5,HomeTeam
+2018,12,NewOrleansSaints,Atlanta Falcons,0.9,133.09,283.55,37.18,73.18,285.73,23.27,0.933,8,HomeTeam
+2018,13,NewOrleansSaints,Dallas Cowboys,0.909,127.42,269.17,34.92,75.33,279.33,22.42,0.933,9,AwayTeam
+2018,14,NewOrleansSaints,Tampa Bay Buccaneers,0.833,125.31,263.69,34.38,77.62,271.23,21.77,0.933,8,HomeTeam
+2018,15,NewOrleansSaints,Carolina Panthers,0.846,127.43,258.5,32.79,79.07,262.5,20.86,0.933,8,HomeTeam
+2018,16,NewOrleansSaints,Pittsburgh Steelers,0.857,122.73,262.13,32.67,78.13,269.27,21.33,0.933,9,HomeTeam
+2018,17,NewOrleansSaints,Carolina Panthers,0.867,126.56,252.62,31.5,80.19,268.88,22.06,0.933,8,AwayTeam
+2019,1,NewOrleansSaints,Houston Texans,0,148.0,362.0,30.0,180.0,234.0,28.0,0.889,0,HomeTeam
+2019,2,NewOrleansSaints,Los Angeles Rams,1.0,102.5,274.5,19.5,147.5,249.5,27.5,0.889,0,AwayTeam
+2019,3,NewOrleansSaints,Seattle Seahawks,0.5,97.67,242.0,24.0,134.33,301.67,27.33,0.889,0,HomeTeam
+2019,4,NewOrleansSaints,Dallas Cowboys,0.667,102.5,218.75,21.0,112.0,279.25,23.0,0.889,2,HomeTeam
+2019,5,NewOrleansSaints,Tampa Bay Buccaneers,0.75,104.4,244.0,23.0,108.4,255.0,23.2,0.889,1,HomeTeam
+2019,6,NewOrleansSaints,Jacksonville Jaguars,0.8,104.33,240.33,21.33,102.83,237.67,20.33,0.889,2,HomeTeam
+2019,7,NewOrleansSaints,Chicago Bears,0.833,111.0,245.0,23.43,90.57,237.29,21.0,0.889,4,HomeTeam
+2019,8,NewOrleansSaints,Arizona Cardinals,0.857,114.25,261.0,24.38,84.25,232.25,19.5,0.889,3,HomeTeam
+2019,10,NewOrleansSaints,Atlanta Falcons,0.875,107.33,260.67,22.67,90.78,225.78,20.22,0.889,4,AwayTeam
+2019,11,NewOrleansSaints,Tampa Bay Buccaneers,0.778,107.5,256.5,23.8,85.3,233.0,19.9,0.889,8,HomeTeam
+2019,12,NewOrleansSaints,Carolina Panthers,0.8,108.45,260.45,24.73,88.55,232.73,20.91,0.889,8,HomeTeam
+2019,13,NewOrleansSaints,Atlanta Falcons,0.818,107.33,254.08,24.83,88.58,234.92,20.67,0.889,11,HomeTeam
+2019,14,NewOrleansSaints,San Francisco 49ers,0.833,108.0,261.38,26.46,94.23,244.08,22.77,0.889,11,AwayTeam
+2019,15,NewOrleansSaints,Indianapolis Colts,0.769,108.64,264.64,27.0,90.79,238.0,21.64,0.889,11,HomeTeam
+2019,16,NewOrleansSaints,Tennessee Titans,0.786,108.2,265.33,27.73,94.67,238.67,22.07,0.889,12,HomeTeam
+2019,17,NewOrleansSaints,Carolina Panthers,0.8,108.62,265.25,28.62,91.31,241.75,21.31,0.889,15,HomeTeam
+2020,1,NewOrleansSaints,Tampa Bay Buccaneers,0,82.0,189.0,34.0,86.0,224.0,23.0,0.821,3,HomeTeam
+2020,2,NewOrleansSaints,Las Vegas Raiders,1.0,97.0,250.5,29.0,101.0,242.5,28.5,0.821,3,AwayTeam
+2020,3,NewOrleansSaints,Green Bay Packers,0.5,105.33,258.67,29.33,100.0,252.0,31.33,0.821,2,AwayTeam
+2020,4,NewOrleansSaints,Detroit Lions,0.333,120.0,251.0,30.75,97.5,236.75,30.75,0.821,2,HomeTeam
+2020,7,NewOrleansSaints,Carolina Panthers,0.5,123.6,256.2,30.0,85.4,238.6,29.4,0.821,1,HomeTeam
+2020,8,NewOrleansSaints,Chicago Bears,0.6,123.33,258.83,29.33,87.17,237.67,28.33,0.821,2,HomeTeam
+2020,9,NewOrleansSaints,Tampa Bay Buccaneers,0.667,125.43,262.14,30.57,75.86,230.29,24.71,0.821,3,HomeTeam
+2020,10,NewOrleansSaints,San Francisco 49ers,0.714,124.0,244.75,30.12,72.5,230.5,23.25,0.821,5,HomeTeam
+2020,11,NewOrleansSaints,Atlanta Falcons,0.75,128.67,240.89,29.44,70.22,226.67,21.67,0.821,6,HomeTeam
+2020,12,NewOrleansSaints,Denver Broncos,0.778,138.7,223.1,29.6,73.2,205.2,19.8,0.821,8,HomeTeam
+2020,13,NewOrleansSaints,Atlanta Falcons,0.8,144.91,222.55,28.82,72.91,210.36,19.45,0.821,8,HomeTeam
+2020,14,NewOrleansSaints,Philadelphia Eagles,0.818,140.83,225.83,28.17,87.33,206.75,19.83,0.821,7,AwayTeam
+2020,15,NewOrleansSaints,Kansas City Chiefs,0.75,134.62,225.77,28.23,94.38,208.69,20.77,0.821,7,AwayTeam
+2020,16,NewOrleansSaints,Minnesota Vikings,0.692,143.86,232.43,29.93,94.07,213.36,21.64,0.821,5,HomeTeam
+2020,17,NewOrleansSaints,Carolina Panthers,0.714,144.67,229.67,30.13,92.73,215.53,20.67,0.821,10,HomeTeam
+2021,1,NewOrleansSaints,Green Bay Packers,0,171.0,151.0,38.0,43.0,186.0,3.0,0.833,3,HomeTeam
+2021,2,NewOrleansSaints,Carolina Panthers,1.0,109.5,115.5,22.5,66.0,240.0,14.5,0.833,2,AwayTeam
+2021,3,NewOrleansSaints,New England Patriots,0.5,120.33,113.67,24.33,60.33,243.67,14.0,0.833,5,HomeTeam
+2021,4,NewOrleansSaints,New York Giants,0.667,132.75,144.0,23.5,66.0,283.25,17.25,0.833,5,AwayTeam
+2021,5,NewOrleansSaints,Washington Football Team,0.5,125.8,169.4,25.4,79.0,275.0,18.2,0.833,5,HomeTeam
+2021,7,NewOrleansSaints,Seattle Seahawks,0.6,120.5,176.17,23.33,80.83,250.67,16.83,0.833,4,HomeTeam
+2021,8,NewOrleansSaints,Tampa Bay Buccaneers,0.667,125.0,180.86,25.14,79.43,264.86,18.29,0.833,7,HomeTeam
+2021,9,NewOrleansSaints,Atlanta Falcons,0.714,123.0,191.62,25.12,73.75,273.25,19.38,0.833,6,AwayTeam
+2021,10,NewOrleansSaints,Tennessee Titans,0.625,118.89,202.22,24.67,72.89,264.89,19.78,0.833,5,AwayTeam
+2021,11,NewOrleansSaints,Philadelphia Eagles,0.556,117.9,203.4,25.1,89.8,252.2,21.8,0.833,3,AwayTeam
+2021,12,NewOrleansSaints,Buffalo Bills,0.5,111.18,198.18,23.36,91.91,251.82,22.64,0.833,4,AwayTeam
+2021,13,NewOrleansSaints,Dallas Cowboys,0.455,114.67,202.67,22.83,96.42,250.08,23.0,0.833,1,AwayTeam
+2021,14,NewOrleansSaints,New York Jets,0.417,121.46,197.92,23.38,95.0,244.54,21.92,0.833,1,HomeTeam
+2021,15,NewOrleansSaints,Tampa Bay Buccaneers,0.462,117.14,194.57,22.36,96.64,240.21,20.36,0.833,3,HomeTeam
+2021,16,NewOrleansSaints,Miami Dolphins,0.5,114.87,187.0,21.07,95.93,235.73,20.33,0.833,2,AwayTeam
+2021,17,NewOrleansSaints,Carolina Panthers,0.467,112.25,188.25,20.88,95.44,226.62,19.69,0.833,4,HomeTeam
+2021,18,NewOrleansSaints,Atlanta Falcons,0.5,117.12,187.41,21.41,93.47,224.76,19.71,0.833,7,HomeTeam
+2022,1,NewOrleansSaints,Atlanta Falcons,0,151.0,234.0,27.0,201.0,215.0,26.0,0.742,1,HomeTeam
+2022,2,NewOrleansSaints,Tampa Bay Buccaneers,1.0,125.5,221.0,18.5,136.5,201.5,23.0,0.742,-3,AwayTeam
+2022,3,NewOrleansSaints,Carolina Panthers,0.5,111.67,261.33,17.0,139.33,183.67,22.67,0.742,-6,AwayTeam
+2022,4,NewOrleansSaints,Minnesota Vikings,0.333,111.5,252.75,19.0,124.75,203.5,24.0,0.742,-7,AwayTeam
+2022,5,NewOrleansSaints,Seattle Seahawks,0.25,136.2,242.8,23.0,130.0,211.8,25.6,0.742,-8,HomeTeam
+2022,6,NewOrleansSaints,Cincinnati Bengals,0.4,151.5,230.83,23.5,120.83,222.0,26.33,0.742,-7,AwayTeam
+2022,7,NewOrleansSaints,Arizona Cardinals,0.333,142.0,256.29,25.0,123.14,217.29,28.57,0.742,-10,AwayTeam
+2022,8,NewOrleansSaints,Las Vegas Raiders,0.286,141.25,253.12,24.88,112.5,208.25,25.0,0.742,-9,HomeTeam
+2022,9,NewOrleansSaints,Baltimore Ravens,0.375,130.89,246.67,23.56,120.89,199.67,25.22,0.742,-10,AwayTeam
+2022,10,NewOrleansSaints,Pittsburgh Steelers,0.333,120.7,237.7,22.2,130.5,195.9,24.7,0.742,-12,AwayTeam
+2022,11,NewOrleansSaints,Los Angeles Rams,0.3,117.73,237.45,22.64,132.09,195.18,24.27,0.742,-12,HomeTeam
+2022,12,NewOrleansSaints,San Francisco 49ers,0.364,113.17,234.08,20.75,129.08,197.33,23.33,0.742,-14,AwayTeam
+2022,13,NewOrleansSaints,Tampa Bay Buccaneers,0.333,109.54,233.92,20.38,125.0,203.23,22.85,0.742,-12,AwayTeam
+2022,15,NewOrleansSaints,Atlanta Falcons,0.308,111.29,232.5,20.43,132.57,195.07,22.5,0.742,-12,HomeTeam
+2022,16,NewOrleansSaints,Cleveland Browns,0.357,114.0,223.13,20.2,132.0,190.4,21.67,0.742,-12,HomeTeam
+2022,17,NewOrleansSaints,Philadelphia Eagles,0.4,114.94,220.69,20.19,127.94,193.88,20.94,0.742,-12,HomeTeam
+2022,18,NewOrleansSaints,Carolina Panthers,0.438,116.59,217.18,19.41,130.47,184.35,20.29,0.742,-11,AwayTeam
+2023,1,NewOrleansSaints,Tennessee Titans,0,69.0,282.0,16.0,104.0,181.0,15.0,0.811,1,HomeTeam
+2023,2,NewOrleansSaints,Carolina Panthers,1.0,101.5,244.5,18.0,102.0,160.0,16.0,0.811,1,HomeTeam
+2023,3,NewOrleansSaints,Green Bay Packers,1.0,93.33,221.33,17.67,99.67,188.33,16.67,0.811,2,AwayTeam
+2023,4,NewOrleansSaints,Tampa Bay Buccaneers,0.667,87.5,197.75,15.5,103.25,201.0,19.0,0.811,0,AwayTeam
+2023,5,NewOrleansSaints,New England Patriots,0.5,97.2,191.8,19.2,91.6,183.0,15.2,0.811,3,HomeTeam
+2023,6,NewOrleansSaints,Houston Texans,0.6,95.83,216.67,18.17,96.33,182.0,16.0,0.811,2,AwayTeam
+2023,7,NewOrleansSaints,Jacksonville Jaguars,0.5,98.14,227.86,19.0,98.71,187.0,18.14,0.811,3,AwayTeam
+2023,8,NewOrleansSaints,Indianapolis Colts,0.429,106.0,243.12,21.38,106.88,189.5,19.25,0.811,3,HomeTeam
+2023,9,NewOrleansSaints,Chicago Bears,0.5,103.89,239.89,21.67,112.33,192.0,19.0,0.811,8,HomeTeam
+2023,10,NewOrleansSaints,Minnesota Vikings,0.556,100.0,237.4,21.4,113.6,199.1,19.8,0.811,6,AwayTeam
+2023,12,NewOrleansSaints,Atlanta Falcons,0.5,104.36,242.73,20.82,124.0,196.27,20.18,0.811,6,AwayTeam
+2023,13,NewOrleansSaints,Detroit Lions,0.455,105.08,243.25,21.42,125.5,197.0,21.25,0.811,4,AwayTeam
+2023,14,NewOrleansSaints,Carolina Panthers,0.417,104.46,233.0,21.92,131.54,189.46,20.08,0.811,5,HomeTeam
+2023,15,NewOrleansSaints,New York Giants,0.462,103.21,231.29,22.07,126.43,185.43,19.07,0.811,5,HomeTeam
+2023,16,NewOrleansSaints,Los Angeles Rams,0.5,98.67,236.13,22.07,126.87,194.73,19.8,0.811,4,AwayTeam
+2023,17,NewOrleansSaints,Tampa Bay Buccaneers,0.467,99.25,234.0,22.12,122.5,200.81,19.38,0.811,8,HomeTeam
+2023,18,NewOrleansSaints,Atlanta Falcons,0.5,102.47,234.71,23.65,119.88,207.29,19.24,0.811,11,HomeTeam
+2024,1,NewOrleansSaints,Carolina Panthers,0,180.0,199.0,47.0,58.0,135.0,10.0,0.947,2,HomeTeam
+2024,2,NewOrleansSaints,Dallas Cowboys,1.0,185.0,220.5,45.5,63.0,210.0,14.5,0.947,3,HomeTeam
+2024,3,NewOrleansSaints,Philadelphia Eagles,1.0,153.0,190.33,34.33,99.33,236.0,14.67,0.947,4,AwayTeam
+2024,4,NewOrleansSaints,Atlanta Falcons,0.667,147.5,201.5,31.75,96.5,233.75,17.5,0.947,3,AwayTeam
+2024,5,NewOrleansSaints,Kansas City Chiefs,0.5,127.2,196.0,28.0,105.0,251.2,19.2,0.947,3,AwayTeam
+2024,6,NewOrleansSaints,Tampa Bay Buccaneers,0.4,119.5,200.33,27.83,133.67,262.17,24.5,0.947,3,AwayTeam
+2024,7,NewOrleansSaints,Denver Broncos,0.333,116.29,196.57,25.29,146.71,248.14,25.71,0.947,2,AwayTeam
+2024,8,NewOrleansSaints,Los Angeles Chargers,0.286,116.38,203.12,23.12,143.62,249.12,25.75,0.947,2,AwayTeam
+2024,9,NewOrleansSaints,Carolina Panthers,0.25,125.33,206.11,23.0,136.56,239.89,25.44,0.947,3,AwayTeam
+2024,10,NewOrleansSaints,Atlanta Falcons,0.222,122.4,212.4,22.7,141.0,244.6,24.6,0.947,4,HomeTeam
+2024,11,NewOrleansSaints,Cleveland Browns,0.3,130.73,216.64,23.82,134.18,256.64,23.64,0.947,2,HomeTeam

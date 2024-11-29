@@ -1,0 +1,110 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,CincinnatiBengals,Indianapolis Colts,0,101.0,229.0,34.0,75.0,305.0,23.0,0.826,0,HomeTeam
+2018,2,CincinnatiBengals,Baltimore Ravens,1.0,104.5,247.0,34.0,70.5,332.0,23.0,0.826,3,HomeTeam
+2018,3,CincinnatiBengals,Carolina Panthers,1.0,91.67,274.67,29.67,123.67,270.33,25.67,0.826,-1,AwayTeam
+2018,4,CincinnatiBengals,Atlanta Falcons,0.667,93.5,283.0,31.5,115.75,303.5,28.25,0.826,-2,HomeTeam
+2018,5,CincinnatiBengals,Miami Dolphins,0.75,95.4,272.2,30.6,118.2,276.6,26.0,0.826,0,HomeTeam
+2018,6,CincinnatiBengals,Pittsburgh Steelers,0.8,89.83,262.33,29.0,117.17,292.0,26.33,0.826,0,AwayTeam
+2018,7,CincinnatiBengals,Kansas City Chiefs,0.667,86.29,249.71,26.29,128.71,300.71,29.0,0.826,0,AwayTeam
+2018,8,CincinnatiBengals,Tampa Bay Buccaneers,0.571,92.75,251.5,27.62,128.38,319.38,29.62,0.826,4,HomeTeam
+2018,10,CincinnatiBengals,New Orleans Saints,0.625,94.67,242.89,26.11,141.22,313.33,32.0,0.826,2,AwayTeam
+2018,11,CincinnatiBengals,Baltimore Ravens,0.556,90.0,239.3,25.6,153.8,295.6,31.2,0.826,3,AwayTeam
+2018,12,CincinnatiBengals,Cleveland Browns,0.5,93.55,239.64,25.09,147.45,292.18,31.55,0.826,1,AwayTeam
+2018,13,CincinnatiBengals,Denver Broncos,0.455,95.0,236.5,23.83,153.33,279.75,30.92,0.826,-1,AwayTeam
+2018,14,CincinnatiBengals,Los Angeles Chargers,0.417,98.77,229.92,23.62,148.08,273.85,30.54,0.826,-1,AwayTeam
+2018,15,CincinnatiBengals,Oakland Raiders,0.385,103.93,222.29,24.07,142.36,270.64,29.5,0.826,0,HomeTeam
+2018,16,CincinnatiBengals,Cleveland Browns,0.429,103.8,214.6,23.67,142.6,275.73,29.27,0.826,0,AwayTeam
+2018,17,CincinnatiBengals,Pittsburgh Steelers,0.4,105.12,205.62,23.0,137.75,275.88,28.44,0.826,1,AwayTeam
+2019,1,CincinnatiBengals,Seattle Seahawks,0,34.0,395.0,20.0,72.0,160.0,21.0,0.871,-2,AwayTeam
+2019,2,CincinnatiBengals,San Francisco 49ers,0.0,29.5,343.0,18.5,165.5,236.0,31.0,0.871,-2,AwayTeam
+2019,3,CincinnatiBengals,Buffalo Bills,0.0,41.67,308.67,18.0,168.67,237.67,27.67,0.871,-4,AwayTeam
+2019,4,CincinnatiBengals,Pittsburgh Steelers,0.0,49.5,257.0,14.25,143.0,243.25,27.5,0.871,-5,AwayTeam
+2019,5,CincinnatiBengals,Arizona Cardinals,0.0,61.2,258.0,16.0,167.6,244.2,27.2,0.871,-5,AwayTeam
+2019,6,CincinnatiBengals,Baltimore Ravens,0.0,56.5,251.17,16.17,184.5,241.5,26.5,0.871,-5,AwayTeam
+2019,7,CincinnatiBengals,Jacksonville Jaguars,0.0,53.14,252.14,16.29,189.0,241.86,26.57,0.871,-9,AwayTeam
+2019,8,CincinnatiBengals,Los Angeles Rams,0.0,59.5,257.75,15.5,177.62,258.12,26.25,0.871,-9,AwayTeam
+2019,10,CincinnatiBengals,Baltimore Ravens,0.0,70.33,245.78,15.22,173.0,256.44,28.78,0.871,-11,AwayTeam
+2019,11,CincinnatiBengals,Oakland Raiders,0.0,80.6,228.5,14.7,167.0,258.1,27.6,0.871,-11,AwayTeam
+2019,12,CincinnatiBengals,Pittsburgh Steelers,0.0,81.09,222.09,14.27,166.27,250.91,26.55,0.871,-12,AwayTeam
+2019,13,CincinnatiBengals,New York Jets,0.0,78.0,223.0,14.92,157.58,247.42,24.83,0.871,-12,HomeTeam
+2019,14,CincinnatiBengals,Cleveland Browns,0.083,85.77,226.77,15.23,156.69,242.77,25.0,0.871,-11,AwayTeam
+2019,15,CincinnatiBengals,New England Patriots,0.077,91.36,221.36,15.07,158.0,233.71,25.64,0.871,-16,AwayTeam
+2019,16,CincinnatiBengals,Miami Dolphins,0.071,89.2,231.33,16.4,153.87,245.2,26.47,0.871,-16,AwayTeam
+2019,17,CincinnatiBengals,Cleveland Browns,0.067,94.81,228.25,17.44,148.88,244.81,26.25,0.871,-14,HomeTeam
+2020,1,CincinnatiBengals,Los Angeles Chargers,0,122.0,173.0,13.0,155.0,207.0,16.0,0.794,-2,AwayTeam
+2020,2,CincinnatiBengals,Cleveland Browns,0.0,95.0,229.0,21.5,185.0,213.0,25.5,0.794,-2,AwayTeam
+2020,3,CincinnatiBengals,Philadelphia Eagles,0.0,79.33,238.0,22.0,180.67,210.67,24.67,0.794,0,
+2020,4,CincinnatiBengals,Jacksonville Jaguars,0.0,110.75,253.5,24.75,157.75,243.0,24.75,0.794,0,HomeTeam
+2020,5,CincinnatiBengals,Baltimore Ravens,0.333,102.6,229.8,20.4,158.4,228.6,25.2,0.794,-2,AwayTeam
+2020,6,CincinnatiBengals,Indianapolis Colts,0.25,101.83,241.5,21.5,141.83,252.33,26.17,0.794,-1,AwayTeam
+2020,7,CincinnatiBengals,Cleveland Browns,0.2,98.86,262.29,23.29,133.29,261.43,27.71,0.794,-2,AwayTeam
+2020,8,CincinnatiBengals,Tennessee Titans,0.167,101.25,260.62,24.25,143.88,256.62,26.75,0.794,-1,HomeTeam
+2020,10,CincinnatiBengals,Pittsburgh Steelers,0.286,105.44,252.22,22.67,132.78,265.11,27.78,0.794,-3,AwayTeam
+2020,11,CincinnatiBengals,Washington Football Team,0.25,101.9,247.2,21.3,135.9,254.7,27.0,0.794,-4,AwayTeam
+2020,12,CincinnatiBengals,New York Giants,0.222,96.27,235.18,20.91,136.45,253.73,26.27,0.794,-6,AwayTeam
+2020,13,CincinnatiBengals,Miami Dolphins,0.2,91.58,228.58,19.75,134.25,257.25,25.67,0.794,-7,AwayTeam
+2020,14,CincinnatiBengals,Dallas Cowboys,0.182,92.31,227.0,18.77,131.69,250.62,26.0,0.794,-10,AwayTeam
+2020,15,CincinnatiBengals,Pittsburgh Steelers,0.167,96.57,216.36,19.36,128.43,244.0,25.36,0.794,-7,HomeTeam
+2020,16,CincinnatiBengals,Houston Texans,0.231,101.4,226.67,20.53,130.93,249.2,25.73,0.794,-6,HomeTeam
+2020,17,CincinnatiBengals,Baltimore Ravens,0.286,104.25,215.5,19.44,148.0,241.19,26.5,0.794,-7,AwayTeam
+2021,1,CincinnatiBengals,Minnesota Vikings,0,149.0,217.0,27.0,67.0,336.0,24.0,0.853,1,HomeTeam
+2021,2,CincinnatiBengals,Chicago Bears,1.0,109.0,198.0,22.0,95.0,209.5,22.0,0.853,-2,AwayTeam
+2021,3,CincinnatiBengals,Pittsburgh Steelers,0.5,104.67,189.33,22.67,78.33,238.67,18.0,0.853,-1,HomeTeam
+2021,4,CincinnatiBengals,Jacksonville Jaguars,0.667,98.0,227.5,23.0,93.5,229.5,18.75,0.853,-1,HomeTeam
+2021,5,CincinnatiBengals,Green Bay Packers,0.75,99.0,234.8,22.8,101.4,250.2,20.0,0.853,-2,AwayTeam
+2021,6,CincinnatiBengals,Detroit Lions,0.6,106.17,238.33,24.67,90.5,240.5,18.5,0.853,-2,HomeTeam
+2021,7,CincinnatiBengals,Baltimore Ravens,0.667,106.86,262.71,27.0,94.0,245.86,18.29,0.853,-3,HomeTeam
+2021,8,CincinnatiBengals,New York Jets,0.714,98.62,264.5,27.5,94.38,266.88,20.25,0.853,-1,AwayTeam
+2021,9,CincinnatiBengals,Cleveland Browns,0.625,97.11,264.33,26.22,100.89,260.33,22.56,0.853,-4,AwayTeam
+2021,11,CincinnatiBengals,Las Vegas Raiders,0.556,103.3,250.8,26.8,98.0,254.9,21.6,0.853,-3,HomeTeam
+2021,12,CincinnatiBengals,Pittsburgh Steelers,0.6,111.91,243.64,28.09,93.73,254.45,20.55,0.853,-1,HomeTeam
+2021,13,CincinnatiBengals,Los Angeles Chargers,0.636,110.58,245.0,27.58,92.5,256.92,22.25,0.853,-2,AwayTeam
+2021,14,CincinnatiBengals,San Francisco 49ers,0.583,108.69,250.08,27.23,93.08,256.77,22.54,0.853,-4,AwayTeam
+2021,15,CincinnatiBengals,Denver Broncos,0.538,109.0,241.93,26.36,95.93,249.79,21.64,0.853,-3,HomeTeam
+2021,16,CincinnatiBengals,Baltimore Ravens,0.571,106.87,259.0,27.33,92.13,252.8,21.6,0.853,-2,HomeTeam
+2021,17,CincinnatiBengals,Kansas City Chiefs,0.6,103.94,268.75,27.75,96.06,253.19,22.19,0.853,-2,HomeTeam
+2021,18,CincinnatiBengals,Cleveland Browns,0.625,102.47,259.0,27.06,102.47,248.35,22.12,0.853,0,AwayTeam
+2022,1,CincinnatiBengals,Pittsburgh Steelers,0,133.0,299.0,20.0,75.0,192.0,23.0,0.828,-5,AwayTeam
+2022,2,CincinnatiBengals,Dallas Cowboys,0.0,111.0,232.0,18.5,91.0,211.0,21.5,0.828,-4,AwayTeam
+2022,3,CincinnatiBengals,New York Jets,0.0,97.0,241.67,21.33,86.0,224.67,18.33,0.828,-1,HomeTeam
+2022,4,CincinnatiBengals,Miami Dolphins,0.333,89.5,257.25,22.75,85.75,241.75,17.5,0.828,1,HomeTeam
+2022,5,CincinnatiBengals,Baltimore Ravens,0.5,91.8,243.8,21.6,99.6,227.4,17.8,0.828,1,AwayTeam
+2022,6,CincinnatiBengals,New Orleans Saints,0.4,89.0,248.67,23.0,121.0,218.0,19.17,0.828,0,HomeTeam
+2022,7,CincinnatiBengals,Atlanta Falcons,0.5,87.43,278.71,24.71,119.0,202.14,18.86,0.828,0,HomeTeam
+2022,8,CincinnatiBengals,Cleveland Browns,0.571,81.0,268.0,23.25,125.62,210.38,20.5,0.828,0,AwayTeam
+2022,9,CincinnatiBengals,Carolina Panthers,0.5,98.78,263.0,25.33,118.78,205.22,20.56,0.828,3,HomeTeam
+2022,11,CincinnatiBengals,Pittsburgh Steelers,0.556,95.1,271.3,26.5,117.1,209.6,21.5,0.828,1,HomeTeam
+2022,12,CincinnatiBengals,Tennessee Titans,0.6,96.27,270.82,25.91,112.18,216.09,21.0,0.828,1,HomeTeam
+2022,13,CincinnatiBengals,Kansas City Chiefs,0.636,100.92,271.5,26.0,114.33,215.67,21.25,0.828,2,HomeTeam
+2022,14,CincinnatiBengals,Cleveland Browns,0.667,103.62,268.08,25.77,111.0,220.08,20.38,0.828,2,HomeTeam
+2022,15,CincinnatiBengals,Tampa Bay Buccaneers,0.692,100.0,262.07,26.36,109.64,226.07,20.57,0.828,5,HomeTeam
+2022,16,CincinnatiBengals,New England Patriots,0.714,98.2,269.2,26.07,106.4,225.93,20.4,0.828,3,HomeTeam
+2022,18,CincinnatiBengals,Baltimore Ravens,0.733,95.5,265.0,26.12,106.62,229.06,20.12,0.828,6,HomeTeam
+2023,1,CincinnatiBengals,Cleveland Browns,0,75.0,67.0,3.0,206.0,144.0,24.0,0.839,2,AwayTeam
+2023,2,CincinnatiBengals,Baltimore Ravens,0.0,70.5,141.5,13.5,192.0,190.5,25.5,0.839,1,AwayTeam
+2023,3,CincinnatiBengals,Los Angeles Rams,0.0,69.33,175.0,15.33,151.67,200.67,22.33,0.839,2,HomeTeam
+2023,4,CincinnatiBengals,Tennessee Titans,0.333,70.0,166.0,12.25,157.0,207.25,23.5,0.839,2,AwayTeam
+2023,5,CincinnatiBengals,Arizona Cardinals,0.25,74.6,190.2,16.6,154.0,196.2,22.8,0.839,4,HomeTeam
+2023,6,CincinnatiBengals,Seattle Seahawks,0.4,69.83,186.5,16.67,142.83,213.0,21.17,0.839,5,HomeTeam
+2023,8,CincinnatiBengals,San Francisco 49ers,0.5,79.0,197.86,18.71,138.57,232.14,20.57,0.839,7,HomeTeam
+2023,9,CincinnatiBengals,Buffalo Bills,0.571,75.88,216.0,19.38,129.75,234.25,20.25,0.839,9,HomeTeam
+2023,10,CincinnatiBengals,Houston Texans,0.625,74.78,226.89,20.22,136.22,247.78,21.33,0.839,10,AwayTeam
+2023,11,CincinnatiBengals,Baltimore Ravens,0.556,80.9,217.8,20.2,138.3,247.8,22.6,0.839,10,AwayTeam
+2023,12,CincinnatiBengals,Pittsburgh Steelers,0.5,75.82,215.91,19.27,139.64,249.64,22.0,0.839,10,AwayTeam
+2023,13,CincinnatiBengals,Jacksonville Jaguars,0.455,82.5,225.83,20.5,133.92,254.25,22.75,0.839,9,HomeTeam
+2023,14,CincinnatiBengals,Indianapolis Colts,0.5,84.69,229.54,21.54,127.15,252.08,22.08,0.839,10,HomeTeam
+2023,15,CincinnatiBengals,Minnesota Vikings,0.538,84.36,234.43,21.93,128.29,254.14,22.21,0.839,11,HomeTeam
+2023,16,CincinnatiBengals,Pittsburgh Steelers,0.571,82.67,239.4,21.2,127.27,256.13,23.0,0.839,8,AwayTeam
+2023,17,CincinnatiBengals,Kansas City Chiefs,0.533,84.0,234.38,20.94,127.56,255.19,23.12,0.839,9,AwayTeam
+2023,18,CincinnatiBengals,Cleveland Browns,0.5,89.82,229.12,21.53,126.18,248.41,22.59,0.839,10,HomeTeam
+2024,1,CincinnatiBengals,New England Patriots,0,70.0,154.0,10.0,170.0,120.0,16.0,0.714,-2,AwayTeam
+2024,2,CincinnatiBengals,Kansas City Chiefs,0.0,72.0,200.0,17.5,159.5,128.5,21.0,0.714,0,AwayTeam
+2024,3,CincinnatiBengals,Washington Commanders,0.0,89.33,237.33,22.67,142.33,168.33,26.67,0.714,0,AwayTeam
+2024,4,CincinnatiBengals,Carolina Panthers,0.0,102.25,236.0,25.5,145.5,181.25,26.0,0.714,0,HomeTeam
+2024,5,CincinnatiBengals,Baltimore Ravens,0.25,96.0,263.0,28.0,151.4,214.0,29.0,0.714,0,AwayTeam
+2024,6,CincinnatiBengals,New York Giants,0.2,100.17,249.67,26.17,146.0,210.0,25.33,0.714,0,HomeTeam
+2024,7,CincinnatiBengals,Cleveland Browns,0.333,94.29,237.43,25.43,136.14,217.0,23.71,0.714,2,HomeTeam
+2024,8,CincinnatiBengals,Philadelphia Eagles,0.429,89.75,235.5,24.38,139.25,219.38,25.38,0.714,0,AwayTeam
+2024,9,CincinnatiBengals,Las Vegas Raiders,0.375,94.22,236.33,26.22,130.44,212.44,25.22,0.714,1,HomeTeam
+2024,10,CincinnatiBengals,Baltimore Ravens,0.444,89.7,254.8,27.0,127.3,220.2,26.2,0.714,0,AwayTeam
+2024,11,CincinnatiBengals,Los Angeles Chargers,0.4,91.55,262.73,27.0,129.82,225.64,26.91,0.714,1,AwayTeam

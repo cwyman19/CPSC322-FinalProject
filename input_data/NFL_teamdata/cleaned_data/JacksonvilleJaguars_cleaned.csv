@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,JacksonvilleJaguars,New York Giants,0,137.0,168.0,20.0,114.0,210.0,15.0,0.885,1,HomeTeam
+2018,2,JacksonvilleJaguars,New England Patriots,1.0,120.5,272.0,25.5,98.0,215.0,17.5,0.885,0,HomeTeam
+2018,3,JacksonvilleJaguars,Tennessee Titans,1.0,109.33,229.67,19.0,115.33,171.0,14.67,0.885,-1,AwayTeam
+2018,4,JacksonvilleJaguars,New York Jets,0.667,113.5,266.5,22.0,95.0,164.25,14.0,0.885,-4,HomeTeam
+2018,5,JacksonvilleJaguars,Kansas City Chiefs,0.75,111.0,293.4,20.4,101.2,191.0,17.2,0.885,-7,AwayTeam
+2018,6,JacksonvilleJaguars,Dallas Cowboys,0.6,103.33,267.67,18.17,118.67,187.83,21.0,0.885,-9,AwayTeam
+2018,7,JacksonvilleJaguars,Houston Texans,0.5,98.57,256.43,16.57,121.86,179.71,20.86,0.885,-12,AwayTeam
+2018,8,JacksonvilleJaguars,Philadelphia Eagles,0.429,95.0,257.5,16.75,123.25,190.0,21.25,0.885,-11,AwayTeam
+2018,10,JacksonvilleJaguars,Indianapolis Colts,0.375,94.56,264.89,17.78,118.56,200.56,22.11,0.885,-11,AwayTeam
+2018,11,JacksonvilleJaguars,Pittsburgh Steelers,0.333,103.0,244.8,17.6,109.3,210.2,21.9,0.885,-9,AwayTeam
+2018,12,JacksonvilleJaguars,Buffalo Bills,0.3,114.18,232.27,17.91,114.55,205.64,22.09,0.885,-11,AwayTeam
+2018,13,JacksonvilleJaguars,Indianapolis Colts,0.273,111.25,223.92,16.92,108.42,207.17,20.25,0.885,-10,HomeTeam
+2018,14,JacksonvilleJaguars,Tennessee Titans,0.333,107.31,221.69,16.31,120.38,203.69,21.0,0.885,-10,AwayTeam
+2018,15,JacksonvilleJaguars,Washington Redskins,0.308,111.93,207.29,16.07,119.57,198.86,20.64,0.885,-12,AwayTeam
+2018,16,JacksonvilleJaguars,Miami Dolphins,0.286,112.87,201.33,16.13,115.73,193.67,19.73,0.885,-11,HomeTeam
+2018,17,JacksonvilleJaguars,Houston Texans,0.333,107.69,194.31,15.31,116.88,194.56,19.75,0.885,-12,AwayTeam
+2019,1,JacksonvilleJaguars,Kansas City Chiefs,0,81.0,347.0,26.0,113.0,378.0,40.0,0.971,-2,AwayTeam
+2019,2,JacksonvilleJaguars,Houston Texans,0.0,92.0,262.5,19.0,119.5,257.5,26.5,0.971,-3,AwayTeam
+2019,3,JacksonvilleJaguars,Tennessee Titans,0.0,90.67,243.0,19.33,110.0,254.67,20.0,0.971,-2,HomeTeam
+2019,4,JacksonvilleJaguars,Denver Broncos,0.333,135.25,228.75,21.0,99.5,266.75,21.0,0.971,-1,HomeTeam
+2019,5,JacksonvilleJaguars,Carolina Panthers,0.5,138.0,254.6,22.2,136.6,245.4,23.6,0.971,-4,AwayTeam
+2019,6,JacksonvilleJaguars,New Orleans Saints,0.4,127.5,237.33,19.5,131.17,241.5,21.83,0.971,-5,AwayTeam
+2019,7,JacksonvilleJaguars,Cincinnati Bengals,0.333,140.14,238.29,20.57,117.14,243.86,21.14,0.971,-1,HomeTeam
+2019,8,JacksonvilleJaguars,New York Jets,0.429,136.5,243.25,21.62,108.25,234.25,20.38,0.971,1,HomeTeam
+2019,9,JacksonvilleJaguars,Houston Texans,0.5,129.56,247.56,19.56,120.22,229.78,21.0,0.971,-2,AwayTeam
+2019,11,JacksonvilleJaguars,Indianapolis Colts,0.444,119.5,250.7,18.9,134.6,219.3,22.2,0.971,-1,AwayTeam
+2019,12,JacksonvilleJaguars,Tennessee Titans,0.4,119.27,250.82,19.0,142.27,222.27,24.0,0.971,0,AwayTeam
+2019,13,JacksonvilleJaguars,Tampa Bay Buccaneers,0.364,113.42,246.0,18.33,136.58,223.83,24.33,0.971,-3,AwayTeam
+2019,14,JacksonvilleJaguars,Los Angeles Chargers,0.333,111.46,239.69,17.69,141.08,232.0,25.92,0.971,-3,AwayTeam
+2019,15,JacksonvilleJaguars,Oakland Raiders,0.308,109.0,235.79,17.86,140.14,232.29,25.21,0.971,-3,HomeTeam
+2019,16,JacksonvilleJaguars,Atlanta Falcons,0.357,109.4,231.6,17.47,139.8,242.33,25.13,0.971,-2,AwayTeam
+2019,17,JacksonvilleJaguars,Indianapolis Colts,0.333,106.75,235.0,18.75,139.31,236.12,24.81,0.971,-1,HomeTeam
+2020,1,JacksonvilleJaguars,Indianapolis Colts,0,91.0,150.0,27.0,88.0,357.0,20.0,0.72,2,HomeTeam
+2020,2,JacksonvilleJaguars,Tennessee Titans,1.0,128.0,232.5,28.5,105.5,294.0,26.5,0.72,0,AwayTeam
+2020,3,JacksonvilleJaguars,Miami Dolphins,0.5,109.33,237.0,23.33,116.33,248.0,28.0,0.72,-2,AwayTeam
+2020,4,JacksonvilleJaguars,Cincinnati Bengals,0.333,104.25,262.75,23.75,138.5,261.0,29.25,0.72,-2,AwayTeam
+2020,5,JacksonvilleJaguars,Houston Texans,0.25,98.4,268.0,21.8,136.6,280.2,29.4,0.72,-2,AwayTeam
+2020,6,JacksonvilleJaguars,Detroit Lions,0.2,89.33,261.83,20.83,143.83,270.67,30.17,0.72,-3,AwayTeam
+2020,7,JacksonvilleJaguars,Los Angeles Chargers,0.167,96.57,246.43,22.0,142.57,281.86,31.43,0.72,-4,AwayTeam
+2020,9,JacksonvilleJaguars,Houston Texans,0.143,98.88,251.62,22.38,138.12,280.0,30.88,0.72,-4,AwayTeam
+2020,10,JacksonvilleJaguars,Green Bay Packers,0.125,100.0,240.44,22.11,131.67,283.89,30.11,0.72,-3,AwayTeam
+2020,11,JacksonvilleJaguars,Pittsburgh Steelers,0.111,97.3,229.7,20.2,129.1,282.2,29.8,0.72,-6,AwayTeam
+2020,12,JacksonvilleJaguars,Cleveland Browns,0.1,101.18,230.18,20.64,136.18,279.45,29.55,0.72,-5,AwayTeam
+2020,13,JacksonvilleJaguars,Minnesota Vikings,0.091,103.08,233.17,20.92,136.92,279.08,29.33,0.72,-7,AwayTeam
+2020,14,JacksonvilleJaguars,Tennessee Titans,0.083,102.15,235.46,20.08,145.54,273.38,29.46,0.72,-7,AwayTeam
+2020,15,JacksonvilleJaguars,Baltimore Ravens,0.077,99.29,233.29,19.64,146.5,271.71,30.21,0.72,-7,AwayTeam
+2020,16,JacksonvilleJaguars,Chicago Bears,0.071,97.73,231.27,19.47,145.27,271.13,30.93,0.72,-8,AwayTeam
+2020,17,JacksonvilleJaguars,Indianapolis Colts,0.067,94.94,231.19,19.12,153.25,264.44,30.75,0.72,-8,AwayTeam
+2021,1,JacksonvilleJaguars,Houston Texans,0,76.0,319.0,21.0,160.0,289.0,37.0,0.778,-3,AwayTeam
+2021,2,JacksonvilleJaguars,Denver Broncos,0.0,75.5,216.5,17.0,128.0,295.5,30.0,0.778,-5,AwayTeam
+2021,3,JacksonvilleJaguars,Arizona Cardinals,0.0,103.33,211.67,17.67,115.67,302.33,30.33,0.778,-8,AwayTeam
+2021,4,JacksonvilleJaguars,Cincinnati Bengals,0.0,112.25,209.25,18.5,106.25,312.25,28.75,0.778,-8,AwayTeam
+2021,5,JacksonvilleJaguars,Tennessee Titans,0.0,129.4,218.6,18.6,121.8,286.6,30.4,0.778,-10,AwayTeam
+2021,6,JacksonvilleJaguars,Miami Dolphins,0.0,121.83,234.17,19.33,114.33,297.83,28.67,0.778,-10,HomeTeam
+2021,8,JacksonvilleJaguars,Seattle Seahawks,0.167,116.14,233.14,17.57,107.86,278.14,29.0,0.778,-11,AwayTeam
+2021,9,JacksonvilleJaguars,Buffalo Bills,0.143,111.5,221.38,16.5,103.38,272.0,26.12,0.778,-9,HomeTeam
+2021,10,JacksonvilleJaguars,Indianapolis Colts,0.25,119.0,213.67,16.56,106.0,260.44,25.78,0.778,-10,AwayTeam
+2021,11,JacksonvilleJaguars,San Francisco 49ers,0.222,112.5,206.9,15.9,112.5,250.6,26.2,0.778,-12,AwayTeam
+2021,12,JacksonvilleJaguars,Atlanta Falcons,0.2,115.09,207.73,15.73,115.82,244.45,25.73,0.778,-13,AwayTeam
+2021,13,JacksonvilleJaguars,Los Angeles Rams,0.182,110.58,201.75,15.0,116.83,248.25,26.67,0.778,-15,AwayTeam
+2021,14,JacksonvilleJaguars,Tennessee Titans,0.167,102.69,200.38,13.85,115.69,241.54,26.15,0.778,-19,AwayTeam
+2021,15,JacksonvilleJaguars,Houston Texans,0.154,103.0,199.57,14.0,112.79,239.0,26.43,0.778,-18,AwayTeam
+2021,16,JacksonvilleJaguars,New York Jets,0.143,104.93,203.07,14.47,123.47,229.73,26.4,0.778,-19,AwayTeam
+2021,17,JacksonvilleJaguars,New England Patriots,0.133,103.38,201.19,14.19,127.06,233.5,27.88,0.778,-22,AwayTeam
+2021,18,JacksonvilleJaguars,Indianapolis Colts,0.125,103.24,202.12,14.88,125.12,227.94,26.88,0.778,-20,HomeTeam
+2022,1,JacksonvilleJaguars,Washington Commanders,0,123.0,260.0,22.0,85.0,305.0,28.0,0.857,2,AwayTeam
+2022,2,JacksonvilleJaguars,Indianapolis Colts,0.0,109.5,247.5,23.0,69.5,234.5,14.0,0.857,5,HomeTeam
+2022,3,JacksonvilleJaguars,Los Angeles Chargers,0.5,123.33,252.33,28.0,55.0,251.67,12.67,0.857,7,HomeTeam
+2022,4,JacksonvilleJaguars,Philadelphia Eagles,0.667,110.25,226.25,26.25,93.75,236.5,16.75,0.857,3,AwayTeam
+2022,5,JacksonvilleJaguars,Houston Texans,0.5,115.4,238.2,22.2,98.2,215.6,16.0,0.857,1,AwayTeam
+2022,6,JacksonvilleJaguars,Indianapolis Colts,0.4,136.67,221.17,23.0,89.33,244.5,19.0,0.857,0,AwayTeam
+2022,7,JacksonvilleJaguars,New York Giants,0.333,137.43,233.86,22.14,110.29,238.14,19.57,0.857,-1,AwayTeam
+2022,8,JacksonvilleJaguars,Denver Broncos,0.286,144.12,218.88,21.5,109.12,237.12,19.75,0.857,-2,AwayTeam
+2022,9,JacksonvilleJaguars,Las Vegas Raiders,0.25,146.78,220.67,22.11,105.11,238.33,19.78,0.857,-2,HomeTeam
+2022,10,JacksonvilleJaguars,Kansas City Chiefs,0.333,139.6,222.6,21.6,110.1,247.6,20.5,0.857,1,AwayTeam
+2022,12,JacksonvilleJaguars,Baltimore Ravens,0.3,130.36,229.09,22.18,114.82,248.09,21.09,0.857,2,HomeTeam
+2022,13,JacksonvilleJaguars,Detroit Lions,0.364,127.42,224.25,21.5,113.58,255.5,22.67,0.857,1,AwayTeam
+2022,14,JacksonvilleJaguars,Tennessee Titans,0.333,122.23,235.31,22.62,115.38,253.31,22.62,0.857,5,HomeTeam
+2022,15,JacksonvilleJaguars,Dallas Cowboys,0.385,127.21,240.71,23.86,118.14,252.57,23.43,0.857,4,HomeTeam
+2022,16,JacksonvilleJaguars,New York Jets,0.429,128.53,239.2,23.53,114.67,246.47,22.07,0.857,5,HomeTeam
+2022,17,JacksonvilleJaguars,Houston Texans,0.467,131.06,234.75,24.0,112.75,243.12,20.88,0.857,4,HomeTeam
+2022,18,JacksonvilleJaguars,Tennessee Titans,0.5,124.47,232.88,23.76,114.76,238.53,20.59,0.857,5,HomeTeam
+2023,1,JacksonvilleJaguars,Indianapolis Colts,0,105.0,237.0,31.0,65.0,215.0,21.0,0.811,1,HomeTeam
+2023,2,JacksonvilleJaguars,Kansas City Chiefs,1.0,89.5,217.0,20.0,83.0,256.5,19.0,0.811,3,AwayTeam
+2023,3,JacksonvilleJaguars,Houston Texans,0.5,98.33,240.67,19.0,84.0,264.33,25.0,0.811,1,AwayTeam
+2023,4,JacksonvilleJaguars,Atlanta Falcons,0.333,100.0,229.25,20.0,94.75,238.25,20.5,0.811,4,HomeTeam
+2023,5,JacksonvilleJaguars,Buffalo Bills,0.5,119.2,239.0,21.0,81.6,262.4,20.4,0.811,4,HomeTeam
+2023,6,JacksonvilleJaguars,Indianapolis Colts,0.6,113.5,223.83,23.67,75.33,270.33,20.33,0.811,7,HomeTeam
+2023,7,JacksonvilleJaguars,New Orleans Saints,0.667,113.43,222.86,24.71,80.57,273.86,20.86,0.811,6,HomeTeam
+2023,8,JacksonvilleJaguars,Pittsburgh Steelers,0.714,112.5,228.88,24.12,79.25,263.5,19.5,0.811,5,HomeTeam
+2023,10,JacksonvilleJaguars,San Francisco 49ers,0.75,106.56,221.44,21.78,86.44,266.78,21.11,0.811,1,AwayTeam
+2023,11,JacksonvilleJaguars,Tennessee Titans,0.667,108.7,225.4,23.0,87.0,254.4,20.4,0.811,3,HomeTeam
+2023,12,JacksonvilleJaguars,Houston Texans,0.7,106.18,238.0,23.09,87.36,255.0,20.45,0.811,2,HomeTeam
+2023,13,JacksonvilleJaguars,Cincinnati Bengals,0.727,103.25,243.58,23.75,93.08,261.67,21.58,0.811,3,AwayTeam
+2023,14,JacksonvilleJaguars,Cleveland Browns,0.667,99.77,242.92,24.0,92.23,265.15,22.31,0.811,2,AwayTeam
+2023,15,JacksonvilleJaguars,Baltimore Ravens,0.615,98.0,244.0,22.79,103.57,256.57,22.36,0.811,1,AwayTeam
+2023,16,JacksonvilleJaguars,Tampa Bay Buccaneers,0.571,93.93,245.6,22.07,101.33,257.13,22.87,0.811,-3,AwayTeam
+2023,17,JacksonvilleJaguars,Carolina Panthers,0.533,97.75,240.38,22.31,98.56,245.25,21.44,0.811,-2,HomeTeam
+2023,18,JacksonvilleJaguars,Tennessee Titans,0.562,96.82,242.71,22.18,103.06,239.76,21.82,0.811,-3,AwayTeam
+2024,1,JacksonvilleJaguars,Miami Dolphins,0,128.0,139.0,17.0,81.0,319.0,20.0,0.938,-1,AwayTeam
+2024,2,JacksonvilleJaguars,Cleveland Browns,0.0,127.5,167.5,15.0,103.0,245.5,19.0,0.938,-1,AwayTeam
+2024,3,JacksonvilleJaguars,Buffalo Bills,0.0,115.67,160.67,13.33,109.33,252.33,28.33,0.938,-3,AwayTeam
+2024,4,JacksonvilleJaguars,Houston Texans,0.0,126.25,159.25,15.0,107.25,272.75,27.25,0.938,-2,AwayTeam
+2024,5,JacksonvilleJaguars,Indianapolis Colts,0.0,126.2,201.6,19.4,105.6,287.8,28.6,0.938,-3,HomeTeam
+2024,6,JacksonvilleJaguars,Chicago Bears,0.2,116.5,203.0,18.83,113.33,276.67,29.67,0.938,-4,AwayTeam
+2024,7,JacksonvilleJaguars,New England Patriots,0.167,124.29,201.57,20.71,102.57,273.86,27.71,0.938,-4,HomeTeam
+2024,8,JacksonvilleJaguars,Green Bay Packers,0.286,120.12,213.75,21.5,111.0,271.12,28.0,0.938,-5,AwayTeam
+2024,9,JacksonvilleJaguars,Philadelphia Eagles,0.25,113.44,207.22,21.67,125.0,264.33,28.0,0.938,-7,AwayTeam
+2024,10,JacksonvilleJaguars,Minnesota Vikings,0.222,107.7,195.2,20.2,129.4,261.2,26.4,0.938,-7,AwayTeam
+2024,11,JacksonvilleJaguars,Detroit Lions,0.2,101.64,189.18,18.91,135.45,278.27,28.73,0.938,-8,AwayTeam

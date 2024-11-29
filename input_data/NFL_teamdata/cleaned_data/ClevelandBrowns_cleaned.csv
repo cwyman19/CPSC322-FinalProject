@@ -1,0 +1,111 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,ClevelandBrowns,Pittsburgh Steelers,0,177.0,150.0,21.0,159.0,313.0,21.0,0.76,5,
+2018,2,ClevelandBrowns,New Orleans Saints,0,135.0,192.0,19.5,110.5,263.0,21.0,0.76,6,AwayTeam
+2018,3,ClevelandBrowns,New York Jets,0.0,134.33,191.33,20.0,109.33,229.0,19.67,0.76,9,HomeTeam
+2018,4,ClevelandBrowns,Oakland Raiders,0.5,152.75,213.25,25.5,116.75,278.25,26.0,0.76,7,AwayTeam
+2018,5,ClevelandBrowns,Baltimore Ravens,0.333,144.6,231.4,22.8,116.6,281.4,22.6,0.76,8,HomeTeam
+2018,6,ClevelandBrowns,Los Angeles Chargers,0.5,137.67,228.5,21.33,138.17,268.33,25.17,0.76,7,AwayTeam
+2018,7,ClevelandBrowns,Tampa Bay Buccaneers,0.4,135.0,222.43,21.57,134.71,278.86,25.29,0.76,10,AwayTeam
+2018,8,ClevelandBrowns,Pittsburgh Steelers,0.333,127.38,215.0,21.12,138.88,275.62,26.25,0.76,11,AwayTeam
+2018,9,ClevelandBrowns,Kansas City Chiefs,0.286,124.56,222.89,21.11,138.89,285.0,27.44,0.76,11,AwayTeam
+2018,10,ClevelandBrowns,Atlanta Falcons,0.25,133.2,222.2,21.8,132.1,287.6,26.3,0.76,12,HomeTeam
+2018,12,ClevelandBrowns,Cincinnati Bengals,0.333,128.73,225.45,23.0,131.82,283.55,25.73,0.76,14,HomeTeam
+2018,13,ClevelandBrowns,Houston Texans,0.4,120.58,239.75,22.17,136.42,276.33,26.0,0.76,10,AwayTeam
+2018,14,ClevelandBrowns,Carolina Panthers,0.364,120.23,239.15,22.46,133.31,277.92,25.54,0.76,9,HomeTeam
+2018,15,ClevelandBrowns,Denver Broncos,0.417,121.21,234.57,22.07,126.07,275.07,24.86,0.76,9,HomeTeam
+2018,16,ClevelandBrowns,Cincinnati Bengals,0.462,122.87,242.07,22.33,124.47,263.87,24.4,0.76,9,HomeTeam
+2018,17,ClevelandBrowns,Baltimore Ravens,0.5,118.31,250.44,22.44,135.19,257.81,24.5,0.76,7,AwayTeam
+2019,1,ClevelandBrowns,Tennessee Titans,0,102.0,244.0,13.0,123.0,216.0,43.0,0.862,-3,AwayTeam
+2019,2,ClevelandBrowns,New York Jets,0.0,86.0,274.5,18.0,108.0,192.5,23.0,0.862,-3,HomeTeam
+2019,3,ClevelandBrowns,Los Angeles Rams,0.5,89.0,241.33,16.33,102.0,213.0,22.0,0.862,-1,AwayTeam
+2019,4,ClevelandBrowns,Baltimore Ravens,0.333,115.0,265.25,22.25,119.75,215.25,22.75,0.862,1,HomeTeam
+2019,5,ClevelandBrowns,San Francisco 49ers,0.5,112.4,227.8,18.4,150.8,206.4,24.4,0.862,-3,AwayTeam
+2019,6,ClevelandBrowns,Seattle Seahawks,0.4,119.83,231.33,20.0,154.0,219.33,25.67,0.862,-6,AwayTeam
+2019,8,ClevelandBrowns,New England Patriots,0.333,125.43,219.86,19.0,143.29,222.14,25.86,0.862,-9,AwayTeam
+2019,9,ClevelandBrowns,Denver Broncos,0.286,121.0,225.0,19.0,141.25,216.25,25.62,0.862,-8,AwayTeam
+2019,10,ClevelandBrowns,Buffalo Bills,0.25,123.89,224.56,19.0,134.89,221.11,24.56,0.862,-8,HomeTeam
+2019,11,ClevelandBrowns,Pittsburgh Steelers,0.333,121.9,221.0,19.2,127.2,216.8,22.8,0.862,-4,HomeTeam
+2019,12,ClevelandBrowns,Miami Dolphins,0.4,124.18,230.0,21.18,124.0,214.55,22.91,0.862,-3,HomeTeam
+2019,13,ClevelandBrowns,Pittsburgh Steelers,0.455,122.67,225.25,20.5,124.0,213.25,22.67,0.862,-4,AwayTeam
+2019,14,ClevelandBrowns,Cincinnati Bengals,0.417,124.46,222.31,21.0,128.23,217.77,22.38,0.862,-5,HomeTeam
+2019,15,ClevelandBrowns,Arizona Cardinals,0.462,126.43,223.64,21.21,135.21,217.86,23.5,0.862,-6,AwayTeam
+2019,16,ClevelandBrowns,Baltimore Ravens,0.429,121.8,221.0,20.8,142.4,219.2,24.0,0.862,-6,AwayTeam
+2019,17,ClevelandBrowns,Cincinnati Bengals,0.4,118.81,222.12,20.94,144.69,216.88,24.56,0.862,-8,AwayTeam
+2020,1,ClevelandBrowns,Baltimore Ravens,0,138.0,168.0,6.0,111.0,270.0,38.0,0.792,-2,AwayTeam
+2020,2,ClevelandBrowns,Cincinnati Bengals,0.0,176.5,193.5,20.5,89.5,277.5,34.0,0.792,-2,HomeTeam
+2020,3,ClevelandBrowns,Washington Football Team,0.5,170.33,176.33,25.0,94.0,253.67,29.33,0.792,3,HomeTeam
+2020,4,ClevelandBrowns,Dallas Cowboys,0.667,204.5,182.5,31.0,91.75,310.5,31.5,0.792,6,HomeTeam
+2020,5,ClevelandBrowns,Indianapolis Colts,0.75,188.4,198.2,31.2,87.0,296.4,29.8,0.792,6,HomeTeam
+2020,6,ClevelandBrowns,Pittsburgh Steelers,0.8,169.5,189.33,27.17,94.0,271.67,31.17,0.792,4,AwayTeam
+2020,7,ClevelandBrowns,Cincinnati Bengals,0.667,157.0,207.43,28.57,92.14,288.14,31.57,0.792,5,HomeTeam
+2020,8,ClevelandBrowns,Las Vegas Raiders,0.714,150.0,196.75,25.75,106.75,264.62,29.62,0.792,4,AwayTeam
+2020,10,ClevelandBrowns,Houston Texans,0.625,159.0,188.78,24.0,104.89,252.22,27.11,0.792,4,HomeTeam
+2020,11,ClevelandBrowns,Philadelphia Eagles,0.667,156.8,188.6,23.8,105.0,247.9,26.1,0.792,6,HomeTeam
+2020,12,ClevelandBrowns,Jacksonville Jaguars,0.7,161.36,194.36,24.09,108.18,246.73,26.0,0.792,5,HomeTeam
+2020,13,ClevelandBrowns,Tennessee Titans,0.727,157.75,206.5,25.5,104.33,256.92,26.75,0.792,7,HomeTeam
+2020,14,ClevelandBrowns,Baltimore Ravens,0.75,156.23,217.92,26.77,114.08,249.0,28.31,0.792,6,AwayTeam
+2020,15,ClevelandBrowns,New York Giants,0.692,152.64,222.79,26.29,111.21,246.5,26.71,0.792,6,HomeTeam
+2020,16,ClevelandBrowns,New York Jets,0.714,145.47,224.87,25.6,112.53,243.53,26.47,0.792,4,AwayTeam
+2020,17,ClevelandBrowns,Pittsburgh Steelers,0.667,148.38,221.19,25.5,110.81,247.62,26.19,0.792,5,HomeTeam
+2021,1,ClevelandBrowns,Kansas City Chiefs,0,153.0,304.0,29.0,73.0,324.0,33.0,0.727,-2,AwayTeam
+2021,2,ClevelandBrowns,Houston Texans,0.0,154.5,251.5,30.0,77.5,272.0,27.0,0.727,-2,HomeTeam
+2021,3,ClevelandBrowns,Chicago Bears,0.5,174.67,235.33,28.67,67.0,181.67,20.0,0.727,-2,HomeTeam
+2021,4,ClevelandBrowns,Minnesota Vikings,0.667,177.0,212.25,25.0,66.5,183.75,16.75,0.727,-1,HomeTeam
+2021,5,ClevelandBrowns,Los Angeles Chargers,0.75,187.6,230.0,28.4,75.6,223.2,22.8,0.727,0,AwayTeam
+2021,6,ClevelandBrowns,Arizona Cardinals,0.6,168.5,227.83,26.0,87.0,220.67,25.17,0.727,-3,AwayTeam
+2021,7,ClevelandBrowns,Denver Broncos,0.5,170.43,223.0,24.71,80.43,215.14,23.57,0.727,-2,HomeTeam
+2021,8,ClevelandBrowns,Pittsburgh Steelers,0.571,161.12,221.38,22.88,84.75,220.12,22.5,0.727,-3,AwayTeam
+2021,9,ClevelandBrowns,Cincinnati Bengals,0.5,160.22,219.89,24.89,84.78,224.89,21.78,0.727,0,HomeTeam
+2021,10,ClevelandBrowns,New England Patriots,0.556,154.1,209.7,23.1,94.7,229.2,24.1,0.727,-1,AwayTeam
+2021,11,ClevelandBrowns,Detroit Lions,0.5,156.82,205.64,22.18,101.36,215.36,22.82,0.727,-1,HomeTeam
+2021,12,ClevelandBrowns,Baltimore Ravens,0.545,147.08,207.0,21.17,105.25,210.33,22.25,0.727,1,AwayTeam
+2021,14,ClevelandBrowns,Baltimore Ravens,0.5,143.46,205.69,21.38,106.23,215.0,22.23,0.727,2,HomeTeam
+2021,15,ClevelandBrowns,Las Vegas Raiders,0.538,139.57,201.5,20.86,105.64,216.07,21.79,0.727,4,AwayTeam
+2021,16,ClevelandBrowns,Green Bay Packers,0.5,144.87,200.67,20.93,105.87,215.13,21.93,0.727,0,AwayTeam
+2021,17,ClevelandBrowns,Pittsburgh Steelers,0.467,141.62,196.81,20.5,111.12,208.5,22.19,0.727,-1,AwayTeam
+2021,18,ClevelandBrowns,Cincinnati Bengals,0.438,145.35,195.29,20.53,109.24,202.29,21.82,0.727,-3,HomeTeam
+2022,1,ClevelandBrowns,Carolina Panthers,0,217.0,138.0,26.0,54.0,207.0,24.0,0.75,1,HomeTeam
+2022,2,ClevelandBrowns,New York Jets,1.0,200.5,179.5,28.0,73.5,258.0,27.5,0.75,1,AwayTeam
+2022,3,ClevelandBrowns,Pittsburgh Steelers,0.5,190.67,188.0,28.33,83.67,240.0,24.0,0.75,2,HomeTeam
+2022,4,ClevelandBrowns,Atlanta Falcons,0.667,187.25,197.5,26.25,113.25,212.75,23.75,0.75,1,AwayTeam
+2022,5,ClevelandBrowns,Los Angeles Chargers,0.5,192.4,204.0,26.6,138.2,215.6,25.0,0.75,0,AwayTeam
+2022,6,ClevelandBrowns,New England Patriots,0.4,172.0,213.0,24.67,131.5,229.83,27.17,0.75,-3,AwayTeam
+2022,7,ClevelandBrowns,Baltimore Ravens,0.333,163.57,214.43,24.0,135.57,210.43,26.57,0.75,-4,AwayTeam
+2022,8,ClevelandBrowns,Cincinnati Bengals,0.286,164.62,221.12,25.0,123.12,208.25,24.88,0.75,-4,HomeTeam
+2022,10,ClevelandBrowns,Miami Dolphins,0.375,158.78,217.11,24.11,131.11,218.0,26.44,0.75,-5,AwayTeam
+2022,11,ClevelandBrowns,Buffalo Bills,0.333,150.9,227.0,24.0,135.1,214.8,26.9,0.75,-6,AwayTeam
+2022,12,ClevelandBrowns,Tampa Bay Buccaneers,0.3,154.36,222.55,23.91,131.55,216.09,26.0,0.75,-7,HomeTeam
+2022,13,ClevelandBrowns,Houston Texans,0.364,156.0,214.83,24.17,127.42,214.83,25.0,0.75,-5,HomeTeam
+2022,14,ClevelandBrowns,Cincinnati Bengals,0.417,149.46,219.31,23.08,128.08,215.77,24.85,0.75,-5,AwayTeam
+2022,15,ClevelandBrowns,Baltimore Ravens,0.385,149.0,213.64,22.36,133.07,209.36,23.29,0.75,-3,HomeTeam
+2022,16,ClevelandBrowns,New Orleans Saints,0.429,147.33,207.73,21.53,134.33,201.53,22.87,0.75,-3,AwayTeam
+2022,17,ClevelandBrowns,Washington Commanders,0.4,147.25,204.44,21.69,134.44,196.69,22.06,0.75,0,HomeTeam
+2022,18,ClevelandBrowns,Pittsburgh Steelers,0.438,146.47,202.59,21.24,135.0,196.24,22.41,0.75,-1,AwayTeam
+2023,1,ClevelandBrowns,Cincinnati Bengals,0,206.0,144.0,24.0,75.0,67.0,3.0,0.919,-2,HomeTeam
+2023,2,ClevelandBrowns,Pittsburgh Steelers,1.0,202.0,177.0,23.0,65.0,133.5,14.5,0.919,-4,AwayTeam
+2023,3,ClevelandBrowns,Tennessee Titans,0.5,160.67,205.67,24.33,52.0,111.67,10.67,0.919,-5,HomeTeam
+2023,4,ClevelandBrowns,Baltimore Ravens,0.667,143.75,172.5,19.0,71.75,125.0,15.0,0.919,-7,AwayTeam
+2023,6,ClevelandBrowns,San Francisco 49ers,0.5,147.0,172.8,19.0,79.0,121.4,15.4,0.919,-8,HomeTeam
+2023,7,ClevelandBrowns,Indianapolis Colts,0.6,147.5,171.67,22.33,93.83,149.17,19.17,0.919,-6,HomeTeam
+2023,8,ClevelandBrowns,Seattle Seahawks,0.667,148.57,180.0,22.0,96.71,163.29,19.86,0.919,-7,AwayTeam
+2023,9,ClevelandBrowns,Arizona Cardinals,0.571,144.12,184.12,22.62,89.75,145.0,17.38,0.919,-4,HomeTeam
+2023,10,ClevelandBrowns,Baltimore Ravens,0.625,147.89,185.33,23.78,91.56,151.11,18.89,0.919,-4,HomeTeam
+2023,11,ClevelandBrowns,Pittsburgh Steelers,0.667,142.7,183.1,22.7,99.6,143.7,18.0,0.919,-5,HomeTeam
+2023,12,ClevelandBrowns,Denver Broncos,0.7,139.45,181.18,21.73,105.91,142.0,19.0,0.919,-7,AwayTeam
+2023,13,ClevelandBrowns,Los Angeles Rams,0.636,135.08,186.08,21.5,107.08,153.42,20.42,0.919,-8,AwayTeam
+2023,14,ClevelandBrowns,Jacksonville Jaguars,0.583,131.0,195.38,22.23,103.31,159.69,20.92,0.919,-7,HomeTeam
+2023,15,ClevelandBrowns,Chicago Bears,0.615,123.71,206.29,22.07,102.21,158.86,20.64,0.919,-7,HomeTeam
+2023,16,ClevelandBrowns,Houston Texans,0.643,119.07,216.8,23.0,100.2,160.13,20.73,0.919,-7,HomeTeam
+2023,17,ClevelandBrowns,New York Jets,0.667,119.56,222.06,23.88,100.62,165.94,20.69,0.919,-8,HomeTeam
+2023,18,ClevelandBrowns,Cincinnati Bengals,0.688,118.65,217.24,23.29,105.47,164.71,21.29,0.919,-9,AwayTeam
+2024,1,ClevelandBrowns,Dallas Cowboys,0,93.0,137.0,17.0,102.0,163.0,33.0,0.714,-2,AwayTeam
+2024,2,ClevelandBrowns,Jacksonville Jaguars,0.0,109.0,154.5,17.5,114.5,179.5,23.0,0.714,-2,HomeTeam
+2024,3,ClevelandBrowns,New York Giants,0.5,95.67,152.33,16.67,113.67,195.67,22.33,0.714,-2,AwayTeam
+2024,4,ClevelandBrowns,Las Vegas Raiders,0.333,94.75,151.5,16.5,123.25,175.75,21.75,0.714,-2,AwayTeam
+2024,5,ClevelandBrowns,Washington Commanders,0.25,96.6,142.8,15.8,141.6,184.4,24.2,0.714,-1,AwayTeam
+2024,6,ClevelandBrowns,Philadelphia Eagles,0.2,97.17,143.0,15.83,137.33,196.33,23.5,0.714,-1,AwayTeam
+2024,7,ClevelandBrowns,Cincinnati Bengals,0.167,94.29,159.57,15.57,126.14,191.71,23.14,0.714,-3,AwayTeam
+2024,8,ClevelandBrowns,Baltimore Ravens,0.143,92.5,179.75,17.25,125.88,200.62,23.25,0.714,-4,HomeTeam
+2024,9,ClevelandBrowns,Los Angeles Chargers,0.25,91.0,183.44,16.44,122.56,205.67,23.67,0.714,-7,AwayTeam
+2024,11,ClevelandBrowns,New Orleans Saints,0.222,88.5,202.8,16.2,131.7,211.0,24.8,0.714,-5,AwayTeam
+2024,12,ClevelandBrowns,Pittsburgh Steelers,0.2,88.18,204.27,16.91,130.64,214.36,24.27,0.714,-7,HomeTeam

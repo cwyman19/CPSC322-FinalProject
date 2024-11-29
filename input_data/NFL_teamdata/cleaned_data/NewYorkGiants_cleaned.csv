@@ -1,0 +1,110 @@
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,NewYorkGiants,Jacksonville Jaguars,0,114.0,210.0,15.0,137.0,168.0,20.0,0.97,-1,AwayTeam
+2018,2,NewYorkGiants,Dallas Cowboys,0.0,74.5,215.0,14.0,137.5,164.0,20.0,0.97,-2,AwayTeam
+2018,3,NewYorkGiants,Houston Texans,0.0,87.67,231.67,18.33,111.33,232.0,20.67,0.97,0,HomeTeam
+2018,4,NewYorkGiants,New Orleans Saints,0.333,82.0,232.25,18.25,126.0,228.75,23.75,0.97,-2,AwayTeam
+2018,5,NewYorkGiants,Carolina Panthers,0.25,75.6,262.2,20.8,124.4,229.4,25.6,0.97,-3,AwayTeam
+2018,6,NewYorkGiants,Philadelphia Eagles,0.2,87.5,260.83,19.5,121.67,236.33,27.0,0.97,-4,AwayTeam
+2018,7,NewYorkGiants,Atlanta Falcons,0.167,83.71,276.71,19.57,113.86,253.43,26.43,0.97,-3,AwayTeam
+2018,8,NewYorkGiants,Washington Redskins,0.143,77.88,275.38,18.75,122.38,244.0,25.62,0.97,-4,AwayTeam
+2018,10,NewYorkGiants,San Francisco 49ers,0.125,80.0,264.78,19.67,122.56,244.67,25.33,0.97,-2,HomeTeam
+2018,11,NewYorkGiants,Tampa Bay Buccaneers,0.222,88.3,257.9,21.5,125.4,256.1,26.3,0.97,2,HomeTeam
+2018,12,NewYorkGiants,Philadelphia Eagles,0.3,91.73,259.55,21.55,125.55,252.27,26.18,0.97,1,AwayTeam
+2018,13,NewYorkGiants,Chicago Bears,0.273,95.83,254.33,22.25,124.92,252.75,26.25,0.97,3,HomeTeam
+2018,14,NewYorkGiants,Washington Redskins,0.333,105.92,248.23,23.62,121.77,249.0,25.46,0.97,5,HomeTeam
+2018,15,NewYorkGiants,Tennessee Titans,0.385,101.71,245.71,21.93,128.43,237.36,24.86,0.97,3,AwayTeam
+2018,16,NewYorkGiants,Indianapolis Colts,0.357,100.47,249.93,22.27,123.13,245.07,25.07,0.97,3,AwayTeam
+2018,17,NewYorkGiants,Dallas Cowboys,0.333,103.12,252.94,23.06,118.62,252.75,25.75,0.97,2,AwayTeam
+2019,1,NewYorkGiants,Dallas Cowboys,0,151.0,319.0,17.0,89.0,405.0,35.0,0.706,-2,AwayTeam
+2019,2,NewYorkGiants,Buffalo Bills,0.0,140.0,280.0,15.5,120.0,321.0,31.5,0.706,-4,AwayTeam
+2019,3,NewYorkGiants,Tampa Bay Buccaneers,0.0,117.33,290.67,21.0,128.0,332.33,31.33,0.706,-5,HomeTeam
+2019,4,NewYorkGiants,Washington Redskins,0.333,129.0,274.25,21.75,109.75,279.5,24.25,0.706,-5,HomeTeam
+2019,5,NewYorkGiants,Minnesota Vikings,0.5,116.0,248.8,19.4,130.0,279.4,25.0,0.706,-5,AwayTeam
+2019,6,NewYorkGiants,New England Patriots,0.4,105.33,234.17,18.5,127.33,285.0,26.67,0.706,-7,AwayTeam
+2019,7,NewYorkGiants,Arizona Cardinals,0.333,105.57,223.0,18.86,131.43,257.0,26.71,0.706,-10,AwayTeam
+2019,8,NewYorkGiants,Detroit Lions,0.286,102.38,231.38,19.75,122.38,264.38,27.25,0.706,-9,AwayTeam
+2019,9,NewYorkGiants,Dallas Cowboys,0.25,102.11,224.67,19.56,127.89,263.56,28.33,0.706,-10,AwayTeam
+2019,10,NewYorkGiants,New York Jets,0.222,94.2,228.0,20.3,122.7,259.0,28.9,0.706,-12,AwayTeam
+2019,12,NewYorkGiants,Chicago Bears,0.2,95.55,219.45,19.73,117.45,260.0,28.0,0.706,-11,AwayTeam
+2019,13,NewYorkGiants,Green Bay Packers,0.182,95.5,221.17,19.17,114.25,258.58,28.25,0.706,-14,AwayTeam
+2019,14,NewYorkGiants,Philadelphia Eagles,0.167,93.77,218.15,19.0,114.54,261.77,27.85,0.706,-13,AwayTeam
+2019,15,NewYorkGiants,Miami Dolphins,0.154,96.93,222.14,20.21,115.07,261.79,27.29,0.706,-15,HomeTeam
+2019,16,NewYorkGiants,Washington Redskins,0.214,104.2,230.4,21.6,112.73,263.07,27.8,0.706,-15,HomeTeam
+2019,17,NewYorkGiants,Philadelphia Eagles,0.267,105.31,233.19,21.31,113.25,264.06,28.19,0.706,-17,AwayTeam
+2020,1,NewYorkGiants,Pittsburgh Steelers,0,29.0,262.0,16.0,141.0,208.0,26.0,0.969,-1,AwayTeam
+2020,2,NewYorkGiants,Chicago Bears,0.0,52.0,241.0,14.5,138.0,188.5,21.5,0.969,-1,AwayTeam
+2020,3,NewYorkGiants,San Francisco 49ers,0.0,56.67,215.67,12.67,123.0,234.67,26.33,0.969,-4,AwayTeam
+2020,4,NewYorkGiants,Los Angeles Rams,0.0,76.5,201.5,11.75,106.75,221.5,24.0,0.969,-4,AwayTeam
+2020,5,NewYorkGiants,Dallas Cowboys,0.0,79.0,203.4,16.2,110.6,232.4,26.6,0.969,-3,AwayTeam
+2020,6,NewYorkGiants,Washington Football Team,0.0,87.83,187.5,16.83,106.5,235.5,25.33,0.969,-2,HomeTeam
+2020,7,NewYorkGiants,Philadelphia Eagles,0.167,98.14,184.29,17.43,105.0,251.29,24.86,0.969,-4,AwayTeam
+2020,8,NewYorkGiants,Tampa Bay Buccaneers,0.143,98.5,193.25,18.12,102.0,252.75,24.88,0.969,-5,AwayTeam
+2020,9,NewYorkGiants,Washington Football Team,0.125,106.0,192.22,18.67,94.78,265.22,24.33,0.969,0,HomeTeam
+2020,10,NewYorkGiants,Philadelphia Eagles,0.222,110.5,196.1,19.5,100.9,257.7,23.6,0.969,0,HomeTeam
+2020,12,NewYorkGiants,Cincinnati Bengals,0.3,113.36,200.45,19.45,95.36,244.73,23.0,0.969,2,HomeTeam
+2020,13,NewYorkGiants,Seattle Seahawks,0.364,119.75,192.08,19.25,96.67,242.33,22.08,0.969,3,HomeTeam
+2020,14,NewYorkGiants,Arizona Cardinals,0.417,116.54,183.54,18.31,101.46,241.46,22.38,0.969,0,AwayTeam
+2020,15,NewYorkGiants,Cleveland Browns,0.385,113.5,185.71,17.43,101.79,244.64,22.21,0.969,0,AwayTeam
+2020,16,NewYorkGiants,Baltimore Ravens,0.357,109.53,187.67,17.13,111.6,240.53,22.53,0.969,1,AwayTeam
+2020,17,NewYorkGiants,Dallas Cowboys,0.333,110.5,189.12,17.5,111.38,237.94,22.31,0.969,0,HomeTeam
+2021,1,NewYorkGiants,Denver Broncos,0,60.0,254.0,13.0,165.0,255.0,27.0,0.879,0,AwayTeam
+2021,2,NewYorkGiants,Washington Football Team,0.0,111.5,241.0,21.0,126.0,287.5,28.5,0.879,1,AwayTeam
+2021,3,NewYorkGiants,Atlanta Falcons,0.0,107.67,242.67,18.67,107.0,267.33,24.67,0.879,1,AwayTeam
+2021,4,NewYorkGiants,New Orleans Saints,0.0,101.5,282.5,20.75,122.75,259.25,23.75,0.879,1,HomeTeam
+2021,5,NewYorkGiants,Dallas Cowboys,0.25,95.8,284.8,20.6,138.4,270.2,27.8,0.879,1,AwayTeam
+2021,6,NewYorkGiants,Los Angeles Rams,0.2,89.83,270.83,19.0,137.17,264.17,29.5,0.879,-1,AwayTeam
+2021,7,NewYorkGiants,Carolina Panthers,0.167,91.71,260.57,19.86,125.57,243.14,25.71,0.879,0,HomeTeam
+2021,8,NewYorkGiants,Kansas City Chiefs,0.286,89.25,256.5,19.5,123.25,245.38,25.0,0.879,1,AwayTeam
+2021,9,NewYorkGiants,Las Vegas Raiders,0.25,95.89,238.89,19.89,122.56,249.89,24.0,0.879,3,HomeTeam
+2021,11,NewYorkGiants,Tampa Bay Buccaneers,0.333,92.9,229.9,18.9,119.7,255.7,24.6,0.879,1,AwayTeam
+2021,12,NewYorkGiants,Philadelphia Eagles,0.3,90.82,226.64,18.36,127.73,243.73,23.0,0.879,5,HomeTeam
+2021,13,NewYorkGiants,Miami Dolphins,0.364,90.83,221.0,17.58,122.75,242.5,22.75,0.879,4,AwayTeam
+2021,14,NewYorkGiants,Los Angeles Chargers,0.333,94.23,217.92,17.85,125.0,244.69,23.85,0.879,2,AwayTeam
+2021,15,NewYorkGiants,Dallas Cowboys,0.308,96.36,215.07,17.0,125.0,241.71,23.64,0.879,-1,AwayTeam
+2021,16,NewYorkGiants,Philadelphia Eagles,0.286,95.53,207.93,16.53,125.33,238.53,24.33,0.879,-3,AwayTeam
+2021,17,NewYorkGiants,Chicago Bears,0.267,99.62,194.56,15.69,122.94,233.75,24.62,0.879,-5,AwayTeam
+2021,18,NewYorkGiants,Washington Football Team,0.25,99.29,188.0,15.18,129.0,225.82,24.47,0.879,-8,AwayTeam
+2022,1,NewYorkGiants,Tennessee Titans,0,238.0,156.0,21.0,93.0,266.0,20.0,0.906,-1,HomeTeam
+2022,2,NewYorkGiants,Carolina Panthers,1.0,170.5,159.0,20.0,119.5,197.5,18.0,0.906,1,HomeTeam
+2022,3,NewYorkGiants,Dallas Cowboys,1.0,169.33,162.33,18.67,138.33,203.33,19.67,0.906,0,AwayTeam
+2022,4,NewYorkGiants,Chicago Bears,0.667,192.5,139.5,19.0,141.0,191.25,17.75,0.906,1,HomeTeam
+2022,5,NewYorkGiants,Green Bay Packers,0.75,179.0,154.2,20.6,131.6,194.4,18.6,0.906,1,HomeTeam
+2022,6,NewYorkGiants,Baltimore Ravens,0.8,163.0,154.33,21.17,144.83,194.5,18.83,0.906,2,HomeTeam
+2022,7,NewYorkGiants,Jacksonville Jaguars,0.833,173.43,160.86,21.43,144.43,211.0,18.57,0.906,3,HomeTeam
+2022,8,NewYorkGiants,Seattle Seahawks,0.857,161.5,159.12,20.38,137.25,208.38,19.62,0.906,2,AwayTeam
+2022,10,NewYorkGiants,Houston Texans,0.75,164.78,161.0,20.78,133.22,217.0,19.22,0.906,4,HomeTeam
+2022,11,NewYorkGiants,Detroit Lions,0.778,157.2,177.3,20.5,135.9,211.8,20.4,0.906,1,AwayTeam
+2022,12,NewYorkGiants,Dallas Cowboys,0.7,151.09,180.27,20.45,138.91,216.27,21.09,0.906,3,AwayTeam
+2022,13,NewYorkGiants,Washington Commanders,0.636,149.67,180.42,20.42,141.08,218.75,21.0,0.906,3,
+2022,14,NewYorkGiants,Philadelphia Eagles,0.636,147.62,180.46,20.54,149.69,216.08,23.08,0.906,2,AwayTeam
+2022,15,NewYorkGiants,Washington Commanders,0.583,146.21,179.0,20.5,150.36,216.93,22.29,0.906,4,HomeTeam
+2022,16,NewYorkGiants,Minnesota Vikings,0.615,144.87,188.33,20.73,145.87,220.47,22.6,0.906,2,AwayTeam
+2022,17,NewYorkGiants,Indianapolis Colts,0.571,149.38,187.62,21.81,144.75,214.44,21.81,0.906,2,HomeTeam
+2022,18,NewYorkGiants,Philadelphia Eagles,0.6,148.18,185.71,21.47,144.18,214.0,21.82,0.906,3,AwayTeam
+2023,1,NewYorkGiants,Dallas Cowboys,0,108.0,63.0,0.0,122.0,143.0,40.0,0.71,-3,AwayTeam
+2023,2,NewYorkGiants,Arizona Cardinals,0.0,117.5,187.5,15.5,136.5,185.5,34.0,0.71,-4,HomeTeam
+2023,3,NewYorkGiants,San Francisco 49ers,0.5,88.0,165.33,14.33,138.0,223.67,32.67,0.71,-5,AwayTeam
+2023,4,NewYorkGiants,Seattle Seahawks,0.333,94.0,158.0,11.5,133.75,207.75,30.5,0.71,-8,AwayTeam
+2023,5,NewYorkGiants,Miami Dolphins,0.25,92.2,163.0,12.4,151.4,226.6,30.6,0.71,-5,AwayTeam
+2023,6,NewYorkGiants,Buffalo Bills,0.2,98.83,166.67,11.83,147.5,217.0,27.83,0.71,-3,AwayTeam
+2023,7,NewYorkGiants,Washington Commanders,0.167,99.86,178.57,12.14,137.29,214.14,24.86,0.71,-4,HomeTeam
+2023,8,NewYorkGiants,New York Jets,0.286,112.75,155.12,11.88,127.38,211.5,23.38,0.71,-2,AwayTeam
+2023,9,NewYorkGiants,Las Vegas Raiders,0.25,113.89,155.0,11.22,127.11,211.22,24.11,0.71,-4,AwayTeam
+2023,10,NewYorkGiants,Dallas Cowboys,0.222,113.6,145.6,11.8,131.2,237.3,26.6,0.71,-3,AwayTeam
+2023,11,NewYorkGiants,Washington Commanders,0.2,111.55,150.64,13.55,135.09,236.64,25.91,0.71,3,HomeTeam
+2023,12,NewYorkGiants,New England Patriots,0.273,107.08,151.58,13.25,136.08,228.25,24.33,0.71,5,HomeTeam
+2023,14,NewYorkGiants,Green Bay Packers,0.333,114.92,152.08,14.08,135.08,226.31,24.15,0.71,6,HomeTeam
+2023,15,NewYorkGiants,New Orleans Saints,0.385,111.0,150.71,13.5,131.64,225.07,24.14,0.71,6,AwayTeam
+2023,16,NewYorkGiants,Philadelphia Eagles,0.357,110.67,153.07,14.27,134.2,229.73,24.73,0.71,7,AwayTeam
+2023,17,NewYorkGiants,Los Angeles Rams,0.333,110.31,161.25,14.94,132.38,233.25,24.81,0.71,9,AwayTeam
+2023,18,NewYorkGiants,Philadelphia Eagles,0.312,110.24,169.76,15.65,132.41,229.29,23.94,0.71,12,HomeTeam
+2024,2,NewYorkGiants,Washington Commanders,0,129.0,175.0,18.0,215.0,210.0,21.0,0.81,-1,AwayTeam
+2024,3,NewYorkGiants,Cleveland Browns,0.0,120.5,201.5,19.5,142.0,179.0,18.0,0.81,-1,HomeTeam
+2024,4,NewYorkGiants,Dallas Cowboys,0.5,89.0,226.67,18.0,121.33,190.33,18.67,0.81,-2,AwayTeam
+2024,5,NewYorkGiants,Seattle Seahawks,0.333,110.5,231.25,20.75,116.5,200.5,19.0,0.81,-2,HomeTeam
+2024,6,NewYorkGiants,Cincinnati Bengals,0.5,112.2,223.0,18.0,117.4,197.0,18.6,0.81,-2,AwayTeam
+2024,7,NewYorkGiants,Philadelphia Eagles,0.4,106.17,193.0,15.5,142.67,175.83,20.17,0.81,-2,AwayTeam
+2024,8,NewYorkGiants,Pittsburgh Steelers,0.333,113.43,199.29,15.86,146.14,187.71,21.0,0.81,-3,AwayTeam
+2024,9,NewYorkGiants,Washington Commanders,0.286,119.75,194.62,16.62,146.5,190.38,21.75,0.81,-4,AwayTeam
+2024,10,NewYorkGiants,Carolina Panthers,0.25,125.0,192.44,16.67,151.11,182.33,21.56,0.81,-6,AwayTeam
+2024,12,NewYorkGiants,Tampa Bay Buccaneers,0.222,120.1,190.1,15.7,151.7,193.5,22.4,0.81,-6,AwayTeam
