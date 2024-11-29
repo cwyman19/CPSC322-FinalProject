@@ -1062,7 +1062,7 @@ def size_test_zero(test, labels, randomized_y, test_index, index_test, expected_
             expected_number[x] -= 1
             current_distribution[x] += 1
 
-def stratified_test_and_remainder_set(X, y, n_splits=5, random_state=None, shuffle=True):
+def stratified_kfold_split(X, y, n_splits=5, random_state=None, shuffle=False):
     """Split dataset into stratified cross-validation folds.
 
     Args:
@@ -1085,7 +1085,7 @@ def stratified_test_and_remainder_set(X, y, n_splits=5, random_state=None, shuff
     if shuffle:
         # Randomize the order of folds if shuffle is True
         randomize_in_place(folds, randomized_y)
-    print(folds)
+    print(randomized_y)
     # Create bins for stratified splitting
     bins = bin_sizes(n_splits, randomized_x)
     print(bins)
@@ -1095,38 +1095,84 @@ def stratified_test_and_remainder_set(X, y, n_splits=5, random_state=None, shuff
     all_tests = []
     previous_distribution = []
     current_distribution = []
-
-    for bin_values in bins:
-        print(bin_values)
-        
-        # Calculate expected distribution of classes in each bin
-        expected_number, current_distribution = distribution_values(distribution, bin_values[0])
-        
-        even_stratified_k_fold(test, folds, labels, index_test, randomized_y, expected_number, bin_values[0])
-        # Handle odd-sized bins to ensure balance
-        if bin_values[0] % 2 != 0:
-            for test_index in folds:
+    print(len(X))
+    test_size = round((len(X) * 0.33) + 1)
+    print(test_size)  
+    print(len(test))
+    previous_test_sizes = [] 
+    # Calculate expected distribution of classes in each bin
+    expected_number, current_distribution = distribution_values(distribution, test_size)
+    test_size = round((len(X) * 0.33) + 1)
+    even_stratified_k_fold(test, folds, labels, index_test, randomized_y, expected_number, test_size)
+    # Handle odd-sized bins to ensure balance
+    if test_size % 2 != 0:
+            print(test_size)
+            count = 0
+            for _ in range(test_size):
+                valid = True
+                while valid:
+                    current_random_index = np.random.randint(len(X), size=1)
+                    if current_random_index not in previous_test_sizes:
+                        valid = False
+                        previous_test_sizes.append(current_random_index)
+                
+                count = count + 1
+                pass
                 if len(test) == 0:
-                    size_test_zero(test, labels, randomized_y, test_index, index_test, expected_number, current_distribution)
-                elif check_add_value(index_test, bin_values[0], current_distribution, previous_distribution,
-                                             labels, randomized_y[test_index]) and test_index not in test:
-                    x = get_labels(labels, randomized_y[test_index])
+                    size_test_zero(test, labels, randomized_y, current_random_index[0], index_test, expected_number, current_distribution)
+                elif check_add_value(index_test, test_size, current_distribution, previous_distribution,
+                                             labels, randomized_y[current_random_index[0]]) and current_random_index not in test:
+                    x = get_labels(labels, randomized_y[current_random_index[0]])
                     if expected_number[x] > 1:
                         current_distribution[x] += 1
-                        test.append(test_index)
-                        index_test.append(test_index)
+                        test.append(current_random_index)
+                        index_test.append(current_random_index[0])
                         expected_number[x] -= 1
-                    elif 0 < expected_number[x] <= 1 and len(index_test) < bin_values[0]:
+                    elif 0 < expected_number[x] <= 1 and len(index_test) < test_size:
                         current_distribution[x] += 1
-                        test.append(test_index)
-                        index_test.append(test_index)
+                        test.append(current_random_index)
+                        index_test.append(current_random_index[0])
                 
             previous_distribution = current_distribution
-        all_tests.append(index_test)
-        index_test = []
-        expected_number = []
 
+    all_tests.append(index_test)
+    index_test = []
+    expected_number = []
     # Connect all test indices with their corresponding folds
+    print()
     rows = connects_all_values(all_tests, folds)
-    print(rows)
-    return rows
+    # print(rows)
+    for x in rows:
+        for y in x:
+            for z in range(len(y)):
+                y[z] = X[y[z]]
+    remainder = rows[0][0]
+    test_set = rows[0][1]
+    
+    return remainder, test_set
+
+def compute_random_subset(values, num_values):
+    values_copy = values[:] # shallow copy
+    np.random.shuffle(values_copy) # in place shuffle
+    return values_copy[:num_values]
+
+def compute_bootstrapped_sample(table):
+    n = round(len(table) * 0.63 + 1)
+    # np.random.randint(low, high) returns random integers from low (inclusive) to high (exclusive)
+    sampled_indexes = [np.random.randint(0, n) for _ in range(n)]
+    sample = [table[index] for index in sampled_indexes]
+    out_of_bag_indexes = [index for index in list(range(n)) if index not in sampled_indexes]
+    out_of_bag_sample = [table[index] for index in out_of_bag_indexes]
+    print("sample", len(sample))
+    return sample, out_of_bag_sample
+
+def create_bootstrap_samples(table, n_samples = 1):
+    boot_strapped_samples = []
+    out_of_bag_samples = []
+    for _ in range(n_samples):
+        sample, out_of_bag_sample= compute_bootstrapped_sample(table)
+        out_of_bag_samples.append(out_of_bag_sample)
+        boot_strapped_samples.append(sample)
+    return out_of_bag_samples, boot_strapped_samples
+
+
