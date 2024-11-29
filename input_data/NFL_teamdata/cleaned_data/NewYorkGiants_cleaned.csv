@@ -98,6 +98,7 @@ Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYard
 2023,16,NewYorkGiants,Philadelphia Eagles,0.357,110.67,153.07,14.27,134.2,229.73,24.73,0.71,7,AwayTeam
 2023,17,NewYorkGiants,Los Angeles Rams,0.333,110.31,161.25,14.94,132.38,233.25,24.81,0.71,9,AwayTeam
 2023,18,NewYorkGiants,Philadelphia Eagles,0.312,110.24,169.76,15.65,132.41,229.29,23.94,0.71,12,HomeTeam
+2024,1,NewYorkGiants,MinnesotaVikings,0,74.0,166.0,6.0,111.0,201.0,28.0,0.81,0.0,AwayTeam
 2024,2,NewYorkGiants,Washington Commanders,0,129.0,175.0,18.0,215.0,210.0,21.0,0.81,-1,AwayTeam
 2024,3,NewYorkGiants,Cleveland Browns,0.0,120.5,201.5,19.5,142.0,179.0,18.0,0.81,-1,HomeTeam
 2024,4,NewYorkGiants,Dallas Cowboys,0.5,89.0,226.67,18.0,121.33,190.33,18.67,0.81,-2,AwayTeam

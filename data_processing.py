@@ -14,32 +14,6 @@ import mysklearn.myutils as myutils
 import mysklearn.mypytable
 from mysklearn.mypytable import MyPyTable 
 
-'''
-my_bills_data = MyPyTable().load_from_file("input_data/NFL_teamdata/BuffaloBills_cleaned.csv")
-#my_bills_data.pretty_print()
-
-print(my_bills_data.column_names)
-#my_bills_data.column_names.append("Season")
-
-## adding season column
-
-season = 2018
-for row in range(len(my_bills_data.data)):
-    if my_bills_data.data[row][0] == "":
-        season += 1
-    else:
-        my_bills_data.data[row].append(season)
-
-# removing boxscore column and OT column
-season_index = my_bills_data.column_names.index("Season")
-my_bills_data.remove_column(season_index)
-
-my_bills_data.pretty_print()
-
-
-my_bills_data.save_to_file("input_data/NFL_teamdata/BuffaloBills_cleaned.csv")
-'''
-
 # Before running data-cleaning algorithm, change first TO to TOL and second TO to TOG (turnovers gained/lost)
 # Change second RushY to DRushY and PassY to DPassY
 # Change second Opp to OppScore
@@ -49,6 +23,7 @@ my_bills_data.save_to_file("input_data/NFL_teamdata/BuffaloBills_cleaned.csv")
 # FG% data not available week by week, so manually enter team FG% for whole season each season
 # Turning WinLoss Record in Win Percentage (float)
 
+'''
 #set to new team name each run
 teamname = "ArizonaCardinals"
 
@@ -147,5 +122,114 @@ for row in range(len(my_raw_data.data)):
 #my_cleaned_data.pretty_print()
 my_cleaned_data.save_to_file(f"input_data/NFL_teamdata/cleaned_data/{teamname}_cleaned.csv")
 
+'''
 
+
+my_raw_data = MyPyTable().load_from_file("input_data/NFL_regseason_data.csv")
+header = ['Season', 'Week', 'HomeTeam', 'AwayTeam', 'WinPercentage', 'RushYards', 'PassYards', 'Scoring', 
+          'RushYardsAllowed', 'PassYardsAllowed', 'DefenseScoringAllowed', 'KickingPercentage', 'TurnoverMargin', 'Winner']
+my_clean_data = MyPyTable(column_names=header)
+
+for row in range(len(my_raw_data.data)):
+    new_row = []
+    new_row.append(my_raw_data.data[row][my_raw_data.column_names.index("Season")])
+    new_row.append(my_raw_data.data[row][my_raw_data.column_names.index("Week")])
+
+    if my_raw_data.data[row][my_raw_data.column_names.index("Away")] == "@": # finding home and away teams
+        home_team = my_raw_data.data[row][my_raw_data.column_names.index("Loser/tie")]
+        away_team = my_raw_data.data[row][my_raw_data.column_names.index("Winner/tie")]
+        winner = "A"
+    else:
+        home_team = my_raw_data.data[row][my_raw_data.column_names.index("Winner/tie")]
+        away_team = my_raw_data.data[row][my_raw_data.column_names.index("Loser/tie")]
+        winner = "H"
+    
+    if (home_team == "Washington Redskins") or (home_team == "Washington Football Team"):
+        home_team = "Washington Commanders"
+    if (away_team == "Washington Redskins") or (away_team == "Washington Football Team"):
+        away_team = "Washington Commanders"
+    if home_team == "Oakland Raiders":
+        home_team = "Las Vegas Raiders"
+    if away_team == "Oakland Raiders":
+        away_team = "Las Vegas Raiders"
+    new_row.append(home_team)
+    new_row.append(away_team)
+
+    # finding who has the greater values of the following categories, and labeling them with H (home) or A (away)
+    home_team = home_team.replace(" ", "")
+    home_team_data = MyPyTable().load_from_file(f"input_data/NFL_teamdata/cleaned_data/{home_team}_cleaned.csv")
+    away_team = away_team.replace(" ", "")
+    away_team_data = MyPyTable().load_from_file(f"input_data/NFL_teamdata/cleaned_data/{away_team}_cleaned.csv")
+
+    home_team_game_data = [] # first finding the corresponding games from the team data files
+    for myrow in range(len(home_team_data.data)):
+        if (home_team_data.data[myrow][home_team_data.column_names.index("Season")] == new_row[0]) and (home_team_data.data[myrow][home_team_data.column_names.index("Week")] == new_row[1]):
+            home_team_game_data = home_team_data.data[myrow]
+    away_team_game_data = []
+    for myrow in range(len(away_team_data.data)):
+        if (away_team_data.data[myrow][away_team_data.column_names.index("Season")] == new_row[0]) and (away_team_data.data[myrow][away_team_data.column_names.index("Week")] == new_row[1]):
+            away_team_game_data = away_team_data.data[myrow]
+    
+    # Win percentage
+    print(home_team_game_data)
+    print(away_team_game_data)
+    if home_team_game_data[home_team_data.column_names.index("WinPercentage")] >= away_team_game_data[away_team_data.column_names.index("WinPercentage")]:
+        new_row.append("H") # home team has higher win percentage
+    else:
+        new_row.append("A")
+
+    # RushYards
+    if home_team_game_data[home_team_data.column_names.index("RushYards")] >= away_team_game_data[away_team_data.column_names.index("RushYards")]:
+        new_row.append("H") # home team has higher Rush Yards
+    else:
+        new_row.append("A")
+    
+    # PassYards
+    if home_team_game_data[home_team_data.column_names.index("PassYards")] >= away_team_game_data[away_team_data.column_names.index("PassYards")]:
+        new_row.append("H") # home team has higher Pass Yards
+    else:
+        new_row.append("A")
+
+    # Scoring
+    if home_team_game_data[home_team_data.column_names.index("Scoring")] >= away_team_game_data[away_team_data.column_names.index("Scoring")]:
+        new_row.append("H") # home team has higher Scoring
+    else:
+        new_row.append("A")
+    
+    # RushYardsAllowed
+    if home_team_game_data[home_team_data.column_names.index("RushYardsAllowed")] >= away_team_game_data[away_team_data.column_names.index("RushYardsAllowed")]:
+        new_row.append("H") # home team has higher Rush Yards Allowed
+    else:
+        new_row.append("A")
+    
+    # PassYardsAllowed
+    if home_team_game_data[home_team_data.column_names.index("PassYardsAllowed")] >= away_team_game_data[away_team_data.column_names.index("PassYardsAllowed")]:
+        new_row.append("H") # home team has higher Pass Yards Alowed
+    else:
+        new_row.append("A")
+
+    # Defense Scoring Allowed
+    if home_team_game_data[home_team_data.column_names.index("DefenseScoringAllowed")] >= away_team_game_data[away_team_data.column_names.index("DefenseScoringAllowed")]:
+        new_row.append("H") # home team has higher Defense Scoring Allowed
+    else:
+        new_row.append("A")
+
+    # KickingPercentage
+    if home_team_game_data[home_team_data.column_names.index("KickingPercentage")] >= away_team_game_data[away_team_data.column_names.index("KickingPercentage")]:
+        new_row.append("H") # home team has higher Kicking Percentage
+    else:
+        new_row.append("A")
+    
+    # Turnover Margin
+    if home_team_game_data[home_team_data.column_names.index("TurnoverMargin")] >= away_team_game_data[away_team_data.column_names.index("TurnoverMargin")]:
+        new_row.append("H") # home team has higher Turnover Margin
+    else:
+        new_row.append("A")
+
+    # Winner
+    new_row.append(winner)
+
+    my_clean_data.data.append(new_row)
+
+my_clean_data.save_to_file(f"input_data/NFL_regseason_data_clean.csv")
 

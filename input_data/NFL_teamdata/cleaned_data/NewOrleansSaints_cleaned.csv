@@ -35,6 +35,7 @@ Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYard
 2020,2,NewOrleansSaints,Las Vegas Raiders,1.0,97.0,250.5,29.0,101.0,242.5,28.5,0.821,3,AwayTeam
 2020,3,NewOrleansSaints,Green Bay Packers,0.5,105.33,258.67,29.33,100.0,252.0,31.33,0.821,2,AwayTeam
 2020,4,NewOrleansSaints,Detroit Lions,0.333,120.0,251.0,30.75,97.5,236.75,30.75,0.821,2,HomeTeam
+2020,5,NewOrleansSaints,LosAngelesChargers,0.5,115.0,233.16,30.6,100.2,237.2,30,0.821,1,HomeTeam
 2020,7,NewOrleansSaints,Carolina Panthers,0.5,123.6,256.2,30.0,85.4,238.6,29.4,0.821,1,HomeTeam
 2020,8,NewOrleansSaints,Chicago Bears,0.6,123.33,258.83,29.33,87.17,237.67,28.33,0.821,2,HomeTeam
 2020,9,NewOrleansSaints,Tampa Bay Buccaneers,0.667,125.43,262.14,30.57,75.86,230.29,24.71,0.821,3,HomeTeam

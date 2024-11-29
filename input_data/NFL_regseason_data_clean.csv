@@ -1,1 +1,1763 @@
-Season, Week, HomeTeam, AwayTeam, WinPercentage, RushYards, PassYards, Scoring, RushYardsAllowed, PassYardsAllowed, DefenseScoringAllowed, KickingPercentage, TurnoverMargin, Winner
+Season,Week,HomeTeam,AwayTeam,WinPercentage,RushYards,PassYards,Scoring,RushYardsAllowed,PassYardsAllowed,DefenseScoringAllowed,KickingPercentage,TurnoverMargin,Winner
+2018,1,Philadelphia Eagles,Atlanta Falcons,H,A,A,H,H,H,A,A,A,H
+2018,1,Baltimore Ravens,Buffalo Bills,H,A,A,H,H,H,A,H,H,H
+2018,1,Indianapolis Colts,Cincinnati Bengals,H,H,H,A,A,A,H,H,H,A
+2018,1,Cleveland Browns,Pittsburgh Steelers,H,H,A,H,A,H,H,H,H,A
+2018,1,New England Patriots,Houston Texans,H,A,H,H,H,A,A,A,A,H
+2018,1,New York Giants,Jacksonville Jaguars,H,A,H,A,H,A,H,H,A,A
+2018,1,Miami Dolphins,Tennessee Titans,H,H,H,H,A,A,A,H,H,H
+2018,1,Minnesota Vikings,San Francisco 49ers,H,A,A,H,H,H,A,A,H,H
+2018,1,New Orleans Saints,Tampa Bay Buccaneers,H,H,H,A,A,A,H,H,A,A
+2018,1,Los Angeles Chargers,Kansas City Chiefs,H,H,H,A,A,A,H,A,A,A
+2018,1,Carolina Panthers,Dallas Cowboys,H,A,H,A,H,A,H,H,H,H
+2018,1,Arizona Cardinals,Washington Commanders,H,H,A,H,A,H,A,A,A,A
+2018,1,Denver Broncos,Seattle Seahawks,H,A,H,H,H,A,A,A,H,H
+2018,1,Green Bay Packers,Chicago Bears,H,H,H,H,A,A,A,H,A,H
+2018,1,Detroit Lions,New York Jets,H,H,H,A,A,A,H,A,A,A
+2018,1,Las Vegas Raiders,Los Angeles Rams,H,H,H,A,A,A,H,H,A,A
+2018,2,Cincinnati Bengals,Baltimore Ravens,H,A,A,A,A,H,H,A,H,H
+2018,2,Atlanta Falcons,Carolina Panthers,A,A,H,H,A,H,H,H,H,H
+2018,2,Buffalo Bills,Los Angeles Chargers,H,H,A,A,A,H,H,A,A,A
+2018,2,New Orleans Saints,Cleveland Browns,H,H,H,H,A,H,H,H,A,H
+2018,2,Washington Commanders,Indianapolis Colts,H,A,H,A,H,A,A,H,H,A
+2018,2,Green Bay Packers,Minnesota Vikings,H,A,A,H,A,H,H,H,A,A
+2018,2,Tennessee Titans,Houston Texans,H,A,A,H,H,H,A,A,H,H
+2018,2,Pittsburgh Steelers,Kansas City Chiefs,A,H,H,A,A,A,A,A,A,A
+2018,2,New York Jets,Miami Dolphins,H,A,H,H,H,A,H,H,H,A
+2018,2,Tampa Bay Buccaneers,Philadelphia Eagles,H,H,H,H,H,H,H,A,H,H
+2018,2,Los Angeles Rams,Arizona Cardinals,H,A,H,H,H,A,H,H,H,H
+2018,2,San Francisco 49ers,Detroit Lions,H,A,A,H,A,H,A,H,A,H
+2018,2,Denver Broncos,Las Vegas Raiders,H,A,A,H,H,H,A,A,A,H
+2018,2,Jacksonville Jaguars,New England Patriots,H,H,H,H,H,A,A,H,H,H
+2018,2,Dallas Cowboys,New York Giants,H,A,A,H,H,H,A,A,H,H
+2018,2,Chicago Bears,Seattle Seahawks,H,A,A,H,H,A,A,A,H,H
+2018,3,Cleveland Browns,New York Jets,A,H,A,A,H,H,H,A,H,H
+2018,3,Atlanta Falcons,New Orleans Saints,H,H,A,A,A,A,A,H,H,A
+2018,3,Minnesota Vikings,Buffalo Bills,H,A,H,H,A,A,A,A,A,A
+2018,3,Carolina Panthers,Cincinnati Bengals,A,A,A,A,A,A,A,H,H,H
+2018,3,Philadelphia Eagles,Indianapolis Colts,H,A,H,A,H,H,A,A,A,H
+2018,3,Baltimore Ravens,Denver Broncos,A,H,H,H,A,A,A,H,A,H
+2018,3,Washington Commanders,Green Bay Packers,A,A,A,A,H,A,A,H,H,H
+2018,3,Houston Texans,New York Giants,H,A,H,H,H,H,H,A,A,A
+2018,3,Jacksonville Jaguars,Tennessee Titans,H,A,H,H,A,A,A,H,A,A
+2018,3,Kansas City Chiefs,San Francisco 49ers,H,A,H,H,A,H,H,A,H,H
+2018,3,Miami Dolphins,Las Vegas Raiders,H,H,A,H,H,H,A,H,H,H
+2018,3,Los Angeles Rams,Los Angeles Chargers,H,H,H,H,H,A,A,H,H,H
+2018,3,Arizona Cardinals,Chicago Bears,A,H,A,H,A,H,H,A,A,A
+2018,3,Seattle Seahawks,Dallas Cowboys,A,H,H,H,A,H,H,H,H,H
+2018,3,Detroit Lions,New England Patriots,A,H,H,H,H,A,H,H,A,H
+2018,3,Tampa Bay Buccaneers,Pittsburgh Steelers,H,A,H,H,H,H,H,H,H,A
+2018,4,Los Angeles Rams,Minnesota Vikings,H,A,H,H,H,A,A,H,H,H
+2018,4,Atlanta Falcons,Cincinnati Bengals,A,H,H,A,H,A,H,H,H,A
+2018,4,Green Bay Packers,Buffalo Bills,H,A,H,H,A,A,A,H,H,H
+2018,4,Chicago Bears,Tampa Bay Buccaneers,H,A,A,A,A,A,A,H,H,H
+2018,4,Indianapolis Colts,Houston Texans,H,H,A,A,A,A,A,A,H,A
+2018,4,Dallas Cowboys,Detroit Lions,H,A,A,A,H,H,A,A,A,H
+2018,4,Jacksonville Jaguars,New York Jets,H,A,H,A,H,A,A,A,A,H
+2018,4,New England Patriots,Miami Dolphins,A,A,H,H,H,A,A,A,A,H
+2018,4,Tennessee Titans,Philadelphia Eagles,H,A,A,A,A,A,A,H,H,H
+2018,4,Las Vegas Raiders,Cleveland Browns,A,A,H,A,H,A,H,H,A,H
+2018,4,Arizona Cardinals,Seattle Seahawks,A,H,A,H,H,H,H,A,A,A
+2018,4,New York Giants,New Orleans Saints,A,H,A,A,A,A,A,H,H,A
+2018,4,Los Angeles Chargers,San Francisco 49ers,H,A,H,H,H,A,H,A,H,H
+2018,4,Pittsburgh Steelers,Baltimore Ravens,A,A,H,A,A,H,H,A,A,A
+2018,4,Denver Broncos,Kansas City Chiefs,A,H,A,A,H,A,A,A,A,A
+2018,5,New England Patriots,Indianapolis Colts,H,A,A,H,H,A,A,A,H,H
+2018,5,Carolina Panthers,New York Giants,H,A,A,H,H,H,A,A,H,H
+2018,5,Pittsburgh Steelers,Atlanta Falcons,H,A,H,H,A,H,A,A,A,H
+2018,5,Buffalo Bills,Tennessee Titans,A,H,A,A,H,H,H,A,H,H
+2018,5,Cincinnati Bengals,Miami Dolphins,H,A,H,H,H,H,H,A,A,H
+2018,5,Cleveland Browns,Baltimore Ravens,A,A,A,A,A,H,H,A,H,H
+2018,5,New York Jets,Denver Broncos,A,A,A,H,A,H,A,H,H,H
+2018,5,Detroit Lions,Green Bay Packers,A,H,A,H,H,H,H,H,A,H
+2018,5,Kansas City Chiefs,Jacksonville Jaguars,H,H,H,H,H,H,H,H,H,H
+2018,5,Los Angeles Chargers,Las Vegas Raiders,H,A,A,H,H,A,A,A,H,H
+2018,5,San Francisco 49ers,Arizona Cardinals,H,A,H,H,H,H,H,H,A,A
+2018,5,Philadelphia Eagles,Minnesota Vikings,H,A,A,A,A,A,A,H,H,A
+2018,5,Seattle Seahawks,Los Angeles Rams,A,A,A,A,H,A,H,A,H,A
+2018,5,Houston Texans,Dallas Cowboys,A,A,H,H,A,H,H,H,A,H
+2018,5,New Orleans Saints,Washington Commanders,H,A,H,H,A,H,H,H,A,H
+2018,6,New York Giants,Philadelphia Eagles,A,H,H,A,A,A,H,H,H,A
+2018,6,Washington Commanders,Carolina Panthers,A,A,H,A,H,A,A,A,H,H
+2018,6,Miami Dolphins,Chicago Bears,A,A,A,A,A,H,H,H,A,H
+2018,6,Atlanta Falcons,Tampa Bay Buccaneers,A,H,A,A,A,A,A,H,H,H
+2018,6,Houston Texans,Buffalo Bills,H,A,H,H,H,H,A,H,A,H
+2018,6,Cincinnati Bengals,Pittsburgh Steelers,H,H,A,H,A,H,H,H,H,A
+2018,6,Cleveland Browns,Los Angeles Chargers,A,H,A,A,A,H,H,A,H,A
+2018,6,New York Jets,Indianapolis Colts,H,A,A,H,H,A,A,H,H,H
+2018,6,Minnesota Vikings,Arizona Cardinals,H,H,H,H,H,H,H,A,A,H
+2018,6,Las Vegas Raiders,Seattle Seahawks,A,H,H,A,H,H,H,H,A,A
+2018,6,Denver Broncos,Los Angeles Rams,A,A,A,A,A,A,H,A,A,A
+2018,6,Dallas Cowboys,Jacksonville Jaguars,A,H,A,H,H,H,A,A,H,H
+2018,6,Tennessee Titans,Baltimore Ravens,H,A,A,A,A,H,H,A,H,A
+2018,6,New England Patriots,Kansas City Chiefs,A,H,A,A,A,A,A,A,A,H
+2018,6,Green Bay Packers,San Francisco 49ers,H,A,H,H,A,A,A,A,H,H
+2018,7,Arizona Cardinals,Denver Broncos,A,H,A,A,H,H,H,A,A,A
+2018,7,Los Angeles Chargers,Tennessee Titans,H,H,H,H,A,H,H,A,H,H
+2018,7,Philadelphia Eagles,Carolina Panthers,A,A,H,A,A,H,A,A,A,A
+2018,7,Chicago Bears,New England Patriots,A,H,A,A,H,A,A,A,H,A
+2018,7,Miami Dolphins,Detroit Lions,H,A,A,A,A,H,A,H,H,A
+2018,7,Indianapolis Colts,Buffalo Bills,A,A,H,H,H,H,H,H,H,H
+2018,7,Tampa Bay Buccaneers,Cleveland Browns,H,H,H,H,H,H,H,A,A,H
+2018,7,Jacksonville Jaguars,Houston Texans,H,H,A,A,A,A,H,H,A,A
+2018,7,New York Jets,Minnesota Vikings,A,A,A,H,A,H,H,H,A,A
+2018,7,Baltimore Ravens,New Orleans Saints,A,H,A,A,H,A,A,A,H,A
+2018,7,Washington Commanders,Dallas Cowboys,H,A,H,H,A,H,H,H,H,H
+2018,7,San Francisco 49ers,Los Angeles Rams,A,A,A,A,H,H,H,H,A,A
+2018,7,Kansas City Chiefs,Cincinnati Bengals,H,A,H,H,A,H,A,H,H,H
+2018,7,Atlanta Falcons,New York Giants,H,A,H,H,A,H,H,A,H,H
+2018,8,Houston Texans,Miami Dolphins,H,H,H,H,H,A,A,A,H,H
+2018,8,Jacksonville Jaguars,Philadelphia Eagles,H,H,A,A,A,A,H,H,A,A
+2018,8,Carolina Panthers,Baltimore Ravens,H,A,A,H,A,H,H,H,H,H
+2018,8,Chicago Bears,New York Jets,H,H,H,H,H,A,A,A,H,H
+2018,8,Detroit Lions,Seattle Seahawks,H,A,H,H,H,H,H,H,A,A
+2018,8,Cincinnati Bengals,Tampa Bay Buccaneers,H,H,A,A,A,H,A,H,H,H
+2018,8,Pittsburgh Steelers,Cleveland Browns,H,A,H,H,H,A,A,A,A,H
+2018,8,Kansas City Chiefs,Denver Broncos,H,A,H,H,A,H,H,H,H,H
+2018,8,New York Giants,Washington Commanders,A,H,H,A,A,H,H,H,A,A
+2018,8,Las Vegas Raiders,Indianapolis Colts,A,H,H,A,H,H,H,A,A,A
+2018,8,Los Angeles Rams,Green Bay Packers,H,H,A,H,A,H,A,H,H,H
+2018,8,Arizona Cardinals,San Francisco 49ers,H,H,A,A,H,A,A,A,H,H
+2018,8,Minnesota Vikings,New Orleans Saints,A,H,H,A,H,A,A,A,H,A
+2018,8,Buffalo Bills,New England Patriots,A,H,A,A,H,A,H,A,A,A
+2018,9,San Francisco 49ers,Las Vegas Raiders,A,A,A,H,A,A,A,H,A,H
+2018,9,Washington Commanders,Atlanta Falcons,H,A,A,A,H,A,A,A,H,A
+2018,9,Carolina Panthers,Tampa Bay Buccaneers,H,A,A,A,H,A,A,H,H,H
+2018,9,Minnesota Vikings,Detroit Lions,H,H,H,H,H,H,A,A,H,H
+2018,9,Baltimore Ravens,Pittsburgh Steelers,A,H,A,A,H,A,A,H,H,A
+2018,9,Buffalo Bills,Chicago Bears,A,H,A,A,A,A,H,H,A,A
+2018,9,Cleveland Browns,Kansas City Chiefs,A,H,A,A,H,A,H,A,A,A
+2018,9,Miami Dolphins,New York Jets,H,A,H,A,H,H,H,A,H,H
+2018,9,Seattle Seahawks,Los Angeles Chargers,A,H,A,A,H,A,A,A,H,A
+2018,9,Denver Broncos,Houston Texans,A,H,H,A,A,A,H,A,A,A
+2018,9,New Orleans Saints,Los Angeles Rams,A,A,A,H,H,H,H,H,A,H
+2018,9,New England Patriots,Green Bay Packers,H,H,A,H,A,H,A,H,H,H
+2018,9,Dallas Cowboys,Tennessee Titans,H,H,H,H,H,A,H,A,H,A
+2018,10,Pittsburgh Steelers,Carolina Panthers,A,A,H,H,A,A,A,A,A,H
+2018,10,Cleveland Browns,Atlanta Falcons,A,A,A,A,H,A,A,A,A,H
+2018,10,Chicago Bears,Detroit Lions,H,H,A,H,H,H,A,A,H,H
+2018,10,Cincinnati Bengals,New Orleans Saints,A,H,A,A,A,H,H,A,H,A
+2018,10,Indianapolis Colts,Jacksonville Jaguars,H,A,H,H,A,H,H,A,H,H
+2018,10,Kansas City Chiefs,Arizona Cardinals,H,A,H,H,A,H,A,H,H,H
+2018,10,Tampa Bay Buccaneers,Washington Commanders,A,H,H,H,A,H,H,A,A,A
+2018,10,New York Jets,Buffalo Bills,H,A,H,H,A,H,H,H,H,A
+2018,10,Tennessee Titans,New England Patriots,A,H,A,A,H,A,A,H,A,H
+2018,10,Las Vegas Raiders,Los Angeles Chargers,A,H,A,A,H,H,H,H,A,A
+2018,10,Green Bay Packers,Miami Dolphins,A,H,H,H,A,A,A,A,A,H
+2018,10,Los Angeles Rams,Seattle Seahawks,H,A,H,H,H,H,H,H,H,H
+2018,10,Philadelphia Eagles,Dallas Cowboys,H,A,H,H,A,H,H,H,H,A
+2018,10,San Francisco 49ers,New York Giants,H,A,A,H,A,A,H,H,A,A
+2018,11,Seattle Seahawks,Green Bay Packers,A,H,A,A,A,H,A,H,H,H
+2018,11,Atlanta Falcons,Dallas Cowboys,H,H,H,H,A,H,H,H,H,A
+2018,11,Detroit Lions,Carolina Panthers,A,A,H,A,A,A,H,A,A,H
+2018,11,Baltimore Ravens,Cincinnati Bengals,A,A,H,A,H,A,A,H,A,H
+2018,11,Indianapolis Colts,Tennessee Titans,A,H,H,H,H,H,H,A,H,H
+2018,11,Washington Commanders,Houston Texans,H,A,A,A,A,H,A,H,A,A
+2018,11,Jacksonville Jaguars,Pittsburgh Steelers,A,A,A,A,A,A,A,H,H,A
+2018,11,New York Giants,Tampa Bay Buccaneers,A,A,A,A,H,A,A,H,H,H
+2018,11,Arizona Cardinals,Las Vegas Raiders,H,H,A,A,A,A,A,A,H,A
+2018,11,Los Angeles Chargers,Denver Broncos,H,A,H,H,A,A,A,H,H,A
+2018,11,New Orleans Saints,Philadelphia Eagles,H,A,H,H,H,H,H,H,H,H
+2018,11,Chicago Bears,Minnesota Vikings,H,A,A,H,A,H,A,H,H,H
+2018,11,Los Angeles Rams,Kansas City Chiefs,H,H,A,A,H,A,A,A,A,H
+2018,12,Detroit Lions,Chicago Bears,A,A,H,A,A,H,H,H,A,A
+2018,12,Dallas Cowboys,Washington Commanders,A,H,A,H,H,A,A,A,A,H
+2018,12,New Orleans Saints,Atlanta Falcons,H,A,A,H,H,H,A,A,H,H
+2018,12,Buffalo Bills,Jacksonville Jaguars,H,A,A,A,A,A,H,A,H,H
+2018,12,Carolina Panthers,Seattle Seahawks,H,A,H,H,H,H,H,H,A,A
+2018,12,Cincinnati Bengals,Cleveland Browns,H,H,H,H,H,H,H,H,A,A
+2018,12,New York Jets,New England Patriots,A,A,A,A,H,A,H,H,A,A
+2018,12,Philadelphia Eagles,New York Giants,H,A,A,A,A,H,A,A,A,H
+2018,12,Baltimore Ravens,Las Vegas Raiders,H,A,H,H,H,A,A,H,H,H
+2018,12,Tampa Bay Buccaneers,San Francisco 49ers,H,H,H,H,H,H,H,A,H,H
+2018,12,Los Angeles Chargers,Arizona Cardinals,H,A,H,H,A,H,A,H,H,H
+2018,12,Indianapolis Colts,Miami Dolphins,H,H,H,H,A,A,A,A,A,H
+2018,12,Denver Broncos,Pittsburgh Steelers,A,A,A,A,H,H,H,H,H,H
+2018,12,Minnesota Vikings,Green Bay Packers,H,H,H,H,H,A,A,A,H,H
+2018,12,Houston Texans,Tennessee Titans,H,H,H,H,H,H,A,H,H,H
+2018,13,Dallas Cowboys,New Orleans Saints,A,H,A,A,H,A,A,A,A,H
+2018,13,Atlanta Falcons,Baltimore Ravens,A,H,H,A,A,H,H,H,A,A
+2018,13,Miami Dolphins,Buffalo Bills,H,A,H,H,H,H,H,H,H,H
+2018,13,Tampa Bay Buccaneers,Carolina Panthers,A,H,H,H,A,H,H,A,A,H
+2018,13,New York Giants,Chicago Bears,A,H,H,A,A,H,H,H,H,H
+2018,13,Cincinnati Bengals,Denver Broncos,H,H,H,H,H,H,H,H,A,A
+2018,13,Houston Texans,Cleveland Browns,H,H,A,H,H,A,A,H,H,H
+2018,13,Jacksonville Jaguars,Indianapolis Colts,A,H,A,A,H,A,A,H,A,H
+2018,13,Green Bay Packers,Arizona Cardinals,H,A,H,H,A,H,A,H,H,A
+2018,13,Detroit Lions,Los Angeles Rams,A,A,A,A,H,A,H,H,A,A
+2018,13,Las Vegas Raiders,Kansas City Chiefs,A,A,A,A,H,A,H,A,A,A
+2018,13,Tennessee Titans,New York Jets,H,H,H,A,A,A,A,A,A,H
+2018,13,New England Patriots,Minnesota Vikings,H,A,A,H,A,H,A,H,H,H
+2018,13,Seattle Seahawks,San Francisco 49ers,H,H,A,H,H,H,A,A,H,H
+2018,13,Pittsburgh Steelers,Los Angeles Chargers,A,H,H,H,A,A,H,A,A,A
+2018,13,Philadelphia Eagles,Washington Commanders,A,A,H,H,H,A,H,A,A,H
+2018,14,Tennessee Titans,Jacksonville Jaguars,H,H,A,H,A,H,A,A,H,H
+2018,14,Green Bay Packers,Atlanta Falcons,H,A,A,A,A,A,A,A,H,H
+2018,14,Buffalo Bills,New York Jets,H,H,A,A,A,A,A,A,H,A
+2018,14,Cleveland Browns,Carolina Panthers,A,A,A,A,A,H,H,A,H,H
+2018,14,Houston Texans,Indianapolis Colts,H,H,A,A,H,H,A,H,H,A
+2018,14,Kansas City Chiefs,Baltimore Ravens,H,A,H,H,A,H,H,A,H,H
+2018,14,Miami Dolphins,New England Patriots,A,A,A,A,H,H,H,H,H,H
+2018,14,Tampa Bay Buccaneers,New Orleans Saints,A,H,H,A,A,A,H,A,A,A
+2018,14,Washington Commanders,New York Giants,H,H,A,A,A,H,A,A,H,A
+2018,14,Los Angeles Chargers,Cincinnati Bengals,H,A,H,H,A,A,A,H,H,H
+2018,14,San Francisco 49ers,Denver Broncos,A,A,H,A,A,A,H,H,A,H
+2018,14,Arizona Cardinals,Detroit Lions,A,H,A,A,H,A,H,A,H,A
+2018,14,Dallas Cowboys,Philadelphia Eagles,H,A,A,A,H,A,A,A,H,H
+2018,14,Las Vegas Raiders,Pittsburgh Steelers,A,A,A,A,A,H,H,H,A,H
+2018,14,Chicago Bears,Los Angeles Rams,A,A,A,A,H,A,A,A,H,H
+2018,14,Seattle Seahawks,Minnesota Vikings,H,A,A,H,H,H,A,H,H,H
+2018,15,Kansas City Chiefs,Los Angeles Chargers,H,A,H,H,H,H,H,H,H,A
+2018,15,New York Jets,Houston Texans,A,A,A,A,A,A,H,H,A,A
+2018,15,Denver Broncos,Cleveland Browns,H,H,A,A,A,A,A,H,H,A
+2018,15,Atlanta Falcons,Arizona Cardinals,H,H,H,H,A,H,H,H,A,H
+2018,15,Buffalo Bills,Detroit Lions,A,H,A,A,A,A,H,A,H,H
+2018,15,Chicago Bears,Green Bay Packers,H,H,A,H,H,H,A,A,A,H
+2018,15,Cincinnati Bengals,Las Vegas Raiders,H,A,A,H,A,H,A,A,H,H
+2018,15,Indianapolis Colts,Dallas Cowboys,A,A,H,H,A,H,H,H,H,H
+2018,15,Jacksonville Jaguars,Washington Commanders,A,A,H,A,H,A,A,A,A,A
+2018,15,Minnesota Vikings,Miami Dolphins,A,H,H,H,A,A,A,A,A,H
+2018,15,New York Giants,Tennessee Titans,A,A,H,H,H,H,H,H,H,A
+2018,15,Baltimore Ravens,Tampa Bay Buccaneers,H,A,A,A,H,A,A,H,H,H
+2018,15,San Francisco 49ers,Seattle Seahawks,A,A,H,A,A,A,H,H,A,H
+2018,15,Pittsburgh Steelers,New England Patriots,A,H,H,H,H,A,H,A,A,H
+2018,15,Los Angeles Rams,Philadelphia Eagles,H,A,H,H,H,A,H,A,H,A
+2018,15,Carolina Panthers,New Orleans Saints,A,H,A,A,A,A,H,A,A,A
+2018,16,Tennessee Titans,Washington Commanders,H,H,A,H,A,A,A,A,A,H
+2018,16,Los Angeles Chargers,Baltimore Ravens,H,A,H,H,A,H,H,A,H,A
+2018,16,Carolina Panthers,Atlanta Falcons,H,A,A,A,A,A,A,A,A,A
+2018,16,New England Patriots,Buffalo Bills,H,H,H,H,A,H,A,H,H,H
+2018,16,Cleveland Browns,Cincinnati Bengals,H,H,H,A,A,A,A,A,H,H
+2018,16,Indianapolis Colts,New York Giants,H,H,H,H,A,A,A,A,A,H
+2018,16,Dallas Cowboys,Tampa Bay Buccaneers,H,A,A,A,H,A,A,H,H,H
+2018,16,Detroit Lions,Minnesota Vikings,A,A,A,A,H,H,H,H,A,A
+2018,16,New York Jets,Green Bay Packers,A,A,A,A,H,H,H,H,A,A
+2018,16,Philadelphia Eagles,Houston Texans,A,H,H,A,A,H,H,A,A,H
+2018,16,Miami Dolphins,Jacksonville Jaguars,H,A,A,H,H,H,H,H,H,A
+2018,16,San Francisco 49ers,Chicago Bears,A,H,H,A,A,H,H,H,A,A
+2018,16,Arizona Cardinals,Los Angeles Rams,A,H,A,A,H,A,H,A,A,A
+2018,16,New Orleans Saints,Pittsburgh Steelers,H,A,A,H,A,H,A,H,H,H
+2018,16,Seattle Seahawks,Kansas City Chiefs,A,H,A,A,A,A,A,A,A,H
+2018,16,Las Vegas Raiders,Denver Broncos,A,A,H,A,H,A,H,H,A,H
+2018,17,Tampa Bay Buccaneers,Atlanta Falcons,A,A,H,A,A,A,H,A,A,A
+2018,17,Buffalo Bills,Miami Dolphins,A,H,A,A,A,A,A,A,A,H
+2018,17,New Orleans Saints,Carolina Panthers,H,A,H,H,H,H,A,H,H,A
+2018,17,New York Giants,Dallas Cowboys,A,A,H,H,A,H,H,H,A,A
+2018,17,Green Bay Packers,Detroit Lions,H,H,H,H,H,H,H,A,H,A
+2018,17,Houston Texans,Jacksonville Jaguars,H,H,H,H,H,H,H,A,H,H
+2018,17,New England Patriots,New York Jets,H,H,H,H,A,A,A,A,H,H
+2018,17,Minnesota Vikings,Chicago Bears,A,H,H,A,A,A,H,A,A,A
+2018,17,Pittsburgh Steelers,Cincinnati Bengals,H,H,H,H,H,A,A,A,A,H
+2018,17,Baltimore Ravens,Cleveland Browns,H,H,A,H,H,A,A,H,A,H
+2018,17,Seattle Seahawks,Arizona Cardinals,H,A,H,H,A,H,A,H,H,H
+2018,17,Denver Broncos,Los Angeles Chargers,A,H,A,A,H,H,H,A,H,A
+2018,17,Kansas City Chiefs,Las Vegas Raiders,H,H,H,H,A,H,A,H,H,H
+2018,17,Washington Commanders,Philadelphia Eagles,A,A,A,A,A,A,H,H,H,A
+2018,17,Los Angeles Rams,San Francisco 49ers,H,H,H,H,H,H,A,A,H,H
+2018,17,Tennessee Titans,Indianapolis Colts,H,H,A,A,H,A,A,H,A,A
+2019,1,Chicago Bears,Green Bay Packers,H,A,H,H,H,A,A,A,A,A
+2019,1,Minnesota Vikings,Atlanta Falcons,H,A,H,H,H,A,A,H,H,H
+2019,1,New York Jets,Buffalo Bills,H,H,A,A,A,H,H,A,H,A
+2019,1,Carolina Panthers,Los Angeles Rams,H,A,H,A,H,A,H,H,A,A
+2019,1,Cleveland Browns,Tennessee Titans,H,A,H,A,H,A,H,H,A,A
+2019,1,Jacksonville Jaguars,Kansas City Chiefs,H,H,A,A,A,H,H,H,A,A
+2019,1,Miami Dolphins,Baltimore Ravens,H,A,A,A,H,H,H,A,A,A
+2019,1,Philadelphia Eagles,Washington Commanders,H,A,A,H,H,H,A,H,H,H
+2019,1,Seattle Seahawks,Cincinnati Bengals,H,H,A,H,A,H,A,A,H,H
+2019,1,Los Angeles Chargers,Indianapolis Colts,H,A,H,H,H,A,A,H,A,H
+2019,1,Arizona Cardinals,Detroit Lions,H,A,A,H,H,H,H,H,H,A
+2019,1,Dallas Cowboys,New York Giants,H,H,H,H,A,A,A,H,H,H
+2019,1,Tampa Bay Buccaneers,San Francisco 49ers,H,A,H,A,H,A,H,H,A,A
+2019,1,New England Patriots,Pittsburgh Steelers,H,H,H,H,A,A,A,A,H,H
+2019,1,New Orleans Saints,Houston Texans,H,A,H,H,H,A,A,H,H,H
+2019,1,Las Vegas Raiders,Denver Broncos,H,H,H,H,A,A,A,A,H,H
+2019,2,Carolina Panthers,Tampa Bay Buccaneers,H,H,H,H,A,A,H,H,H,A
+2019,2,New York Giants,Buffalo Bills,A,H,H,A,A,H,H,A,H,A
+2019,2,Cincinnati Bengals,San Francisco 49ers,A,H,H,A,A,H,H,H,A,A
+2019,2,Tennessee Titans,Indianapolis Colts,H,A,H,H,H,A,A,A,H,A
+2019,2,Baltimore Ravens,Arizona Cardinals,H,A,H,H,H,A,A,H,H,H
+2019,2,Washington Commanders,Dallas Cowboys,A,H,A,A,A,H,H,H,H,A
+2019,2,Detroit Lions,Los Angeles Chargers,A,A,H,H,A,H,H,H,A,H
+2019,2,Green Bay Packers,Minnesota Vikings,H,H,H,A,H,A,H,A,H,H
+2019,2,Houston Texans,Jacksonville Jaguars,H,A,A,H,H,H,A,A,H,H
+2019,2,Miami Dolphins,New England Patriots,A,H,A,H,A,H,H,A,A,A
+2019,2,Pittsburgh Steelers,Seattle Seahawks,A,H,H,A,A,H,H,H,A,A
+2019,2,Las Vegas Raiders,Kansas City Chiefs,H,A,A,A,H,H,H,A,A,A
+2019,2,Denver Broncos,Chicago Bears,H,A,H,A,A,A,H,H,A,A
+2019,2,Los Angeles Rams,New Orleans Saints,H,H,A,H,H,A,A,A,H,H
+2019,2,Atlanta Falcons,Philadelphia Eagles,A,A,H,A,A,A,A,A,A,H
+2019,2,New York Jets,Cleveland Browns,H,A,A,H,H,H,A,A,H,A
+2019,3,Jacksonville Jaguars,Tennessee Titans,A,H,H,A,A,H,H,H,A,H
+2019,3,Indianapolis Colts,Atlanta Falcons,H,A,A,H,H,H,A,A,H,H
+2019,3,Buffalo Bills,Cincinnati Bengals,H,A,A,H,H,A,A,A,H,H
+2019,3,Dallas Cowboys,Miami Dolphins,H,A,H,A,H,A,A,A,H,H
+2019,3,Green Bay Packers,Denver Broncos,H,H,A,H,H,A,A,H,H,H
+2019,3,Philadelphia Eagles,Detroit Lions,A,H,A,H,H,H,H,H,A,A
+2019,3,Kansas City Chiefs,Baltimore Ravens,H,H,H,A,A,A,H,A,H,H
+2019,3,Minnesota Vikings,Las Vegas Raiders,H,H,A,H,A,A,A,H,H,H
+2019,3,New England Patriots,New York Jets,H,H,H,H,A,A,H,H,A,H
+2019,3,Arizona Cardinals,Carolina Panthers,H,H,A,A,H,H,H,H,H,A
+2019,3,Tampa Bay Buccaneers,New York Giants,H,H,A,H,H,A,A,H,H,A
+2019,3,Los Angeles Chargers,Houston Texans,H,A,H,A,H,A,H,A,A,A
+2019,3,Seattle Seahawks,New Orleans Saints,H,A,H,H,H,A,A,A,H,A
+2019,3,San Francisco 49ers,Pittsburgh Steelers,H,A,H,H,H,A,A,A,A,H
+2019,3,Cleveland Browns,Los Angeles Rams,A,H,H,A,A,H,H,H,A,A
+2019,3,Washington Commanders,Chicago Bears,A,A,H,H,A,H,H,H,A,A
+2019,4,Green Bay Packers,Philadelphia Eagles,H,H,H,A,A,A,A,H,H,A
+2019,4,Atlanta Falcons,Tennessee Titans,H,H,H,A,H,A,H,H,A,A
+2019,4,Buffalo Bills,New England Patriots,H,A,A,A,H,H,A,A,A,A
+2019,4,Houston Texans,Carolina Panthers,H,H,A,A,A,H,A,H,H,A
+2019,4,Baltimore Ravens,Cleveland Browns,H,H,H,H,H,H,H,H,H,A
+2019,4,Indianapolis Colts,Las Vegas Raiders,H,H,H,H,H,A,H,A,H,A
+2019,4,Detroit Lions,Kansas City Chiefs,H,H,A,A,A,H,H,A,H,A
+2019,4,Miami Dolphins,Los Angeles Chargers,A,H,A,H,H,H,H,H,H,A
+2019,4,New York Giants,Washington Commanders,H,A,H,H,A,H,A,A,H,H
+2019,4,Arizona Cardinals,Seattle Seahawks,A,H,A,A,A,H,H,H,A,A
+2019,4,Los Angeles Rams,Tampa Bay Buccaneers,H,H,H,A,H,A,A,A,A,A
+2019,4,Chicago Bears,Minnesota Vikings,H,H,H,A,A,H,A,A,H,H
+2019,4,Denver Broncos,Jacksonville Jaguars,A,A,H,A,A,A,H,A,H,A
+2019,4,New Orleans Saints,Dallas Cowboys,A,A,A,A,A,H,H,H,H,H
+2019,4,Pittsburgh Steelers,Cincinnati Bengals,H,H,A,H,A,H,A,H,H,H
+2019,5,Seattle Seahawks,Los Angeles Rams,H,A,A,A,H,H,A,H,H,H
+2019,5,Philadelphia Eagles,New York Jets,H,A,H,A,A,H,A,H,H,H
+2019,5,Houston Texans,Atlanta Falcons,H,A,A,H,H,H,A,H,H,H
+2019,5,Tennessee Titans,Buffalo Bills,A,A,A,H,A,H,H,A,H,A
+2019,5,Carolina Panthers,Jacksonville Jaguars,H,H,A,H,A,A,A,A,H,H
+2019,5,Las Vegas Raiders,Chicago Bears,A,A,H,H,H,H,H,A,A,H
+2019,5,Cincinnati Bengals,Arizona Cardinals,H,H,H,A,H,A,A,A,H,A
+2019,5,New York Giants,Minnesota Vikings,H,A,H,A,A,H,H,A,A,A
+2019,5,New Orleans Saints,Tampa Bay Buccaneers,H,A,A,A,A,A,A,H,A,H
+2019,5,Washington Commanders,New England Patriots,A,A,A,A,A,H,A,H,A,A
+2019,5,Pittsburgh Steelers,Baltimore Ravens,A,H,A,A,A,A,A,A,H,A
+2019,5,Los Angeles Chargers,Denver Broncos,H,H,H,H,A,H,A,A,A,A
+2019,5,Dallas Cowboys,Green Bay Packers,H,A,H,H,A,A,A,A,A,A
+2019,5,Kansas City Chiefs,Indianapolis Colts,H,H,H,H,H,A,A,H,H,A
+2019,5,San Francisco 49ers,Cleveland Browns,H,H,A,H,H,A,A,A,H,H
+2019,6,New England Patriots,New York Giants,H,A,H,H,H,A,H,H,H,H
+2019,6,Tampa Bay Buccaneers,Carolina Panthers,A,H,H,H,H,H,H,A,A,A
+2019,6,Miami Dolphins,Washington Commanders,H,A,A,H,H,H,H,A,H,A
+2019,6,Baltimore Ravens,Cincinnati Bengals,H,A,A,H,H,H,A,H,H,H
+2019,6,Cleveland Browns,Seattle Seahawks,A,A,A,A,A,A,H,H,A,A
+2019,6,Kansas City Chiefs,Houston Texans,H,H,H,H,A,A,H,H,H,A
+2019,6,Jacksonville Jaguars,New Orleans Saints,A,H,A,A,H,H,H,H,A,A
+2019,6,Minnesota Vikings,Philadelphia Eagles,H,H,A,A,H,A,A,H,H,H
+2019,6,Arizona Cardinals,Atlanta Falcons,H,A,A,A,H,H,A,H,A,H
+2019,6,Los Angeles Rams,San Francisco 49ers,A,H,H,A,A,H,H,A,A,A
+2019,6,New York Jets,Dallas Cowboys,A,H,A,A,H,H,H,A,H,H
+2019,6,Denver Broncos,Tennessee Titans,A,H,H,H,H,A,H,H,A,H
+2019,6,Los Angeles Chargers,Pittsburgh Steelers,H,H,H,A,H,A,A,A,A,A
+2019,6,Green Bay Packers,Detroit Lions,H,A,A,A,A,A,A,H,A,H
+2019,7,Denver Broncos,Kansas City Chiefs,A,A,A,A,A,A,A,A,A,A
+2019,7,Buffalo Bills,Miami Dolphins,H,A,H,H,H,A,A,H,A,H
+2019,7,Indianapolis Colts,Houston Texans,A,A,A,A,A,A,A,A,H,H
+2019,7,Detroit Lions,Minnesota Vikings,A,A,H,A,A,H,H,A,H,A
+2019,7,Washington Commanders,San Francisco 49ers,A,H,A,A,A,H,H,H,A,A
+2019,7,Atlanta Falcons,Los Angeles Rams,A,A,H,A,A,H,H,H,A,A
+2019,7,Cincinnati Bengals,Jacksonville Jaguars,A,H,H,A,H,A,H,A,H,A
+2019,7,New York Giants,Arizona Cardinals,A,A,A,A,H,A,A,A,A,A
+2019,7,Green Bay Packers,Las Vegas Raiders,H,H,H,H,A,A,A,H,H,H
+2019,7,Tennessee Titans,Los Angeles Chargers,H,A,A,A,H,H,A,A,H,H
+2019,7,Chicago Bears,New Orleans Saints,A,H,A,A,H,A,A,A,H,A
+2019,7,Seattle Seahawks,Baltimore Ravens,H,A,H,A,A,A,H,A,H,A
+2019,7,Dallas Cowboys,Philadelphia Eagles,H,H,H,H,H,A,A,A,H,H
+2019,7,New York Jets,New England Patriots,A,A,A,A,H,H,A,A,A,A
+2019,8,Minnesota Vikings,Washington Commanders,H,A,H,H,H,A,A,H,H,H
+2019,8,Buffalo Bills,Philadelphia Eagles,H,H,A,A,A,A,A,A,A,A
+2019,8,Chicago Bears,Los Angeles Chargers,H,H,A,A,H,H,A,H,H,A
+2019,8,Indianapolis Colts,Denver Broncos,H,H,H,H,H,H,H,A,H,H
+2019,8,Detroit Lions,New York Giants,H,H,H,H,H,H,A,H,H,H
+2019,8,Atlanta Falcons,Seattle Seahawks,A,H,H,A,H,A,H,A,A,A
+2019,8,Los Angeles Rams,Cincinnati Bengals,H,H,H,H,H,A,A,A,H,H
+2019,8,New Orleans Saints,Arizona Cardinals,H,A,H,H,H,A,A,H,H,H
+2019,8,Jacksonville Jaguars,New York Jets,H,A,H,H,A,A,A,H,H,H
+2019,8,Tennessee Titans,Tampa Bay Buccaneers,H,A,A,A,H,A,A,A,H,H
+2019,8,San Francisco 49ers,Carolina Panthers,H,H,H,H,H,A,A,A,H,H
+2019,8,New England Patriots,Cleveland Browns,H,H,H,H,H,A,H,A,H,H
+2019,8,Houston Texans,Las Vegas Raiders,H,H,H,H,A,A,A,H,H,H
+2019,8,Kansas City Chiefs,Green Bay Packers,A,H,H,H,H,A,H,A,A,A
+2019,8,Pittsburgh Steelers,Miami Dolphins,H,H,H,H,A,A,A,H,H,H
+2019,9,Arizona Cardinals,San Francisco 49ers,A,A,H,A,H,H,H,H,A,A
+2019,9,Jacksonville Jaguars,Houston Texans,A,A,A,A,A,A,A,H,A,A
+2019,9,Buffalo Bills,Washington Commanders,H,A,H,H,A,A,A,A,A,H
+2019,9,Carolina Panthers,Tennessee Titans,H,H,A,H,H,A,H,H,H,H
+2019,9,Philadelphia Eagles,Chicago Bears,H,A,H,H,A,H,H,H,A,H
+2019,9,Pittsburgh Steelers,Indianapolis Colts,A,H,A,A,A,A,A,H,H,H
+2019,9,Miami Dolphins,New York Jets,A,A,H,H,A,A,H,H,A,H
+2019,9,Kansas City Chiefs,Minnesota Vikings,A,H,H,H,A,H,H,A,A,H
+2019,9,Las Vegas Raiders,Detroit Lions,A,A,A,A,H,H,A,A,A,H
+2019,9,Seattle Seahawks,Tampa Bay Buccaneers,H,A,A,A,A,A,A,H,H,H
+2019,9,Denver Broncos,Cleveland Browns,A,A,A,A,A,A,A,A,A,H
+2019,9,Los Angeles Chargers,Green Bay Packers,A,A,H,A,A,A,A,A,A,H
+2019,9,Baltimore Ravens,New England Patriots,A,A,A,H,A,H,H,H,H,H
+2019,9,New York Giants,Dallas Cowboys,A,A,A,A,A,H,H,A,A,A
+2019,10,Las Vegas Raiders,Los Angeles Chargers,H,A,A,H,H,H,H,A,H,H
+2019,10,New Orleans Saints,Atlanta Falcons,H,A,A,H,H,A,A,H,H,A
+2019,10,Cleveland Browns,Buffalo Bills,A,A,H,A,H,H,H,H,H,H
+2019,10,Chicago Bears,Detroit Lions,A,A,A,A,H,A,A,A,H,H
+2019,10,Cincinnati Bengals,Baltimore Ravens,A,H,H,A,A,H,H,A,A,A
+2019,10,Tampa Bay Buccaneers,Arizona Cardinals,A,A,H,H,H,H,H,A,A,H
+2019,10,Tennessee Titans,Kansas City Chiefs,A,A,A,A,A,H,A,A,H,H
+2019,10,New York Jets,New York Giants,A,A,A,A,H,H,A,A,H,H
+2019,10,Indianapolis Colts,Miami Dolphins,H,A,H,H,A,A,A,A,H,A
+2019,10,Green Bay Packers,Carolina Panthers,H,A,H,H,A,H,A,H,H,H
+2019,10,Pittsburgh Steelers,Los Angeles Rams,A,A,A,A,A,A,A,H,H,H
+2019,10,Dallas Cowboys,Minnesota Vikings,A,A,H,H,A,A,H,A,A,A
+2019,10,San Francisco 49ers,Seattle Seahawks,H,H,A,H,H,A,A,A,A,A
+2019,11,Cleveland Browns,Pittsburgh Steelers,A,A,H,A,H,A,H,A,A,H
+2019,11,Carolina Panthers,Atlanta Falcons,H,A,A,H,H,A,A,A,H,A
+2019,11,Miami Dolphins,Buffalo Bills,A,H,A,A,H,H,H,A,A,A
+2019,11,Indianapolis Colts,Jacksonville Jaguars,H,H,A,H,H,H,A,A,H,H
+2019,11,Detroit Lions,Dallas Cowboys,A,H,A,A,H,H,H,H,H,A
+2019,11,Minnesota Vikings,Denver Broncos,H,H,H,H,H,H,A,H,H,H
+2019,11,Baltimore Ravens,Houston Texans,H,H,A,H,H,A,A,H,H,H
+2019,11,Tampa Bay Buccaneers,New Orleans Saints,A,H,H,H,A,H,H,A,A,A
+2019,11,Washington Commanders,New York Jets,A,H,A,A,A,A,A,H,A,A
+2019,11,San Francisco 49ers,Arizona Cardinals,H,H,H,H,A,A,A,A,H,H
+2019,11,Las Vegas Raiders,Cincinnati Bengals,H,A,H,H,A,H,A,A,H,H
+2019,11,Philadelphia Eagles,New England Patriots,A,A,A,A,A,H,H,H,A,A
+2019,11,Los Angeles Rams,Chicago Bears,H,H,H,H,A,H,H,A,A,H
+2019,11,Los Angeles Chargers,Kansas City Chiefs,A,A,A,A,A,A,A,A,A,A
+2019,12,Houston Texans,Indianapolis Colts,H,A,H,H,A,H,H,H,H,H
+2019,12,Atlanta Falcons,Tampa Bay Buccaneers,H,A,H,A,A,A,A,H,H,A
+2019,12,Buffalo Bills,Denver Broncos,H,H,H,H,A,A,A,A,H,H
+2019,12,New Orleans Saints,Carolina Panthers,H,A,H,H,H,A,A,H,H,H
+2019,12,Chicago Bears,New York Giants,H,A,A,A,H,A,A,H,H,H
+2019,12,Cincinnati Bengals,Pittsburgh Steelers,A,A,H,A,H,H,H,A,A,A
+2019,12,Cleveland Browns,Miami Dolphins,H,A,H,H,A,A,A,H,H,H
+2019,12,Washington Commanders,Detroit Lions,A,H,A,A,H,A,A,A,H,H
+2019,12,New York Jets,Las Vegas Raiders,A,H,A,A,H,A,A,A,A,H
+2019,12,Philadelphia Eagles,Seattle Seahawks,A,A,A,A,H,A,A,H,A,A
+2019,12,Tennessee Titans,Jacksonville Jaguars,H,H,A,H,A,H,A,A,H,H
+2019,12,New England Patriots,Dallas Cowboys,H,H,A,H,H,A,A,H,H,H
+2019,12,San Francisco 49ers,Green Bay Packers,H,H,A,H,A,A,A,A,A,H
+2019,12,Los Angeles Rams,Baltimore Ravens,A,H,H,A,A,A,H,A,A,A
+2019,13,Detroit Lions,Chicago Bears,A,A,H,H,A,H,H,H,A,A
+2019,13,Dallas Cowboys,Buffalo Bills,A,A,H,H,H,H,H,A,A,A
+2019,13,Atlanta Falcons,New Orleans Saints,A,H,H,A,A,H,H,A,A,A
+2019,13,Carolina Panthers,Washington Commanders,H,A,H,H,H,A,H,A,A,A
+2019,13,Cincinnati Bengals,New York Jets,A,H,H,A,A,H,H,H,A,H
+2019,13,Pittsburgh Steelers,Cleveland Browns,H,H,A,A,A,H,A,H,H,H
+2019,13,Indianapolis Colts,Tennessee Titans,H,H,H,A,A,A,H,H,A,A
+2019,13,New York Giants,Green Bay Packers,A,H,A,A,A,H,H,A,A,A
+2019,13,Jacksonville Jaguars,Tampa Bay Buccaneers,H,A,A,A,A,A,A,H,A,A
+2019,13,Miami Dolphins,Philadelphia Eagles,A,H,A,A,A,H,H,A,A,H
+2019,13,Baltimore Ravens,San Francisco 49ers,A,H,A,H,H,H,H,H,H,H
+2019,13,Arizona Cardinals,Los Angeles Rams,A,A,A,A,H,H,H,H,H,A
+2019,13,Denver Broncos,Los Angeles Chargers,A,A,A,A,H,H,A,H,A,H
+2019,13,Kansas City Chiefs,Las Vegas Raiders,H,H,H,H,H,A,A,H,H,H
+2019,13,Houston Texans,New England Patriots,A,A,A,A,A,H,H,H,A,H
+2019,13,Seattle Seahawks,Minnesota Vikings,H,H,H,H,H,H,H,A,A,H
+2019,14,Chicago Bears,Dallas Cowboys,H,H,A,A,H,H,A,H,H,H
+2019,14,Atlanta Falcons,Carolina Panthers,A,H,H,H,A,H,A,H,H,H
+2019,14,Buffalo Bills,Baltimore Ravens,A,A,A,A,A,A,A,A,A,A
+2019,14,Cleveland Browns,Cincinnati Bengals,H,A,A,H,A,A,A,A,H,H
+2019,14,Tampa Bay Buccaneers,Indianapolis Colts,A,H,H,H,A,H,H,H,A,H
+2019,14,Houston Texans,Denver Broncos,H,H,H,H,A,H,H,A,A,A
+2019,14,Minnesota Vikings,Detroit Lions,H,H,A,H,A,A,A,H,H,H
+2019,14,Green Bay Packers,Washington Commanders,H,H,H,H,A,H,A,H,A,H
+2019,14,New York Jets,Miami Dolphins,H,H,A,H,H,A,A,A,H,H
+2019,14,New Orleans Saints,San Francisco 49ers,H,A,H,A,H,H,H,H,A,A
+2019,14,Jacksonville Jaguars,Los Angeles Chargers,H,A,A,A,H,H,H,H,H,A
+2019,14,Arizona Cardinals,Pittsburgh Steelers,A,A,H,H,H,H,H,A,H,A
+2019,14,New England Patriots,Kansas City Chiefs,H,H,A,A,H,A,A,A,A,A
+2019,14,Las Vegas Raiders,Tennessee Titans,A,A,H,A,H,H,H,H,A,A
+2019,14,Los Angeles Rams,Seattle Seahawks,A,H,H,A,A,A,A,A,A,H
+2019,14,Philadelphia Eagles,New York Giants,H,A,H,H,H,A,A,H,H,H
+2019,15,Baltimore Ravens,New York Jets,H,A,H,H,H,A,A,H,H,H
+2019,15,Carolina Panthers,Seattle Seahawks,A,A,A,A,H,A,H,A,A,A
+2019,15,Green Bay Packers,Chicago Bears,H,A,H,H,A,H,H,H,H,H
+2019,15,Cincinnati Bengals,New England Patriots,A,H,A,A,A,H,H,H,A,A
+2019,15,Kansas City Chiefs,Denver Broncos,H,H,H,H,H,H,H,H,H,H
+2019,15,Detroit Lions,Tampa Bay Buccaneers,A,H,A,A,A,H,A,H,A,A
+2019,15,Tennessee Titans,Houston Texans,H,A,A,A,A,A,A,A,H,A
+2019,15,New York Giants,Miami Dolphins,A,H,H,H,A,H,A,A,H,H
+2019,15,Washington Commanders,Philadelphia Eagles,A,A,A,A,A,A,H,A,H,A
+2019,15,Arizona Cardinals,Cleveland Browns,A,A,A,H,A,H,H,H,H,H
+2019,15,Las Vegas Raiders,Jacksonville Jaguars,H,H,A,H,A,H,H,A,A,A
+2019,15,Los Angeles Chargers,Minnesota Vikings,A,H,H,A,A,A,H,A,A,A
+2019,15,San Francisco 49ers,Atlanta Falcons,H,A,A,H,H,A,A,A,H,A
+2019,15,Dallas Cowboys,Los Angeles Rams,A,A,H,H,A,A,A,H,A,H
+2019,15,Pittsburgh Steelers,Buffalo Bills,A,H,A,A,H,H,H,H,H,A
+2019,15,New Orleans Saints,Indianapolis Colts,H,A,H,H,H,A,A,H,H,H
+2019,16,Tampa Bay Buccaneers,Houston Texans,A,H,H,H,H,A,H,A,A,A
+2019,16,New England Patriots,Buffalo Bills,H,A,H,H,H,A,A,H,A,H
+2019,16,San Francisco 49ers,Los Angeles Rams,H,A,A,H,A,A,A,H,H,H
+2019,16,Atlanta Falcons,Jacksonville Jaguars,H,H,H,H,A,H,H,A,H,H
+2019,16,Indianapolis Colts,Carolina Panthers,H,H,A,H,A,H,A,A,H,H
+2019,16,Miami Dolphins,Cincinnati Bengals,H,A,H,H,A,H,H,A,A,H
+2019,16,Cleveland Browns,Baltimore Ravens,A,A,H,A,A,H,H,A,A,A
+2019,16,Tennessee Titans,New Orleans Saints,A,H,A,A,A,H,A,A,H,A
+2019,16,Washington Commanders,New York Giants,H,H,A,A,H,A,A,H,H,A
+2019,16,New York Jets,Pittsburgh Steelers,A,A,H,A,H,H,H,A,A,H
+2019,16,Denver Broncos,Detroit Lions,H,A,A,A,A,A,A,H,H,H
+2019,16,Los Angeles Chargers,Las Vegas Raiders,A,H,H,H,H,A,A,H,A,A
+2019,16,Seattle Seahawks,Arizona Cardinals,H,H,H,H,A,A,A,A,A,A
+2019,16,Philadelphia Eagles,Dallas Cowboys,H,A,A,A,H,H,H,H,H,H
+2019,16,Chicago Bears,Kansas City Chiefs,A,A,A,A,H,H,A,A,A,A
+2019,16,Minnesota Vikings,Green Bay Packers,A,H,A,H,A,A,A,H,H,A
+2019,17,Tampa Bay Buccaneers,Atlanta Falcons,H,H,H,H,H,H,H,A,A,A
+2019,17,Buffalo Bills,New York Jets,H,A,H,H,A,A,A,H,H,A
+2019,17,Carolina Panthers,New Orleans Saints,A,H,A,A,A,A,H,A,A,A
+2019,17,Minnesota Vikings,Chicago Bears,H,A,H,H,H,H,H,H,H,A
+2019,17,Cincinnati Bengals,Cleveland Browns,A,H,H,A,H,H,H,H,A,H
+2019,17,Detroit Lions,Green Bay Packers,A,A,H,A,A,H,H,A,A,A
+2019,17,Kansas City Chiefs,Los Angeles Chargers,H,H,H,H,H,H,A,H,H,H
+2019,17,New England Patriots,Miami Dolphins,H,A,H,H,H,A,A,H,H,A
+2019,17,Jacksonville Jaguars,Indianapolis Colts,A,A,H,A,A,A,H,H,A,H
+2019,17,Los Angeles Rams,Arizona Cardinals,H,H,H,H,A,A,A,A,H,H
+2019,17,Dallas Cowboys,Washington Commanders,H,A,H,H,A,A,A,A,A,H
+2019,17,Denver Broncos,Las Vegas Raiders,A,A,A,A,A,A,A,H,H,H
+2019,17,Houston Texans,Tennessee Titans,H,A,H,A,H,H,H,H,A,A
+2019,17,New York Giants,Philadelphia Eagles,A,A,A,A,A,H,H,A,A,A
+2019,17,Baltimore Ravens,Pittsburgh Steelers,H,A,H,H,H,H,A,H,A,H
+2019,17,Seattle Seahawks,San Francisco 49ers,A,A,A,A,H,H,H,H,A,A
+2020,1,Kansas City Chiefs,Houston Texans,H,H,A,H,A,H,A,A,H,H
+2020,1,Atlanta Falcons,Seattle Seahawks,H,A,H,A,H,A,H,A,A,A
+2020,1,Buffalo Bills,New York Jets,H,H,H,H,A,A,A,H,H,H
+2020,1,Carolina Panthers,Las Vegas Raiders,H,A,H,A,H,A,H,A,H,A
+2020,1,Detroit Lions,Chicago Bears,H,A,H,A,H,A,H,A,A,A
+2020,1,Baltimore Ravens,Cleveland Browns,H,A,H,A,H,A,H,H,H,H
+2020,1,Jacksonville Jaguars,Indianapolis Colts,H,H,A,H,A,H,A,A,H,H
+2020,1,Minnesota Vikings,Green Bay Packers,H,A,A,A,H,H,H,A,A,A
+2020,1,New England Patriots,Miami Dolphins,H,A,A,H,H,H,A,H,H,H
+2020,1,Washington Commanders,Philadelphia Eagles,H,H,A,H,A,H,A,H,H,H
+2020,1,Cincinnati Bengals,Los Angeles Chargers,H,A,A,A,H,H,H,H,A,A
+2020,1,San Francisco 49ers,Arizona Cardinals,H,A,H,A,H,A,H,H,H,A
+2020,1,New Orleans Saints,Tampa Bay Buccaneers,H,A,A,H,H,H,A,A,H,H
+2020,1,Los Angeles Rams,Dallas Cowboys,H,H,H,H,A,A,A,A,A,H
+2020,1,New York Giants,Pittsburgh Steelers,H,H,H,A,A,A,H,H,A,A
+2020,1,Denver Broncos,Tennessee Titans,H,A,A,A,H,H,H,H,A,A
+2020,2,Cleveland Browns,Cincinnati Bengals,H,A,A,A,H,H,H,A,H,H
+2020,2,Dallas Cowboys,Atlanta Falcons,H,A,A,A,H,A,A,A,A,H
+2020,2,Miami Dolphins,Buffalo Bills,A,H,A,A,A,H,H,H,H,A
+2020,2,Tampa Bay Buccaneers,Carolina Panthers,H,A,A,H,H,H,A,H,A,H
+2020,2,Chicago Bears,New York Giants,H,A,A,H,A,H,A,A,H,H
+2020,2,Indianapolis Colts,Minnesota Vikings,H,H,H,H,H,A,A,H,H,H
+2020,2,Pittsburgh Steelers,Denver Broncos,H,H,H,H,H,A,A,H,H,H
+2020,2,Green Bay Packers,Detroit Lions,H,H,H,H,A,H,A,H,H,H
+2020,2,Tennessee Titans,Jacksonville Jaguars,H,A,H,A,H,A,A,A,H,H
+2020,2,New York Jets,San Francisco 49ers,H,H,A,A,A,H,H,A,H,A
+2020,2,Philadelphia Eagles,Los Angeles Rams,A,H,A,A,H,A,H,A,A,A
+2020,2,Arizona Cardinals,Washington Commanders,H,A,H,H,H,A,A,A,A,H
+2020,2,Houston Texans,Baltimore Ravens,A,H,H,A,A,A,H,A,A,A
+2020,2,Los Angeles Chargers,Kansas City Chiefs,H,H,H,A,A,A,A,A,A,A
+2020,2,Seattle Seahawks,New England Patriots,H,A,H,H,H,H,H,H,H,H
+2020,2,Las Vegas Raiders,New Orleans Saints,H,A,A,H,H,H,A,H,A,H
+2020,3,Jacksonville Jaguars,Miami Dolphins,H,H,H,H,A,A,H,A,A,A
+2020,3,Atlanta Falcons,Chicago Bears,A,A,H,H,A,H,H,H,H,A
+2020,3,Buffalo Bills,Los Angeles Rams,H,A,H,H,A,H,H,H,A,H
+2020,3,Philadelphia Eagles,Cincinnati Bengals,H,A,A,A,A,H,H,A,A,H
+2020,3,Cleveland Browns,Washington Commanders,H,H,A,H,H,H,H,A,H,H
+2020,3,Pittsburgh Steelers,Houston Texans,H,A,H,H,H,H,A,H,H,H
+2020,3,Minnesota Vikings,Tennessee Titans,A,H,A,A,A,H,H,A,A,A
+2020,3,New England Patriots,Las Vegas Raiders,A,H,A,A,A,A,A,A,H,H
+2020,3,New York Giants,San Francisco 49ers,A,H,A,A,H,H,H,H,A,A
+2020,3,Los Angeles Chargers,Carolina Panthers,H,A,H,A,A,A,A,A,A,A
+2020,3,Indianapolis Colts,New York Jets,H,A,H,H,H,A,A,H,H,H
+2020,3,Arizona Cardinals,Detroit Lions,H,H,H,H,A,A,A,H,A,A
+2020,3,Seattle Seahawks,Dallas Cowboys,H,H,A,H,H,H,A,H,H,H
+2020,3,Denver Broncos,Tampa Bay Buccaneers,A,A,A,A,A,H,H,A,A,A
+2020,3,New Orleans Saints,Green Bay Packers,A,A,A,A,A,H,H,A,A,A
+2020,3,Baltimore Ravens,Kansas City Chiefs,H,H,A,H,A,H,A,H,H,A
+2020,4,New York Jets,Denver Broncos,H,H,A,A,H,A,H,A,H,A
+2020,4,Carolina Panthers,Arizona Cardinals,A,A,H,H,H,A,H,H,H,H
+2020,4,Chicago Bears,Indianapolis Colts,H,A,A,A,A,H,H,H,A,A
+2020,4,Cincinnati Bengals,Jacksonville Jaguars,A,H,A,H,H,A,A,H,H,H
+2020,4,Dallas Cowboys,Cleveland Browns,A,A,H,H,A,A,H,H,A,A
+2020,4,Detroit Lions,New Orleans Saints,H,A,A,A,A,A,H,A,A,A
+2020,4,Houston Texans,Minnesota Vikings,H,H,H,A,H,A,H,H,H,A
+2020,4,Miami Dolphins,Seattle Seahawks,A,A,A,A,A,A,A,A,A,A
+2020,4,Washington Commanders,Baltimore Ravens,A,H,H,A,A,A,H,A,A,A
+2020,4,Tampa Bay Buccaneers,Los Angeles Chargers,H,H,A,H,H,A,A,H,H,H
+2020,4,Los Angeles Rams,New York Giants,H,A,H,H,H,H,A,A,H,H
+2020,4,Las Vegas Raiders,Buffalo Bills,A,A,A,A,H,A,H,H,A,A
+2020,4,San Francisco 49ers,Philadelphia Eagles,H,H,H,H,H,A,A,H,H,A
+2020,4,Kansas City Chiefs,New England Patriots,H,A,H,H,H,A,A,A,H,H
+2020,4,Green Bay Packers,Atlanta Falcons,H,H,H,H,A,A,A,H,H,H
+2020,5,Chicago Bears,Tampa Bay Buccaneers,H,A,A,A,A,A,A,H,A,H
+2020,5,Atlanta Falcons,Carolina Panthers,A,A,A,H,A,H,H,H,A,A
+2020,5,Baltimore Ravens,Cincinnati Bengals,H,H,A,H,H,H,A,H,H,H
+2020,5,New York Jets,Arizona Cardinals,A,A,A,A,H,H,H,A,H,A
+2020,5,Houston Texans,Jacksonville Jaguars,A,A,H,H,H,A,A,H,H,H
+2020,5,Kansas City Chiefs,Las Vegas Raiders,H,A,H,A,H,A,A,A,H,A
+2020,5,Pittsburgh Steelers,Philadelphia Eagles,H,H,H,H,H,A,A,H,H,H
+2020,5,Washington Commanders,Los Angeles Rams,A,H,A,A,H,H,H,A,A,A
+2020,5,San Francisco 49ers,Miami Dolphins,H,H,A,A,A,A,H,A,A,A
+2020,5,Cleveland Browns,Indianapolis Colts,H,H,A,H,H,H,H,A,H,H
+2020,5,Dallas Cowboys,New York Giants,H,A,H,H,H,H,H,A,H,H
+2020,5,Seattle Seahawks,Minnesota Vikings,H,A,H,H,A,H,A,H,H,H
+2020,5,New Orleans Saints,Los Angeles Chargers,H,A,A,H,A,A,H,H,H,H
+2020,5,Tennessee Titans,Buffalo Bills,H,A,A,H,H,A,A,A,H,H
+2020,6,New England Patriots,Denver Broncos,H,H,H,H,H,A,H,H,H,A
+2020,6,Jacksonville Jaguars,Detroit Lions,A,H,H,A,A,H,H,A,A,A
+2020,6,Minnesota Vikings,Atlanta Falcons,H,H,A,A,A,A,H,A,A,A
+2020,6,Carolina Panthers,Chicago Bears,A,A,H,H,H,A,H,A,H,A
+2020,6,Indianapolis Colts,Cincinnati Bengals,H,H,H,H,H,A,A,H,H,H
+2020,6,Pittsburgh Steelers,Cleveland Browns,H,A,H,H,A,A,A,H,H,H
+2020,6,Tennessee Titans,Houston Texans,H,A,A,H,A,H,A,A,H,H
+2020,6,New York Giants,Washington Commanders,A,H,A,A,A,H,A,H,H,H
+2020,6,Philadelphia Eagles,Baltimore Ravens,A,A,H,A,H,A,H,A,A,A
+2020,6,Miami Dolphins,New York Jets,H,A,H,H,A,A,A,H,A,H
+2020,6,Tampa Bay Buccaneers,Green Bay Packers,A,A,A,A,H,A,A,A,H,H
+2020,6,San Francisco 49ers,Los Angeles Rams,A,A,A,A,A,H,H,H,H,H
+2020,6,Buffalo Bills,Kansas City Chiefs,H,H,H,A,A,H,H,A,A,A
+2020,6,Dallas Cowboys,Arizona Cardinals,A,A,H,H,H,H,H,H,A,A
+2020,7,Philadelphia Eagles,New York Giants,H,A,H,H,H,A,H,A,H,H
+2020,7,Houston Texans,Green Bay Packers,A,H,H,A,H,H,H,A,A,A
+2020,7,Tennessee Titans,Pittsburgh Steelers,H,H,H,H,A,H,H,A,H,A
+2020,7,Atlanta Falcons,Detroit Lions,A,A,H,H,H,H,H,H,A,A
+2020,7,New York Jets,Buffalo Bills,A,A,A,A,A,H,H,A,H,A
+2020,7,New Orleans Saints,Carolina Panthers,H,H,A,H,H,H,H,H,A,H
+2020,7,Cincinnati Bengals,Cleveland Browns,A,H,H,A,A,A,A,H,A,A
+2020,7,Washington Commanders,Dallas Cowboys,A,A,A,A,A,A,A,A,A,H
+2020,7,Las Vegas Raiders,Tampa Bay Buccaneers,A,H,H,A,A,H,H,H,A,A
+2020,7,Denver Broncos,Kansas City Chiefs,A,A,A,A,A,H,H,A,A,A
+2020,7,New England Patriots,San Francisco 49ers,A,H,A,A,H,H,H,H,A,A
+2020,7,Los Angeles Chargers,Jacksonville Jaguars,H,A,H,H,A,A,A,H,A,H
+2020,7,Arizona Cardinals,Seattle Seahawks,A,H,A,A,H,A,A,A,A,H
+2020,7,Los Angeles Rams,Chicago Bears,A,A,H,H,A,A,A,A,H,H
+2020,8,Carolina Panthers,Atlanta Falcons,H,H,A,A,A,A,A,A,H,A
+2020,8,Detroit Lions,Indianapolis Colts,A,H,A,A,A,H,H,A,A,A
+2020,8,Green Bay Packers,Minnesota Vikings,H,A,H,H,A,A,A,H,H,A
+2020,8,Miami Dolphins,Los Angeles Rams,A,H,A,H,A,H,A,H,H,H
+2020,8,Baltimore Ravens,Pittsburgh Steelers,A,H,A,A,A,H,A,A,A,A
+2020,8,Buffalo Bills,New England Patriots,H,A,H,H,A,H,H,A,A,H
+2020,8,Cincinnati Bengals,Tennessee Titans,A,A,H,A,H,A,H,H,A,H
+2020,8,Cleveland Browns,Las Vegas Raiders,H,H,A,A,A,H,H,A,H,A
+2020,8,Kansas City Chiefs,New York Jets,H,H,H,H,H,A,A,H,H,H
+2020,8,Denver Broncos,Los Angeles Chargers,H,A,A,A,H,A,A,H,H,H
+2020,8,Seattle Seahawks,San Francisco 49ers,H,A,H,H,A,H,H,H,H,H
+2020,8,Chicago Bears,New Orleans Saints,H,H,A,A,A,A,A,H,A,A
+2020,8,Philadelphia Eagles,Dallas Cowboys,H,H,A,H,A,A,A,A,H,H
+2020,8,New York Giants,Tampa Bay Buccaneers,A,H,A,A,A,H,H,H,A,A
+2020,9,San Francisco 49ers,Green Bay Packers,A,A,A,A,A,A,A,A,A,A
+2020,9,Indianapolis Colts,Baltimore Ravens,H,A,H,A,H,A,H,A,H,A
+2020,9,Minnesota Vikings,Detroit Lions,A,H,A,H,A,H,A,A,H,H
+2020,9,Jacksonville Jaguars,Houston Texans,H,H,A,A,A,H,H,A,H,A
+2020,9,Atlanta Falcons,Denver Broncos,A,A,H,H,H,H,H,H,H,H
+2020,9,Buffalo Bills,Seattle Seahawks,A,A,A,A,A,A,A,A,H,H
+2020,9,Kansas City Chiefs,Carolina Panthers,H,H,H,H,H,A,A,H,H,H
+2020,9,Tennessee Titans,Chicago Bears,H,A,H,H,H,H,H,A,H,H
+2020,9,Washington Commanders,New York Giants,H,H,H,H,A,A,A,A,A,A
+2020,9,Los Angeles Chargers,Las Vegas Raiders,A,H,H,A,A,A,A,A,A,A
+2020,9,Arizona Cardinals,Miami Dolphins,H,A,H,H,A,A,H,A,A,A
+2020,9,Dallas Cowboys,Pittsburgh Steelers,A,H,H,A,H,H,H,A,A,A
+2020,9,Tampa Bay Buccaneers,New Orleans Saints,H,H,A,A,H,H,A,H,H,A
+2020,9,New York Jets,New England Patriots,A,H,A,A,A,H,H,A,H,A
+2020,10,Tennessee Titans,Indianapolis Colts,H,H,A,H,A,H,H,A,A,A
+2020,10,Cleveland Browns,Houston Texans,H,A,A,H,A,H,A,A,H,H
+2020,10,Detroit Lions,Washington Commanders,H,A,H,H,H,H,H,A,A,H
+2020,10,Green Bay Packers,Jacksonville Jaguars,H,H,H,H,A,A,A,H,H,H
+2020,10,Carolina Panthers,Tampa Bay Buccaneers,A,H,A,A,A,H,H,A,A,A
+2020,10,New York Giants,Philadelphia Eagles,A,A,A,A,A,H,A,H,H,H
+2020,10,Las Vegas Raiders,Denver Broncos,H,H,H,H,A,H,A,H,H,H
+2020,10,Miami Dolphins,Los Angeles Chargers,H,H,A,H,H,H,A,H,H,H
+2020,10,Arizona Cardinals,Buffalo Bills,A,A,A,H,A,H,A,A,A,H
+2020,10,Pittsburgh Steelers,Cincinnati Bengals,H,A,A,H,A,A,A,H,H,H
+2020,10,New Orleans Saints,San Francisco 49ers,H,H,A,H,H,H,A,A,H,H
+2020,10,Los Angeles Rams,Seattle Seahawks,A,H,A,A,H,A,A,A,A,H
+2020,10,New England Patriots,Baltimore Ravens,A,A,H,A,H,H,H,H,A,H
+2020,10,Chicago Bears,Minnesota Vikings,H,H,A,A,A,A,A,H,H,A
+2020,11,Seattle Seahawks,Arizona Cardinals,H,A,H,H,H,H,H,H,H,H
+2020,11,New Orleans Saints,Atlanta Falcons,H,H,A,H,H,A,A,A,H,H
+2020,11,Washington Commanders,Cincinnati Bengals,A,H,A,A,A,A,A,H,H,H
+2020,11,Cleveland Browns,Philadelphia Eagles,H,H,A,H,A,H,H,H,H,H
+2020,11,Houston Texans,New England Patriots,A,H,H,H,H,H,H,A,A,H
+2020,11,Jacksonville Jaguars,Pittsburgh Steelers,A,H,A,A,H,H,H,A,A,A
+2020,11,Baltimore Ravens,Tennessee Titans,H,H,A,A,A,A,A,H,H,A
+2020,11,Carolina Panthers,Detroit Lions,A,A,A,H,A,A,A,H,H,H
+2020,11,Denver Broncos,Miami Dolphins,A,A,H,A,A,A,H,A,A,H
+2020,11,Los Angeles Chargers,New York Jets,H,A,H,H,H,A,A,A,A,H
+2020,11,Indianapolis Colts,Green Bay Packers,A,A,A,A,H,A,A,A,H,H
+2020,11,Minnesota Vikings,Dallas Cowboys,H,H,A,H,A,H,A,A,H,A
+2020,11,Las Vegas Raiders,Kansas City Chiefs,A,H,A,A,A,H,H,H,A,A
+2020,11,Tampa Bay Buccaneers,Los Angeles Rams,H,H,A,H,A,H,H,H,H,A
+2020,12,Detroit Lions,Houston Texans,H,H,A,A,A,H,H,A,H,A
+2020,12,Dallas Cowboys,Washington Commanders,H,H,H,H,H,H,H,H,A,A
+2020,12,Atlanta Falcons,Las Vegas Raiders,A,A,H,H,A,H,A,H,H,H
+2020,12,Buffalo Bills,Los Angeles Chargers,H,A,A,H,H,H,A,H,H,H
+2020,12,Cincinnati Bengals,New York Giants,A,H,H,H,A,H,H,A,A,A
+2020,12,Jacksonville Jaguars,Cleveland Browns,A,A,H,A,H,H,H,A,A,A
+2020,12,Indianapolis Colts,Tennessee Titans,H,A,H,A,A,A,A,H,H,A
+2020,12,New England Patriots,Arizona Cardinals,A,A,A,A,A,H,A,H,A,H
+2020,12,New York Jets,Miami Dolphins,A,H,A,A,A,H,H,A,A,A
+2020,12,Minnesota Vikings,Carolina Panthers,H,H,A,H,H,H,H,A,A,H
+2020,12,Denver Broncos,New Orleans Saints,A,A,A,A,A,H,H,A,A,A
+2020,12,Los Angeles Rams,San Francisco 49ers,H,H,H,H,H,A,A,A,A,A
+2020,12,Tampa Bay Buccaneers,Kansas City Chiefs,A,H,A,A,H,H,H,H,A,A
+2020,12,Green Bay Packers,Chicago Bears,H,A,H,H,A,H,H,H,H,H
+2020,12,Philadelphia Eagles,Seattle Seahawks,A,A,A,A,A,A,A,A,A,A
+2020,12,Pittsburgh Steelers,Baltimore Ravens,H,H,H,H,A,A,A,H,A,H
+2020,13,Atlanta Falcons,New Orleans Saints,A,A,H,A,A,H,H,H,A,A
+2020,13,Chicago Bears,Detroit Lions,H,A,A,A,A,A,A,H,H,A
+2020,13,Miami Dolphins,Cincinnati Bengals,H,H,A,H,A,A,A,H,H,H
+2020,13,Tennessee Titans,Cleveland Browns,H,A,H,H,H,H,H,A,H,A
+2020,13,Houston Texans,Indianapolis Colts,A,H,H,A,H,H,H,H,A,A
+2020,13,Minnesota Vikings,Jacksonville Jaguars,H,H,H,H,A,A,A,A,A,H
+2020,13,New York Jets,Las Vegas Raiders,A,A,A,A,A,H,H,A,A,A
+2020,13,Arizona Cardinals,Los Angeles Rams,A,H,A,H,A,H,H,A,H,A
+2020,13,Seattle Seahawks,New York Giants,H,A,H,H,H,H,H,H,A,A
+2020,13,Green Bay Packers,Philadelphia Eagles,H,H,H,H,A,H,A,H,H,H
+2020,13,Los Angeles Chargers,New England Patriots,A,A,H,H,H,A,H,A,A,A
+2020,13,Kansas City Chiefs,Denver Broncos,H,A,H,H,H,H,A,H,H,H
+2020,13,Pittsburgh Steelers,Washington Commanders,H,H,H,H,A,A,A,H,H,A
+2020,13,San Francisco 49ers,Buffalo Bills,A,H,A,A,A,A,A,H,A,A
+2020,13,Baltimore Ravens,Dallas Cowboys,H,H,A,H,A,H,A,H,H,H
+2020,14,Los Angeles Rams,New England Patriots,H,A,H,H,H,A,A,A,A,H
+2020,14,Carolina Panthers,Denver Broncos,H,A,H,H,A,H,A,H,H,A
+2020,14,Chicago Bears,Houston Texans,H,H,A,A,A,A,A,H,A,H
+2020,14,Cincinnati Bengals,Dallas Cowboys,A,H,A,A,A,H,A,A,H,A
+2020,14,New York Giants,Arizona Cardinals,A,A,A,A,A,H,A,H,A,A
+2020,14,Jacksonville Jaguars,Tennessee Titans,A,A,A,A,H,A,H,H,A,A
+2020,14,Miami Dolphins,Kansas City Chiefs,A,H,A,A,A,H,A,H,A,A
+2020,14,Tampa Bay Buccaneers,Minnesota Vikings,H,H,H,H,H,A,A,H,H,H
+2020,14,Las Vegas Raiders,Indianapolis Colts,A,H,A,A,A,H,H,H,A,A
+2020,14,Seattle Seahawks,New York Jets,H,H,H,H,H,H,A,H,H,H
+2020,14,Los Angeles Chargers,Atlanta Falcons,A,A,H,A,H,A,H,A,A,H
+2020,14,Detroit Lions,Green Bay Packers,A,H,A,A,H,H,H,A,A,A
+2020,14,Philadelphia Eagles,New Orleans Saints,A,A,A,A,A,H,H,A,A,H
+2020,14,San Francisco 49ers,Washington Commanders,H,H,H,H,A,H,H,H,H,A
+2020,14,Buffalo Bills,Pittsburgh Steelers,A,A,H,H,H,H,H,A,H,H
+2020,14,Cleveland Browns,Baltimore Ravens,H,A,H,A,H,H,H,A,H,A
+2020,15,Las Vegas Raiders,Los Angeles Chargers,H,H,A,H,H,H,H,H,A,A
+2020,15,Denver Broncos,Buffalo Bills,A,H,A,A,H,A,H,A,A,A
+2020,15,Green Bay Packers,Carolina Panthers,H,H,H,H,A,A,A,H,H,H
+2020,15,Atlanta Falcons,Tampa Bay Buccaneers,A,H,H,A,A,H,H,H,A,A
+2020,15,Minnesota Vikings,Chicago Bears,H,H,H,H,H,H,H,A,H,A
+2020,15,Indianapolis Colts,Houston Texans,H,A,A,H,H,A,A,A,H,H
+2020,15,Dallas Cowboys,San Francisco 49ers,A,A,A,H,H,H,H,A,H,H
+2020,15,Tennessee Titans,Detroit Lions,H,A,A,H,A,H,A,A,H,H
+2020,15,Baltimore Ravens,Jacksonville Jaguars,H,A,A,H,A,A,A,H,H,H
+2020,15,Miami Dolphins,New England Patriots,H,A,H,H,A,H,A,A,H,H
+2020,15,Washington Commanders,Seattle Seahawks,A,A,A,A,A,A,A,A,A,A
+2020,15,Arizona Cardinals,Philadelphia Eagles,H,H,H,H,A,A,A,H,H,H
+2020,15,Los Angeles Rams,New York Jets,H,H,H,H,H,A,A,H,A,A
+2020,15,New Orleans Saints,Kansas City Chiefs,A,H,A,A,H,A,A,A,A,A
+2020,15,New York Giants,Cleveland Browns,A,A,A,A,A,A,A,H,A,A
+2020,15,Cincinnati Bengals,Pittsburgh Steelers,A,H,A,A,H,H,H,A,A,H
+2020,16,New Orleans Saints,Minnesota Vikings,H,A,A,H,H,A,A,H,H,H
+2020,16,Detroit Lions,Tampa Bay Buccaneers,A,A,A,A,A,H,H,A,A,A
+2020,16,Arizona Cardinals,San Francisco 49ers,H,H,A,H,H,H,A,A,A,A
+2020,16,Las Vegas Raiders,Miami Dolphins,A,H,H,H,H,H,H,H,A,A
+2020,16,Kansas City Chiefs,Atlanta Falcons,H,A,H,H,H,A,A,A,H,H
+2020,16,Jacksonville Jaguars,Chicago Bears,A,H,H,A,H,H,H,A,H,A
+2020,16,Houston Texans,Cincinnati Bengals,H,H,H,H,H,H,H,H,H,A
+2020,16,New York Jets,Cleveland Browns,A,A,A,A,A,H,H,A,A,H
+2020,16,Pittsburgh Steelers,Indianapolis Colts,H,H,A,A,A,A,A,H,H,H
+2020,16,Baltimore Ravens,New York Giants,H,H,A,H,A,A,A,A,H,H
+2020,16,Washington Commanders,Carolina Panthers,H,A,A,A,A,A,A,A,A,A
+2020,16,Los Angeles Chargers,Denver Broncos,H,A,H,H,A,A,A,A,H,H
+2020,16,Dallas Cowboys,Philadelphia Eagles,H,A,H,H,H,A,H,H,A,H
+2020,16,Seattle Seahawks,Los Angeles Rams,H,A,A,H,H,H,H,H,H,H
+2020,16,Green Bay Packers,Tennessee Titans,H,A,H,H,A,A,A,H,H,H
+2020,16,New England Patriots,Buffalo Bills,A,H,A,A,H,A,A,H,A,A
+2020,17,Tampa Bay Buccaneers,Atlanta Falcons,H,A,H,H,H,A,A,A,H,H
+2020,17,Buffalo Bills,Miami Dolphins,H,H,H,H,H,A,H,A,A,H
+2020,17,Cincinnati Bengals,Baltimore Ravens,A,A,H,A,H,H,H,A,A,A
+2020,17,Cleveland Browns,Pittsburgh Steelers,A,A,A,A,A,H,H,A,A,H
+2020,17,New York Giants,Dallas Cowboys,A,A,A,A,A,H,A,H,H,H
+2020,17,Detroit Lions,Minnesota Vikings,A,H,H,A,H,H,H,H,H,A
+2020,17,New England Patriots,New York Jets,H,H,H,H,H,A,A,H,H,H
+2020,17,Carolina Panthers,New Orleans Saints,A,A,H,A,A,H,H,A,A,A
+2020,17,Chicago Bears,Green Bay Packers,A,A,A,A,H,H,H,A,A,A
+2020,17,Indianapolis Colts,Jacksonville Jaguars,H,A,H,H,H,A,A,H,H,H
+2020,17,Los Angeles Rams,Arizona Cardinals,H,A,H,A,H,A,A,H,A,H
+2020,17,Denver Broncos,Las Vegas Raiders,A,H,A,A,H,A,A,A,H,A
+2020,17,Houston Texans,Tennessee Titans,A,H,H,A,H,A,H,H,A,A
+2020,17,Kansas City Chiefs,Los Angeles Chargers,H,H,H,H,H,H,A,H,H,A
+2020,17,San Francisco 49ers,Seattle Seahawks,A,A,H,A,A,A,H,A,A,A
+2020,17,Philadelphia Eagles,Washington Commanders,A,H,A,A,H,H,H,A,A,A
+2021,1,Tampa Bay Buccaneers,Dallas Cowboys,H,A,A,H,H,H,A,A,A,H
+2021,1,Atlanta Falcons,Philadelphia Eagles,H,A,A,H,H,H,A,H,H,A
+2021,1,Buffalo Bills,Pittsburgh Steelers,H,A,H,A,H,A,H,A,A,A
+2021,1,Carolina Panthers,New York Jets,H,A,H,H,H,A,A,H,H,H
+2021,1,Cincinnati Bengals,Minnesota Vikings,H,A,A,H,H,H,A,A,H,H
+2021,1,Indianapolis Colts,Seattle Seahawks,H,A,A,A,H,H,H,H,H,A
+2021,1,Tennessee Titans,Arizona Cardinals,H,H,A,A,A,H,H,H,A,A
+2021,1,Detroit Lions,San Francisco 49ers,H,A,H,A,H,A,H,H,H,A
+2021,1,Houston Texans,Jacksonville Jaguars,H,A,A,H,H,H,A,H,H,H
+2021,1,Washington Commanders,Los Angeles Chargers,H,A,A,A,H,H,H,A,H,A
+2021,1,Kansas City Chiefs,Cleveland Browns,H,H,H,H,A,A,A,H,H,H
+2021,1,New York Giants,Denver Broncos,H,H,A,A,A,H,H,H,H,A
+2021,1,New Orleans Saints,Green Bay Packers,H,A,A,H,H,H,A,H,H,H
+2021,1,New England Patriots,Miami Dolphins,H,A,H,A,H,A,H,H,A,A
+2021,1,Los Angeles Rams,Chicago Bears,H,H,H,H,A,A,A,H,H,H
+2021,1,Las Vegas Raiders,Baltimore Ravens,H,H,H,H,A,A,A,A,H,H
+2021,2,Washington Commanders,New York Giants,H,A,A,H,H,A,A,A,A,H
+2021,2,Miami Dolphins,Buffalo Bills,H,H,A,H,A,H,H,A,H,A
+2021,2,Carolina Panthers,New Orleans Saints,H,A,H,H,A,A,A,H,A,H
+2021,2,Chicago Bears,Cincinnati Bengals,A,H,A,A,A,H,H,H,H,H
+2021,2,Cleveland Browns,Houston Texans,A,H,A,H,H,H,H,A,A,H
+2021,2,Indianapolis Colts,Los Angeles Rams,A,A,A,A,A,H,H,A,A,A
+2021,2,Jacksonville Jaguars,Denver Broncos,A,H,A,A,A,H,H,A,A,A
+2021,2,New York Jets,New England Patriots,H,H,A,A,A,H,H,A,A,A
+2021,2,Philadelphia Eagles,San Francisco 49ers,H,H,A,A,A,A,A,H,H,A
+2021,2,Pittsburgh Steelers,Las Vegas Raiders,H,A,A,A,H,H,A,A,A,A
+2021,2,Tampa Bay Buccaneers,Atlanta Falcons,H,A,H,H,H,H,A,A,A,H
+2021,2,Arizona Cardinals,Minnesota Vikings,H,A,H,H,H,A,A,A,A,H
+2021,2,Los Angeles Chargers,Dallas Cowboys,H,H,H,A,A,A,A,H,A,A
+2021,2,Seattle Seahawks,Tennessee Titans,H,A,H,H,H,A,A,A,H,A
+2021,2,Baltimore Ravens,Kansas City Chiefs,A,A,A,A,H,H,H,H,A,H
+2021,2,Green Bay Packers,Detroit Lions,H,H,A,A,H,A,A,A,H,H
+2021,3,Houston Texans,Carolina Panthers,A,H,A,A,A,H,H,A,H,A
+2021,3,New York Giants,Atlanta Falcons,H,A,H,H,A,H,A,A,H,A
+2021,3,Buffalo Bills,Washington Commanders,H,A,H,H,H,A,A,H,H,H
+2021,3,Cleveland Browns,Chicago Bears,H,H,A,H,H,A,A,A,A,H
+2021,3,Pittsburgh Steelers,Cincinnati Bengals,H,H,H,A,H,H,H,H,H,A
+2021,3,Tennessee Titans,Indianapolis Colts,H,H,H,H,A,H,H,A,A,H
+2021,3,Jacksonville Jaguars,Arizona Cardinals,A,A,A,A,A,H,H,A,A,A
+2021,3,Detroit Lions,Baltimore Ravens,A,A,H,A,A,A,H,A,H,A
+2021,3,Kansas City Chiefs,Los Angeles Chargers,H,A,A,H,A,H,H,A,A,A
+2021,3,New England Patriots,New Orleans Saints,H,H,H,A,A,A,H,H,A,A
+2021,3,Denver Broncos,New York Jets,H,A,H,A,H,A,H,H,H,H
+2021,3,Las Vegas Raiders,Miami Dolphins,H,A,H,H,A,A,A,H,H,H
+2021,3,Minnesota Vikings,Seattle Seahawks,A,H,H,H,A,H,A,H,H,H
+2021,3,Los Angeles Rams,Tampa Bay Buccaneers,H,H,A,A,H,A,A,H,H,H
+2021,3,San Francisco 49ers,Green Bay Packers,H,A,H,H,H,H,A,H,A,A
+2021,3,Dallas Cowboys,Philadelphia Eagles,H,H,H,H,H,H,H,A,H,H
+2021,4,Cincinnati Bengals,Jacksonville Jaguars,H,H,H,H,H,A,A,H,A,H
+2021,4,Atlanta Falcons,Washington Commanders,H,H,A,A,H,A,H,H,A,A
+2021,4,Buffalo Bills,Houston Texans,H,A,H,H,H,A,A,H,H,H
+2021,4,Dallas Cowboys,Carolina Panthers,A,H,A,H,A,H,H,A,H,H
+2021,4,Chicago Bears,Detroit Lions,H,H,A,A,A,A,A,H,H,H
+2021,4,Minnesota Vikings,Cleveland Browns,A,A,H,A,A,H,H,H,H,A
+2021,4,Miami Dolphins,Indianapolis Colts,H,H,A,A,H,H,H,A,A,A
+2021,4,Philadelphia Eagles,Kansas City Chiefs,H,A,A,A,H,A,A,H,H,A
+2021,4,New Orleans Saints,New York Giants,H,H,A,H,H,H,A,A,H,A
+2021,4,New York Jets,Tennessee Titans,A,H,A,A,A,A,A,A,H,H
+2021,4,Los Angeles Rams,Arizona Cardinals,H,H,A,A,A,H,H,H,A,A
+2021,4,San Francisco 49ers,Seattle Seahawks,H,H,H,H,A,A,H,H,A,A
+2021,4,Denver Broncos,Baltimore Ravens,H,A,A,A,A,A,A,A,H,A
+2021,4,Green Bay Packers,Pittsburgh Steelers,H,H,A,H,A,A,H,A,H,H
+2021,4,New England Patriots,Tampa Bay Buccaneers,A,A,A,A,A,A,A,H,A,A
+2021,4,Los Angeles Chargers,Las Vegas Raiders,A,A,A,A,H,A,A,A,H,H
+2021,5,Seattle Seahawks,Los Angeles Rams,A,A,A,A,H,H,H,A,H,A
+2021,5,Atlanta Falcons,New York Jets,H,H,H,H,A,A,H,H,A,H
+2021,5,Carolina Panthers,Philadelphia Eagles,H,A,A,H,H,A,A,A,A,A
+2021,5,Cincinnati Bengals,Green Bay Packers,H,H,A,A,A,H,A,H,A,A
+2021,5,Pittsburgh Steelers,Denver Broncos,A,H,H,A,A,H,H,H,A,H
+2021,5,Minnesota Vikings,Detroit Lions,H,H,H,H,A,A,A,H,H,H
+2021,5,Houston Texans,New England Patriots,H,A,A,A,H,H,H,A,H,A
+2021,5,Jacksonville Jaguars,Tennessee Titans,A,A,A,A,H,H,H,A,A,A
+2021,5,Tampa Bay Buccaneers,Miami Dolphins,H,H,H,H,H,H,A,H,H,H
+2021,5,Washington Commanders,New Orleans Saints,H,A,H,A,A,H,H,H,A,A
+2021,5,Las Vegas Raiders,Chicago Bears,H,H,H,H,H,A,H,H,A,A
+2021,5,Los Angeles Chargers,Cleveland Browns,H,A,H,H,A,A,H,H,H,H
+2021,5,Arizona Cardinals,San Francisco 49ers,H,H,H,H,H,A,A,A,H,H
+2021,5,Dallas Cowboys,New York Giants,H,A,A,H,H,H,A,A,H,H
+2021,5,Kansas City Chiefs,Buffalo Bills,A,A,H,A,A,H,H,H,A,A
+2021,5,Baltimore Ravens,Indianapolis Colts,H,H,H,H,H,H,A,H,A,H
+2021,6,Philadelphia Eagles,Tampa Bay Buccaneers,A,A,A,A,A,A,H,H,A,A
+2021,6,Jacksonville Jaguars,Miami Dolphins,A,A,H,H,A,H,A,H,A,H
+2021,6,Carolina Panthers,Minnesota Vikings,H,A,A,A,A,A,A,H,A,A
+2021,6,Chicago Bears,Green Bay Packers,A,H,A,A,H,H,A,H,A,A
+2021,6,Detroit Lions,Cincinnati Bengals,A,H,A,A,A,H,H,H,A,A
+2021,6,Indianapolis Colts,Houston Texans,H,A,H,H,A,H,A,H,H,H
+2021,6,Washington Commanders,Kansas City Chiefs,H,A,A,A,A,H,H,A,A,A
+2021,6,New York Giants,Los Angeles Rams,A,H,A,A,H,H,H,A,A,A
+2021,6,Baltimore Ravens,Los Angeles Chargers,H,A,A,H,H,H,A,H,A,H
+2021,6,Cleveland Browns,Arizona Cardinals,A,H,A,A,H,H,H,A,A,A
+2021,6,New England Patriots,Dallas Cowboys,A,H,A,A,A,A,A,H,A,A
+2021,6,Denver Broncos,Las Vegas Raiders,H,A,A,A,H,H,A,A,A,A
+2021,6,Pittsburgh Steelers,Seattle Seahawks,H,H,H,A,A,A,A,H,A,H
+2021,6,Tennessee Titans,Buffalo Bills,A,H,A,A,A,H,H,A,A,H
+2021,7,Cleveland Browns,Denver Broncos,H,H,A,H,A,A,H,A,A,H
+2021,7,Miami Dolphins,Atlanta Falcons,A,A,A,A,H,H,H,A,A,A
+2021,7,New York Giants,Carolina Panthers,A,H,H,A,H,H,H,A,H,H
+2021,7,Baltimore Ravens,Cincinnati Bengals,H,H,H,A,A,H,H,H,A,A
+2021,7,Green Bay Packers,Washington Commanders,H,A,H,H,H,A,A,A,H,H
+2021,7,Tennessee Titans,Kansas City Chiefs,H,H,A,H,A,A,A,A,A,H
+2021,7,New England Patriots,New York Jets,H,H,H,H,A,A,A,H,H,H
+2021,7,Los Angeles Rams,Detroit Lions,H,A,H,H,A,A,A,H,H,H
+2021,7,Las Vegas Raiders,Philadelphia Eagles,H,H,H,H,A,A,A,H,H,H
+2021,7,Tampa Bay Buccaneers,Chicago Bears,H,H,H,H,H,H,A,A,H,H
+2021,7,Arizona Cardinals,Houston Texans,H,A,H,H,A,A,A,H,H,H
+2021,7,San Francisco 49ers,Indianapolis Colts,H,A,H,A,H,A,H,H,A,A
+2021,7,Seattle Seahawks,New Orleans Saints,A,A,H,A,A,H,H,A,A,A
+2021,8,Arizona Cardinals,Green Bay Packers,H,H,H,H,H,A,A,H,A,A
+2021,8,Atlanta Falcons,Carolina Panthers,H,H,H,H,H,H,H,H,H,A
+2021,8,Buffalo Bills,Miami Dolphins,H,A,H,H,H,A,A,H,H,H
+2021,8,Chicago Bears,San Francisco 49ers,H,H,A,A,A,H,A,H,A,A
+2021,8,New York Jets,Cincinnati Bengals,A,A,A,A,A,H,H,A,H,H
+2021,8,Cleveland Browns,Pittsburgh Steelers,H,A,A,H,H,A,H,A,H,A
+2021,8,Indianapolis Colts,Tennessee Titans,A,A,A,A,H,A,A,H,H,A
+2021,8,Detroit Lions,Philadelphia Eagles,A,H,H,A,H,H,H,A,A,A
+2021,8,Houston Texans,Los Angeles Rams,A,H,A,A,H,A,H,A,A,A
+2021,8,Seattle Seahawks,Jacksonville Jaguars,H,A,A,H,H,A,A,A,H,H
+2021,8,Los Angeles Chargers,New England Patriots,H,H,H,A,H,A,H,A,H,A
+2021,8,New Orleans Saints,Tampa Bay Buccaneers,A,A,A,A,H,H,A,H,H,H
+2021,8,Denver Broncos,Washington Commanders,H,A,H,H,A,A,A,A,A,H
+2021,8,Minnesota Vikings,Dallas Cowboys,A,A,A,A,A,A,A,H,A,A
+2021,8,Kansas City Chiefs,New York Giants,H,A,H,H,A,H,H,A,A,H
+2021,9,Indianapolis Colts,New York Jets,H,A,A,H,A,A,A,H,H,H
+2021,9,New Orleans Saints,Atlanta Falcons,H,A,A,H,H,H,A,A,H,A
+2021,9,Jacksonville Jaguars,Buffalo Bills,A,A,A,A,A,H,H,A,A,H
+2021,9,Dallas Cowboys,Denver Broncos,H,H,H,H,A,H,H,A,H,A
+2021,9,Baltimore Ravens,Minnesota Vikings,H,H,H,H,H,H,H,H,A,H
+2021,9,Carolina Panthers,New England Patriots,H,H,A,A,H,A,H,A,A,A
+2021,9,Cincinnati Bengals,Cleveland Browns,H,H,H,H,A,H,H,H,A,A
+2021,9,Miami Dolphins,Houston Texans,H,A,H,H,A,H,A,A,H,H
+2021,9,New York Giants,Las Vegas Raiders,A,H,A,A,A,H,H,A,H,H
+2021,9,Philadelphia Eagles,Los Angeles Chargers,A,H,A,H,A,H,A,H,A,A
+2021,9,San Francisco 49ers,Arizona Cardinals,A,A,A,A,H,A,H,H,A,A
+2021,9,Kansas City Chiefs,Green Bay Packers,A,H,H,H,H,H,H,H,A,H
+2021,9,Los Angeles Rams,Tennessee Titans,H,A,H,H,H,A,A,H,H,A
+2021,9,Pittsburgh Steelers,Chicago Bears,H,H,H,H,A,H,A,H,H,H
+2021,10,Miami Dolphins,Baltimore Ravens,A,H,A,A,A,A,H,A,A,H
+2021,10,Dallas Cowboys,Atlanta Falcons,H,A,H,H,A,H,A,A,H,H
+2021,10,New York Jets,Buffalo Bills,A,H,A,A,A,H,H,A,A,A
+2021,10,Pittsburgh Steelers,Detroit Lions,H,H,H,H,A,A,A,H,H,H
+2021,10,Tennessee Titans,New Orleans Saints,H,H,H,H,H,H,H,A,A,H
+2021,10,Washington Commanders,Tampa Bay Buccaneers,A,A,A,A,H,H,H,H,A,H
+2021,10,New England Patriots,Cleveland Browns,H,A,H,H,A,A,A,H,H,H
+2021,10,Indianapolis Colts,Jacksonville Jaguars,H,H,H,H,H,A,A,H,H,H
+2021,10,Los Angeles Chargers,Minnesota Vikings,H,A,H,A,H,A,H,H,A,A
+2021,10,Arizona Cardinals,Carolina Panthers,H,H,H,H,H,H,A,A,H,A
+2021,10,Denver Broncos,Philadelphia Eagles,H,A,H,A,A,A,A,A,A,A
+2021,10,Green Bay Packers,Seattle Seahawks,H,A,H,H,A,A,A,A,H,H
+2021,10,Las Vegas Raiders,Kansas City Chiefs,H,H,H,A,H,A,H,H,H,A
+2021,10,San Francisco 49ers,Los Angeles Rams,A,A,A,A,H,A,H,A,A,H
+2021,11,Atlanta Falcons,New England Patriots,A,H,A,A,H,H,H,H,A,A
+2021,11,Buffalo Bills,Indianapolis Colts,H,A,H,H,A,A,A,H,A,A
+2021,11,Chicago Bears,Baltimore Ravens,A,A,A,A,A,A,H,A,A,A
+2021,11,Tennessee Titans,Houston Texans,H,A,H,H,H,A,A,H,A,A
+2021,11,Jacksonville Jaguars,San Francisco 49ers,A,A,A,A,A,H,H,A,A,A
+2021,11,Philadelphia Eagles,New Orleans Saints,A,H,A,H,A,A,H,H,H,H
+2021,11,Carolina Panthers,Washington Commanders,H,A,A,A,A,A,A,H,H,A
+2021,11,Cleveland Browns,Detroit Lions,H,H,H,H,A,A,A,A,H,H
+2021,11,Minnesota Vikings,Green Bay Packers,A,H,H,H,H,H,H,H,A,H
+2021,11,New York Jets,Miami Dolphins,A,H,H,A,H,H,H,H,A,A
+2021,11,Las Vegas Raiders,Cincinnati Bengals,H,H,H,A,A,A,H,H,H,A
+2021,11,Kansas City Chiefs,Dallas Cowboys,A,A,H,A,H,H,H,H,A,H
+2021,11,Seattle Seahawks,Arizona Cardinals,A,H,A,A,H,H,H,A,A,A
+2021,11,Los Angeles Chargers,Pittsburgh Steelers,A,A,H,H,H,A,H,A,H,H
+2021,11,Tampa Bay Buccaneers,New York Giants,H,A,H,H,H,A,A,A,H,H
+2021,12,Detroit Lions,Chicago Bears,A,A,H,A,H,H,H,H,A,A
+2021,12,Dallas Cowboys,Las Vegas Raiders,H,A,A,H,A,H,A,A,H,A
+2021,12,New Orleans Saints,Buffalo Bills,A,A,A,A,A,H,H,A,A,A
+2021,12,Jacksonville Jaguars,Atlanta Falcons,A,A,A,A,A,H,A,A,A,A
+2021,12,Cincinnati Bengals,Pittsburgh Steelers,H,A,H,H,H,H,A,A,A,H
+2021,12,Houston Texans,New York Jets,H,A,A,A,H,A,A,H,H,A
+2021,12,New York Giants,Philadelphia Eagles,A,H,H,A,H,H,H,A,H,H
+2021,12,Miami Dolphins,Carolina Panthers,A,H,H,A,A,H,H,A,A,H
+2021,12,Indianapolis Colts,Tampa Bay Buccaneers,A,A,A,A,A,A,H,H,A,A
+2021,12,New England Patriots,Tennessee Titans,A,A,H,H,A,A,A,H,H,H
+2021,12,Denver Broncos,Los Angeles Chargers,A,H,A,A,A,H,A,A,H,H
+2021,12,San Francisco 49ers,Minnesota Vikings,H,H,A,A,A,A,A,A,A,H
+2021,12,Green Bay Packers,Los Angeles Rams,H,A,A,A,A,A,A,A,H,H
+2021,12,Baltimore Ravens,Cleveland Browns,H,H,H,H,H,H,A,H,A,H
+2021,12,Washington Commanders,Seattle Seahawks,H,A,H,H,H,A,H,H,A,H
+2021,13,New Orleans Saints,Dallas Cowboys,A,A,A,A,H,A,H,H,A,A
+2021,13,Atlanta Falcons,Tampa Bay Buccaneers,A,A,A,A,A,A,H,H,A,A
+2021,13,Chicago Bears,Arizona Cardinals,A,H,A,A,H,H,H,H,A,A
+2021,13,Cincinnati Bengals,Los Angeles Chargers,H,H,A,H,H,H,A,A,A,A
+2021,13,Detroit Lions,Minnesota Vikings,A,A,A,A,A,A,H,A,A,H
+2021,13,New York Jets,Philadelphia Eagles,A,H,H,A,H,H,H,A,A,A
+2021,13,Houston Texans,Indianapolis Colts,A,H,A,A,H,H,H,A,A,A
+2021,13,Miami Dolphins,New York Giants,H,A,H,H,A,H,A,A,A,H
+2021,13,Seattle Seahawks,San Francisco 49ers,A,H,A,A,H,H,A,A,H,H
+2021,13,Las Vegas Raiders,Washington Commanders,H,H,H,H,A,A,H,H,H,A
+2021,13,Los Angeles Rams,Jacksonville Jaguars,H,H,H,H,A,A,A,H,H,H
+2021,13,Pittsburgh Steelers,Baltimore Ravens,A,H,A,A,A,A,H,A,A,H
+2021,13,Kansas City Chiefs,Denver Broncos,H,A,H,H,H,H,H,H,H,H
+2021,13,Buffalo Bills,New England Patriots,A,A,H,H,A,A,H,A,H,A
+2021,14,Minnesota Vikings,Pittsburgh Steelers,A,A,H,H,A,H,H,A,H,H
+2021,14,Carolina Panthers,Atlanta Falcons,H,A,A,H,A,A,A,A,H,A
+2021,14,Cincinnati Bengals,San Francisco 49ers,H,A,H,H,H,H,A,H,H,A
+2021,14,Cleveland Browns,Baltimore Ravens,A,A,A,A,A,A,H,A,H,H
+2021,14,Washington Commanders,Dallas Cowboys,A,A,A,A,H,H,H,H,A,A
+2021,14,Houston Texans,Seattle Seahawks,A,H,A,A,H,A,H,H,A,A
+2021,14,Tennessee Titans,Jacksonville Jaguars,H,H,H,H,H,H,A,H,H,H
+2021,14,Kansas City Chiefs,Las Vegas Raiders,H,A,A,H,A,H,A,A,H,H
+2021,14,New York Jets,New Orleans Saints,A,H,H,A,A,H,H,A,A,A
+2021,14,Denver Broncos,Detroit Lions,H,H,H,H,A,A,A,A,H,H
+2021,14,Los Angeles Chargers,New York Giants,H,A,H,H,H,A,H,H,H,H
+2021,14,Tampa Bay Buccaneers,Buffalo Bills,H,H,H,H,H,H,H,A,H,H
+2021,14,Green Bay Packers,Chicago Bears,H,A,H,H,A,H,A,A,H,H
+2021,14,Arizona Cardinals,Los Angeles Rams,H,A,A,H,H,A,A,A,A,A
+2021,15,Los Angeles Chargers,Kansas City Chiefs,A,H,A,A,H,A,H,H,H,A
+2021,15,Indianapolis Colts,New England Patriots,A,H,A,H,A,H,H,A,A,H
+2021,15,Buffalo Bills,Carolina Panthers,H,H,H,H,A,A,A,A,H,H
+2021,15,Detroit Lions,Arizona Cardinals,A,A,A,A,H,H,H,H,A,H
+2021,15,New York Giants,Dallas Cowboys,A,H,A,A,H,A,H,H,A,A
+2021,15,Baltimore Ravens,Green Bay Packers,A,H,A,A,H,H,H,H,A,A
+2021,15,Jacksonville Jaguars,Houston Texans,H,A,H,A,A,H,A,H,A,A
+2021,15,Miami Dolphins,New York Jets,H,H,A,H,A,A,A,A,H,H
+2021,15,Pittsburgh Steelers,Tennessee Titans,A,H,H,A,A,A,H,H,H,H
+2021,15,San Francisco 49ers,Atlanta Falcons,H,A,H,H,A,A,A,A,A,H
+2021,15,Denver Broncos,Cincinnati Bengals,H,H,A,A,A,A,A,A,H,A
+2021,15,Tampa Bay Buccaneers,New Orleans Saints,H,H,H,H,A,H,H,A,H,A
+2021,15,Cleveland Browns,Las Vegas Raiders,H,A,A,A,A,A,A,A,H,A
+2021,15,Chicago Bears,Minnesota Vikings,A,H,A,A,A,A,H,A,A,A
+2021,15,Philadelphia Eagles,Washington Commanders,H,H,A,H,H,A,A,H,A,H
+2021,15,Los Angeles Rams,Seattle Seahawks,H,H,H,H,H,A,H,H,H,H
+2021,16,Tennessee Titans,San Francisco 49ers,H,H,A,A,H,H,A,A,H,H
+2021,16,Green Bay Packers,Cleveland Browns,H,A,H,H,H,H,A,H,H,H
+2021,16,Arizona Cardinals,Indianapolis Colts,H,A,H,A,H,A,A,A,A,A
+2021,16,Atlanta Falcons,Detroit Lions,H,H,H,H,A,A,H,H,H,H
+2021,16,New England Patriots,Buffalo Bills,H,H,A,A,H,H,A,H,H,A
+2021,16,Carolina Panthers,Tampa Bay Buccaneers,A,H,A,A,A,A,H,H,A,A
+2021,16,Cincinnati Bengals,Baltimore Ravens,H,A,H,H,H,A,A,A,H,H
+2021,16,Houston Texans,Los Angeles Chargers,A,H,A,A,H,H,A,A,H,H
+2021,16,New York Jets,Jacksonville Jaguars,H,H,H,H,H,H,H,H,A,H
+2021,16,Minnesota Vikings,Los Angeles Rams,A,H,A,A,A,H,H,A,H,A
+2021,16,Philadelphia Eagles,New York Giants,H,A,A,H,A,A,A,H,H,H
+2021,16,Seattle Seahawks,Chicago Bears,H,A,H,H,A,H,A,A,H,A
+2021,16,Las Vegas Raiders,Denver Broncos,H,H,H,H,H,H,H,H,A,H
+2021,16,Kansas City Chiefs,Pittsburgh Steelers,H,A,H,H,A,H,A,A,H,H
+2021,16,Dallas Cowboys,Washington Commanders,H,H,H,H,H,A,A,A,H,H
+2021,16,New Orleans Saints,Miami Dolphins,H,A,A,H,H,H,A,H,H,A
+2021,17,Buffalo Bills,Atlanta Falcons,H,A,H,H,A,A,A,A,H,H
+2021,17,New Orleans Saints,Carolina Panthers,H,H,A,H,H,H,A,A,H,H
+2021,17,Chicago Bears,New York Giants,H,A,A,H,H,A,A,A,A,H
+2021,17,Cincinnati Bengals,Kansas City Chiefs,A,A,A,A,H,A,H,A,A,H
+2021,17,Indianapolis Colts,Las Vegas Raiders,H,A,A,H,A,H,A,A,H,A
+2021,17,New England Patriots,Jacksonville Jaguars,H,H,H,H,A,A,A,H,H,H
+2021,17,Tennessee Titans,Miami Dolphins,H,A,A,H,H,H,A,H,H,H
+2021,17,New York Jets,Tampa Bay Buccaneers,A,A,A,A,A,H,H,A,A,A
+2021,17,Washington Commanders,Philadelphia Eagles,A,A,H,A,H,H,H,A,A,A
+2021,17,Los Angeles Chargers,Denver Broncos,H,A,H,H,H,H,H,H,A,H
+2021,17,San Francisco 49ers,Houston Texans,H,A,H,H,A,A,A,H,A,H
+2021,17,Dallas Cowboys,Arizona Cardinals,H,A,H,H,H,H,H,H,H,A
+2021,17,Seattle Seahawks,Detroit Lions,H,H,A,H,A,H,A,A,H,H
+2021,17,Baltimore Ravens,Los Angeles Rams,A,H,A,A,H,H,H,H,A,A
+2021,17,Green Bay Packers,Minnesota Vikings,H,A,H,H,A,A,A,A,A,H
+2021,17,Pittsburgh Steelers,Cleveland Browns,H,H,H,A,H,H,H,H,H,H
+2021,18,Denver Broncos,Kansas City Chiefs,A,H,A,A,A,A,A,A,A,A
+2021,18,Philadelphia Eagles,Dallas Cowboys,A,H,A,A,A,A,H,H,A,A
+2021,18,Atlanta Falcons,New Orleans Saints,A,H,H,A,A,H,H,H,A,A
+2021,18,Tampa Bay Buccaneers,Carolina Panthers,H,H,H,H,H,H,A,A,H,H
+2021,18,Minnesota Vikings,Chicago Bears,H,A,H,H,H,H,H,H,H,H
+2021,18,Cleveland Browns,Cincinnati Bengals,A,H,A,A,H,A,A,A,A,H
+2021,18,Jacksonville Jaguars,Indianapolis Colts,A,A,H,A,H,A,H,A,A,H
+2021,18,Detroit Lions,Green Bay Packers,A,A,A,A,H,H,H,H,A,H
+2021,18,Houston Texans,Tennessee Titans,A,H,A,A,A,A,H,A,H,A
+2021,18,Miami Dolphins,New England Patriots,A,H,A,A,A,H,H,A,A,H
+2021,18,New York Giants,Washington Commanders,A,H,A,A,H,A,A,H,H,A
+2021,18,Baltimore Ravens,Pittsburgh Steelers,A,A,H,H,H,H,A,H,A,A
+2021,18,Buffalo Bills,New York Jets,H,A,H,H,A,A,A,H,H,H
+2021,18,Arizona Cardinals,Seattle Seahawks,H,H,H,H,H,A,H,H,A,A
+2021,18,Los Angeles Rams,San Francisco 49ers,H,H,H,H,A,H,H,H,H,A
+2021,18,Las Vegas Raiders,Los Angeles Chargers,H,H,A,A,A,H,A,H,H,H
+2022,1,Los Angeles Rams,Buffalo Bills,H,H,A,A,A,H,H,H,H,A
+2022,1,Atlanta Falcons,New Orleans Saints,H,H,A,A,A,H,H,H,A,A
+2022,1,Carolina Panthers,Cleveland Browns,H,H,H,A,A,A,H,H,A,A
+2022,1,Chicago Bears,San Francisco 49ers,H,H,A,H,A,H,A,H,H,H
+2022,1,Cincinnati Bengals,Pittsburgh Steelers,H,A,H,A,H,A,H,H,A,A
+2022,1,Houston Texans,Indianapolis Colts,H,H,A,H,A,H,H,H,H,H
+2022,1,Detroit Lions,Philadelphia Eagles,H,A,A,A,H,H,H,A,A,A
+2022,1,Washington Commanders,Jacksonville Jaguars,H,H,H,H,A,A,A,A,A,H
+2022,1,Miami Dolphins,New England Patriots,H,A,H,A,H,A,H,A,H,H
+2022,1,New York Jets,Baltimore Ravens,H,H,H,H,A,A,A,A,A,A
+2022,1,Arizona Cardinals,Kansas City Chiefs,H,A,A,A,H,H,H,H,H,A
+2022,1,Minnesota Vikings,Green Bay Packers,H,H,H,A,A,A,H,A,H,H
+2022,1,Tennessee Titans,New York Giants,H,H,H,A,A,A,H,A,H,A
+2022,1,Los Angeles Chargers,Las Vegas Raiders,H,H,H,H,A,A,A,H,H,H
+2022,1,Dallas Cowboys,Tampa Bay Buccaneers,H,H,A,H,A,H,A,H,H,A
+2022,1,Seattle Seahawks,Denver Broncos,H,H,A,H,A,H,A,H,H,H
+2022,2,Kansas City Chiefs,Los Angeles Chargers,H,A,A,H,H,H,A,A,A,H
+2022,2,New York Giants,Carolina Panthers,H,H,A,H,A,H,A,A,H,H
+2022,2,Cleveland Browns,New York Jets,H,A,A,H,H,H,H,A,H,A
+2022,2,Jacksonville Jaguars,Indianapolis Colts,H,A,A,H,A,H,A,H,H,H
+2022,2,Detroit Lions,Washington Commanders,A,A,A,H,A,H,H,A,H,H
+2022,2,Baltimore Ravens,Miami Dolphins,H,A,A,H,H,H,H,H,H,A
+2022,2,New Orleans Saints,Tampa Bay Buccaneers,H,H,H,A,A,H,A,A,A,A
+2022,2,Pittsburgh Steelers,New England Patriots,H,H,A,H,A,H,H,A,H,A
+2022,2,Los Angeles Rams,Atlanta Falcons,H,H,H,A,A,A,H,H,H,H
+2022,2,San Francisco 49ers,Seattle Seahawks,A,A,A,H,H,A,A,A,H,H
+2022,2,Dallas Cowboys,Cincinnati Bengals,H,H,A,A,A,A,A,H,A,H
+2022,2,Las Vegas Raiders,Arizona Cardinals,H,H,H,A,H,A,A,H,A,A
+2022,2,Denver Broncos,Houston Texans,H,A,H,H,H,A,A,A,A,H
+2022,2,Green Bay Packers,Chicago Bears,A,H,A,H,A,A,A,A,A,H
+2022,2,Buffalo Bills,Tennessee Titans,H,A,H,H,H,A,H,H,H,H
+2022,2,Philadelphia Eagles,Minnesota Vikings,H,A,H,H,A,A,H,H,H,H
+2022,3,Cleveland Browns,Pittsburgh Steelers,H,A,H,H,H,A,H,A,A,H
+2022,3,Miami Dolphins,Buffalo Bills,H,H,A,A,A,H,H,A,H,H
+2022,3,Carolina Panthers,New Orleans Saints,A,H,A,H,A,H,A,H,H,H
+2022,3,Chicago Bears,Houston Texans,H,A,H,H,A,A,A,A,A,H
+2022,3,New York Jets,Cincinnati Bengals,H,A,H,A,A,H,H,A,H,A
+2022,3,Indianapolis Colts,Kansas City Chiefs,A,A,A,A,A,H,A,H,H,H
+2022,3,Minnesota Vikings,Detroit Lions,H,A,H,A,A,H,A,A,H,H
+2022,3,New England Patriots,Baltimore Ravens,H,A,H,A,H,A,A,H,A,A
+2022,3,Tennessee Titans,Las Vegas Raiders,H,H,A,A,H,A,H,A,H,H
+2022,3,Washington Commanders,Philadelphia Eagles,A,H,A,A,H,H,H,A,A,A
+2022,3,Los Angeles Chargers,Jacksonville Jaguars,H,H,H,A,A,A,H,H,A,A
+2022,3,Seattle Seahawks,Atlanta Falcons,H,H,H,A,H,A,A,H,A,A
+2022,3,Arizona Cardinals,Los Angeles Rams,H,A,H,H,A,H,H,A,H,A
+2022,3,Tampa Bay Buccaneers,Green Bay Packers,H,H,A,H,H,H,H,A,H,A
+2022,3,Denver Broncos,San Francisco 49ers,H,A,H,A,H,H,A,A,H,H
+2022,3,New York Giants,Dallas Cowboys,H,H,A,H,H,H,H,H,H,A
+2022,4,Cincinnati Bengals,Miami Dolphins,A,H,A,A,H,A,A,H,H,H
+2022,4,New Orleans Saints,Minnesota Vikings,A,A,H,A,A,A,H,A,A,A
+2022,4,Atlanta Falcons,Cleveland Browns,A,A,A,A,H,H,H,H,A,H
+2022,4,Baltimore Ravens,Buffalo Bills,H,H,A,H,A,H,H,A,H,A
+2022,4,New York Giants,Chicago Bears,H,H,A,H,A,H,A,A,H,H
+2022,4,Indianapolis Colts,Tennessee Titans,H,H,H,A,H,A,A,A,A,A
+2022,4,Dallas Cowboys,Washington Commanders,H,H,A,A,H,A,A,H,H,H
+2022,4,Detroit Lions,Seattle Seahawks,H,H,H,H,H,H,H,A,A,A
+2022,4,Houston Texans,Los Angeles Chargers,A,H,A,A,H,H,A,A,H,A
+2022,4,Philadelphia Eagles,Jacksonville Jaguars,H,H,H,H,A,A,H,H,H,H
+2022,4,Pittsburgh Steelers,New York Jets,H,H,A,A,H,H,A,A,H,A
+2022,4,Carolina Panthers,Arizona Cardinals,H,H,A,A,A,A,A,H,A,A
+2022,4,Las Vegas Raiders,Denver Broncos,A,H,H,H,A,H,H,H,A,H
+2022,4,Green Bay Packers,New England Patriots,H,H,H,H,A,A,A,A,H,H
+2022,4,Tampa Bay Buccaneers,Kansas City Chiefs,H,H,A,A,A,A,A,H,H,A
+2022,4,San Francisco 49ers,Los Angeles Rams,A,A,A,H,A,A,A,A,H,H
+2022,5,Denver Broncos,Indianapolis Colts,H,A,A,H,A,A,A,A,H,A
+2022,5,Green Bay Packers,New York Giants,H,A,H,A,A,A,H,A,A,A
+2022,5,Tampa Bay Buccaneers,Atlanta Falcons,H,H,H,A,H,A,A,A,H,H
+2022,5,Buffalo Bills,Pittsburgh Steelers,H,A,H,H,H,A,A,H,H,H
+2022,5,Minnesota Vikings,Chicago Bears,H,A,H,H,A,H,A,A,H,H
+2022,5,Cleveland Browns,Los Angeles Chargers,H,A,A,H,H,A,A,A,A,A
+2022,5,New England Patriots,Detroit Lions,H,A,A,A,A,A,A,H,H,H
+2022,5,Jacksonville Jaguars,Houston Texans,H,A,H,H,H,A,A,A,A,A
+2022,5,New York Jets,Miami Dolphins,A,H,A,H,H,A,A,A,H,H
+2022,5,New Orleans Saints,Seattle Seahawks,A,H,A,A,A,A,A,A,A,H
+2022,5,Washington Commanders,Tennessee Titans,A,H,H,A,H,A,H,H,A,A
+2022,5,Carolina Panthers,San Francisco 49ers,A,H,A,A,A,H,H,H,A,A
+2022,5,Arizona Cardinals,Philadelphia Eagles,A,A,A,A,H,H,H,A,A,A
+2022,5,Los Angeles Rams,Dallas Cowboys,A,H,H,A,A,H,H,H,A,A
+2022,5,Baltimore Ravens,Cincinnati Bengals,H,A,A,H,A,H,H,H,H,H
+2022,5,Kansas City Chiefs,Las Vegas Raiders,H,A,H,H,H,A,A,A,H,H
+2022,6,Chicago Bears,Washington Commanders,H,A,A,A,H,A,A,H,A,A
+2022,6,Atlanta Falcons,San Francisco 49ers,A,H,A,H,A,H,H,H,H,H
+2022,6,New Orleans Saints,Cincinnati Bengals,H,A,A,H,A,H,H,A,A,A
+2022,6,Cleveland Browns,New England Patriots,H,H,A,H,H,H,H,A,A,A
+2022,6,Indianapolis Colts,Jacksonville Jaguars,H,H,H,A,A,A,H,A,A,H
+2022,6,Green Bay Packers,New York Jets,H,H,A,A,H,A,A,H,A,A
+2022,6,Miami Dolphins,Minnesota Vikings,A,A,H,A,A,A,H,H,A,A
+2022,6,New York Giants,Baltimore Ravens,H,H,A,A,H,A,A,H,A,H
+2022,6,Pittsburgh Steelers,Tampa Bay Buccaneers,A,H,A,A,H,H,H,A,A,H
+2022,6,Los Angeles Rams,Carolina Panthers,H,A,H,H,A,A,A,A,H,H
+2022,6,Seattle Seahawks,Arizona Cardinals,H,H,H,H,H,H,H,H,H,H
+2022,6,Kansas City Chiefs,Buffalo Bills,H,A,A,H,H,H,H,A,A,A
+2022,6,Philadelphia Eagles,Dallas Cowboys,H,H,H,H,A,H,H,A,A,H
+2022,6,Los Angeles Chargers,Denver Broncos,H,H,H,H,H,H,H,H,H,H
+2022,7,Arizona Cardinals,New Orleans Saints,H,A,A,A,A,H,A,H,H,H
+2022,7,Cincinnati Bengals,Atlanta Falcons,H,H,H,H,H,A,A,A,A,H
+2022,7,Carolina Panthers,Tampa Bay Buccaneers,A,A,A,H,H,H,H,H,A,H
+2022,7,Baltimore Ravens,Cleveland Browns,H,A,A,H,A,H,A,H,H,H
+2022,7,Tennessee Titans,Indianapolis Colts,H,A,A,H,H,H,H,H,H,H
+2022,7,Dallas Cowboys,Detroit Lions,H,A,A,A,A,A,A,H,H,H
+2022,7,Washington Commanders,Green Bay Packers,A,A,A,A,A,H,H,A,H,H
+2022,7,Jacksonville Jaguars,New York Giants,A,A,H,H,A,H,H,A,A,A
+2022,7,Las Vegas Raiders,Houston Texans,A,H,H,H,A,H,H,A,A,H
+2022,7,Denver Broncos,New York Jets,A,A,H,A,H,A,A,A,A,A
+2022,7,San Francisco 49ers,Kansas City Chiefs,A,H,A,A,A,A,A,H,A,A
+2022,7,Los Angeles Chargers,Seattle Seahawks,H,H,H,A,A,A,H,H,H,A
+2022,7,Miami Dolphins,Pittsburgh Steelers,H,A,H,H,A,A,H,H,H,H
+2022,7,New England Patriots,Chicago Bears,H,A,H,H,A,H,H,A,A,A
+2022,8,Tampa Bay Buccaneers,Baltimore Ravens,A,H,H,A,A,A,A,A,A,A
+2022,8,Jacksonville Jaguars,Denver Broncos,H,H,A,H,A,H,H,H,A,A
+2022,8,Detroit Lions,Miami Dolphins,A,A,A,H,H,H,H,A,H,A
+2022,8,Philadelphia Eagles,Pittsburgh Steelers,H,A,H,H,A,A,A,H,H,H
+2022,8,Atlanta Falcons,Carolina Panthers,H,H,A,H,A,H,H,A,H,H
+2022,8,Dallas Cowboys,Chicago Bears,H,A,H,H,A,A,A,A,H,H
+2022,8,Minnesota Vikings,Arizona Cardinals,H,A,H,H,A,H,A,A,H,H
+2022,8,New Orleans Saints,Las Vegas Raiders,A,H,H,H,H,A,H,A,H,H
+2022,8,New York Jets,New England Patriots,H,A,H,A,A,A,A,A,H,A
+2022,8,Houston Texans,Tennessee Titans,A,H,H,A,A,A,H,H,H,A
+2022,8,Los Angeles Rams,San Francisco 49ers,H,H,A,A,A,H,H,H,H,A
+2022,8,Indianapolis Colts,Washington Commanders,H,H,H,A,A,A,A,A,H,A
+2022,8,Seattle Seahawks,New York Giants,A,A,H,H,H,H,H,H,H,H
+2022,8,Buffalo Bills,Green Bay Packers,H,H,H,H,H,H,A,H,H,H
+2022,8,Cleveland Browns,Cincinnati Bengals,A,A,A,H,A,A,H,A,A,H
+2022,9,Houston Texans,Philadelphia Eagles,A,A,A,A,H,H,H,H,H,A
+2022,9,New York Jets,Buffalo Bills,A,A,A,A,H,H,H,A,H,H
+2022,9,Detroit Lions,Green Bay Packers,A,H,H,H,H,H,H,A,A,H
+2022,9,Washington Commanders,Minnesota Vikings,A,H,A,A,H,A,H,H,A,A
+2022,9,Atlanta Falcons,Los Angeles Chargers,A,A,A,H,A,H,A,A,A,A
+2022,9,Cincinnati Bengals,Carolina Panthers,H,H,H,H,A,A,A,A,H,H
+2022,9,Chicago Bears,Miami Dolphins,A,A,A,A,H,A,A,H,H,A
+2022,9,New England Patriots,Indianapolis Colts,H,A,A,H,H,H,A,H,H,H
+2022,9,Jacksonville Jaguars,Las Vegas Raiders,A,H,A,A,A,A,A,A,H,H
+2022,9,Arizona Cardinals,Seattle Seahawks,A,A,A,A,A,H,H,A,H,A
+2022,9,Tampa Bay Buccaneers,Los Angeles Rams,A,A,H,H,A,A,A,A,H,H
+2022,9,Kansas City Chiefs,Tennessee Titans,H,A,H,H,A,A,H,A,A,H
+2022,9,New Orleans Saints,Baltimore Ravens,A,A,H,A,A,A,H,A,A,A
+2022,10,Carolina Panthers,Atlanta Falcons,A,A,H,A,H,A,A,H,A,H
+2022,10,Tampa Bay Buccaneers,Seattle Seahawks,A,H,H,A,A,A,A,A,A,H
+2022,10,Buffalo Bills,Minnesota Vikings,A,H,H,H,A,A,A,H,A,A
+2022,10,Miami Dolphins,Cleveland Browns,H,H,H,H,A,H,A,H,A,H
+2022,10,Tennessee Titans,Denver Broncos,H,H,A,H,H,H,H,H,H,H
+2022,10,New York Giants,Houston Texans,H,H,A,H,A,H,A,A,H,H
+2022,10,Chicago Bears,Detroit Lions,H,H,A,A,A,A,A,H,H,A
+2022,10,Kansas City Chiefs,Jacksonville Jaguars,H,A,H,H,H,H,H,A,A,H
+2022,10,Pittsburgh Steelers,New Orleans Saints,A,A,A,A,A,H,A,H,H,H
+2022,10,Las Vegas Raiders,Indianapolis Colts,A,A,H,H,H,H,H,H,A,A
+2022,10,Green Bay Packers,Dallas Cowboys,A,A,H,A,A,A,H,A,A,H
+2022,10,Los Angeles Rams,Arizona Cardinals,H,H,A,A,H,A,A,H,A,A
+2022,10,San Francisco 49ers,Los Angeles Chargers,A,A,A,A,H,A,A,A,A,H
+2022,10,Philadelphia Eagles,Washington Commanders,H,H,H,H,H,A,A,H,H,A
+2022,11,Green Bay Packers,Tennessee Titans,A,A,H,A,A,A,H,H,A,A
+2022,11,Buffalo Bills,Cleveland Browns,H,A,H,H,A,H,A,H,H,H
+2022,11,New York Giants,Detroit Lions,H,H,A,A,A,A,A,H,H,A
+2022,11,Houston Texans,Washington Commanders,A,H,A,A,H,H,H,H,A,A
+2022,11,New England Patriots,New York Jets,A,H,H,H,H,A,A,H,A,H
+2022,11,Atlanta Falcons,Chicago Bears,H,A,H,H,A,H,H,A,A,H
+2022,11,Baltimore Ravens,Carolina Panthers,H,H,H,H,H,H,A,A,H,H
+2022,11,Indianapolis Colts,Philadelphia Eagles,A,H,A,A,A,H,H,A,A,A
+2022,11,New Orleans Saints,Los Angeles Rams,A,A,H,H,A,A,H,A,A,H
+2022,11,Denver Broncos,Las Vegas Raiders,H,A,A,A,A,A,A,A,H,A
+2022,11,Pittsburgh Steelers,Cincinnati Bengals,A,A,A,A,A,H,H,A,A,A
+2022,11,Minnesota Vikings,Dallas Cowboys,H,A,H,A,A,H,H,A,H,A
+2022,11,Los Angeles Chargers,Kansas City Chiefs,A,H,A,A,H,A,H,H,H,A
+2022,11,Arizona Cardinals,San Francisco 49ers,A,A,A,A,A,H,H,H,H,A
+2022,12,Detroit Lions,Buffalo Bills,A,A,A,A,H,H,H,A,A,A
+2022,12,Dallas Cowboys,New York Giants,H,A,H,H,A,A,A,H,H,H
+2022,12,Minnesota Vikings,New England Patriots,H,H,H,H,H,H,H,A,H,H
+2022,12,Tennessee Titans,Cincinnati Bengals,H,A,A,A,H,H,A,H,H,A
+2022,12,Cleveland Browns,Tampa Bay Buccaneers,A,A,A,H,H,H,H,A,A,H
+2022,12,Miami Dolphins,Houston Texans,H,H,H,H,A,H,A,A,H,H
+2022,12,Jacksonville Jaguars,Baltimore Ravens,A,A,H,A,A,A,H,A,A,H
+2022,12,Washington Commanders,Atlanta Falcons,H,A,H,A,A,A,A,A,H,H
+2022,12,Carolina Panthers,Denver Broncos,A,H,A,H,H,H,H,H,H,H
+2022,12,New York Jets,Chicago Bears,H,A,H,A,A,A,A,A,H,H
+2022,12,Seattle Seahawks,Las Vegas Raiders,H,A,A,H,H,A,H,H,H,A
+2022,12,Arizona Cardinals,Los Angeles Chargers,A,A,A,A,A,H,H,A,A,A
+2022,12,Kansas City Chiefs,Los Angeles Rams,H,A,H,H,A,H,A,A,A,H
+2022,12,San Francisco 49ers,New Orleans Saints,H,H,H,H,H,H,A,H,H,H
+2022,12,Philadelphia Eagles,Green Bay Packers,H,H,A,H,A,A,A,H,H,H
+2022,12,Indianapolis Colts,Pittsburgh Steelers,H,H,H,A,H,A,A,H,A,A
+2022,13,New England Patriots,Buffalo Bills,A,A,A,A,H,A,H,A,H,A
+2022,13,Houston Texans,Cleveland Browns,A,H,A,A,H,A,A,H,H,A
+2022,13,Baltimore Ravens,Denver Broncos,H,H,A,H,H,H,H,H,H,H
+2022,13,Detroit Lions,Jacksonville Jaguars,H,A,H,H,H,A,H,A,H,H
+2022,13,Minnesota Vikings,New York Jets,H,A,H,H,H,H,H,A,H,H
+2022,13,New York Giants,Washington Commanders,H,H,A,H,H,H,H,H,H,A
+2022,13,Philadelphia Eagles,Tennessee Titans,H,H,H,H,A,A,A,H,A,H
+2022,13,Atlanta Falcons,Pittsburgh Steelers,H,H,A,H,H,A,H,H,A,A
+2022,13,Chicago Bears,Green Bay Packers,A,H,A,H,A,H,H,H,H,A
+2022,13,San Francisco 49ers,Miami Dolphins,A,A,A,A,H,A,A,H,H,H
+2022,13,Los Angeles Rams,Seattle Seahawks,A,H,A,A,H,H,A,H,A,A
+2022,13,Cincinnati Bengals,Kansas City Chiefs,A,A,A,A,H,A,A,H,H,H
+2022,13,Las Vegas Raiders,Los Angeles Chargers,A,A,A,H,A,H,A,A,A,H
+2022,13,Dallas Cowboys,Indianapolis Colts,H,H,A,H,H,A,A,H,H,H
+2022,13,Tampa Bay Buccaneers,New Orleans Saints,H,H,H,A,A,A,A,H,H,H
+2022,14,Los Angeles Rams,Las Vegas Raiders,A,H,A,A,A,A,A,H,H,H
+2022,14,Buffalo Bills,New York Jets,H,H,H,H,H,H,A,H,H,H
+2022,14,Cincinnati Bengals,Cleveland Browns,H,A,H,H,A,H,A,H,H,H
+2022,14,Dallas Cowboys,Houston Texans,H,A,H,H,A,A,A,A,H,H
+2022,14,Detroit Lions,Minnesota Vikings,A,A,H,H,H,A,H,H,A,H
+2022,14,Tennessee Titans,Jacksonville Jaguars,H,A,A,A,H,H,A,A,A,A
+2022,14,New York Giants,Philadelphia Eagles,A,A,A,A,H,H,H,H,H,A
+2022,14,Pittsburgh Steelers,Baltimore Ravens,A,A,H,A,A,A,H,A,A,A
+2022,14,Denver Broncos,Kansas City Chiefs,A,A,A,A,H,A,A,H,H,A
+2022,14,Seattle Seahawks,Carolina Panthers,H,A,H,H,H,H,H,A,H,A
+2022,14,San Francisco 49ers,Tampa Bay Buccaneers,H,A,A,H,H,H,A,H,H,H
+2022,14,Los Angeles Chargers,Miami Dolphins,A,A,A,A,H,A,H,H,H,H
+2022,14,Arizona Cardinals,New England Patriots,A,H,H,H,A,H,H,H,A,A
+2022,15,Seattle Seahawks,San Francisco 49ers,A,A,H,H,A,H,H,H,A,A
+2022,15,Minnesota Vikings,Indianapolis Colts,H,H,H,H,A,H,H,A,H,H
+2022,15,Cleveland Browns,Baltimore Ravens,A,A,H,H,A,A,H,A,A,H
+2022,15,Buffalo Bills,Miami Dolphins,H,A,A,H,A,A,A,H,H,H
+2022,15,New Orleans Saints,Atlanta Falcons,A,A,H,A,H,A,A,A,A,H
+2022,15,Carolina Panthers,Pittsburgh Steelers,H,H,A,H,H,A,H,H,A,A
+2022,15,Chicago Bears,Philadelphia Eagles,A,H,A,A,H,H,H,H,A,A
+2022,15,Jacksonville Jaguars,Dallas Cowboys,A,A,H,A,A,H,H,A,A,H
+2022,15,New York Jets,Detroit Lions,H,A,A,A,A,A,A,H,A,A
+2022,15,Houston Texans,Kansas City Chiefs,A,H,A,A,H,A,H,H,A,A
+2022,15,Denver Broncos,Arizona Cardinals,A,A,A,A,H,A,A,A,H,H
+2022,15,Las Vegas Raiders,New England Patriots,A,H,H,H,H,H,H,H,A,H
+2022,15,Tampa Bay Buccaneers,Cincinnati Bengals,A,H,H,A,H,A,H,A,A,A
+2022,15,Los Angeles Chargers,Tennessee Titans,H,H,H,H,A,A,H,H,H,H
+2022,15,Washington Commanders,New York Giants,H,A,H,A,A,A,A,A,A,A
+2022,15,Green Bay Packers,Los Angeles Rams,H,A,H,H,H,A,A,A,A,H
+2022,16,New York Jets,Jacksonville Jaguars,H,A,A,A,A,A,A,A,A,A
+2022,16,Baltimore Ravens,Atlanta Falcons,H,H,H,H,H,A,A,A,H,H
+2022,16,Chicago Bears,Buffalo Bills,A,H,A,A,H,A,H,H,H,A
+2022,16,Carolina Panthers,Detroit Lions,A,H,A,A,A,A,A,H,A,H
+2022,16,New England Patriots,Cincinnati Bengals,A,A,A,A,H,A,A,H,H,A
+2022,16,Cleveland Browns,New Orleans Saints,H,H,A,H,H,H,H,H,H,A
+2022,16,Tennessee Titans,Houston Texans,H,A,A,H,H,H,A,A,H,A
+2022,16,Kansas City Chiefs,Seattle Seahawks,H,H,H,H,A,H,A,A,A,H
+2022,16,Minnesota Vikings,New York Giants,H,H,H,H,A,H,H,A,H,H
+2022,16,San Francisco 49ers,Washington Commanders,H,H,H,H,H,H,A,H,H,H
+2022,16,Dallas Cowboys,Philadelphia Eagles,A,A,A,A,H,H,A,H,A,H
+2022,16,Pittsburgh Steelers,Las Vegas Raiders,H,A,A,A,A,A,A,A,H,H
+2022,16,Miami Dolphins,Green Bay Packers,H,H,H,H,A,H,H,A,A,A
+2022,16,Los Angeles Rams,Denver Broncos,H,H,A,H,A,H,H,H,H,H
+2022,16,Arizona Cardinals,Tampa Bay Buccaneers,A,A,A,H,A,H,H,H,A,A
+2022,16,Indianapolis Colts,Los Angeles Chargers,A,A,A,A,A,H,H,A,A,A
+2022,17,Tennessee Titans,Dallas Cowboys,A,A,A,A,H,H,H,A,A,A
+2022,17,Atlanta Falcons,Arizona Cardinals,H,H,A,H,H,H,A,A,H,H
+2022,17,Tampa Bay Buccaneers,Carolina Panthers,H,H,H,A,A,A,A,A,A,H
+2022,17,Detroit Lions,Chicago Bears,H,A,H,H,A,H,A,A,H,H
+2022,17,Washington Commanders,Cleveland Browns,H,A,H,A,A,A,A,H,A,A
+2022,17,New York Giants,Indianapolis Colts,H,H,A,H,H,H,A,H,H,H
+2022,17,Kansas City Chiefs,Denver Broncos,H,H,H,H,A,H,H,A,H,H
+2022,17,Houston Texans,Jacksonville Jaguars,A,H,A,A,H,A,H,H,A,A
+2022,17,New England Patriots,Miami Dolphins,A,A,A,A,A,A,A,H,H,H
+2022,17,Philadelphia Eagles,New Orleans Saints,H,H,H,H,A,A,A,H,H,A
+2022,17,Seattle Seahawks,New York Jets,H,H,H,H,H,H,H,H,H,H
+2022,17,Las Vegas Raiders,San Francisco 49ers,A,A,H,A,A,H,H,H,A,A
+2022,17,Green Bay Packers,Minnesota Vikings,A,A,A,A,H,A,A,H,H,H
+2022,17,Los Angeles Chargers,Los Angeles Rams,H,A,H,H,H,A,A,H,H,H
+2022,17,Baltimore Ravens,Pittsburgh Steelers,H,H,A,H,H,H,A,H,H,A
+2022,18,Las Vegas Raiders,Kansas City Chiefs,A,H,A,A,H,H,H,H,H,A
+2022,18,Jacksonville Jaguars,Tennessee Titans,H,A,H,H,A,A,A,H,H,H
+2022,18,Buffalo Bills,New England Patriots,H,H,H,H,A,A,A,H,A,H
+2022,18,Cincinnati Bengals,Baltimore Ravens,H,H,H,H,A,A,H,A,H,H
+2022,18,Atlanta Falcons,Tampa Bay Buccaneers,A,A,A,H,H,H,H,H,H,H
+2022,18,New Orleans Saints,Carolina Panthers,H,A,H,A,H,A,A,A,A,A
+2022,18,Chicago Bears,Minnesota Vikings,A,A,A,A,H,A,H,H,A,A
+2022,18,Pittsburgh Steelers,Cleveland Browns,H,A,A,A,A,H,A,H,H,H
+2022,18,Indianapolis Colts,Houston Texans,H,A,H,H,A,H,H,A,H,A
+2022,18,Miami Dolphins,New York Jets,H,H,H,H,A,H,H,H,H,H
+2022,18,San Francisco 49ers,Arizona Cardinals,H,H,H,H,H,A,A,A,H,H
+2022,18,Washington Commanders,Dallas Cowboys,A,A,A,A,A,A,H,A,A,H
+2022,18,Denver Broncos,Los Angeles Chargers,A,A,A,A,A,H,A,A,A,H
+2022,18,Philadelphia Eagles,New York Giants,H,A,H,H,A,A,A,A,H,H
+2022,18,Seattle Seahawks,Los Angeles Rams,H,A,H,H,H,A,H,A,H,H
+2022,18,Green Bay Packers,Detroit Lions,H,A,A,A,A,A,A,H,A,A
+2023,1,Kansas City Chiefs,Detroit Lions,H,H,A,A,A,H,H,H,H,A
+2023,1,Atlanta Falcons,Carolina Panthers,H,A,H,H,H,A,A,H,H,H
+2023,1,Cleveland Browns,Cincinnati Bengals,H,A,A,A,H,H,H,H,A,H
+2023,1,Indianapolis Colts,Jacksonville Jaguars,H,H,A,A,A,H,H,A,A,A
+2023,1,Washington Commanders,Arizona Cardinals,H,A,H,H,H,A,A,A,A,H
+2023,1,Baltimore Ravens,Houston Texans,H,A,A,A,H,H,H,A,A,H
+2023,1,Minnesota Vikings,Tampa Bay Buccaneers,H,A,H,A,H,A,H,A,A,A
+2023,1,New Orleans Saints,Tennessee Titans,H,H,H,H,A,A,A,A,H,H
+2023,1,Pittsburgh Steelers,San Francisco 49ers,H,H,A,H,A,H,A,H,A,A
+2023,1,Chicago Bears,Green Bay Packers,H,A,A,A,H,H,H,H,A,A
+2023,1,Denver Broncos,Las Vegas Raiders,H,H,A,A,A,H,H,H,H,A
+2023,1,Los Angeles Chargers,Miami Dolphins,H,A,A,A,H,H,H,H,H,A
+2023,1,New England Patriots,Philadelphia Eagles,H,A,H,A,H,A,H,A,A,A
+2023,1,Seattle Seahawks,Los Angeles Rams,H,A,H,A,H,A,H,H,H,A
+2023,1,New York Giants,Dallas Cowboys,H,A,H,A,H,A,H,A,A,A
+2023,1,New York Jets,Buffalo Bills,H,A,A,H,H,H,A,H,H,H
+2023,2,Philadelphia Eagles,Minnesota Vikings,H,A,A,H,H,H,A,H,H,H
+2023,2,Atlanta Falcons,Green Bay Packers,H,A,A,A,A,A,A,H,A,H
+2023,2,Buffalo Bills,Las Vegas Raiders,A,A,H,H,A,A,A,A,H,H
+2023,2,Tampa Bay Buccaneers,Chicago Bears,H,H,H,H,H,A,A,H,H,H
+2023,2,Cincinnati Bengals,Baltimore Ravens,A,H,A,A,A,A,H,A,H,A
+2023,2,Houston Texans,Indianapolis Colts,H,A,H,A,A,A,H,H,H,A
+2023,2,Detroit Lions,Seattle Seahawks,H,A,H,H,A,A,A,H,A,A
+2023,2,Jacksonville Jaguars,Kansas City Chiefs,H,A,A,H,A,H,H,A,H,A
+2023,2,Tennessee Titans,Los Angeles Chargers,H,A,A,A,H,A,A,H,A,H
+2023,2,Arizona Cardinals,New York Giants,H,H,A,H,A,H,A,H,H,A
+2023,2,Los Angeles Rams,San Francisco 49ers,H,H,H,A,A,A,H,A,A,A
+2023,2,Dallas Cowboys,New York Jets,H,H,H,H,H,A,H,H,H,H
+2023,2,Denver Broncos,Washington Commanders,A,H,H,A,H,H,H,H,A,A
+2023,2,New England Patriots,Miami Dolphins,A,H,A,A,A,A,A,A,H,A
+2023,2,Carolina Panthers,New Orleans Saints,A,H,A,A,H,A,H,H,A,A
+2023,2,Pittsburgh Steelers,Cleveland Browns,A,H,H,A,A,H,H,H,H,H
+2023,3,San Francisco 49ers,New York Giants,H,A,H,H,H,A,A,H,H,H
+2023,3,Detroit Lions,Atlanta Falcons,A,A,H,H,H,H,H,H,A,H
+2023,3,Washington Commanders,Buffalo Bills,H,A,A,A,H,H,H,A,A,A
+2023,3,Cleveland Browns,Tennessee Titans,H,A,H,H,A,A,A,A,A,H
+2023,3,Baltimore Ravens,Indianapolis Colts,H,H,A,A,H,A,A,H,A,A
+2023,3,Miami Dolphins,Denver Broncos,H,A,H,H,A,A,A,A,H,H
+2023,3,Green Bay Packers,New Orleans Saints,A,A,A,H,A,H,H,H,H,H
+2023,3,Jacksonville Jaguars,Houston Texans,H,H,A,A,H,H,H,A,A,A
+2023,3,Minnesota Vikings,Los Angeles Chargers,H,H,H,A,H,A,A,A,A,A
+2023,3,New York Jets,New England Patriots,H,H,A,A,A,H,H,H,A,A
+2023,3,Seattle Seahawks,Carolina Panthers,H,A,H,H,H,H,H,H,H,H
+2023,3,Kansas City Chiefs,Chicago Bears,H,H,H,H,A,A,A,H,A,H
+2023,3,Arizona Cardinals,Dallas Cowboys,A,H,A,A,H,H,H,A,A,H
+2023,3,Las Vegas Raiders,Pittsburgh Steelers,H,A,H,A,A,A,H,A,A,A
+2023,3,Tampa Bay Buccaneers,Philadelphia Eagles,H,H,H,A,A,A,H,A,H,A
+2023,3,Cincinnati Bengals,Los Angeles Rams,A,A,A,A,H,H,H,H,H,H
+2023,4,Green Bay Packers,Detroit Lions,H,H,A,A,A,A,H,A,H,A
+2023,4,Jacksonville Jaguars,Atlanta Falcons,A,A,H,H,H,H,H,A,H,H
+2023,4,Buffalo Bills,Miami Dolphins,A,A,A,A,A,A,A,A,H,H
+2023,4,Carolina Panthers,Minnesota Vikings,H,H,A,A,H,A,H,H,A,A
+2023,4,Chicago Bears,Denver Broncos,H,A,A,A,A,A,A,H,H,A
+2023,4,Tennessee Titans,Cincinnati Bengals,H,A,H,H,H,H,A,H,A,H
+2023,4,Cleveland Browns,Baltimore Ravens,H,A,A,A,A,A,H,H,A,A
+2023,4,Indianapolis Colts,Los Angeles Rams,H,H,A,A,H,H,H,H,H,A
+2023,4,Houston Texans,Pittsburgh Steelers,A,H,H,H,A,A,A,A,H,H
+2023,4,New Orleans Saints,Tampa Bay Buccaneers,H,H,A,A,A,A,H,A,A,A
+2023,4,Philadelphia Eagles,Washington Commanders,H,H,H,H,H,H,A,H,H,H
+2023,4,Los Angeles Chargers,Las Vegas Raiders,H,A,H,H,A,H,H,H,H,H
+2023,4,San Francisco 49ers,Arizona Cardinals,H,H,H,H,H,A,A,A,H,H
+2023,4,Dallas Cowboys,New England Patriots,H,A,A,H,H,A,A,H,H,H
+2023,4,New York Jets,Kansas City Chiefs,A,H,A,A,H,H,H,A,H,A
+2023,4,New York Giants,Seattle Seahawks,A,H,A,A,A,A,H,A,A,A
+2023,5,Washington Commanders,Chicago Bears,H,H,H,A,A,A,H,A,H,A
+2023,5,Buffalo Bills,Jacksonville Jaguars,H,A,H,H,A,A,A,H,H,A
+2023,5,Atlanta Falcons,Houston Texans,H,A,A,A,A,A,A,A,A,H
+2023,5,Detroit Lions,Carolina Panthers,H,A,H,H,H,H,A,H,H,H
+2023,5,Indianapolis Colts,Tennessee Titans,H,H,H,H,A,H,H,A,H,H
+2023,5,Miami Dolphins,New York Giants,H,A,H,H,A,H,A,H,A,H
+2023,5,New England Patriots,New Orleans Saints,A,A,H,A,A,H,H,A,A,A
+2023,5,Pittsburgh Steelers,Baltimore Ravens,A,H,A,A,A,H,H,H,H,H
+2023,5,Arizona Cardinals,Cincinnati Bengals,H,A,A,H,A,H,H,H,A,A
+2023,5,Los Angeles Rams,Philadelphia Eagles,A,H,H,A,A,A,H,A,A,A
+2023,5,Denver Broncos,New York Jets,H,A,H,H,H,H,H,A,A,A
+2023,5,Minnesota Vikings,Kansas City Chiefs,A,H,H,A,A,H,H,A,H,A
+2023,5,San Francisco 49ers,Dallas Cowboys,H,H,H,H,H,H,A,A,H,H
+2023,5,Las Vegas Raiders,Green Bay Packers,A,A,H,A,A,H,H,H,H,H
+2023,6,Kansas City Chiefs,Denver Broncos,H,H,H,H,A,A,A,H,H,H
+2023,6,Tennessee Titans,Baltimore Ravens,A,A,A,A,A,H,H,H,H,A
+2023,6,Cleveland Browns,San Francisco 49ers,A,A,A,A,A,A,H,H,A,H
+2023,6,Atlanta Falcons,Washington Commanders,H,A,A,A,H,A,A,H,H,A
+2023,6,Miami Dolphins,Carolina Panthers,H,A,H,H,A,H,A,H,H,H
+2023,6,Chicago Bears,Minnesota Vikings,H,A,A,A,H,H,H,H,A,A
+2023,6,Cincinnati Bengals,Seattle Seahawks,A,H,A,A,A,A,A,H,H,H
+2023,6,Jacksonville Jaguars,Indianapolis Colts,H,A,A,H,H,H,A,H,H,H
+2023,6,Houston Texans,New Orleans Saints,A,A,H,H,A,H,H,H,H,H
+2023,6,Las Vegas Raiders,New England Patriots,H,A,H,H,H,A,A,H,A,H
+2023,6,Los Angeles Rams,Arizona Cardinals,H,A,H,H,A,A,A,A,A,H
+2023,6,Tampa Bay Buccaneers,Detroit Lions,A,H,A,A,H,H,A,H,H,A
+2023,6,New York Jets,Philadelphia Eagles,A,A,A,A,A,A,A,A,H,H
+2023,6,Buffalo Bills,New York Giants,H,A,H,H,A,A,A,H,H,H
+2023,6,Los Angeles Chargers,Dallas Cowboys,A,A,H,A,A,H,H,A,A,A
+2023,7,New Orleans Saints,Jacksonville Jaguars,A,H,H,A,H,A,A,H,A,A
+2023,7,Indianapolis Colts,Cleveland Browns,A,A,H,H,A,H,H,A,A,A
+2023,7,Tampa Bay Buccaneers,Atlanta Falcons,H,H,H,H,H,H,A,H,H,A
+2023,7,New England Patriots,Buffalo Bills,A,H,A,A,A,H,H,A,A,H
+2023,7,Chicago Bears,Las Vegas Raiders,A,A,A,H,H,H,H,H,H,H
+2023,7,Baltimore Ravens,Detroit Lions,A,H,A,A,H,A,A,A,A,H
+2023,7,New York Giants,Washington Commanders,A,H,A,A,H,A,A,A,H,H
+2023,7,Los Angeles Rams,Pittsburgh Steelers,A,A,H,H,A,A,A,A,A,A
+2023,7,Seattle Seahawks,Arizona Cardinals,H,A,H,H,H,A,A,A,A,H
+2023,7,Denver Broncos,Green Bay Packers,A,A,H,A,H,H,H,H,H,H
+2023,7,Kansas City Chiefs,Los Angeles Chargers,H,A,H,H,A,A,A,H,A,H
+2023,7,Philadelphia Eagles,Miami Dolphins,H,A,A,A,H,A,A,H,A,H
+2023,7,Minnesota Vikings,San Francisco 49ers,A,H,H,A,A,H,H,A,A,H
+2023,8,Buffalo Bills,Tampa Bay Buccaneers,H,A,H,H,A,A,A,A,A,H
+2023,8,Carolina Panthers,Houston Texans,A,A,A,A,A,A,H,A,A,H
+2023,8,Dallas Cowboys,Los Angeles Rams,H,H,A,H,A,A,A,H,H,H
+2023,8,Green Bay Packers,Minnesota Vikings,A,H,A,A,H,A,H,H,A,A
+2023,8,Tennessee Titans,Atlanta Falcons,A,A,A,H,H,H,A,H,A,H
+2023,8,Indianapolis Colts,New Orleans Saints,H,H,A,H,H,H,H,A,A,A
+2023,8,Pittsburgh Steelers,Jacksonville Jaguars,A,H,A,A,A,A,H,H,H,A
+2023,8,Miami Dolphins,New England Patriots,H,A,H,H,A,A,A,H,A,H
+2023,8,New York Giants,New York Jets,A,H,A,A,A,H,H,A,A,A
+2023,8,Washington Commanders,Philadelphia Eagles,A,H,A,A,A,H,H,A,H,A
+2023,8,Seattle Seahawks,Cleveland Browns,H,A,H,H,H,H,A,A,H,H
+2023,8,San Francisco 49ers,Cincinnati Bengals,H,A,H,H,H,A,A,H,A,A
+2023,8,Arizona Cardinals,Baltimore Ravens,A,A,A,A,A,H,H,A,H,A
+2023,8,Denver Broncos,Kansas City Chiefs,A,H,A,A,H,H,H,A,H,H
+2023,8,Los Angeles Chargers,Chicago Bears,H,A,H,H,H,H,A,H,H,H
+2023,8,Detroit Lions,Las Vegas Raiders,H,A,H,H,H,H,A,H,H,H
+2023,9,Pittsburgh Steelers,Tennessee Titans,H,H,H,A,H,H,H,A,H,H
+2023,9,Kansas City Chiefs,Miami Dolphins,H,A,A,A,H,A,A,H,H,H
+2023,9,Cleveland Browns,Arizona Cardinals,H,H,H,H,H,A,A,H,H,H
+2023,9,Green Bay Packers,Los Angeles Rams,A,A,A,H,H,A,A,H,H,H
+2023,9,Houston Texans,Tampa Bay Buccaneers,H,H,H,H,H,A,A,A,A,H
+2023,9,Atlanta Falcons,Minnesota Vikings,H,A,A,A,H,A,H,H,H,A
+2023,9,New Orleans Saints,Chicago Bears,H,A,H,H,A,A,A,A,H,H
+2023,9,New England Patriots,Washington Commanders,A,A,A,A,A,A,A,A,H,A
+2023,9,Baltimore Ravens,Seattle Seahawks,H,A,A,H,H,A,A,H,A,H
+2023,9,Carolina Panthers,Indianapolis Colts,A,H,A,A,H,A,H,H,A,A
+2023,9,Philadelphia Eagles,Dallas Cowboys,H,H,H,H,H,H,H,A,A,H
+2023,9,Las Vegas Raiders,New York Giants,H,H,H,H,H,A,A,H,H,H
+2023,9,Cincinnati Bengals,Buffalo Bills,A,H,A,A,H,H,H,H,H,H
+2023,9,New York Jets,Los Angeles Chargers,H,H,A,A,A,A,A,A,A,A
+2023,10,Chicago Bears,Carolina Panthers,H,A,H,H,H,H,A,H,H,H
+2023,10,New England Patriots,Indianapolis Colts,A,H,A,A,H,H,A,A,A,A
+2023,10,Cincinnati Bengals,Houston Texans,H,A,A,A,A,H,H,A,A,A
+2023,10,Baltimore Ravens,Cleveland Browns,H,H,H,H,A,H,A,A,H,A
+2023,10,Pittsburgh Steelers,Green Bay Packers,H,H,A,A,A,H,H,H,H,H
+2023,10,Jacksonville Jaguars,San Francisco 49ers,H,A,A,A,H,H,H,A,A,A
+2023,10,Tampa Bay Buccaneers,Tennessee Titans,H,H,H,H,H,H,A,A,H,H
+2023,10,Minnesota Vikings,New Orleans Saints,H,H,H,H,H,H,H,A,A,H
+2023,10,Los Angeles Chargers,Detroit Lions,A,A,A,A,A,H,H,H,H,A
+2023,10,Arizona Cardinals,Atlanta Falcons,A,A,A,A,H,H,H,A,A,H
+2023,10,Dallas Cowboys,New York Giants,H,H,H,H,A,A,A,H,H,H
+2023,10,Seattle Seahawks,Washington Commanders,H,H,A,H,A,A,A,H,H,H
+2023,10,Las Vegas Raiders,New York Jets,A,H,H,H,A,H,H,A,A,H
+2023,10,Buffalo Bills,Denver Broncos,H,A,H,H,A,A,A,A,A,A
+2023,11,Baltimore Ravens,Cincinnati Bengals,H,A,A,H,A,A,A,H,A,H
+2023,11,Carolina Panthers,Dallas Cowboys,A,H,A,A,H,H,H,A,A,A
+2023,11,Cleveland Browns,Pittsburgh Steelers,H,H,H,H,H,A,A,A,A,H
+2023,11,Green Bay Packers,Los Angeles Chargers,A,A,A,A,H,A,A,A,A,H
+2023,11,Jacksonville Jaguars,Tennessee Titans,H,H,H,H,H,H,A,A,H,H
+2023,11,Miami Dolphins,Las Vegas Raiders,H,A,H,H,H,H,H,A,A,H
+2023,11,Detroit Lions,Chicago Bears,H,A,H,H,H,A,A,A,A,H
+2023,11,Houston Texans,Arizona Cardinals,H,H,H,H,H,H,A,H,H,H
+2023,11,Washington Commanders,New York Giants,H,H,H,H,A,H,H,H,A,A
+2023,11,San Francisco 49ers,Tampa Bay Buccaneers,H,A,H,H,A,A,A,A,A,H
+2023,11,Los Angeles Rams,Seattle Seahawks,A,A,A,A,H,A,H,A,A,H
+2023,11,Buffalo Bills,New York Jets,H,A,H,H,A,H,A,A,H,H
+2023,11,Denver Broncos,Minnesota Vikings,A,A,A,A,A,H,H,H,H,H
+2023,11,Kansas City Chiefs,Philadelphia Eagles,A,A,H,A,A,A,A,H,H,A
+2023,12,Detroit Lions,Green Bay Packers,H,H,H,H,H,H,H,H,A,A
+2023,12,Dallas Cowboys,Washington Commanders,H,A,H,H,A,A,A,H,H,H
+2023,12,Seattle Seahawks,San Francisco 49ers,A,H,A,A,A,H,H,A,H,A
+2023,12,New York Jets,Miami Dolphins,A,H,A,A,A,A,A,H,A,A
+2023,12,Atlanta Falcons,New Orleans Saints,A,H,A,A,A,H,H,H,A,H
+2023,12,Tennessee Titans,Carolina Panthers,H,A,H,H,A,H,A,H,A,H
+2023,12,Cincinnati Bengals,Pittsburgh Steelers,A,H,H,H,H,H,H,A,A,A
+2023,12,Indianapolis Colts,Tampa Bay Buccaneers,H,A,A,H,A,A,H,A,A,H
+2023,12,Houston Texans,Jacksonville Jaguars,A,H,H,H,H,A,H,H,H,A
+2023,12,New York Giants,New England Patriots,H,A,A,A,A,H,H,H,H,H
+2023,12,Denver Broncos,Cleveland Browns,A,A,H,H,H,H,H,A,H,H
+2023,12,Arizona Cardinals,Los Angeles Rams,A,H,A,A,H,H,H,H,A,A
+2023,12,Las Vegas Raiders,Kansas City Chiefs,A,H,A,A,H,H,H,A,H,A
+2023,12,Philadelphia Eagles,Buffalo Bills,H,H,A,H,H,H,H,H,A,H
+2023,12,Los Angeles Chargers,Baltimore Ravens,A,A,H,A,H,H,H,H,A,A
+2023,12,Minnesota Vikings,Chicago Bears,H,H,H,H,H,A,A,A,H,A
+2023,13,Dallas Cowboys,Seattle Seahawks,H,A,H,H,A,A,A,H,H,H
+2023,13,New York Jets,Atlanta Falcons,A,H,A,A,H,A,H,H,H,A
+2023,13,Tennessee Titans,Indianapolis Colts,A,A,A,A,A,H,A,H,A,A
+2023,13,Houston Texans,Denver Broncos,H,H,H,H,H,H,A,H,H,H
+2023,13,New Orleans Saints,Detroit Lions,A,A,A,A,A,A,A,A,H,A
+2023,13,Washington Commanders,Miami Dolphins,A,H,A,A,A,H,H,A,A,A
+2023,13,New England Patriots,Los Angeles Chargers,A,A,A,A,H,A,A,A,A,A
+2023,13,Pittsburgh Steelers,Arizona Cardinals,H,A,H,A,A,H,A,H,H,A
+2023,13,Tampa Bay Buccaneers,Carolina Panthers,H,A,H,H,H,H,A,H,H,H
+2023,13,Los Angeles Rams,Cleveland Browns,A,A,H,H,H,H,H,A,A,H
+2023,13,Philadelphia Eagles,San Francisco 49ers,H,A,A,A,H,H,H,H,A,A
+2023,13,Green Bay Packers,Kansas City Chiefs,A,A,A,A,H,H,H,A,H,H
+2023,13,Jacksonville Jaguars,Cincinnati Bengals,H,A,H,H,H,H,A,A,A,A
+2023,14,Pittsburgh Steelers,New England Patriots,H,H,A,H,A,H,A,H,H,A
+2023,14,Atlanta Falcons,Tampa Bay Buccaneers,H,A,A,A,A,A,A,A,A,A
+2023,14,New Orleans Saints,Carolina Panthers,H,H,H,H,H,H,A,A,H,H
+2023,14,Chicago Bears,Detroit Lions,A,H,A,A,A,H,A,H,A,H
+2023,14,Cincinnati Bengals,Indianapolis Colts,A,H,H,A,A,H,A,H,H,H
+2023,14,Cleveland Browns,Jacksonville Jaguars,A,A,A,A,A,A,A,H,A,H
+2023,14,New York Jets,Houston Texans,A,A,A,A,A,A,A,H,A,H
+2023,14,Baltimore Ravens,Los Angeles Rams,H,H,A,H,A,A,A,H,H,H
+2023,14,Las Vegas Raiders,Minnesota Vikings,A,A,A,A,A,A,H,H,A,A
+2023,14,San Francisco 49ers,Seattle Seahawks,H,A,H,H,H,A,A,H,H,H
+2023,14,Kansas City Chiefs,Buffalo Bills,H,A,A,A,H,A,A,H,A,A
+2023,14,Los Angeles Chargers,Denver Broncos,A,H,H,A,A,H,A,H,A,A
+2023,14,Dallas Cowboys,Philadelphia Eagles,A,A,H,H,A,A,A,H,H,H
+2023,14,New York Giants,Green Bay Packers,A,H,A,A,A,H,H,A,H,H
+2023,14,Miami Dolphins,Tennessee Titans,H,H,H,H,H,A,H,A,A,A
+2023,15,Las Vegas Raiders,Los Angeles Chargers,H,A,A,A,H,A,A,A,H,H
+2023,15,Cincinnati Bengals,Minnesota Vikings,H,A,A,H,A,H,H,H,H,H
+2023,15,Indianapolis Colts,Pittsburgh Steelers,H,H,H,H,H,A,H,A,A,H
+2023,15,Detroit Lions,Denver Broncos,H,H,H,H,H,A,A,H,A,H
+2023,15,Carolina Panthers,Atlanta Falcons,A,A,A,A,H,A,H,A,H,H
+2023,15,Cleveland Browns,Chicago Bears,H,A,H,H,A,A,A,A,H,H
+2023,15,Green Bay Packers,Tampa Bay Buccaneers,H,A,H,H,A,A,H,A,A,A
+2023,15,Tennessee Titans,Houston Texans,A,H,A,A,A,A,H,H,A,A
+2023,15,New England Patriots,Kansas City Chiefs,A,H,A,A,H,H,H,A,H,A
+2023,15,Miami Dolphins,New York Jets,H,A,H,H,H,H,H,A,H,H
+2023,15,New Orleans Saints,New York Giants,H,A,H,H,A,A,A,H,A,H
+2023,15,Arizona Cardinals,San Francisco 49ers,A,A,A,A,A,A,H,H,A,A
+2023,15,Los Angeles Rams,Washington Commanders,H,A,H,H,A,A,A,A,A,H
+2023,15,Buffalo Bills,Dallas Cowboys,A,H,A,A,A,H,A,A,A,H
+2023,15,Jacksonville Jaguars,Baltimore Ravens,A,H,H,A,H,H,H,A,A,A
+2023,15,Seattle Seahawks,Philadelphia Eagles,A,H,H,A,A,A,A,A,H,H
+2023,16,Los Angeles Rams,New Orleans Saints,H,A,H,H,A,H,H,A,A,H
+2023,16,Pittsburgh Steelers,Cincinnati Bengals,A,A,A,A,A,A,A,H,A,H
+2023,16,Los Angeles Chargers,Buffalo Bills,A,H,A,A,H,H,H,H,H,A
+2023,16,Atlanta Falcons,Indianapolis Colts,A,H,A,A,A,A,A,H,A,H
+2023,16,Carolina Panthers,Green Bay Packers,A,A,A,A,A,A,H,H,A,A
+2023,16,Houston Texans,Cleveland Browns,A,H,H,A,H,H,H,A,H,A
+2023,16,Minnesota Vikings,Detroit Lions,A,H,H,A,H,A,A,A,H,A
+2023,16,New York Jets,Washington Commanders,H,A,A,A,H,A,A,H,H,H
+2023,16,Tennessee Titans,Seattle Seahawks,A,A,A,A,A,A,A,H,A,A
+2023,16,Tampa Bay Buccaneers,Jacksonville Jaguars,A,A,A,A,H,H,A,H,H,H
+2023,16,Chicago Bears,Arizona Cardinals,H,H,H,H,H,H,A,H,H,H
+2023,16,Miami Dolphins,Dallas Cowboys,H,H,H,H,H,H,H,A,A,H
+2023,16,Denver Broncos,New England Patriots,H,A,A,H,A,H,H,H,H,A
+2023,16,Kansas City Chiefs,Las Vegas Raiders,H,A,H,H,A,A,A,H,A,A
+2023,16,Philadelphia Eagles,New York Giants,H,H,H,H,H,H,A,H,A,H
+2023,16,San Francisco 49ers,Baltimore Ravens,H,A,H,H,H,H,H,A,H,A
+2023,17,Cleveland Browns,New York Jets,H,A,H,H,A,A,A,A,H,H
+2023,17,Dallas Cowboys,Detroit Lions,A,A,A,H,A,A,A,H,H,H
+2023,17,Chicago Bears,Atlanta Falcons,A,H,A,H,H,H,H,H,H,H
+2023,17,Buffalo Bills,New England Patriots,H,A,H,H,A,A,A,H,H,H
+2023,17,Jacksonville Jaguars,Carolina Panthers,H,H,H,H,H,H,A,A,A,H
+2023,17,Indianapolis Colts,Las Vegas Raiders,H,A,H,H,H,H,H,A,H,H
+2023,17,Philadelphia Eagles,Arizona Cardinals,H,A,H,H,A,H,A,H,H,A
+2023,17,Houston Texans,Tennessee Titans,H,H,H,H,H,H,A,A,H,H
+2023,17,Baltimore Ravens,Miami Dolphins,H,H,A,A,A,A,A,H,H,H
+2023,17,Tampa Bay Buccaneers,New Orleans Saints,H,A,A,A,H,H,H,H,A,A
+2023,17,New York Giants,Los Angeles Rams,A,A,A,A,H,A,H,A,H,A
+2023,17,Washington Commanders,San Francisco 49ers,A,H,A,A,A,H,H,A,A,A
+2023,17,Seattle Seahawks,Pittsburgh Steelers,H,H,H,H,H,A,H,A,H,A
+2023,17,Kansas City Chiefs,Cincinnati Bengals,H,A,H,H,A,A,A,H,A,H
+2023,17,Denver Broncos,Los Angeles Chargers,H,A,A,H,H,A,H,A,H,H
+2023,17,Minnesota Vikings,Green Bay Packers,H,H,H,A,A,H,A,A,A,A
+2023,18,Baltimore Ravens,Pittsburgh Steelers,H,H,H,H,A,A,A,A,H,A
+2023,18,Indianapolis Colts,Houston Texans,H,A,A,H,A,A,H,A,H,A
+2023,18,New Orleans Saints,Atlanta Falcons,H,A,H,H,H,H,A,A,H,H
+2023,18,Carolina Panthers,Tampa Bay Buccaneers,A,A,A,A,A,A,H,A,A,A
+2023,18,Cincinnati Bengals,Cleveland Browns,A,H,H,A,H,H,H,A,H,H
+2023,18,Detroit Lions,Minnesota Vikings,H,A,H,H,A,H,H,H,H,H
+2023,18,Tennessee Titans,Jacksonville Jaguars,A,A,A,A,H,A,A,H,H,H
+2023,18,New England Patriots,New York Jets,A,A,H,A,H,H,H,A,A,A
+2023,18,Green Bay Packers,Chicago Bears,H,A,H,H,A,A,A,A,A,H
+2023,18,Arizona Cardinals,Seattle Seahawks,A,A,A,A,H,A,H,H,A,A
+2023,18,Washington Commanders,Dallas Cowboys,A,H,A,A,H,H,H,A,A,A
+2023,18,Las Vegas Raiders,Denver Broncos,A,H,H,A,A,A,A,A,A,H
+2023,18,Los Angeles Chargers,Kansas City Chiefs,A,H,A,A,A,H,H,A,H,A
+2023,18,New York Giants,Philadelphia Eagles,A,A,A,A,H,A,A,A,H,H
+2023,18,San Francisco 49ers,Los Angeles Rams,H,H,H,H,H,A,A,H,H,A
+2023,18,Miami Dolphins,Buffalo Bills,H,H,H,H,H,H,H,H,H,A
+2024,1,Kansas City Chiefs,Baltimore Ravens,H,H,H,H,A,A,A,H,H,H
+2024,1,Philadelphia Eagles,Green Bay Packers,H,A,H,H,H,A,A,H,A,H
+2024,1,Atlanta Falcons,Pittsburgh Steelers,H,H,H,A,A,A,H,A,A,A
+2024,1,Buffalo Bills,Arizona Cardinals,H,H,H,H,A,A,A,A,H,H
+2024,1,New Orleans Saints,Carolina Panthers,H,A,H,H,H,A,A,H,H,H
+2024,1,Chicago Bears,Tennessee Titans,H,H,H,H,A,A,A,A,H,H
+2024,1,Cincinnati Bengals,New England Patriots,H,H,H,A,A,A,H,A,A,A
+2024,1,Indianapolis Colts,Houston Texans,H,A,A,A,H,H,H,H,A,A
+2024,1,Miami Dolphins,Jacksonville Jaguars,H,H,H,H,A,A,A,A,H,H
+2024,1,New York Giants,Minnesota Vikings,H,H,A,H,A,H,A,A,H,A
+2024,1,Seattle Seahawks,Denver Broncos,H,A,H,H,H,A,A,A,H,H
+2024,1,Los Angeles Chargers,Las Vegas Raiders,H,A,A,H,H,H,A,H,H,H
+2024,1,Cleveland Browns,Dallas Cowboys,H,H,A,A,A,H,H,A,A,A
+2024,1,Tampa Bay Buccaneers,Washington Commanders,H,A,H,H,H,A,A,H,H,H
+2024,1,Detroit Lions,Los Angeles Rams,H,A,A,H,H,H,A,H,H,H
+2024,1,San Francisco 49ers,New York Jets,H,A,H,H,H,A,A,H,H,H
+2024,2,Miami Dolphins,Buffalo Bills,H,A,H,A,A,A,H,A,A,A
+2024,2,Carolina Panthers,Los Angeles Chargers,A,H,A,H,A,H,A,H,A,A
+2024,2,Jacksonville Jaguars,Cleveland Browns,H,H,H,A,A,H,A,H,A,A
+2024,2,Green Bay Packers,Indianapolis Colts,H,H,A,H,A,H,A,A,H,H
+2024,2,Dallas Cowboys,New Orleans Saints,H,H,H,A,A,A,H,A,A,A
+2024,2,Detroit Lions,Tampa Bay Buccaneers,H,A,H,A,H,A,H,H,A,A
+2024,2,Minnesota Vikings,San Francisco 49ers,H,A,A,H,H,H,A,H,A,H
+2024,2,New England Patriots,Seattle Seahawks,H,A,A,A,H,H,A,A,H,A
+2024,2,Washington Commanders,New York Giants,H,H,H,H,A,H,H,H,H,H
+2024,2,Tennessee Titans,New York Jets,H,A,A,A,H,A,A,H,A,A
+2024,2,Baltimore Ravens,Las Vegas Raiders,H,A,H,H,H,H,H,A,H,A
+2024,2,Arizona Cardinals,Los Angeles Rams,H,A,A,H,H,A,A,H,H,H
+2024,2,Kansas City Chiefs,Cincinnati Bengals,H,A,H,H,A,H,H,H,A,H
+2024,2,Denver Broncos,Pittsburgh Steelers,A,H,H,A,A,A,A,A,A,A
+2024,2,Houston Texans,Chicago Bears,H,A,A,H,H,A,H,H,H,H
+2024,2,Philadelphia Eagles,Atlanta Falcons,H,H,H,H,A,H,H,H,H,A
+2024,3,New York Jets,New England Patriots,H,A,H,H,A,A,A,A,H,H
+2024,3,Indianapolis Colts,Chicago Bears,A,A,H,H,H,H,H,H,A,H
+2024,3,Cleveland Browns,New York Giants,H,H,A,A,A,H,H,A,H,A
+2024,3,Tampa Bay Buccaneers,Denver Broncos,H,A,A,H,H,H,H,H,H,A
+2024,3,Tennessee Titans,Green Bay Packers,A,A,A,A,H,A,H,H,A,A
+2024,3,Minnesota Vikings,Houston Texans,H,H,A,H,A,H,A,H,H,H
+2024,3,New Orleans Saints,Philadelphia Eagles,H,A,A,H,H,H,A,H,H,A
+2024,3,Pittsburgh Steelers,Los Angeles Chargers,H,A,H,A,A,A,H,H,H,H
+2024,3,Las Vegas Raiders,Carolina Panthers,H,A,H,H,H,H,A,A,A,A
+2024,3,Seattle Seahawks,Miami Dolphins,H,H,H,H,H,A,A,A,A,H
+2024,3,Arizona Cardinals,Detroit Lions,H,A,A,H,A,A,H,A,H,A
+2024,3,Dallas Cowboys,Baltimore Ravens,H,H,H,H,A,A,H,H,A,A
+2024,3,Los Angeles Rams,San Francisco 49ers,A,H,A,A,H,H,H,A,H,H
+2024,3,Atlanta Falcons,Kansas City Chiefs,A,A,A,A,H,A,A,A,H,A
+2024,3,Buffalo Bills,Jacksonville Jaguars,H,H,H,H,H,A,A,A,H,H
+2024,3,Cincinnati Bengals,Washington Commanders,A,H,H,A,H,A,A,A,A,A
+2024,4,New York Giants,Dallas Cowboys,H,H,A,A,A,A,A,A,A,A
+2024,4,Atlanta Falcons,New Orleans Saints,A,A,H,A,A,A,H,A,A,H
+2024,4,Carolina Panthers,Cincinnati Bengals,H,H,A,A,H,H,H,H,H,A
+2024,4,Chicago Bears,Los Angeles Rams,H,A,A,H,A,A,A,H,H,H
+2024,4,Indianapolis Colts,Pittsburgh Steelers,A,H,H,H,A,H,H,A,A,H
+2024,4,New York Jets,Denver Broncos,H,H,H,H,H,A,H,A,H,A
+2024,4,Green Bay Packers,Minnesota Vikings,A,H,H,A,A,A,H,A,H,A
+2024,4,Houston Texans,Jacksonville Jaguars,H,A,H,H,H,A,A,A,A,H
+2024,4,Tampa Bay Buccaneers,Philadelphia Eagles,H,H,H,H,H,A,A,H,H,H
+2024,4,Arizona Cardinals,Washington Commanders,A,A,A,A,H,A,H,H,A,A
+2024,4,San Francisco 49ers,New England Patriots,H,H,H,H,A,A,A,H,H,H
+2024,4,Las Vegas Raiders,Cleveland Browns,H,A,H,H,H,H,H,H,H,H
+2024,4,Los Angeles Chargers,Kansas City Chiefs,A,H,A,A,A,A,A,H,H,A
+2024,4,Baltimore Ravens,Buffalo Bills,A,H,H,A,H,H,H,A,A,H
+2024,4,Miami Dolphins,Tennessee Titans,H,H,H,A,A,H,H,A,H,A
+2024,4,Detroit Lions,Seattle Seahawks,A,H,A,H,H,H,A,H,H,H
+2024,5,Atlanta Falcons,Tampa Bay Buccaneers,A,H,H,A,H,A,H,A,A,H
+2024,5,Minnesota Vikings,New York Jets,H,A,H,H,H,H,A,H,H,H
+2024,5,Houston Texans,Buffalo Bills,H,A,H,A,A,A,H,A,A,H
+2024,5,Chicago Bears,Carolina Panthers,H,H,H,H,A,A,A,A,H,H
+2024,5,Cincinnati Bengals,Baltimore Ravens,A,H,H,A,A,A,H,A,A,A
+2024,5,Washington Commanders,Cleveland Browns,H,A,H,H,A,H,A,H,H,H
+2024,5,Jacksonville Jaguars,Indianapolis Colts,A,H,A,A,A,H,H,H,A,H
+2024,5,New England Patriots,Miami Dolphins,H,H,A,H,A,H,A,A,H,A
+2024,5,San Francisco 49ers,Arizona Cardinals,H,A,H,H,A,A,A,A,A,A
+2024,5,Denver Broncos,Las Vegas Raiders,H,A,A,H,A,A,A,A,H,H
+2024,5,Los Angeles Rams,Green Bay Packers,A,H,A,A,H,A,H,H,A,A
+2024,5,Seattle Seahawks,New York Giants,H,A,H,H,H,A,H,H,H,A
+2024,5,Pittsburgh Steelers,Dallas Cowboys,H,A,A,A,H,H,A,H,H,A
+2024,5,Kansas City Chiefs,New Orleans Saints,H,A,H,A,H,A,A,A,A,H
+2024,6,Seattle Seahawks,San Francisco 49ers,H,H,H,A,H,A,H,A,A,A
+2024,6,Chicago Bears,Jacksonville Jaguars,H,A,A,H,A,A,A,A,H,H
+2024,6,Philadelphia Eagles,Cleveland Browns,H,A,H,H,A,H,A,H,H,H
+2024,6,Tennessee Titans,Indianapolis Colts,A,H,A,A,A,A,A,H,A,A
+2024,6,Green Bay Packers,Arizona Cardinals,H,H,H,H,A,H,A,A,H,H
+2024,6,New England Patriots,Houston Texans,A,H,A,A,H,H,H,H,A,A
+2024,6,New Orleans Saints,Tampa Bay Buccaneers,A,A,A,A,H,H,H,H,H,A
+2024,6,Baltimore Ravens,Washington Commanders,A,H,H,A,H,H,H,A,A,H
+2024,6,Denver Broncos,Los Angeles Chargers,H,A,H,H,A,A,H,A,A,A
+2024,6,Las Vegas Raiders,Pittsburgh Steelers,A,H,H,A,A,A,H,A,A,A
+2024,6,Carolina Panthers,Atlanta Falcons,A,A,A,A,H,H,H,H,A,A
+2024,6,Dallas Cowboys,Detroit Lions,A,H,H,A,A,A,H,A,A,A
+2024,6,New York Giants,Cincinnati Bengals,H,H,A,A,A,A,A,H,A,A
+2024,6,New York Jets,Buffalo Bills,A,H,H,A,A,A,A,A,A,A
+2024,7,New Orleans Saints,Denver Broncos,A,A,H,H,H,H,H,H,H,A
+2024,7,Jacksonville Jaguars,New England Patriots,H,H,H,H,A,H,H,H,H,H
+2024,7,Minnesota Vikings,Detroit Lions,H,A,A,A,A,H,A,A,A,A
+2024,7,Atlanta Falcons,Seattle Seahawks,H,A,A,A,A,H,H,A,H,A
+2024,7,Buffalo Bills,Tennessee Titans,H,H,H,H,H,H,A,A,H,H
+2024,7,Cleveland Browns,Cincinnati Bengals,A,H,A,A,A,A,A,H,A,A
+2024,7,Indianapolis Colts,Miami Dolphins,H,A,H,H,H,H,A,H,H,H
+2024,7,Green Bay Packers,Houston Texans,A,H,H,H,H,H,A,A,H,H
+2024,7,New York Giants,Philadelphia Eagles,A,A,A,A,H,A,H,H,A,A
+2024,7,Washington Commanders,Carolina Panthers,H,H,H,H,A,A,A,A,H,H
+2024,7,Los Angeles Rams,Las Vegas Raiders,A,A,H,H,H,H,A,A,H,H
+2024,7,San Francisco 49ers,Kansas City Chiefs,A,H,H,H,A,A,H,A,H,A
+2024,7,Pittsburgh Steelers,New York Jets,H,A,A,H,H,H,A,H,H,H
+2024,7,Tampa Bay Buccaneers,Baltimore Ravens,H,A,A,A,A,A,H,H,H,A
+2024,7,Arizona Cardinals,Los Angeles Chargers,A,H,A,H,H,H,H,A,A,H
+2024,8,Los Angeles Rams,Minnesota Vikings,A,A,H,A,A,A,H,A,A,H
+2024,8,Detroit Lions,Tennessee Titans,H,H,H,H,A,H,A,H,H,H
+2024,8,Tampa Bay Buccaneers,Atlanta Falcons,H,H,H,H,A,H,H,H,A,A
+2024,8,Cincinnati Bengals,Philadelphia Eagles,A,H,H,A,H,H,H,A,H,A
+2024,8,Cleveland Browns,Baltimore Ravens,A,H,A,A,A,A,A,A,A,H
+2024,8,Houston Texans,Indianapolis Colts,H,A,H,H,A,A,H,A,H,H
+2024,8,Miami Dolphins,Arizona Cardinals,A,A,A,A,A,A,A,A,A,A
+2024,8,Jacksonville Jaguars,Green Bay Packers,A,A,A,A,A,H,H,H,A,A
+2024,8,New England Patriots,New York Jets,A,A,A,A,H,H,H,H,A,H
+2024,8,Seattle Seahawks,Buffalo Bills,A,H,H,A,H,H,H,A,A,A
+2024,8,Los Angeles Chargers,New Orleans Saints,H,H,A,A,A,A,A,A,H,H
+2024,8,Washington Commanders,Chicago Bears,H,H,H,H,H,A,H,H,A,H
+2024,8,Las Vegas Raiders,Kansas City Chiefs,A,H,A,A,A,A,H,H,A,A
+2024,8,Denver Broncos,Carolina Panthers,H,H,H,H,A,A,A,A,H,H
+2024,8,San Francisco 49ers,Dallas Cowboys,A,A,A,H,A,A,A,H,H,H
+2024,8,Pittsburgh Steelers,New York Giants,H,H,A,H,H,H,A,H,H,H
+2024,9,New York Jets,Houston Texans,A,H,A,A,H,A,A,A,A,H
+2024,9,Atlanta Falcons,Dallas Cowboys,H,A,A,H,A,H,A,A,A,H
+2024,9,Buffalo Bills,Miami Dolphins,H,A,H,H,H,H,A,H,H,H
+2024,9,Carolina Panthers,New Orleans Saints,A,A,A,A,H,A,H,A,A,H
+2024,9,Cincinnati Bengals,Las Vegas Raiders,H,H,H,H,H,H,A,A,H,H
+2024,9,Cleveland Browns,Los Angeles Chargers,A,H,A,A,H,H,H,A,A,A
+2024,9,Baltimore Ravens,Denver Broncos,H,H,H,H,H,H,H,A,H,H
+2024,9,Tennessee Titans,New England Patriots,A,H,H,H,A,A,H,H,A,H
+2024,9,New York Giants,Washington Commanders,A,A,A,A,H,H,H,A,A,A
+2024,9,Arizona Cardinals,Chicago Bears,A,H,H,H,H,H,H,H,A,H
+2024,9,Philadelphia Eagles,Jacksonville Jaguars,H,H,A,H,A,A,A,A,A,H
+2024,9,Green Bay Packers,Detroit Lions,A,H,H,A,H,A,H,A,H,A
+2024,9,Seattle Seahawks,Los Angeles Rams,H,A,H,H,H,A,H,H,A,A
+2024,9,Minnesota Vikings,Indianapolis Colts,H,A,H,H,H,H,A,H,H,H
+2024,9,Kansas City Chiefs,Tampa Bay Buccaneers,H,A,A,A,H,A,A,A,H,H
+2024,10,Baltimore Ravens,Cincinnati Bengals,H,A,H,H,H,H,A,H,H,H
+2024,10,Carolina Panthers,New York Giants,A,A,A,H,H,H,H,H,A,H
+2024,10,Chicago Bears,New England Patriots,H,A,H,H,H,A,A,A,H,A
+2024,10,Washington Commanders,Pittsburgh Steelers,H,H,H,H,A,A,H,A,A,A
+2024,10,Tampa Bay Buccaneers,San Francisco 49ers,A,A,A,H,H,H,H,H,A,A
+2024,10,New Orleans Saints,Atlanta Falcons,A,A,A,A,H,H,H,H,H,H
+2024,10,Indianapolis Colts,Buffalo Bills,A,H,A,A,H,H,H,H,A,A
+2024,10,Kansas City Chiefs,Denver Broncos,H,A,H,H,H,H,H,H,H,H
+2024,10,Jacksonville Jaguars,Minnesota Vikings,A,A,A,A,A,H,H,H,A,A
+2024,10,Los Angeles Chargers,Tennessee Titans,H,A,H,H,A,H,A,A,H,H
+2024,10,Dallas Cowboys,Philadelphia Eagles,A,H,H,A,H,H,H,H,A,A
+2024,10,Arizona Cardinals,New York Jets,H,A,A,H,A,H,H,H,H,H
+2024,10,Houston Texans,Detroit Lions,A,A,A,A,H,A,H,A,A,A
+2024,10,Los Angeles Rams,Miami Dolphins,H,H,H,H,H,H,H,A,H,A
+2024,11,Philadelphia Eagles,Washington Commanders,H,H,A,A,H,A,A,A,A,H
+2024,11,Chicago Bears,Green Bay Packers,A,A,A,A,H,A,A,H,H,A
+2024,11,New Orleans Saints,Cleveland Browns,H,A,H,H,H,H,A,H,H,H
+2024,11,Detroit Lions,Jacksonville Jaguars,H,H,H,H,H,A,A,H,H,H
+2024,11,Miami Dolphins,Las Vegas Raiders,H,A,A,A,A,A,A,A,H,H
+2024,11,Tennessee Titans,Minnesota Vikings,A,H,A,A,A,A,H,H,A,A
+2024,11,Pittsburgh Steelers,Baltimore Ravens,H,A,A,A,H,A,A,H,A,H
+2024,11,New York Jets,Indianapolis Colts,A,H,H,A,A,A,A,A,H,A
+2024,11,New England Patriots,Los Angeles Rams,A,A,A,A,H,A,A,H,A,A
+2024,11,San Francisco 49ers,Seattle Seahawks,H,A,A,H,A,A,A,H,H,A
+2024,11,Denver Broncos,Atlanta Falcons,A,A,A,A,H,A,A,H,H,H
+2024,11,Buffalo Bills,Kansas City Chiefs,A,H,A,H,A,A,H,A,H,H
+2024,11,Los Angeles Chargers,Cincinnati Bengals,H,A,A,A,A,A,A,H,H,H
+2024,11,Dallas Cowboys,Houston Texans,A,H,H,A,H,H,H,H,A,A
+2024,12,Cleveland Browns,Pittsburgh Steelers,A,H,H,A,A,A,H,A,A,H
+2024,12,Carolina Panthers,Kansas City Chiefs,A,A,A,A,A,H,H,H,H,A
+2024,12,Chicago Bears,Minnesota Vikings,A,A,A,A,A,A,H,A,H,A
+2024,12,Washington Commanders,Dallas Cowboys,H,A,A,H,A,A,A,H,H,A
+2024,12,Miami Dolphins,New England Patriots,H,H,H,H,A,A,A,H,A,H
+2024,12,New York Giants,Tampa Bay Buccaneers,A,A,A,A,H,A,A,A,A,A
+2024,12,Indianapolis Colts,Detroit Lions,A,A,A,A,A,H,H,A,A,A
+2024,12,Houston Texans,Tennessee Titans,H,A,H,H,H,H,A,A,H,A
+2024,12,Las Vegas Raiders,Denver Broncos,A,H,H,A,A,H,H,H,A,A
+2024,12,Seattle Seahawks,Arizona Cardinals,A,H,H,H,H,A,H,A,A,H
+2024,12,Green Bay Packers,San Francisco 49ers,H,H,A,H,H,H,A,A,H,H
+2024,12,Los Angeles Rams,Philadelphia Eagles,A,H,H,A,A,H,H,A,H,A
+2024,12,Los Angeles Chargers,Baltimore Ravens,H,A,A,A,A,A,A,H,H,A
