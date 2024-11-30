@@ -612,5 +612,23 @@ class MyPyTable:
         for row in range(len(self.data)):
             self.data[row].remove(self.data[row][column_index])
 
+    def find_columns(self, find_columns_list):
+        """Return a table with only columns in find_columns_list
 
-
+        Args:
+            find_column_list(list): key columns to add to the table
+            
+        Returns:
+           table_copy: only has columns from find_columns_list
+        """
+        table_copy = []
+        each_row = []
+        for x in self.data:
+            for y in find_columns_list:
+                #finds index of the columns in find_column_list
+                indexes = self.column_names.index(y)
+                each_row.append(x[indexes])
+            #adds each row to the copy with only the chosen columns
+            table_copy.append(each_row)
+            each_row = []
+        return table_copy

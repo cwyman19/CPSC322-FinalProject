@@ -1062,13 +1062,12 @@ def size_test_zero(test, labels, randomized_y, test_index, index_test, expected_
             expected_number[x] -= 1
             current_distribution[x] += 1
 
-def stratified_kfold_split(X, y, n_splits=5, random_state=None, shuffle=False):
+def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
     """Split dataset into stratified cross-validation folds.
 
     Args:
         X (list of list of obj): The list of instances (shape: n_samples, n_features)
         y (list of obj): The target y values (parallel to X) (shape: n_samples)
-        n_splits (int): Number of folds
         random_state (int): Seed for random number generator for reproducible results
         shuffle (bool): Randomize order of instances before creating folds
 
@@ -1087,8 +1086,7 @@ def stratified_kfold_split(X, y, n_splits=5, random_state=None, shuffle=False):
         randomize_in_place(folds, randomized_y)
     print(randomized_y)
     # Create bins for stratified splitting
-    bins = bin_sizes(n_splits, randomized_x)
-    print(bins)
+    
     index_test = []
     test = []
     expected_number = []
@@ -1139,40 +1137,99 @@ def stratified_kfold_split(X, y, n_splits=5, random_state=None, shuffle=False):
     index_test = []
     expected_number = []
     # Connect all test indices with their corresponding folds
-    print()
+    
     rows = connects_all_values(all_tests, folds)
-    # print(rows)
+    y_values = []
+    y_hold = []
+        
     for x in rows:
-        for y in x:
-            for z in range(len(y)):
-                y[z] = X[y[z]]
+        for n in x:
+            for z in range(len(n)):
+                n[z] = X[n[z]]
+                y_hold.append(y[z])
+            y_values.append(y_hold)
+            y_hold =[]
+
     remainder = rows[0][0]
     test_set = rows[0][1]
-    
-    return remainder, test_set
+
+    return remainder, test_set, y_values[0], y_values[1]
 
 def compute_random_subset(values, num_values):
     values_copy = values[:] # shallow copy
     np.random.shuffle(values_copy) # in place shuffle
     return values_copy[:num_values]
 
-def compute_bootstrapped_sample(table):
-    n = round(len(table) * 0.63 + 1)
+def compute_bootstrapped_sample(table, y):
+    n = len(table)
+    training_set = round(len(table) * 0.63 + 1)
     # np.random.randint(low, high) returns random integers from low (inclusive) to high (exclusive)
-    sampled_indexes = [np.random.randint(0, n) for _ in range(n)]
+    sampled_indexes = [np.random.randint(0, n) for _ in range(training_set)]
     sample = [table[index] for index in sampled_indexes]
-    out_of_bag_indexes = [index for index in list(range(n)) if index not in sampled_indexes]
+    y_samples = [y[index] for index in sampled_indexes]
+
+    out_of_bag_indexes = [index for index in range(n) if index not in sampled_indexes]
     out_of_bag_sample = [table[index] for index in out_of_bag_indexes]
-    print("sample", len(sample))
-    return sample, out_of_bag_sample
+    y_out_of_bag_sample = [y[index] for index in out_of_bag_indexes]
+    
+    return sample, out_of_bag_sample, y_samples, y_out_of_bag_sample
 
-def create_bootstrap_samples(table, n_samples = 1):
-    boot_strapped_samples = []
-    out_of_bag_samples = []
-    for _ in range(n_samples):
-        sample, out_of_bag_sample= compute_bootstrapped_sample(table)
-        out_of_bag_samples.append(out_of_bag_sample)
-        boot_strapped_samples.append(sample)
-    return out_of_bag_samples, boot_strapped_samples
+# def create_bootstrap_samples(table, y, ):
+#     boot_strapped_samples = []
+#     out_of_bag_samples = []
+#     y_samples = []
+#     y_out_of_bag_sample = []
+    
+#     sample, out_of_bag_sample, y_sample, y_bag = compute_bootstrapped_sample(table, y)
+#     out_of_bag_samples.append(out_of_bag_sample)
+#         boot_strapped_samples.append(sample)
+#         y_out_of_bag_sample.append(y_bag)
+#         y_samples.append(y_sample)
 
+#     return out_of_bag_samples, y_out_of_bag_sample, boot_strapped_samples, y_samples
 
+def random_subsets_attributes(table, column_values, length_attributes):
+    for x in range(length_attributes):
+        pass
+
+class MyRandomForestClassifier: 
+    def __init__(self):
+        """Initializer for MyDecisionTreeClassifier."""
+        self.X_train = None
+        self.y_train = None
+        self.forest = None
+    
+    def fit(self, X, y, n_samples = 10):
+        remainder, test_set, y_remainder, y_test = stratified_test_and_remainder(X, y, shuffle=True)
+        self.forest = []
+        for x in range(n_samples):
+            validation, y_validation, training_set, y_training = compute_bootstrapped_sample(remainder, y_remainder)
+            decision_tree = MyDecisionTreeClassifier()
+            decision_tree.fit(training_set, y_training)
+
+            self.forest.append(decision_tree)
+    def predict(self, X):
+        predictions = []
+        for x_value in X:
+            predict_values = []
+            for x in self.forest: 
+                predict_values.append(x.predict(x_value))
+            unique_labels = []
+            count = []
+            for y in predict_values:
+                if y not in unique_labels: 
+                    unique_labels.append(0)
+                    count.append(1)
+                else:
+                    index_value = unique_labels.index(y)
+                    count[index_value] = count[index_value] + 1
+            maximum_value = 0
+            current_prediction =[]
+            for max_value in range(len(count)):
+                if count[max_value] > maximum_value:
+                    maximum_value = count[max_value]
+                    current_prediction = unique_labels[max_value]
+                if count[max_value] == maximum_value:
+                    if current_prediction < unique_labels[max_value]:
+                        current_prediction = unique_labels[max_value]
+            predictions.append(current_prediction)
