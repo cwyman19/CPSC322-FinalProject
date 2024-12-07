@@ -1,5 +1,7 @@
 import math
 import numpy as np
+from mysklearn import myevaluation
+
 def compute_euclidean_distance(v1, v2):
     """returns all the euclidiean distance
 
@@ -671,8 +673,25 @@ def count_current_instances(instances, att_value, att_index):
             count = count + 1
     return count
 
+# def compute_random_subset(values, num_values, random_seed):
+#     np.random.randint
+#     values_copy = values[:] # shallow copy
+#     np.random.shuffle(values_copy) # in place shuffle
+#     return values_copy[:num_values]
+def compute_random_subset(values, num_values, random_seed):
+    # return values
+    print(values)
+    np.random.seed(random_seed)
+    random_int = num_values
+    # np.random.randint(1, num_values + 1)
+    values_copy = values[:] # shallow copy
 
-def tdidt(current_instances, available_attributes, attribute_domains, header, previous_size):
+    # if (random_int == 0):
+    #     random_int = 1
+    np.random.shuffle(values_copy) # in place shuffle
+    return values_copy[:random_int]
+
+def tdidt(current_instances, available_attributes, attribute_domains, header, previous_size, f=1, random_seed = None):
     """Recursive implementation of the TDIDT algorithm to build a decision tree.
 
     Args:
@@ -685,19 +704,22 @@ def tdidt(current_instances, available_attributes, attribute_domains, header, pr
     Returns:
         list: The constructed decision tree as a nested list.
     """
+    print("hello")
     # Select the best attribute to split on
-    split_attribute = select_attribute(current_instances, available_attributes, attribute_domains, header)
+    subset_attributes = compute_random_subset(available_attributes, 2, random_seed)
+    print("subset", subset_attributes)
+    print("domain", attribute_domains)
+    split_attribute = select_attribute(current_instances, subset_attributes, attribute_domains, header)
     compare_instances(current_instances)
     available_attributes.remove(split_attribute)  # can't split on this attribute again
     tree = ["Attribute", split_attribute]
-
+    print(attribute_domains)
     # Group data by attribute values
     partitions = partition_instances(current_instances, split_attribute, attribute_domains, header)
 
     for att_value in sorted(partitions.keys()):  # process in alphabetical order
         att_partition = partitions[att_value]
         value_subtree = ["Value", att_value]
-
         # Case 1: All class labels of the partition are the same -> make a leaf node
         if len(att_partition) > 0 and all_same_class(att_partition):
             column_name = header.index(split_attribute)
@@ -711,14 +733,16 @@ def tdidt(current_instances, available_attributes, attribute_domains, header, pr
             tree.append(value_subtree)
         # Case 3: No instances in the partition -> backtrack and make a majority vote leaf node
         elif len(att_partition) == 0:
+            print("case 3")
             majority_class, total_count = compare_instances(current_instances)
             tree = ["Leaf", majority_class, len(current_instances), previous_size]
+            return tree
         else:
             previous_size = len(current_instances)
             # Recursively build the subtree for this partition
             subtree = tdidt(att_partition, available_attributes.copy(), attribute_domains, header, previous_size)
             value_subtree.append(subtree)
-            tree.append(value_subtree)
+            tree.append(value_subtree)   
     return tree
 
 def tdidt_predict(tree, instance, header):
@@ -753,13 +777,14 @@ class MyDecisionTreeClassifier:
         Loosely based on sklearn's DecisionTreeClassifier.
     """
 
-    def __init__(self):
+    def __init__(self, random_seed = None):
         """Initializer for MyDecisionTreeClassifier."""
         self.X_train = None
         self.y_train = None
         self.tree = None
+        self.random_seed = random_seed
 
-    def fit(self, X_train, y_train):
+    def fit(self, X_train, y_train, f=1):
         """Fits a decision tree classifier to X_train and y_train.
 
         Args:
@@ -784,6 +809,7 @@ class MyDecisionTreeClassifier:
             unique = []
         train = [X_train[i] + [y_train[i]] for i in range(len(X_train))]
         available_attributes = header.copy()
+        print(attribute_domains)
 
         tree = tdidt(train, available_attributes, attribute_domains, header, 0)
         self.tree = tree
@@ -823,16 +849,6 @@ class MyDecisionTreeClassifier:
                 attribute_names.append(full)
         traverse_decision_tree(attribute_names, self.tree, class_name, sentence = "")
 
-    # BONUS method
-    def visualize_tree(self, dot_fname, pdf_fname, attribute_names=None):
-        """Visualizes a tree using Graphviz.
-
-        Args:
-            dot_fname(str): The name of the .dot output file.
-            pdf_fname(str): The name of the .pdf output file.
-            attribute_names(list of str): A list of attribute names.
-        """
-        print(dot_fname, attribute_names, pdf_fname)
 
 
 
@@ -1084,7 +1100,6 @@ def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
     if shuffle:
         # Randomize the order of folds if shuffle is True
         randomize_in_place(folds, randomized_y)
-    print(randomized_y)
     # Create bins for stratified splitting
     
     index_test = []
@@ -1093,10 +1108,7 @@ def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
     all_tests = []
     previous_distribution = []
     current_distribution = []
-    print(len(X))
     test_size = round((len(X) * 0.33) + 1)
-    print(test_size)  
-    print(len(test))
     previous_test_sizes = [] 
     # Calculate expected distribution of classes in each bin
     expected_number, current_distribution = distribution_values(distribution, test_size)
@@ -1104,7 +1116,6 @@ def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
     even_stratified_k_fold(test, folds, labels, index_test, randomized_y, expected_number, test_size)
     # Handle odd-sized bins to ensure balance
     if test_size % 2 != 0:
-            print(test_size)
             count = 0
             for _ in range(test_size):
                 valid = True
@@ -1155,14 +1166,11 @@ def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
 
     return remainder, test_set, y_values[0], y_values[1]
 
-def compute_random_subset(values, num_values):
-    values_copy = values[:] # shallow copy
-    np.random.shuffle(values_copy) # in place shuffle
-    return values_copy[:num_values]
 
 def compute_bootstrapped_sample(table, y):
     n = len(table)
     training_set = round(len(table) * 0.63 + 1)
+    
     # np.random.randint(low, high) returns random integers from low (inclusive) to high (exclusive)
     sampled_indexes = [np.random.randint(0, n) for _ in range(training_set)]
     sample = [table[index] for index in sampled_indexes]
@@ -1171,65 +1179,119 @@ def compute_bootstrapped_sample(table, y):
     out_of_bag_indexes = [index for index in range(n) if index not in sampled_indexes]
     out_of_bag_sample = [table[index] for index in out_of_bag_indexes]
     y_out_of_bag_sample = [y[index] for index in out_of_bag_indexes]
-    
     return sample, out_of_bag_sample, y_samples, y_out_of_bag_sample
 
-# def create_bootstrap_samples(table, y, ):
-#     boot_strapped_samples = []
-#     out_of_bag_samples = []
-#     y_samples = []
-#     y_out_of_bag_sample = []
-    
-#     sample, out_of_bag_sample, y_sample, y_bag = compute_bootstrapped_sample(table, y)
-#     out_of_bag_samples.append(out_of_bag_sample)
-#         boot_strapped_samples.append(sample)
-#         y_out_of_bag_sample.append(y_bag)
-#         y_samples.append(y_sample)
-
-#     return out_of_bag_samples, y_out_of_bag_sample, boot_strapped_samples, y_samples
-
-def random_subsets_attributes(table, column_values, length_attributes):
-    for x in range(length_attributes):
-        pass
-
+def random_subsets_attributes(table, attribute_length, num_attributes, y_training):
+    new_table = []
+    random_ints  = []
+    for x in range(num_attributes):
+        random_int = np.random.randint(0, attribute_length)
+        random_ints.append(random_int)
+    for x in table: 
+        intermediate = []
+        for random_values in random_ints: 
+            intermediate.append(x[random_values])
+        new_table.append(intermediate)
+    return new_table 
+ 
+def classifierAccuracy(prediction, actual_prediction):
+    total_count = 0
+    actual_count = 0
+    for x in range(len(prediction[0])):
+        if prediction[0][x] == actual_prediction[x]:
+            actual_count = actual_count + 1
+        total_count = total_count + 1
+    accuracy = actual_count/total_count
+    return accuracy
+def find_best_classifiers(decision_accuracy, forest, M_size):
+    best_classifiers = []
+    max_accuracy = decision_accuracy[0]
+    max_tree = forest[0]
+    max_index = 0
+    for x in range(M_size):
+        for y in range(len(forest)):
+            if (decision_accuracy[y] > max_accuracy):
+                max_accuracy = decision_accuracy[y]
+                max_tree = forest[y]
+                max_index = y
+        forest.pop(max_index)
+        decision_accuracy.pop(max_index)
+        best_classifiers.append(max_tree)
+        max_index = 0
+        max_accuracy = decision_accuracy[0]
+        max_tree = forest[0]
+    forest = best_classifiers
+    return best_classifiers
 class MyRandomForestClassifier: 
-    def __init__(self):
+    def __init__(self, random_seed = None ):
         """Initializer for MyDecisionTreeClassifier."""
         self.X_train = None
         self.y_train = None
         self.forest = None
+        self.random_seed = random_seed
+        self.performance = None
     
-    def fit(self, X, y, n_samples = 10):
+    def fit(self, X, y, n_samples = 10, f=2, M=1):
         remainder, test_set, y_remainder, y_test = stratified_test_and_remainder(X, y, shuffle=True)
         self.forest = []
+        decision_accuracy = []
+        unique_labels = []
+        for x in y:
+            if x not in unique_labels:
+                unique_labels.append(x)
         for x in range(n_samples):
-            validation, y_validation, training_set, y_training = compute_bootstrapped_sample(remainder, y_remainder)
-            decision_tree = MyDecisionTreeClassifier()
-            decision_tree.fit(training_set, y_training)
-
+            print("random forest")
+            print("  ")
+            training_set, validation, y_training, y_validation = compute_bootstrapped_sample(remainder, y_remainder)
+            decision_tree = MyDecisionTreeClassifier(random_seed=self.random_seed)
+            decision_tree.fit(training_set,y_training, f)
+            prediction = []
+            prediction.append(decision_tree.predict(validation))
+            count = 0
+            total_count = 0
+            for x in range(len(prediction[0])):
+                if prediction[0][x] == y_validation[x]:
+                    count = count + 1
+                total_count = total_count + 1            
+            decision_accuracy.append(myevaluation.accuracy_score(y_validation, prediction[0]))
             self.forest.append(decision_tree)
-    def predict(self, X):
+        print(decision_accuracy)
+        self.forest = find_best_classifiers(decision_accuracy, self.forest, M)
+        total_predictions = self.predict(test_set)
+        self.performance = myevaluation.accuracy_score(y_test, total_predictions)
+        count = 0
+        for x in total_predictions:
+            if x == 'A':
+                count = count + 1 
+            print(x)
+        print(count)
+        print(len(total_predictions))
+        print("peformance")
+        print(self.performance)
+    def predict(self, X_test):
         predictions = []
-        for x_value in X:
-            predict_values = []
-            for x in self.forest: 
-                predict_values.append(x.predict(x_value))
-            unique_labels = []
-            count = []
-            for y in predict_values:
-                if y not in unique_labels: 
-                    unique_labels.append(0)
+        m_size = len(self.forest)
+        for x in self.forest:
+           predictions.append(x.predict(X_test))
+        unique_label = []
+        count = []
+        max_prediction = ""
+        max_count = 0
+        total_predictions = []
+        
+        for x in range(len(predictions[0])):
+            for y in range(m_size):
+                if predictions[y][x] not in unique_label:
+                    unique_label.append(predictions[y][x])
                     count.append(1)
                 else:
-                    index_value = unique_labels.index(y)
+                    index_value = unique_label.index(predictions[y][x])
                     count[index_value] = count[index_value] + 1
-            maximum_value = 0
-            current_prediction =[]
-            for max_value in range(len(count)):
-                if count[max_value] > maximum_value:
-                    maximum_value = count[max_value]
-                    current_prediction = unique_labels[max_value]
-                if count[max_value] == maximum_value:
-                    if current_prediction < unique_labels[max_value]:
-                        current_prediction = unique_labels[max_value]
-            predictions.append(current_prediction)
+                    if count[index_value] > max_count:
+                        max_prediction = predictions[y][x]
+                        max_count = count[index_value]
+            total_predictions.append(max_prediction)
+            max_count = 0
+            unique_label = []
+            count = []
+        return total_predictions
