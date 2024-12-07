@@ -962,6 +962,143 @@ class MyDecisionTreeClassifier:
         """
         print(dot_fname, attribute_names, pdf_fname)
 
+class MyDecisionTreeClassifier: # Charlie's Version
+    """Represents a decision tree classifier.
+
+    Attributes:
+        X_train(list of list of obj): The list of training instances (samples).
+                The shape of X_train is (n_train_samples, n_features)
+        y_train(list of obj): The target y values (parallel to X_train).
+            The shape of y_train is n_samples
+        header(list of obj): list of strings representing each attribute in X_train
+        domain(dictionary): A dictionary of all corresponding values for each attribute
+        tree(nested list): The extracted tree model.
+        y_labels(list of obj): A list of each unique possible target y value
+
+    Notes:
+        Loosely based on sklearn's DecisionTreeClassifier:
+            https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+        Terminology: instance = sample = row and attribute = feature = column
+    """
+    def __init__(self):
+        """Initializer for MyDecisionTreeClassifier.
+        """
+        self.X_train = None
+        self.y_train = None
+        self.header = None
+        self.domain = None
+        self.tree = None
+        self.y_labels = None
+
+    def fit(self, X_train, y_train):
+        """Fits a decision tree classifier to X_train and y_train using the TDIDT
+        (top down induction of decision tree) algorithm.
+
+        Args:
+            X_train(list of list of obj): The list of training instances (samples).
+                The shape of X_train is (n_train_samples, n_features)
+            y_train(list of obj): The target y values (parallel to X_train)
+                The shape of y_train is n_train_samples
+
+        Notes:
+            Since TDIDT is an eager learning algorithm, this method builds a decision tree model
+                from the training data.
+            Build a decision tree using the nested list representation described in class.
+            On a majority vote tie, choose first attribute value based on attribute domain ordering.
+            Store the tree in the tree attribute.
+            Use attribute indexes to construct default attribute names (e.g. "att0", "att1", ...).
+        """
+
+        self.X_train = X_train
+        self.y_train = y_train
+        self.domain = {}
+        attribute_totals = {}
+        self.header = []
+        for i in range(len(self.X_train[0])): # building self.header and self.domain
+            attribute = f"att{i}"
+            self.header.append(attribute)
+            new_row = []
+            attribute_totals[attribute] = {}
+            for row in X_train:
+                if row[i] not in new_row:
+                    new_row.append(row[i])
+                    total = 0
+                    for instance in X_train:
+                        if row[i] in instance:
+                            total += 1
+                    attribute_totals[attribute][row[i]] = total
+            self.domain[attribute] = new_row
+
+        self.y_labels = []
+        for label in y_train:
+            if label not in self.y_labels:
+                self.y_labels.append(label)
+
+        train = [X_train[i] + [y_train[i]] for i in range(len(X_train))] # stitching together X_train and y_train
+        #print(train)
+        #print(self.header)
+        #print(self.domain)
+        #print("attribute totals: ", attribute_totals)
+        
+        # make a copy a header, b/c python is pass by object reference
+        # and tdidt will be removing attributes from available_attributes
+        available_attributes = self.header.copy()
+        used_attributes = []
+        used_instances = []
+
+        self.tree = myutils.tdidt(train, available_attributes, self.header, self.domain, self.y_labels, used_attributes, used_instances)
+        
+        pass
+        
+
+    def predict(self, X_test):
+        """Makes predictions for test instances in X_test.
+
+        Args:
+            X_test(list of list of obj): The list of testing samples
+                The shape of X_test is (n_test_samples, n_features)
+
+        Returns:
+            y_predicted(list of obj): The predicted target y values (parallel to X_test)
+        """
+        y_predicted = []
+        for instance in X_test:
+            y_predicted.append(myutils.tdidt_predict(self.tree, instance, self.header))
+        return y_predicted
+
+    def print_decision_rules(self, attribute_names=None, class_name="class"):
+        """Prints the decision rules from the tree in the format
+        "IF att == val AND ... THEN class = label", one rule on each line.
+
+        Args:
+            attribute_names(list of str or None): A list of attribute names to use in the decision rules
+                (None if a list is not provided and the default attribute names based on indexes
+                (e.g. "att0", "att1", ...) should be used).
+            class_name(str): A string to use for the class name in the decision rules
+                ("class" if a string is not provided and the default name "class" should be used).
+        """
+
+        values = list(self.domain.values())
+        combinations = myutils.generate_combinations(values)
+        #print(combinations)
+        if (attribute_names):
+            att_names = attribute_names
+        else: 
+            att_names = self.header.copy()
+        
+        for row in combinations:
+            new_rule = " "
+            for att_index in range(len(row)):
+                if att_index == 0:
+                    new_rule += f"IF {att_names[att_index]} == {row[att_index]} "
+                else:
+                    new_rule += f"AND {att_names[att_index]} == {row[att_index]} "
+            prediction = self.predict([row])
+            new_rule += f"THEN {class_name} == {prediction[0]}"
+            print(new_rule)
+
+        pass
+
 
 
 def compute_bootstrapped_sample(table):

@@ -2,8 +2,6 @@
 CPSC322 Final Project
 
 This file contains code used to preprocess data
-TODO: find a way for Las Vegas raiders to be compatible with Oakland Raiders (for 2018/2019)
-        And the same goes for the Washington Football Team/Commanders/Redskins
 '''
 
 import importlib
