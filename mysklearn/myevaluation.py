@@ -1,21 +1,5 @@
-"""
-Programmer: Jillian Berry
-Class: CptS 322-01, Fall 2024
-Programming Assignment #7
-11/19/24
-
-Description: This module implements various utility functions for machine learning, including:
-- train_test_split: Splits a dataset into training and testing sets.
-- kfold_split: Creates cross-validation folds for model evaluation.
-- stratified_kfold_split: Performs stratified cross-validation folds to maintain label proportions.
-- bootstrap_sample: Generates bootstrapped samples for model training and out-of-bag testing.
-- confusion_matrix: Computes a confusion matrix to evaluate classification accuracy.
-- accuracy_score: Calculates the classification prediction accuracy score.
-
-These functions are loosely based on the functionality provided by scikit-learn.
-"""
 import numpy as np
-#from mysklearn import myutils
+from mysklearn import myutils
 
 def randomize_in_place(alist, parallel_list=None, random_state=None):
     """Randomizes the order of elements in a list in place.
