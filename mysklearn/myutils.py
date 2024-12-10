@@ -6,6 +6,7 @@ This file contains various utility functions
 import numpy as np
 from tabulate import tabulate
 import math
+import matplotlib.pyplot as plt
 
 def get_frequency(list):
     '''Find frequencies of items in a list
@@ -836,7 +837,7 @@ def performCrossValidation(X_data, y_data, NFL_Bayes_Classifier, NFL_Knn_Classif
         NFL_Bayes_Classifier.fit(X_train, y_train)
         NFL_Knn_Classifier.fit(X_train, y_train, type="discrete")
         NFL_Tree_Classifier.fit(X_train, y_train)
-        NFL_Forest_Classifier.fit(X_train, y_train, 50, 5, 40)
+        NFL_Forest_Classifier.fit(X_train, y_train, 130, 5, 120)
 
         y_knn_pred = NFL_Knn_Classifier.predict(X_test)
         y_bayes_pred = NFL_Bayes_Classifier.predict(X_test)
@@ -938,3 +939,118 @@ def printing_stratified(testing):
     decision_tree = myclassifiers.MyDecisionTreeClassifier()
     decision_tree.fit(X_train, y_train)
     decision_tree.print_decision_rules(attribute_names=None, class_name="winner")
+
+
+def plotClassification(): 
+    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    y = data.get_column("Winner")
+    count = [0,0]
+    x = ["H", "A"]
+    for y_value in y:
+        index_value = x.index(y_value)
+        count[index_value] = count[index_value] + 1
+
+     
+    # setting figure size by using figure() function 
+    plt.figure(figsize = (10,5))
+     
+    # making the bar chart on the data
+    plt.bar(x, count)   
+     
+     
+    # giving title to the plot
+    plt.title("NFL Season Winner from 2018 - 2024")
+     
+    # giving X and Y labels
+    plt.xlabel("Away or Home Team")
+    plt.ylabel("Number of Wins")
+     
+    # visualizing the plot
+    plt.show()
+
+
+def plotClassification(): 
+    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    y = data.get_column("Winner")
+    count = [0,0]
+    x = ["H", "A"]
+    for y_value in y:
+        index_value = x.index(y_value)
+        count[index_value] = count[index_value] + 1
+
+     
+    # setting figure size by using figure() function 
+    plt.figure(figsize = (10,5))
+     
+    # making the bar chart on the data
+    plt.bar(x, count)   
+     
+     
+    # giving title to the plot
+    plt.title("NFL Season Winner from 2018 - 2024")
+     
+    # giving X and Y labels
+    plt.xlabel("Away or Home Team")
+    plt.ylabel("Number of Wins")
+     
+    # visualizing the plot
+    plt.show()
+
+
+def plotClassification(): 
+    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    y = data.get_column("Winner")
+    count = [0,0]
+    x = ["H", "A"]
+    for y_value in y:
+        index_value = x.index(y_value)
+        count[index_value] = count[index_value] + 1
+
+     
+    # setting figure size by using figure() function 
+    plt.figure(figsize = (10,5))
+     
+    # making the bar chart on the data
+    plt.bar(x, count)   
+     
+     
+    # giving title to the plot
+    plt.title("NFL Season Winner from 2018 - 2024")
+     
+    # giving X and Y labels
+    plt.xlabel("Away or Home Team")
+    plt.ylabel("Number of Wins")
+     
+    # visualizing the plot
+    plt.show()
+
+
+def plotComparison(): 
+    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    x = data.find_columns(["WinPercentage", "RushYards", "PassYards", "Scoring", "RushYardsAllowed", "PassYardsAllowed", "DefenseScoringAllowed", "KickingPercentage", "TurnoverMargin"])
+    x_column = ["WinPercentage", "RushYards", "PassYards", "Scoring", "RushYardsAllowed", "PassYardsAllowed", "DefenseScoringAllowed", "KickingPercentage", "TurnoverMargin"]
+    y = data.get_column("Winner")
+    count = []
+    
+    for _ in range(len(x[0])):
+        count.append(0)
+    for y_value in range(len(y)):
+        for x_value in range(len(x[0])):
+            if x[y_value][x_value] == y[y_value]:
+                count[x_value] = count[x_value] + 1
+    # setting figure size by using figure() function 
+    plt.figure(figsize = (10,5))
+     
+    # making the bar chart on the data
+    plt.bar(x_column, count)   
+     
+    plt.xticks(rotation=45)
+    # giving title to the plot
+    plt.title("Count of the Accuracy of Attributes for Predicting Wins of NFL Teams")
+     
+    # giving X and Y labels
+    plt.xlabel("Attributes Used For Classification of Wins of NFL Teams")
+    plt.ylabel("Number of Accurate Predictions")
+     
+    # visualizing the plot
+    plt.show()

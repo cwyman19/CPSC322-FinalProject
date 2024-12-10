@@ -1489,7 +1489,7 @@ def setTests(table, class_labels, test_instances):
     return train, test, y_train, y_test
 class MyRandomForestClassifier: 
     def __init__(self, random_seed = None ):
-        """Initializer for MyDecisionTreeClassifier."""
+        """ Intializer of the My"""
         self.X_train = None
         self.y_train = None
         self.forest = None
@@ -1520,8 +1520,10 @@ class MyRandomForestClassifier:
                 total_count = total_count + 1            
             decision_accuracy.append(myevaluation.accuracy_score(y_validation, prediction[0]))
             self.forest.append(decision_tree)
+        #Finds the best classifiers
         self.forest = find_best_classifiers(decision_accuracy, self.forest, M)
         total_predictions = self.predict(test_set)
+        #finds the total performance of the classifier
         self.performance = myevaluation.accuracy_score(y_test, total_predictions)
         count = 0
         for x in total_predictions:
