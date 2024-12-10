@@ -814,6 +814,80 @@ def print_confusion_matrix(confusion_matrix):
     labels1 = ["Winner", 'A', 'H', 'Total', 'Recognition (%)']
     print(tabulate(confusion_matrix, headers=labels1))
 
+def performCrossValidation(X_data, y_data, NFL_Bayes_Classifier, NFL_Knn_Classifier, NFL_Tree_Classifier, NFL_Forest_Classifier):
+    '''Performs Kfold Cross Validation on four classifiers
+    
+    Args:
+        X_data (2D list of objs): Full X dataset
+        y_data (list of obs): Full y dataset
+
+    '''
+    X_folds = myevaluation.kfold_split(X_data, 10)
+    y_folds = myevaluation.kfold_split(y_data, 10)
+
+    total_knn_accuracy, total_bayes_accuracy, total_tree_accuracy, total_forest_accuracy = 0, 0, 0, 0
+    knn_precision, bayes_precision, tree_precision, forest_precision = 0, 0, 0, 0
+    knn_recall, bayes_recall, tree_recall, forest_recall = 0, 0, 0, 0
+    knn_F1, bayes_F1, tree_F1, forest_F1 = 0, 0, 0, 0
+    knn_predictions, bayes_predictions, tree_predictions, forest_predictions = [], [], [], []
+
+    for i in range(len(X_folds)): # loop for kfold cross validation (through all three classifiers)
+        X_train, X_test, y_train, y_test = create_data(X_folds[i], y_folds[i], X_data, y_data)
+        NFL_Bayes_Classifier.fit(X_train, y_train)
+        NFL_Knn_Classifier.fit(X_train, y_train, type="discrete")
+        NFL_Tree_Classifier.fit(X_train, y_train)
+        NFL_Forest_Classifier.fit(X_train, y_train, 50, 5, 40)
+
+        y_knn_pred = NFL_Knn_Classifier.predict(X_test)
+        y_bayes_pred = NFL_Bayes_Classifier.predict(X_test)
+        y_tree_pred = NFL_Tree_Classifier.predict(X_test)
+        y_forest_pred = NFL_Forest_Classifier.predict(X_test)
+
+        # Accuracy Calculations
+        total_knn_accuracy += myevaluation.accuracy_score(y_knn_pred, y_test) / 10
+        total_bayes_accuracy += myevaluation.accuracy_score(y_bayes_pred, y_test) / 10
+        total_tree_accuracy += myevaluation.accuracy_score(y_tree_pred, y_test) / 10
+        total_forest_accuracy += myevaluation.accuracy_score(y_forest_pred, y_test) / 10
+
+        # Precision Calculations
+        knn_precision += myevaluation.binary_precision_score(y_knn_pred, y_test, pos_label="H") / 10
+        bayes_precision += myevaluation.binary_precision_score(y_bayes_pred, y_test, pos_label="H") / 10
+        tree_precision += myevaluation.binary_precision_score(y_tree_pred, y_test, pos_label="H") / 10
+        forest_precision += myevaluation.binary_precision_score(y_forest_pred, y_test, pos_label="H") / 10
+
+        # Recall Calculations 
+        knn_recall += myevaluation.binary_recall_score(y_knn_pred, y_test, pos_label="H") / 10
+        bayes_recall += myevaluation.binary_recall_score(y_bayes_pred, y_test, pos_label="H") / 10
+        tree_recall += myevaluation.binary_recall_score(y_tree_pred, y_test, pos_label="H") / 10
+        forest_recall += myevaluation.binary_recall_score(y_forest_pred, y_test, pos_label="H") / 10
+
+        # F1 Calculations
+        knn_F1 += myevaluation.binary_f1_score(y_knn_pred, y_test, pos_label="H") / 10
+        bayes_F1 += myevaluation.binary_f1_score(y_bayes_pred, y_test, pos_label="H") / 10
+        tree_F1 += myevaluation.binary_f1_score(y_tree_pred, y_test, pos_label="H") / 10
+        forest_F1 += myevaluation.binary_f1_score(y_forest_pred, y_test, pos_label="H") / 10
+        # Building Confusion Matrices
+        for prediction in y_knn_pred:
+            knn_predictions.append(prediction)
+        for prediction in y_bayes_pred:
+            bayes_predictions.append(prediction)
+        for prediction in y_tree_pred:
+            tree_predictions.append(prediction)
+        for prediction in y_forest_pred:
+            forest_predictions.append(prediction)
+    
+    return (total_knn_accuracy, total_bayes_accuracy, total_tree_accuracy, total_forest_accuracy, 
+    knn_precision, bayes_precision, tree_precision, forest_precision, knn_recall, bayes_recall, tree_recall, forest_recall, 
+    knn_F1, bayes_F1, tree_F1, forest_F1, knn_predictions, bayes_predictions, tree_predictions, forest_predictions)
+
+def print_performance_data(name, accuracy, precision, recall, F1, predictions, y_data):
+    print(f"------- {name} Classifier -------")
+    print("Accuracy: ", round(accuracy, 2), "| Error Rate: ", round(1 - accuracy, 2))
+    print("Precision : ", round(precision, 2), "| Recall: ", round(recall, 2), "| F1 measure: ", round(F1, 2))
+    print(f"{name} Confusion Matrix: ")
+    print_matrix(myevaluation.confusion_matrix(y_data, predictions, ["H", "A"]), ["H", "A"])
+    print()
+
 def print_all_values(testing):
     """Print all values out in X_train
 
