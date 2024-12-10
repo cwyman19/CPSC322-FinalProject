@@ -7,6 +7,8 @@ import numpy as np
 from tabulate import tabulate
 import math
 import matplotlib.pyplot as plt
+import mysklearn.mypytable
+from mysklearn.mypytable import MyPyTable 
 
 def get_frequency(list):
     '''Find frequencies of items in a list
@@ -417,6 +419,26 @@ def max_and_min(values):
             if max_value[column] < row[column]:
                 max_value[column] = row[column]
     return min_value, max_value
+
+def make_x_and_y_data():
+    my_dataset = MyPyTable().load_from_file("input_data/NFL_regseason_data_clean.csv")
+    X_data = []
+    for row in my_dataset.data: # Creating X_data
+        new_row = []
+        new_row.append(row[my_dataset.column_names.index('WinPercentage')])
+        new_row.append(row[my_dataset.column_names.index('RushYards')])
+        new_row.append(row[my_dataset.column_names.index('PassYards')])
+        new_row.append(row[my_dataset.column_names.index('Scoring')])
+        new_row.append(row[my_dataset.column_names.index('RushYardsAllowed')])
+        new_row.append(row[my_dataset.column_names.index('PassYardsAllowed')])
+        new_row.append(row[my_dataset.column_names.index('DefenseScoringAllowed')])
+        new_row.append(row[my_dataset.column_names.index('KickingPercentage')])
+        new_row.append(row[my_dataset.column_names.index('TurnoverMargin')])
+
+    X_data.append(new_row)
+
+    y_data = my_dataset.get_column('Winner') #Creating y_data
+    return X_data, y_data
 
 def get_specific_columns(full_table, column_list, table):
     """returns specific columns that was in the column_list 
@@ -837,7 +859,7 @@ def performCrossValidation(X_data, y_data, NFL_Bayes_Classifier, NFL_Knn_Classif
         NFL_Bayes_Classifier.fit(X_train, y_train)
         NFL_Knn_Classifier.fit(X_train, y_train, type="discrete")
         NFL_Tree_Classifier.fit(X_train, y_train)
-        NFL_Forest_Classifier.fit(X_train, y_train, 130, 5, 120)
+        NFL_Forest_Classifier.fit(X_train, y_train, 130, 5, 120) #N, F, M
 
         y_knn_pred = NFL_Knn_Classifier.predict(X_test)
         y_bayes_pred = NFL_Bayes_Classifier.predict(X_test)
@@ -881,10 +903,12 @@ def performCrossValidation(X_data, y_data, NFL_Bayes_Classifier, NFL_Knn_Classif
     knn_precision, bayes_precision, tree_precision, forest_precision, knn_recall, bayes_recall, tree_recall, forest_recall, 
     knn_F1, bayes_F1, tree_F1, forest_F1, knn_predictions, bayes_predictions, tree_predictions, forest_predictions)
 
-def print_performance_data(name, accuracy, precision, recall, F1, predictions, y_data):
+def print_performance_data(name, accuracy, precision, recall, F1, predictions, y_data, forest=False):
     print(f"------- {name} Classifier -------")
     print("Accuracy: ", round(accuracy, 2), "| Error Rate: ", round(1 - accuracy, 2))
     print("Precision : ", round(precision, 2), "| Recall: ", round(recall, 2), "| F1 measure: ", round(F1, 2))
+    if forest:
+        print("N: 130 |  F: 5 | M: 120")
     print(f"{name} Confusion Matrix: ")
     print_matrix(myevaluation.confusion_matrix(y_data, predictions, ["H", "A"]), ["H", "A"])
     print()
@@ -942,7 +966,7 @@ def printing_stratified(testing):
 
 
 def plotClassification(): 
-    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    data = mypytable.MyPyTable().load_from_file("input_data/NFL_regseason_data_clean.csv")
     y = data.get_column("Winner")
     count = [0,0]
     x = ["H", "A"]
@@ -956,63 +980,6 @@ def plotClassification():
      
     # making the bar chart on the data
     plt.bar(x, count)   
-     
-     
-    # giving title to the plot
-    plt.title("NFL Season Winner from 2018 - 2024")
-     
-    # giving X and Y labels
-    plt.xlabel("Away or Home Team")
-    plt.ylabel("Number of Wins")
-     
-    # visualizing the plot
-    plt.show()
-
-
-def plotClassification(): 
-    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
-    y = data.get_column("Winner")
-    count = [0,0]
-    x = ["H", "A"]
-    for y_value in y:
-        index_value = x.index(y_value)
-        count[index_value] = count[index_value] + 1
-
-     
-    # setting figure size by using figure() function 
-    plt.figure(figsize = (10,5))
-     
-    # making the bar chart on the data
-    plt.bar(x, count)   
-     
-     
-    # giving title to the plot
-    plt.title("NFL Season Winner from 2018 - 2024")
-     
-    # giving X and Y labels
-    plt.xlabel("Away or Home Team")
-    plt.ylabel("Number of Wins")
-     
-    # visualizing the plot
-    plt.show()
-
-
-def plotClassification(): 
-    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
-    y = data.get_column("Winner")
-    count = [0,0]
-    x = ["H", "A"]
-    for y_value in y:
-        index_value = x.index(y_value)
-        count[index_value] = count[index_value] + 1
-
-     
-    # setting figure size by using figure() function 
-    plt.figure(figsize = (10,5))
-     
-    # making the bar chart on the data
-    plt.bar(x, count)   
-     
      
     # giving title to the plot
     plt.title("NFL Season Winner from 2018 - 2024")
@@ -1026,7 +993,7 @@ def plotClassification():
 
 
 def plotComparison(): 
-    data = mypytable.MyPyTable().load_from_file("/root/CPSC322-FinalProject-1/input_data/NFL_regseason_data_clean.csv")
+    data = mypytable.MyPyTable().load_from_file("input_data/NFL_regseason_data_clean.csv")
     x = data.find_columns(["WinPercentage", "RushYards", "PassYards", "Scoring", "RushYardsAllowed", "PassYardsAllowed", "DefenseScoringAllowed", "KickingPercentage", "TurnoverMargin"])
     x_column = ["WinPercentage", "RushYards", "PassYards", "Scoring", "RushYardsAllowed", "PassYardsAllowed", "DefenseScoringAllowed", "KickingPercentage", "TurnoverMargin"]
     y = data.get_column("Winner")

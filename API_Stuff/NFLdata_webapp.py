@@ -43,8 +43,13 @@ def predict():
         return jsonify({"prediction": pred}), 200
     return "Error, could not make a prediction", 400
 
+def run_api():
+    app = Flask(__name__)
+    app.run(host="0.0.0.0", port=5001, debug=True)
 
+'''
 if __name__ == "__main__":
 
     app.run(host="0.0.0.0", port=5001, debug=True)
     # TODO: set debug to false before turning in project
+'''
