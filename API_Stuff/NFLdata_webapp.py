@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 def load_model():
     # unpickling
-    infile = open("tree.p", "rb")
+    infile = open("API_Stuff/tree.p", "rb")
     header, tree = pickle.load(infile)
     infile.close()
     return header, tree
