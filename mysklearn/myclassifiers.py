@@ -1375,34 +1375,34 @@ def stratified_test_and_remainder(X, y, random_state=None, shuffle=False):
     even_stratified_k_fold(test, folds, labels, index_test, randomized_y, expected_number, test_size)
     # Handle odd-sized bins to ensure balance
     if test_size % 2 != 0:
-            print(test_size)
-            count = 0
-            for _ in range(test_size):
-                valid = True
-                while valid:
-                    current_random_index = np.random.randint(len(X), size=1)
-                    if current_random_index not in previous_test_sizes:
-                        valid = False
-                        previous_test_sizes.append(current_random_index)
-                
-                count = count + 1
-                pass
-                if len(test) == 0:
-                    size_test_zero(test, labels, randomized_y, current_random_index[0], index_test, expected_number, current_distribution)
-                elif check_add_value(index_test, test_size, current_distribution, previous_distribution,
-                                             labels, randomized_y[current_random_index[0]]) and current_random_index not in test:
-                    x = get_labels(labels, randomized_y[current_random_index[0]])
-                    if expected_number[x] > 1:
-                        current_distribution[x] += 1
-                        test.append(current_random_index)
-                        index_test.append(current_random_index[0])
-                        expected_number[x] -= 1
-                    elif 0 < expected_number[x] <= 1 and len(index_test) < test_size:
-                        current_distribution[x] += 1
-                        test.append(current_random_index)
-                        index_test.append(current_random_index[0])
-                
-            previous_distribution = current_distribution
+        print(test_size)
+        count = 0
+        for _ in range(test_size):
+            valid = True
+            while valid:
+                current_random_index = np.random.randint(len(X), size=1)
+                if current_random_index not in previous_test_sizes:
+                    valid = False
+                    previous_test_sizes.append(current_random_index)
+            
+            count = count + 1
+            pass
+            if len(test) == 0:
+                size_test_zero(test, labels, randomized_y, current_random_index[0], index_test, expected_number, current_distribution)
+            elif check_add_value(index_test, test_size, current_distribution, previous_distribution,
+                                            labels, randomized_y[current_random_index[0]]) and current_random_index not in test:
+                x = get_labels(labels, randomized_y[current_random_index[0]])
+                if expected_number[x] > 1:
+                    current_distribution[x] += 1
+                    test.append(current_random_index)
+                    index_test.append(current_random_index[0])
+                    expected_number[x] -= 1
+                elif 0 < expected_number[x] <= 1 and len(index_test) < test_size:
+                    current_distribution[x] += 1
+                    test.append(current_random_index)
+                    index_test.append(current_random_index[0])
+            
+        previous_distribution = current_distribution
 
     all_tests.append(index_test)
     index_test = []
