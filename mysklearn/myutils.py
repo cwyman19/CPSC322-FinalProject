@@ -618,7 +618,7 @@ def cross_val_predict(X, y, k=10, stratify=False, randomization=False):
 
     # Initialize classifiers
     classifiers = {
-        "KNN": myclassifiers.MyKNeighborsClassifier(),
+        # "KNN": myclassifiers.MyKNeighborsClassifier(type="string"),
         "Dummy": myclassifiers.MyDummyClassifier(),
         "Naive Bayes": myclassifiers.MyNaiveBayesClassifier(),
         "Decision Tree": myclassifiers.MyDecisionTreeClassifier(),
