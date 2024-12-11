@@ -2,6 +2,7 @@ import pickle
 from flask import Flask, request, jsonify 
 
 app = Flask(__name__)
+# url = "http://127.0.0.1:5001/predict?WinPercentage=H&RushYards=H&PassYards=H&Scoring=H&RushYardsAllowed=H&PassYardsAllowed=H&DefenseScoringAllowed=H&KickingPercentage=H&TurnoverMargin=H"
 
 def load_model():
     # unpickling
@@ -43,13 +44,8 @@ def predict():
         return jsonify({"prediction": pred}), 200
     return "Error, could not make a prediction", 400
 
-def run_api():
-    app = Flask(__name__)
-    app.run(host="0.0.0.0", port=5001, debug=True)
 
-'''
 if __name__ == "__main__":
 
     app.run(host="0.0.0.0", port=5001, debug=True)
     # TODO: set debug to false before turning in project
-'''
